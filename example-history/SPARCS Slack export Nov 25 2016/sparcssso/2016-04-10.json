@@ -1,0 +1,106 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/54#issuecomment-207971355|#54: \ud1b5\uacc4 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "3\ubc88\uc740 \uc2dc\uac04\uc774 \ub9ce\uc774 \uac78\ub9ac\ubbc0\ub85c \uc2e4\uc2dc\uac04\uc774 \uc544\ub2cc \ud544\uc694\ud560 \ub54c\ub9c8\ub2e4 \ubcf4\uace0\uc11c\ub97c \uc0dd\uc131\ud558\ub294 \ubc29\uc2dd\uc73c\ub85c \ubcc0\uacbd\ud574\uc57c \ud568",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/54#issuecomment-207971355|#54: \ud1b5\uacc4 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1460289862.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/55#issuecomment-207971448|#55: \uc815\ubcf4 \ucd94\ucd9c \ub3c4\uad6c \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\ucd5c\ub300 \ud06c\uae30 5MB * 5\uac1c = 25MB\uc778\ub370 1\ucd08 \ub0b4\uc5d0 \uc644\ub8cc\ub420 \uac83\uc73c\ub85c \ucd94\uc815",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/55#issuecomment-207971448|#55: \uc815\ubcf4 \ucd94\ucd9c \ub3c4\uad6c \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1460289933.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#56 \uad00\ub9ac\uc790 \ub85c\uadf8\uc778\uc2dc \uba54\uc77c \uc804\uc1a1' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/56 by a1sams1a",
+                "text": "staff \uad8c\ud55c\uc774 \uc788\ub294 \uc0ac\uc6a9\uc790\uac00 \ub85c\uadf8\uc778\ud558\uba74 \ub85c\uadf8\uc778 \uc77c\uc2dc \ubc0f IP\ub97c sysop \uba54\uc77c\ub85c \uc804\uc1a1\ud558\ub294 \uae30\ub2a5 \ucd94\uac00",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#56 \uad00\ub9ac\uc790 \ub85c\uadf8\uc778\uc2dc \uba54\uc77c \uc804\uc1a1",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/56",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1460290007.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8bc2178c94b988ce1d2b14bdf65607346f46bdc0|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8bc2178c94b988ce1d2b14bdf65607346f46bdc0|8bc2178>`  add simple statistics code - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1460296248.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#57 Back to the OpenID' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/57 by a1sams1a",
+                "text": "API version 2\ubd80\ud130\ub294 OpenID \uaddc\uaca9\uc744 \uc900\uc218\ud558\ub3c4\ub85d \ubcc0\uacbd\n\ub2e4\ub9cc, scope\uc758 \uacbd\uc6b0 \uc0ac\uc6a9\ud558\uc9c0 \uc54a\uc74c",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#57 Back to the OpenID",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/57",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1460345777.000022"
+    }
+]

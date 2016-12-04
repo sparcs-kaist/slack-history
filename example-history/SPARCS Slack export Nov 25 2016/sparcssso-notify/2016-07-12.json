@@ -1,0 +1,12 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<!channel>: SERVICE UNAVAILABLE OR SERVICE UNSTABLE DUE TO RECONFIGURING APACHE2 SETTINGS FROM 2016-07-13T23:59:59+0900 TO 2016-07-14T00:20:00+0900",
+        "edited": {
+            "user": "U02PEJCVA",
+            "ts": "1468422561.000000"
+        },
+        "ts": "1468392475.000004"
+    }
+]

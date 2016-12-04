@@ -1,0 +1,24 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#64 logout implement' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/64 by jiggum",
+                "text": "samjo [10:30 PM] \n@hood: deploy logout api\n\n[10:31] \ndocumentation \uc77d\uace0 sparcssso repo\uc758 \/client\/sparcssso.py\uc5d0 \uc788\ub294\uac78 \ucc38\uace0\ud574\uc11c \uad6c\ud604\ud558\uba74 \ub420\ub4ef\ud569\ub2c8\ub2e4",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#64 logout implement",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/64",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463931675.000056"
+    }
+]

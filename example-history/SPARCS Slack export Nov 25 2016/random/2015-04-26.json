@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U04HUN944",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUN944|kyeome> has joined the channel",
+        "ts": "1430050162.000006"
+    },
+    {
+        "user": "U04HUN9CC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUN9CC|kanon> has joined the channel",
+        "ts": "1430050179.000007"
+    },
+    {
+        "user": "U04HUNH5L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUNH5L|mango> has joined the channel",
+        "ts": "1430050318.000008"
+    },
+    {
+        "user": "U04JG832D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04JG832D|jara> has joined the channel",
+        "ts": "1430050562.000009"
+    }
+]

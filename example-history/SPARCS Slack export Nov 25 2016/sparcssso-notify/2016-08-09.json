@@ -1,0 +1,21 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470726732.000002"
+    }
+]

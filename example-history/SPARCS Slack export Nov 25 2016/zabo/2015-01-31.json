@@ -1,0 +1,266 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc4f0\uc74d... IE\ub294 \uc774\uc058\uc9c0 \uc54a\uc740\uac70 \uac19\uc544",
+        "ts": "1422709077.000403"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "IE \uba87 \uc774\uc2e0\uac00\uc694",
+        "ts": "1422709280.000404"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0251JXSR|coffee> uploaded a file: <https:\/\/sparcs.slack.com\/files\/coffee\/F03GZA2B4\/pasted_image_at_2015_01_31_10_01_pm.png|Pasted image at 2015-01-31, 10:01 PM>",
+        "file": {
+            "id": "F03GZA2B4",
+            "created": 1422709295,
+            "timestamp": 1422709295,
+            "name": "Pasted image at 2015_01_31 10_01 PM.png",
+            "title": "Pasted image at 2015-01-31, 10:01 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U0251JXSR",
+            "editable": false,
+            "size": 457773,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F03GZA2B4\/pasted_image_at_2015_01_31_10_01_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F03GZA2B4\/download\/pasted_image_at_2015_01_31_10_01_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F03GZA2B4-2b76225ec6\/pasted_image_at_2015_01_31_10_01_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F03GZA2B4-2b76225ec6\/pasted_image_at_2015_01_31_10_01_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F03GZA2B4-2b76225ec6\/pasted_image_at_2015_01_31_10_01_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 303,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F03GZA2B4-2b76225ec6\/pasted_image_at_2015_01_31_10_01_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F03GZA2B4-2b76225ec6\/pasted_image_at_2015_01_31_10_01_pm_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 605,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F03GZA2B4-2b76225ec6\/pasted_image_at_2015_01_31_10_01_pm_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 861,
+            "image_exif_rotation": 1,
+            "original_w": 1218,
+            "original_h": 1024,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/coffee\/F03GZA2B4\/pasted_image_at_2015_01_31_10_01_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F03GZA2B4-b259121d0e",
+            "channels": [
+                "C026ZD3GT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0251JXSR",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0251JXSR|coffee>",
+        "bot_id": null,
+        "ts": "1422709300.000405"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc800\ub294 \uc9c0\uae08 \uc774\ub807\uac8c \ubcf4\uc5ec\uc694(IE 11)",
+        "ts": "1422709302.000406"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc800 \ucc38\uc5ec\uac00 \ud558\uc544...",
+        "ts": "1422709455.000407"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "woff\uac00 \ub85c\ub529 \ub418\uba74 \uc62c\ub77c\uac10",
+        "ts": "1422709460.000408"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc544 \u3147\u314e........",
+        "ts": "1422709464.000409"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\uac8c \ub9d8\uc5d0 \uc548\ub4e4\uc5b4\uc11c \uadf8\ub798",
+        "ts": "1422709467.000410"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ucc98\uc74c\uc5d0\ub294 \uc911\uc559\uc774\ub2e4\uac00, \ud3f0\ud2b8 \ub85c\ub529\uc774 \ub418\uba74 \ub4dc\ub4dd \uac70\ub9ac\uba74\uc11c \uc62c\ub77c\uac10",
+        "ts": "1422709481.000411"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ubb54\uac00 \ub2e4\ub978 \uc2dd\uc73c\ub85c \uc811\uadfc\ud574\uc57c\ud558\ub098...",
+        "ts": "1422709501.000412"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc73c\uc5b4\uc5b4\uc5b4.....",
+        "ts": "1422709662.000413"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "css\ub97c \uc5b4\ub5bb\uac8c \uc798 \uc8fc\uba74 \ud574\uacb0\ub420\ub4ef\ud55c\ub370",
+        "ts": "1422709673.000414"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc815\ub9d0 \uc5b4\ub5bb\uac8c \uc918\uc57c\ud560\uc9c0 \uc798 \ubaa8\ub974\uaca0....\ub124\uc694....\u3137\u3137",
+        "ts": "1422709681.000415"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud760.. \uadfc\ub370 \uc880 \uace0\uc9c8\uc801\uc778 \ubb38\uc81c\uc778\uac70 \uac19\uae30\ub3c4 \ud558\uace0 \uc798 \ubaa8\ub974\uaca0\uc74c",
+        "ts": "1422709906.000416"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc0dd\uac01\ubcf4\ub2e4 \uc6f9\ud3f0\ud2b8\ub97c \uc4f0\ub294 \uacbd\uc6b0\uac00 \ud754\uce58 \uc54a\uc740\ub4ef",
+        "ts": "1422709913.000417"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc548\ub418\uba74 \uc774\ubbf8\uc9c0\ub85c \ucc98\ub9ac\ub77c\ub3c4 \ud574\uc57c\ud558\ub098",
+        "ts": "1422709926.000418"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub108\ub294 \uc5b4\ub514 \uad6c\ud604 \uc911\uc784?",
+        "ts": "1422710042.000419"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc800 \uba54\uc778\ud398\uc774\uc9c0 \ud558\ub294 \uc911\uc778\ub370",
+        "ts": "1422710228.000420"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub2a6\uace0\uc788\uc5b4\uc694 \u315c\u315c\u315c\u315c",
+        "ts": "1422710247.000421"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub098\ub3c4 \ubb50 \uc800\uac70 \ud558\ub098 \ud558\ub294\ub370",
+        "ts": "1422710415.000422"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc9c0\uae08 \uc774\ub7ec\uace0 \uc788\ub294\uac78 \ubb50",
+        "ts": "1422710419.000423"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U0251JXSR> \uc6b0\uc120 \uc0c1\uc138 \ud398\uc774\uc9c0\ub294 \ub300\ucda9 \ub514\uc790\uc778 \ub2e4 \ub530\uc628\ub4ef?",
+        "ts": "1422715707.000424"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<http:\/\/143.248.234.137\/article\/8\/>",
+        "attachments": [
+            {
+                "service_name": "zabo.kaist",
+                "title": "Title for article",
+                "title_link": "http:\/\/143.248.234.137\/article\/8\/",
+                "text": "Description for article",
+                "fallback": "zabo.kaist: Title for article",
+                "image_url": "http:\/\/143.248.234.137\/media\/poster\/fermat_QL6BpFB.jpg",
+                "from_url": "http:\/\/143.248.234.137\/article\/8\/",
+                "image_width": 177,
+                "image_height": 250,
+                "image_bytes": 37234,
+                "id": 1
+            }
+        ],
+        "ts": "1422715709.000425"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ucc2c\uc6b1\uc774\ub791 \ub514\uc790\uc778 \uc774\uc57c\uae30\uc911.",
+        "ts": "1422716558.000427"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "90%\ub85c \uc870\uc808\ud558\uae30\ub85c \uacb0\uc815",
+        "ts": "1422716562.000428"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc624\ub298 \uc810\uc2ec\ucbd4\uc74c\uae4c\uc9c0 \ubcf4\ub0b4\uc8fc\uae30\ub85c \ud568",
+        "ts": "1422716577.000429"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U0251JXSR>:",
+        "ts": "1422716582.000430"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub135",
+        "ts": "1422716587.000431"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\uac70 \ub9de\ucdb0\uc11c \uc218\uc815\uc744 \ud574\uc57c\uaca0\uad70\uc694 \ud06c\ud761",
+        "ts": "1422716619.000432"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud558\ud558\ud573",
+        "ts": "1422716660.000433"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "id": 1,
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/384a4fe|1 new commit> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/384a4fe|384a4fe>: Update article view page. - Horknox",
+                "pretext": "[dejavo:develop] 1 new commit by Horknox:",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1422718618.000434"
+    }
+]

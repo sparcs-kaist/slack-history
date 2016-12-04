@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U02L44HTT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02L44HTT|coearth> has joined the channel",
+        "ts": "1451485098.000002"
+    },
+    {
+        "user": "U02L44HTT",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02L44HTT|coearth> has left the channel",
+        "ts": "1451485154.000003"
+    }
+]

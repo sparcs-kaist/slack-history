@@ -1,0 +1,222 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#10 account, article model \uc218\uc815",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/10",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/10|Issue created> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "text": "\uac8c\uc2dc\uae00\uc744 \ub4f1\ub85d\ud558\uae30 \uc704\ud55c article\uc758 model\uacfc\r\n\ub3d9\uc544\ub9ac\ub97c \uad6c\ubd84\ud558\uae30 \uc704\ud55c account\uc758 model\uc744 \uc218\uc815\ud55c\ub2e4\r\n",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405926305.000024"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "6CC644",
+                "pretext": "[sparcs-kaist\/zabo] Pull request submitted by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#11  #10 article model \uc218\uc815",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/11",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/11|Pull request submitted> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405931041.000025"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "6CC644",
+                "pretext": "[sparcs-kaist\/zabo] Pull request submitted by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#12  #10 account model\uc5d0 UserProfile \uc0dd\uc131",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/12",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/12|Pull request submitted> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405931059.000026"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#13 left side bar \uc0dd\uc131",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/13",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/13|Issue created> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "text": "html\uc5d0 left side bar\ub97c \uc0dd\uc131\ud55c\ub2e4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405933379.000027"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/12|#12  #10 account model\uc5d0 UserProfile \uc0dd\uc131> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/12|#12  #10 account model\uc5d0 UserProfile \uc0dd\uc131> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405972471.000028"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/account] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/8768432ce6e1...dae2458412ef|2 new commits>:",
+                "fallback": "[zabo:dev\/account] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/8768432ce6e1...dae2458412ef|2 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/65b63db818a2|65b63db818a2>:  #10 account model\uc5d0 UserProfile \uc0dd\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dae2458412ef|dae2458412ef>: Merge pull request #12 from mjy0503\/dev\/account - JaeEui Ma",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405972471.000029"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/0b7b0db332dd...b7e3b98b99ae|2 new commits>:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/0b7b0db332dd...b7e3b98b99ae|2 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/385227cf0fe0|385227cf0fe0>:  #10 article model \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b7e3b98b99ae|b7e3b98b99ae>: Merge pull request #11 from mjy0503\/dev\/board - JaeEui Ma",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405972476.000030"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/11|#11  #10 article model \uc218\uc815> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/11|#11  #10 article model \uc218\uc815> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405972476.000031"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "6CC644",
+                "pretext": "[sparcs-kaist\/zabo] Pull request submitted by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#14 Feat\/layout",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/14",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/14|Pull request submitted> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405977801.000032"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/b7e3b98b99ae...d2261c755b6e|4 new commits>:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/b7e3b98b99ae...d2261c755b6e|4 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/887d9ea9a057|887d9ea9a057>:  #13 layout html \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/5602648c7ec2|5602648c7ec2>:  #13 layout \uac04\ub2e8\ud55c css \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/2a1acfc63e3c|2a1acfc63e3c>:  #13 layout css \ucd94\uac00 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/d2261c755b6e|d2261c755b6e>: Merge pull request #14 from mjy0503\/feat\/layout - JaeEui Ma",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405978590.000033"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/14|#14 Feat\/layout> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/14|#14 Feat\/layout> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405978590.000034"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/8fd0cb0c0769...e946b7f1ad47|23 new commits>:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/8fd0cb0c0769...e946b7f1ad47|23 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b7da8647c2b1|b7da8647c2b1>: startapp board - Commit log\uc5d0 \ub098\uc62c \uc774\ub984\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/ecf159793096|ecf159793096>: account APP \uc0dd\uc131 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/543db737c30e|543db737c30e>: INSTALLED_APP account app \ucd94\uac00 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/fb9451ef29d2|fb9451ef29d2>:  #2 create board\/models.py - Commit log\uc5d0 \ub098\uc62c \uc774\ub984\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/2b7445e1138a|2b7445e1138a>: Merge branch 'develop' into dev\/board - Commit log\uc5d0 \ub098\uc62c \uc774\ub984\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8b3b2861fbd4|8b3b2861fbd4>: Merge branch 'feat\/board_model' into dev\/board - Commit log\uc5d0 \ub098\uc62c \uc774\ub984\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/64367e9ead79|64367e9ead79>:  #1 login urls.py \uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/a9b5dd7fb992|a9b5dd7fb992>:  #1 login view\uae30\ub2a5 \uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/98cd8da1c2bd|98cd8da1c2bd>:  #1 login front \uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9084d9078771|9084d9078771>:  #1 login view docstring \ucd94\uac00 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/67dffea06da3|67dffea06da3>: Merge branch 'develop' into dev\/account - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/89ee8cf64b20|89ee8cf64b20>: Merge branch 'feat\/login' into dev\/account - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/0b7b0db332dd|0b7b0db332dd>: Merge branch 'develop' into dev\/board - zoonoo\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8768432ce6e1|8768432ce6e1>:  #4 logout \uae30\ub2a5\uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/65b63db818a2|65b63db818a2>:  #10 account model\uc5d0 UserProfile \uc0dd\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/385227cf0fe0|385227cf0fe0>:  #10 article model \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dae2458412ef|dae2458412ef>: Merge pull request #12 from mjy0503\/dev\/account - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b7e3b98b99ae|b7e3b98b99ae>: Merge pull request #11 from mjy0503\/dev\/board - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/887d9ea9a057|887d9ea9a057>:  #13 layout html \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/5602648c7ec2|5602648c7ec2>:  #13 layout \uac04\ub2e8\ud55c css \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/2a1acfc63e3c|2a1acfc63e3c>:  #13 layout css \ucd94\uac00 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/d2261c755b6e|d2261c755b6e>: Merge pull request #14 from mjy0503\/feat\/layout - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e946b7f1ad47|e946b7f1ad47>: Merge branch 'dev\/board' into develop - chaos",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405979009.000035"
+    }
+]

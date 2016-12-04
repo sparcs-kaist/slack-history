@@ -1,0 +1,33 @@
+[
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1456843413.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "purpose": "\ucee4\ud53c \ud55c \uc794",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024U2P7Y|suckzo_o> set the channel purpose: \ucee4\ud53c \ud55c \uc794",
+        "ts": "1456843414.000003"
+    },
+    {
+        "user": "U02PEJCVA",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "ts": "1456843414.000004"
+    },
+    {
+        "user": "U02F86M4W",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F86M4W|chocho> has joined the channel",
+        "ts": "1456843476.000005"
+    }
+]

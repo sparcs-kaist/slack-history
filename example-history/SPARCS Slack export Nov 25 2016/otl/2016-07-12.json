@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<!channel>: <http:\/\/www.slideshare.net\/jungseobshin\/github-pull-request>\n\uc774\ub7f0 \uc2dd\uc73c\ub85c \uac1c\ubc1c\ud574\uc8fc\uc2dc\uba74 \ub429\ub2c8\ub2e4!",
+        "attachments": [
+            {
+                "title": "GitHub Pull Request \uac04\ub2e8 \uc0ac\uc6a9 \uc124\uba85\uc11c",
+                "title_link": "http:\/\/www.slideshare.net\/jungseobshin\/github-pull-request",
+                "text": "GitHub\uc758 \uac15\ub825\ud55c \uae30\ub2a5\uc778 Pull Request\uc5d0 \ub300\ud55c \uac04\ub2e8\ud55c \uc124\uba85\uc11c\uc785\ub2c8\ub2e4.",
+                "fallback": "GitHub Pull Request \uac04\ub2e8 \uc0ac\uc6a9 \uc124\uba85\uc11c",
+                "from_url": "http:\/\/www.slideshare.net\/jungseobshin\/github-pull-request",
+                "service_icon": "http:\/\/public.slidesharecdn.com\/b\/favicon.ico?d8e2a4ed15",
+                "service_name": "slideshare.net",
+                "id": 1
+            }
+        ],
+        "ts": "1468337147.000040"
+    }
+]

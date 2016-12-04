@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U0690Q7TR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0690Q7TR|ssaljalu> has joined the channel",
+        "ts": "1461305305.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "\uc774\ub7f0 \ucc44\ub110\uc774 \uc788\uc5c8\ub2e4\ub2c8",
+        "ts": "1461305313.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "\uc544\uc774 \uc570 \ucef4\ubc15\uc0ac",
+        "ts": "1461305322.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "<@U024SN0KW>:",
+        "ts": "1461305538.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U0690Q7TR>: \ud558\uc9c0\ub9cc",
+        "ts": "1461305692.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc774 \ucc44\ub110\uc740 \uc544\ubb34\ub7f0 \uc774\uc57c\uae30\ub3c4 \uc624\uac00\uc9c0 \uc54a\ub294\ub4ef",
+        "ts": "1461305701.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "\ud615\uc774 \uc598\uae30\ub97c \ud574\uc57c\uc8e0 \u314b\u314b\u314b",
+        "ts": "1461305862.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U0690Q7TR>:  \uadf8 \uadf8\ub807\uad70",
+        "ts": "1461306016.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud558\uc5ec\uac04\uc5d0 \uc774\ubc88\uc5d0",
+        "ts": "1461306019.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u314d\u314d\u3145\u3145 \ub77c\ub294 \uacf3\uc5d0 \uae00\uc744 \ud558\ub098 \uc37c\ub294\ub370",
+        "ts": "1461306024.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ubcc4 \ud30c\uae09\ub825\uc774 \uc788\uc744\ub77c\ub098...",
+        "ts": "1461306035.000012"
+    }
+]

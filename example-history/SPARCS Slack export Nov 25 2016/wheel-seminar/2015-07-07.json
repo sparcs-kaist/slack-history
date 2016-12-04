@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U024SPA5Q",
+        "text": "\uc544\ud558 \uac10\uc0ac\ud569\ub2c8\ub2e4 Redis\ubd80\ubd84\ub3c4 \ucd5c\ub300\ud55c \ucd94\uac00\ud560 \uc218 \uc788\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4!",
+        "ts": "1436253960.000080"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U024SPA5Q> \uc774\uac74 \ub3d9\uc544\ub9ac\uc5d0\uc11c \ub808\ub514\uc2a4\ub97c \uc4f4\ub2e4\uace0 \ud558\uba74 \uadf8\ub807\uac8c \ud574\uc8fc\uc2dc\uba76\ub418\uc5b4\uc694 \u314e\u314e \uc800\ub294 \uc81c\uac00 \uacbd\ud5d8\ud55c \ub3d9\uc544\ub9ac \ud504\ub85c\uc81d\ud2b8\uc911\uc5d0\uc11c \ub808\ub514\uc2a4\ub97c \uc4f0\ub294 \uac8c \uc788\uc5b4\uc11c \uadf8\ub807\uac8c \ub9d0\uc500\ub4dc\ub9b0\uac70 \u314b\u314c",
+        "ts": "1436265378.000081"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "<@U024SN0KW> \ubaa9\uc694\uc77c \uc138\ubbf8\ub098 \uc790\ub8cc \ub188 \ub2a6\uc5b4\uc9c8 \uac83 \uac19\uc2b5\ub2c8\ub2e4. \uc624\ub298 \uc138\ubbf8\ub098 \uc790\ub8cc\uc640 \ud568\uaed8 \uacc4\uc18d \ub9cc\ub4e4\uace0 \uc788\ub294\ub370 \uc2dc\uac04\uc774 \uc880 \ub9ce\uc774 \uac78\ub9ac\ub124\uc694 \u3160\u3160",
+        "ts": "1436268439.000082"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U02L44HTT> \ud654\uc774\ud305...",
+        "ts": "1436273537.000083"
+    },
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1436285332.000084"
+    },
+    {
+        "user": "U024SPDHG",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SPDHG|daybreaker> has joined the channel",
+        "ts": "1436331114.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud720\uc148",
+        "ts": "1436331145.000086"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud720\uc148",
+        "ts": "1436331152.000087"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc545",
+        "ts": "1436331155.000088"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud6e8\uc138\ubbf8\ub098 \uc2dc\uac04\uc774 \uc694\uc998 \uc5b8\uc81c\uc5b8\uc81c\uc778\uac00\uc694",
+        "ts": "1436331186.000089"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud720\uc148\u314b\u314b\u314b\u314b",
+        "ts": "1436332996.000090"
+    }
+]

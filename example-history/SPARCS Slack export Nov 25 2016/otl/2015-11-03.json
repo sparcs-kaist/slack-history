@@ -1,0 +1,177 @@
+[
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc88b\uc544\uc694!",
+        "ts": "1446568957.000052"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ub294",
+        "ts": "1446568969.000053"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "10\uc6d4 30\uc77c \uac70\uc600\ub124",
+        "ts": "1446568971.000054"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc624\ub298\uac74 \ub610 \ub2e4\ub978\uac70\uc57c...",
+        "ts": "1446569244.000055"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/develop|develop> was branched from \"master\" and pushed by taehyun9",
+                "text": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/develop|develop> was branched from \"master\" and pushed by taehyun9",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446571138.000056"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:develop] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/3b6a561db81155a9d0449ff4536ab7eac51603cf|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/3b6a561db81155a9d0449ff4536ab7eac51603cf|3b6a561>: app \ubcc4 \ubaa8\ub378 \uc791\uc131 - TaeHyun",
+                "pretext": "[otlplus:develop] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446576736.000057"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|review> was branched from \"develop\" and pushed by taehyun9",
+                "text": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|review> was branched from \"develop\" and pushed by taehyun9",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446576807.000058"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/subject|subject> was branched from \"develop\" and pushed by taehyun9",
+                "text": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/subject|subject> was branched from \"develop\" and pushed by taehyun9",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446576818.000059"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/session|session> was branched from \"develop\" and pushed by taehyun9",
+                "text": "[otlplus] <https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/session|session> was branched from \"develop\" and pushed by taehyun9",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446576825.000060"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/3b6a561db811...58fc49fce42b|3 new commits> by Kang-in Raon Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/ead99bd510a6a27e212c248cbb554666a2acd64c|ead99bd>: review branch static \ud30c\uc77c\ub4e4 - Kang-in Raon Kim\n <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c5182d78c1c2fd29e81a1d9c192574ed0e9687ac|c5182d7>: review branch views &amp; related urls - Kang-in Raon Kim\n <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/58fc49fce42be3ad77255c573c1381da9ca64bf7|58fc49f>: review branch templates - Kang-in Raon Kim",
+                "pretext": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/3b6a561db811...58fc49fce42b|3 new commits> by Kang-in Raon Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446577430.000061"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus] Branch \"review\" was force-pushed to <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d8d2bf291025418fb3a23338bcfb468a17cefd46|d8d2bf2> by talkwithraon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/58fc49fce42b...d8d2bf291025|Compare changes>",
+                "text": "[otlplus] Branch \"review\" was force-pushed to <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d8d2bf291025418fb3a23338bcfb468a17cefd46|d8d2bf2> by talkwithraon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/58fc49fce42b...d8d2bf291025|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446578184.000062"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d8d2bf291025418fb3a23338bcfb468a17cefd46|1 new commit> by Kang-in Raon Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d8d2bf291025418fb3a23338bcfb468a17cefd46|d8d2bf2>: review branch templates - Kang-in Raon Kim",
+                "pretext": "[otlplus:review] 1 new commit by Kang-in Raon Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446578184.000063"
+    }
+]

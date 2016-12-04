@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "deep!",
+        "ts": "1412320285.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "dark!",
+        "ts": "1412320286.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "fantasy!",
+        "ts": "1412320290.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc5b4\ub460\uc774\uc5ec!",
+        "ts": "1412320869.000005"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ubb3c\ub7ec\uac00\ub77c!",
+        "ts": "1412329908.000006"
+    },
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1412384371.000002"
+    }
+]

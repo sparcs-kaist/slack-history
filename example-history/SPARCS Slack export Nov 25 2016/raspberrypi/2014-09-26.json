@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U02LFV5KU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02LFV5KU|kamkyu> has joined the channel",
+        "ts": "1411777208.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ4KZ",
+        "text": "\ub135 :)",
+        "ts": "1411801170.000002"
+    }
+]

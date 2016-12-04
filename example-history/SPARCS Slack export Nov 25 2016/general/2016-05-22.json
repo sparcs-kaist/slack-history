@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc885\uc6b1\uc774 \uad50\ub0b4 \ub9dd2\ub9ac\uadf8\ub098\uac10?",
+        "ts": "1463938856.002629"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub9ac\uace0 \uc6b0\uc2b9\ud568?",
+        "ts": "1463938860.002630"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "4:0\uc73c\ub85c?",
+        "ts": "1463938862.002631"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "Java 8 in Action \ubcf4\ub2e4 \uc7ac\ubbf8\uc788\ub294",
+        "ts": "1463966629.002632"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "<http:\/\/eniacinaction.com\/>",
+        "ts": "1463966658.002633"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "ENIAC in Action!",
+        "ts": "1463966680.002634"
+    },
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "\/giphy kaist",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/video-automobile-12p1Q9vkq736lW>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/12p1Q9vkq736lW\/giphy.gif",
+                "image_width": 500,
+                "image_height": 305,
+                "image_bytes": 1011261,
+                "is_animated": true,
+                "title": "kaist",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/video-automobile-12p1Q9vkq736lW"
+            }
+        ],
+        "ts": "1463976160.002635"
+    },
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "\/giphy ara",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/jiyeon-t-ara-tara-g1B3oA2kYNoic>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/g1B3oA2kYNoic\/giphy.gif",
+                "image_width": 500,
+                "image_height": 200,
+                "image_bytes": 969191,
+                "is_animated": true,
+                "title": "ara",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/jiyeon-t-ara-tara-g1B3oA2kYNoic"
+            }
+        ],
+        "ts": "1463976199.002636"
+    },
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "\/giphy otl",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/hannibal-lecter-hugh-dancy-8Isa5UIpqJRNS>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/8Isa5UIpqJRNS\/giphy.gif",
+                "image_width": 245,
+                "image_height": 261,
+                "image_bytes": 344369,
+                "is_animated": true,
+                "title": "otl",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/hannibal-lecter-hugh-dancy-8Isa5UIpqJRNS"
+            }
+        ],
+        "ts": "1463976213.002637"
+    }
+]

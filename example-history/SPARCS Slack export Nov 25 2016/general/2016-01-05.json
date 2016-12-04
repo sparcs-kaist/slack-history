@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "<@U0GRXSW8J>: \uc0dd\uc77c\ucd95\ud558\ub4dc\ub9bd\ub2c8\ub2e4 \u314e\u314e",
+        "ts": "1451991808.001089",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0GRXSW8J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uace0\ub9c8\uc6cc \u314b\u314b",
+        "ts": "1452002678.001090"
+    },
+    {
+        "type": "message",
+        "user": "U02CJ9UCL",
+        "text": "<https:\/\/github.com\/yaasita\/slack.vim> \uc774\ub7f0\uac83\ub3c4 \uc788\uad70\uc694",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "yaasita\/slack.vim",
+                "title_link": "https:\/\/github.com\/yaasita\/slack.vim",
+                "text": "slack.vim - slack\u3092vim\u3067\u7de8\u96c6\u3059\u308b\u3088\u3046\u306b\u30dd\u30b9\u30c8\u3059\u308b\u3084\u3064",
+                "fallback": "GitHub: yaasita\/slack.vim",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/1515338?v=3&s=400",
+                "from_url": "https:\/\/github.com\/yaasita\/slack.vim",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1452042798.001091"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ube54\uc2ac\ub7b0\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1452049094.001093"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc800\ub7ec\uba74 \uc774\ubbf8\uc9c0\ub098 reaction\uac19\uc740\uac74 \uc5b4\uc9f8\ub0a0\ub77c\uc628\ub300\uc694?",
+        "ts": "1452049110.001094"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc11d\uc8fc\uc5c9\ub369\uc774",
+        "ts": "1452063386.001095"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub135.",
+        "ts": "1452064257.001096"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub7f0\uac78\ub85c.",
+        "ts": "1452064258.001097"
+    }
+]

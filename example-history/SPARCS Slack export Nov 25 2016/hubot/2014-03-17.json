@@ -1,0 +1,266 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "please help",
+        "ts": "1395070185.000002"
+    },
+    {
+        "text": "(show ranking|ranking) - show top players\n&lt;receiver&gt;: +1 for &lt;reason&gt; - give +1 to &lt;receiver&gt; (full name) because he did &lt;reason&gt;\nEvents:\ndebug - {user: &lt;user object to send message to&gt;}\nplease 9gag me - Returns a random meme image\nplease &lt;user&gt; doesn't have &lt;role&gt; role - Removes a role from a user\nplease &lt;user&gt; has &lt;role&gt; role - Assigns a role to a user\nplease &lt;user&gt; is a badass guitarist - assign a role to a user\nplease &lt;user&gt; is not a badass guitarist - remove a role from a user\nplease I need some advice\nplease animate me &lt;query&gt; - The same thing as `image me`, except adds a few parameters to try to return an animated GIF instead.\nplease bb &lt;number&gt; - \uc815\ub2f5 \ucd94\uce21\nplease bb start - \uc22b\uc790 \uc57c\uad6c \uac8c\uc784 \uc2dc\uc791\nplease chess me - Creates a new game between yourself and another person in the room\nplease chess move &lt;to&gt; - Moves a piece to the coordinate position using standard chess notation\nplease chess status - Gets the current state of the board\nplease cowsay &lt;statement&gt; - Returns a cow that says what you want\nplease daily deal - &lt;It will show you Steam's daily deal&gt;\nplease die - End please process\nplease echo &lt;text&gt; - Reply back with &lt;text&gt;\nplease fake event &lt;event&gt; - Triggers the &lt;event&gt; event for debugging reasons\nplease fortune me - Displays a super true fortune\nplease hangman &lt;character&gt; - guess answer\nplease hangman &lt;word&gt; - guess answer\nplease hangman start - start hangman game\nplease help - Displays all of the help commands that please knows about.\nplease help &lt;query&gt; - Displays all help commands that match &lt;query&gt;.\nplease how do you handle (.*)\nplease image me &lt;query&gt; - The Original. Queries Google Images for &lt;query&gt; and returns a random top result.\nplease map me &lt;query&gt; - Returns a map view of the area returned by `query`.\nplease mustache me &lt;query&gt; - Searches Google Images for the specified query and mustaches it.\nplease mustache me &lt;url&gt; - Adds a mustache to the specified URL.\nplease ping - Reply with pong\nplease pug bomb N - get N pugs\nplease pug me - Receive a pug\nplease quiz - start movie quiz\nplease quiz &lt;answer&gt; - guess the answer\nplease quiz &lt;answer&gt; - test which answer is correct or not\nplease quiz hint - get hint\nplease quiz hint - get hint\nplease quiz pass - pass the quiz\nplease quiz remind - remind quiz\nplease quiz start - start movie quiz\nplease quiz update &lt;from&gt; - update newest quiz (\ub9e4\uc6b0 \ubb34\uac70\uc6c0! from\uc740 YYYY-MM-dd \ud615\uc2dd\uc73c\ub85c)\nplease quiz update &lt;from&gt;[ &lt;to&gt;]- update newest quiz (\ub9e4\uc6b0 \ubb34\uac70\uc6c0! \ub0a0\uc9dc\ub294 YYYY-MM-dd \ud615\uc2dd\uc73c\ub85c)\nplease show storage - Display the contents that are persisted in the brain\nplease show users - Display all users that please knows about\nplease the rules - Make sure please still knows the rules.\nplease time - Reply with current time\nplease translate me &lt;phrase&gt; - Searches for a translation for the &lt;phrase&gt; and then prints that bad boy out.\nplease translate me from &lt;source&gt; into &lt;target&gt; &lt;phrase&gt; - Translates &lt;phrase&gt; from &lt;source&gt; into &lt;target&gt;. Both &lt;source&gt; and &lt;target&gt; are optional\nplease url encode|decode &lt;query&gt; - URL encode or decode &lt;string&gt;\nplease url form encode|decode &lt;query&gt; - URL form-data encode or decode &lt;string&gt;\nplease what do you think about (.*)\nplease what role does &lt;user&gt; have - Find out what roles are assigned to a specific user\nplease what should I do about (.*)\nplease who has admin role - Find out who's an admin and can assign roles\nplease who is &lt;user&gt; - see what roles a user has\nplease wiki me &lt;query&gt; - Searches for &lt;query&gt; on Wikipedia.\nplease youtube me &lt;query&gt; - Searches YouTube for the query and returns the video embed link.\nplease youtube me &lt;query&gt; - Searches YouTube for the query and returns the video embed link.\nship it - Display a motivation squirrel\nwho thanks me - show how many people thank me and why",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395070185.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "please I need some advice",
+        "ts": "1395070202.000004"
+    },
+    {
+        "text": "Some people would be better off if they took their own advice.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395070204.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please I need some advice",
+        "ts": "1395079839.000006"
+    },
+    {
+        "text": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395079844.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman start",
+        "ts": "1395121613.000008"
+    },
+    {
+        "text": "\uff3f\uff3f\uff3f\uff3f\uff3f\n\uc9c0\uac11, \ud578\ub4dc\ubc31,  \uac00\ubc29, \uc624\ubbc0\ub9ac\ub2e4",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121613.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman s",
+        "ts": "1395121621.000010"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 s\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3f\uff3f\uff3fs\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121621.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman p",
+        "ts": "1395121629.000012"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 p\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\np\uff3f\uff3fs\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121629.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman u",
+        "ts": "1395121639.000014"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 u\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\npu\uff3fs\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121639.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman purse",
+        "ts": "1395121656.000016"
+    },
+    {
+        "text": "coffee\ub2d8 \ucd95\ud558\ud569\ub2c8\ub2e4. \uc815\ub2f5\uc744 \ub9de\ucd94\uc168\uc2b5\ub2c8\ub2e4!\n\uc9c0\uac11, \ud578\ub4dc\ubc31,  \uac00\ubc29, \uc624\ubbc0\ub9ac\ub2e4",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121656.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman start",
+        "ts": "1395121670.000018"
+    },
+    {
+        "text": "\uff3f\uff3f\uff3f\uff3f\uff3f\n\ud5d0\ub72f\ub294, \uac00\uc9dc\uc758, \ubd80\uc815\uc9c1\ud55c",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121670.000019"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman e",
+        "ts": "1395121682.000020"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 e\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3f\uff3f\uff3f\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121682.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman a",
+        "ts": "1395121687.000022"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 a\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 7\ubc88)\n\uff3f\uff3f\uff3f\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121687.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman k",
+        "ts": "1395121699.000024"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 k\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 6\ubc88)\n\uff3f\uff3f\uff3f\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121699.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman l",
+        "ts": "1395121706.000026"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 l\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 5\ubc88)\n\uff3f\uff3f\uff3f\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121706.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman b",
+        "ts": "1395121714.000028"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 b\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 4\ubc88)\n\uff3f\uff3f\uff3f\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121714.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman f",
+        "ts": "1395121752.000030"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 f\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 3\ubc88)\n\uff3f\uff3f\uff3f\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121752.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman t",
+        "ts": "1395121791.000032"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 t\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 2\ubc88)\n\uff3f\uff3f\uff3f\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121791.000033"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman i",
+        "ts": "1395121798.000034"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 i\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3f\uff3fi\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121799.000035"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please hangman while",
+        "ts": "1395121825.000036"
+    },
+    {
+        "text": "\uc815\ub2f5\uc774 \uc544\ub2d9\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 1\ubc88)\n\uff3f\uff3fi\uff3fe\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395121825.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "gg...",
+        "ts": "1395121829.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "wireshark\ub85c",
+        "ts": "1395125094.000039"
+    }
+]

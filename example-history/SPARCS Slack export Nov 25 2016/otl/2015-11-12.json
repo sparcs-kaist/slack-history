@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/68031f54dea149f860b05aeb5b65dd07712c96ba|1 new commit> by jiggum",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/68031f54dea149f860b05aeb5b65dd07712c96ba|68031f5>: \uba54\uc778\ud654\uba74 \ubca0\uc2a4\ud2b8\ud6c4\uae30\uae30\ub2a5 \ucd94\uac00 \uc815\ub82c\uc218\uc2dd= like\/audience in 180days - jiggum",
+                "pretext": "[otlplus:review] 1 new commit by jiggum:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447333916.000008"
+    }
+]

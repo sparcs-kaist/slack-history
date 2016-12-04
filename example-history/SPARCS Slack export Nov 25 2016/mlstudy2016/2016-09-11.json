@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<https:\/\/medium.com\/learning-new-stuff\/machine-learning-in-a-year-cdb0b0ebd29c#.o8fre8bbw>",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Machine Learning in a Year \u2013 Learning New Stuff",
+                "title_link": "https:\/\/medium.com\/learning-new-stuff\/machine-learning-in-a-year-cdb0b0ebd29c#.o8fre8bbw",
+                "text": "From being a total ml noob to start using it at work",
+                "fallback": "Medium: Machine Learning in a Year \u2013 Learning New Stuff",
+                "image_url": "https:\/\/d262ilb51hltx0.cloudfront.net\/max\/1200\/1*fy4mkPit0bgQJPrYlsX0mQ.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "7 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1473588924,
+                "from_url": "https:\/\/medium.com\/learning-new-stuff\/machine-learning-in-a-year-cdb0b0ebd29c#.o8fre8bbw",
+                "image_width": 1115,
+                "image_height": 250,
+                "image_bytes": 53321,
+                "service_icon": "https:\/\/cdn-static-1.medium.com\/_\/fp\/icons\/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1473656296.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02CPPE8C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0K6|rodumani> has joined the channel",
+        "ts": "1405753461.000469"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc73c\uc74c",
+        "ts": "1405761652.000470"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubb54\uac00 \uc560\ud504\ud130 \uc774\ud399\ud2b8\ub85c \uc560\uac8c \uc778\uad6c\uac00 \ub298\uc5b4\ub09c\ub2e4?!",
+        "ts": "1405761677.000471"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc5b4\uc11c\uc624\uc138\uc694",
+        "ts": "1405761688.000472"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc694\ucf54\uc18c!",
+        "ts": "1405761855.000473"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544 \uc77d\uae30\uc5d0 \ub108\ubb34 \ub9ce\ub2e4 \u315c",
+        "ts": "1405834993.000474"
+    }
+]

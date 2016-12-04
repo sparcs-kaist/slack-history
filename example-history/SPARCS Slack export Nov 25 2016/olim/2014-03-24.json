@@ -1,0 +1,36 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "59A452",
+                "fields": [
+                    {
+                        "title": "Assignee",
+                        "value": "<https:\/\/github.com\/sunguard|sunguard>",
+                        "short": true
+                    }
+                ],
+                "title": "If file url is secured, redirect to login page",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/13",
+                "author_link": "https:\/\/github.com\/sunguard",
+                "author_icon": "https:\/\/avatars.githubusercontent.com\/u\/6940553?",
+                "author_subname": "sunguard",
+                "pretext": "Issue #13 CLOSED \u2022 <https:\/\/github.com\/sparcs-kaist\/olim|sparcs-kaist\/olim> repo",
+                "fallback": "[olim] Issue #13 CLOSED: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/13|If file url is secured, redirect to login page>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395661759.000130"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "text": "[olim\/feature\/filesys] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/e2a50ee0ae0d4b1079f28444e26df406deaa95ad|e2a50ee0ae0d>: Refs #13: Added file download function. Added function for secured\nfiles. Completed with issue number 13. - Jong-Hyuk, Jung",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395661800.000131"
+    }
+]

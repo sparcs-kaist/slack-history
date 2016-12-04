@@ -1,0 +1,18 @@
+[
+    {
+        "user": "U04HUN944",
+        "inviter": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUN944|kyeome> has joined the channel",
+        "ts": "1457970407.000003"
+    },
+    {
+        "user": "U046N9CV2",
+        "inviter": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046N9CV2|hood> has joined the channel",
+        "ts": "1457970418.000004"
+    }
+]

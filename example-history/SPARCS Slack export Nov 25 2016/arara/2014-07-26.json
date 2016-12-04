@@ -1,0 +1,150 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "TODO: Django \ubc84\uc804\uc744 1.4 \uae4c\uc9c0\ub294 \uc77c\ub2e8 \ub04c\uc5b4\uc62c\ub9ac\uace0 \ubb54\uac00\ub97c \ub3c4\ubaa8\ud558\ub294 \uac83\uc774 \uc88b\uc744 \ub4ef ...",
+        "ts": "1406363970.000002"
+    },
+    {
+        "user": "U024SHLFH",
+        "inviter": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1406367187.000002"
+    },
+    {
+        "user": "U02CPPE8C",
+        "inviter": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02CPPE8C|pipoket> has joined the channel",
+        "ts": "1406367187.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3139\u3139",
+        "ts": "1406367199.000004"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0KW|combacsa> uploaded a file: <https:\/\/sparcs.slack.com\/files\/combacsa\/F02EDQA30\/screenshot_2014-07-26-18-32-31.png|Screenshot_2014-07-26-18-32-31.png>",
+        "file": {
+            "id": "F02EDQA30",
+            "created": 1406367223,
+            "timestamp": 1406367223,
+            "name": "Screenshot_2014-07-26-18-32-31.png",
+            "title": "Screenshot_2014-07-26-18-32-31.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SN0KW",
+            "editable": false,
+            "size": 365494,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02EDQA30\/screenshot_2014-07-26-18-32-31.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02EDQA30\/download\/screenshot_2014-07-26-18-32-31.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02EDQA30-eb6c5e\/screenshot_2014-07-26-18-32-31_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02EDQA30-eb6c5e\/screenshot_2014-07-26-18-32-31_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02EDQA30-eb6c5e\/screenshot_2014-07-26-18-32-31_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "image_exif_rotation": 1,
+            "original_w": 1080,
+            "original_h": 1920,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/combacsa\/F02EDQA30\/screenshot_2014-07-26-18-32-31.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02EDQA30-8c93baa433",
+            "channels": [
+                "C02EBLJ53"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0KW",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0KW|combacsa>",
+        "bot_id": null,
+        "ts": "1406367226.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud2b8\ub798\ube44\uc2a4\uac00 \uc2a4\ud30d\uc2a4 \ucc44\ub110\uc5d0 \uc640\uc11c \ubfdc\uace0 \uac00\ub124\uc694 \u314b\u314b",
+        "ts": "1406367254.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc598 \uc5b4\ub5b5\uac8c arara \ucc44\ub110\ub85c \uc62e\uae30\uba74\uc88b\uc744\uae4c\uc694?",
+        "ts": "1406367292.000007"
+    },
+    {
+        "username": "github",
+        "bot_id": "B02EBLMPD",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/arara] Issue created by <https:\/\/github.com\/combacsa|combacsa>",
+                "title": "#4 MySQLdb 1.2.5 compatibility test",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/arara\/issues\/4",
+                "fallback": "[sparcs-kaist\/arara] <https:\/\/github.com\/sparcs-kaist\/arara\/issues\/4|Issue created> by <https:\/\/github.com\/combacsa|combacsa>",
+                "text": "\ud604\ud589 Automated test\ub294 sqlite \uae30\ubc18\uc774\uc5b4\uc11c mysql-python \ub77c\uc774\ube0c\ub7ec\ub9ac\uc5d0 \uae30\ubc18\ud55c \ud14c\uc2a4\ud305\uc774 \uc774\ub904\uc9c0\uc9c0 \uc54a\uace0 \uc788\ub2e4. \ud574\ub2f9 \ub77c\uc774\ube0c\ub7ec\ub9ac\ub97c 1.2.4 \uc5d0\uc11c 1.2.5\ub85c \ubc84\uc804\uc5c5\ud588\ub294\ub370, \uadf8 \uacb0\uacfc\uc5d0 \ub300\ud55c \ubd84\uc11d\uc774 \uc694\uad6c\ub428.",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1406368254.000000"
+    },
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1406368528.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "Travis \uc9f1\uc88b\ub124\uc694 \ud14c\uc2a4\ud305\uc744 \ubb50 \uc544\uc608 VM \uc0c8\ub85c\ub9cc\ub4e4\uc5b4\uc11c \ud558\ub098 \u314b\u314b\u314b\u314b",
+        "ts": "1406371920.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "Docker powered\uc77c\uac70\uc5d0\uc694 \uc544\ub9c8",
+        "ts": "1406372041.000004"
+    },
+    {
+        "user": "U024SN0K6",
+        "inviter": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0K6|rodumani> has joined the channel",
+        "ts": "1406374055.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc624 \uc774\ub7f0\uac8c \ub418\ub294\uad6c\ub098 (...)",
+        "ts": "1406374061.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\"\/invite rodumani\"",
+        "ts": "1406374066.000007"
+    }
+]

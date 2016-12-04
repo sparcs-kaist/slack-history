@@ -1,0 +1,258 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ub17c\ubb38 \uc774\ub984\uc5d0\uc11c\ubd80\ud130 \ub098\uc774\uc5d0 \uc758\ud55c \uc704\uacc4\uc9c8\uc11c\uc758 \ub0c4\uc0c8\uac00.. \uc13c.. \uc13c\ube60\uc774\ub77c\ub2c8..",
+        "ts": "1469603610.000396"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uadfc\ub370 \uc774 \ub17c\ubb38 \uacb0\uad6d \uc5b4\ub5a4 \ub450 \uc0ac\ub78c\uc774 \uc11c\ub85c\uc5d0\uac8c \uad00\uc2ec\uc774 \uc788\ub294\uc9c0\uc5d0 \ub300\ud55c \uc815\ubcf4\ub97c \uc11c\ub85c\uc5d0\uac8c \uc554\ud638\ud654\ub41c \ud615\ud0dc\ub85c \uac74\ub128\ub2e4\ub77c\ub294 \ud589\ub3d9\uc774 \ucde8\ud574\uc9c8 \ub54c\uc5d0\ub9cc",
+        "ts": "1469603906.000397"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uba39\ud788\ub294\uac70\uac19\uc740 \ub290\ub08c\uc774.. \ud5f7\uac08\ub9ac\ub124\uc694 \u314e\u314e",
+        "ts": "1469603924.000398"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ub4a4\uc5d0\uc11c \uadf8\ub798\uc11c \ud55c\uacc4\uc810\uc744 \uc5b8\uae09\ud558\ub294\ub370",
+        "ts": "1469606538.000399"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc81c\ub300\ub85c \ub3d9\uc791\ud558\ub824\uba74 \uc218\ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc774 \uc9d1\ub2e8\uc801\uc73c\ub85c \ucc38\uc5ec\ud574\uc57c \uc758\ubbf8\uac00 \uc788\ub2e4\uace0 \uc5b8\uae09\uc774 \uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1469606548.000400"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uc13c\ube60\uc774\ud504\ub85c\ud1a0\ucf5c \ub17c\ubb38 \uc800\uc790 \ub204\uad6c\uc778\uac00\uc694\u314b\u314b\n",
+        "ts": "1469606665.000401"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uc774\ub984\uc774 \uc5c6\ub124\uc694\u314b\u314b\n",
+        "ts": "1469606669.000402"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0B6LPVSM|stein> uploaded a file: <https:\/\/sparcs.slack.com\/files\/stein\/F1VTHN2D7\/_____________2016-07-28________2.13.15.png|\uc2a4\ud06c\ub9b0\uc0f7 2016-07-28 \uc624\ud6c4 2.13.15.png> and commented: \uc774\uac70 \ubb54\uac00\uc694???????? \u3137\u3137\u3137\u3137",
+        "file": {
+            "id": "F1VTHN2D7",
+            "created": 1469682850,
+            "timestamp": 1469682850,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2016-07-28 \uc624\ud6c4 2.13.15.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2016-07-28 \uc624\ud6c4 2.13.15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U0B6LPVSM",
+            "editable": false,
+            "size": 320530,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1VTHN2D7\/_____________2016-07-28________2.13.15.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1VTHN2D7\/download\/_____________2016-07-28________2.13.15.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 225,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 300,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 450,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 600,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1VTHN2D7-f8e88cd266\/_____________2016-07-28________2.13.15_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 640,
+            "image_exif_rotation": 1,
+            "original_w": 2560,
+            "original_h": 1600,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/stein\/F1VTHN2D7\/_____________2016-07-28________2.13.15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1VTHN2D7-8114210dfa",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1VRRMRB5",
+                "created": 1469682850,
+                "timestamp": 1469682850,
+                "user": "U0B6LPVSM",
+                "is_intro": true,
+                "comment": "\uc774\uac70 \ubb54\uac00\uc694???????? \u3137\u3137\u3137\u3137",
+                "channel": ""
+            }
+        },
+        "user": "U0B6LPVSM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0B6LPVSM|stein>",
+        "bot_id": null,
+        "ts": "1469682854.000403"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc9c0\uae08 \uae43\ud5c8\ube0c \uc811\uc18d\ud558\uba74 \uc800\ub807\uac8c \ub418\ub358\ub370",
+        "ts": "1469682866.000404"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<https:\/\/status.github.com\/>",
+        "ts": "1469682934.000405"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc9c0\uae08 \uc811\uc18d\uc911",
+        "ts": "1469682942.000406"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub85c\ub529\uc774 \uc880 \uae30\ub124",
+        "ts": "1469682944.000407"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub204\uac00 \ub610 DDoS \ub123\uace0 \uc788\ub294\uac70 \uac19\uc740\ub370....",
+        "ts": "1469682970.000408"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544\uc9c1 \uacf5\uc9c0\ub294 \uc548\ub5b4\ub124\uc694....",
+        "ts": "1469682976.000409"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc885\uc885 \uc774\ub7fd\ub2c8\ub2e4..",
+        "ts": "1469683000.000410"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc694\uc998\ub4e4\uc5b4 \uc790\uc8fc\uc774\ub7ec\ub124",
+        "ts": "1469683002.000411"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "status\ub294 all systems operational \uc774\ub77c\uace0 \ub728\ub358\ub370",
+        "ts": "1469683052.000412"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub2e4\uc2dc \ub4e4\uc5b4\uac00\ubcf4\uc138\uc694",
+        "ts": "1469683060.000413"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub2e4\uc2dc \uc811\uc18d\ud574\ubcf4\ub2c8 server error \ub728\uace0",
+        "ts": "1469683061.000414"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc774\uc81c \uc0c1\ud0dc\uba54\uc2dc\uc9c0\ub3c4",
+        "ts": "1469683092.000415"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ubcc0\uacbd\ub428...",
+        "ts": "1469683094.000416"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\u3137\u3137",
+        "ts": "1469683215.000417"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "<https:\/\/twitter.com\/githubstatus\/status\/758531559452450816>",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/githubstatus|@githubstatus>: We are currently experiencing major service outages.",
+                "ts": 1469682991,
+                "author_name": "GitHub Status",
+                "author_link": "https:\/\/twitter.com\/githubstatus\/status\/758531559452450816",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2577880769\/687474703a2f2f636c2e6c792f696d6167652f337330463237324b3254324c2f636f6e74656e74_normal.png",
+                "author_subname": "@githubstatus",
+                "text": "We are currently experiencing major service outages.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/githubstatus\/status\/758531559452450816",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "ts": "1469683265.000418"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uae43\ud5d9\uc8fd\uc5c8\ub2e4\u3160\n",
+        "ts": "1469684680.000420"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u3160\u3160",
+        "ts": "1469684690.000421"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud798\uc744\ub0b4",
+        "ts": "1469684691.000422"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uae43\ud5d9\uc544",
+        "ts": "1469684693.000423"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc0b4\uc544\ub0ac\ub124\uc694",
+        "ts": "1469684704.000424"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uc5c7 \uc0b4\uc544\ub09c\ub4ef\n",
+        "ts": "1469684707.000425"
+    }
+]

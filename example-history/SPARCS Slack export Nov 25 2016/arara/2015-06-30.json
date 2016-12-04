@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "ts": "1435678189.000002"
+    },
+    {
+        "user": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02PEJCVA|samjo> has left the channel",
+        "ts": "1435678220.000003"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1435689985.000004"
+    }
+]

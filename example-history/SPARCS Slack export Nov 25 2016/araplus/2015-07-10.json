@@ -1,0 +1,182 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/65437cf|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/65437cf|65437cf>: \uc815\uce58\uae00 \uc131\uc778\uae00 \uc2e0\uace0 \ub4dc\ub78d\ub2e4\uc6b4 \uc81c\uc791 - ktk1012",
+                "pretext": "[araplus:board] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436513897.000360"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/10#issuecomment-120288878|#10: Websocket\uc744 \uc774\uc6a9\ud558\uc5ec Refresh\ud558\uae30> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "text": "  1. Redis\ub97c \uc0ac\uc6a9\ud558\uba74 \uc870\uae08 \ub354 \ucd5c\uc801\ud654 \ud560 \uc218 \uc788\uc744 \uac83 \uac19\uc74c\n  2. vote\ub294 \uc2e4\uc2dc\uac04\uc73c\ub85c \ubc18\uc601\ud558\uae30\ubcf4\ub2e4, \uc77c\uc815 \uac04\uaca9(ex:30\ucd08)\ub9c8\ub2e4 \uc804\uccb4 vote\ub97c \uc0c8\ub85c\uace0\uce68 \ud574\uc8fc\ub294 \ubc29\ubc95\uc73c\ub85c \uad6c\ud604\uc744 \uc0dd\uac01 \uc911",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/10#issuecomment-120288878|#10: Websocket\uc744 \uc774\uc6a9\ud558\uc5ec Refresh\ud558\uae30> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "title": "Comment by StoryKim\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436516357.000361"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/48977b6|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/48977b6|48977b6>: \ubc18\ub300 \uc5f4\uae30 \uae30\ub2a5 \uad6c\ud604 - TaeHyun",
+                "pretext": "[araplus:grill] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436517560.000362"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:websocket] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/57c3ceb|1 new commit> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/57c3ceb|57c3ceb>: display current typing text length - storykim",
+                "pretext": "[araplus:websocket] 1 new commit by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436518544.000363"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/48977b6d53ba...08ac1d0b73a9|4 new commits> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/82b52b6|82b52b6>: #10 : Refresh With WEBSOCKET(should apply to vote up &amp; down, too) - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/57c3ceb|57c3ceb>: display current typing text length - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d277a07|d277a07>: Merge branch 'grill' of <https:\/\/github.com\/sparcs-kaist\/araplus> into websocket - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/08ac1d0|08ac1d0>: minor bug fix : there was no vote_down button on new comments - storykim",
+                "pretext": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/48977b6d53ba...08ac1d0b73a9|4 new commits> by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436522505.000364"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/50ff8e4|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/50ff8e4|50ff8e4>: \uba38\ub9bf\ub9d0 \uc120\ud0dd\uae30\ub2a5 \ucd94\uac00 - ktk1012",
+                "pretext": "[araplus:board] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436525264.000365"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d80fb25|1 new commit> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d80fb25|d80fb25>: add some annotations - storykim",
+                "pretext": "[araplus:grill] 1 new commit by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436525699.000366"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/10|#10 Websocket\uc744 \uc774\uc6a9\ud558\uc5ec Refresh\ud558\uae30> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/10|#10 Websocket\uc744 \uc774\uc6a9\ud558\uc5ec Refresh\ud558\uae30> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436525711.000367"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/50ff8e46fa69...17103d9ebe65|2 new commits> by jara",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b0f9b05|b0f9b05>: Implemented postList under post - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/17103d9|17103d9>: Implement postList under the post - jara",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/50ff8e46fa69...17103d9ebe65|2 new commits> by jara:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436529175.000368"
+    }
+]

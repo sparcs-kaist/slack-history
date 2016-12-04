@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624\ub298\ub3c4 \ub610 \ud558\ub294 \ud64d\ubcf4",
+        "ts": "1453222610.001194"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5ec\ub7ec\ubd84 <#C02LYRLUA>\ud569\uc2dc\ub2e4",
+        "ts": "1453222615.001195",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02PEJCVA",
+                    "U025EC52V",
+                    "U04HUN944",
+                    "U0GRXSW8J",
+                    "U0CNHRJQJ",
+                    "U024U2P7Y",
+                    "U02F86M4W"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

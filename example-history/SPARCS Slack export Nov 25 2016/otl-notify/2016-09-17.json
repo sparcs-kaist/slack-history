@@ -1,0 +1,31 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#170 Convert html front to jade format' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/170 by jiggum",
+                "text": "django\uc5d0 jade\uc801\uc6a9\ud558\uace0, \uae30\uc874 \ud504\ub860\ud2b8\ud30c\uc77c jade\ud3ec\uba67\uc73c\ub85c \ubcc0\uacbd\ud588\uc5b4\uc694",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#170 Convert html front to jade format",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/170",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474103133.000002"
+    },
+    {
+        "user": "U046N9CV2",
+        "text": "<@U046N9CV2|hood> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474103291.000003"
+    }
+]

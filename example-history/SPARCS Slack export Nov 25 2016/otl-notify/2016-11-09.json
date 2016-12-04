@@ -1,0 +1,218 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#184 implement timetable clicking' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184 by jo1996jo",
+                "image_url": "https:\/\/cloud.githubusercontent.com\/assets\/9068792\/20141582\/5c2f3716-a6d4-11e6-97b3-b6473d668533.png",
+                "image_width": 1915,
+                "image_height": 946,
+                "image_bytes": 85415,
+                "text": "<https:\/\/cloud.githubusercontent.com\/assets\/9068792\/20141582\/5c2f3716-a6d4-11e6-97b3-b6473d668533.png|image>",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/jo1996jo|jo1996jo>",
+                "title": "#184 implement timetable clicking",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478701778.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub9ac\ubdf0\uc5b4\ub294 <@U04HUNH5L> \uc785\ub2c8\ub2e4 \uc790\ub77c\ub098\ub77c \ub9ac\ubdf0\ub9ac\ubdf0~",
+        "ts": "1478702071.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0B6LPVSM|stein> uploaded a file: <https:\/\/sparcs.slack.com\/files\/stein\/F2ZN6MTQR\/pasted_image_at_2016_11_09_11_34_pm.png|Pasted image at 2016-11-09, 11:34 PM> and commented: \uc911\uac04\uace0\uc0ac \uc774\ud6c4 \uccab \uac1c\ubc1c\uc774\ub2c8 \uace0\uc9c0\ud6c8\uc218\ub97c \ucd08\uae30\ud654\ud558\uc600\uc2b5\ub2c8\ub2e4",
+        "file": {
+            "id": "F2ZN6MTQR",
+            "created": 1478702105,
+            "timestamp": 1478702105,
+            "name": "Pasted image at 2016_11_09 11_34 PM.png",
+            "title": "Pasted image at 2016-11-09, 11:34 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U0B6LPVSM",
+            "editable": false,
+            "size": 7574,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2ZN6MTQR\/pasted_image_at_2016_11_09_11_34_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2ZN6MTQR\/download\/pasted_image_at_2016_11_09_11_34_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2ZN6MTQR-9a04115108\/pasted_image_at_2016_11_09_11_34_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2ZN6MTQR-9a04115108\/pasted_image_at_2016_11_09_11_34_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2ZN6MTQR-9a04115108\/pasted_image_at_2016_11_09_11_34_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 314,
+            "thumb_360_h": 147,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2ZN6MTQR-9a04115108\/pasted_image_at_2016_11_09_11_34_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 314,
+            "original_h": 147,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/stein\/F2ZN6MTQR\/pasted_image_at_2016_11_09_11_34_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F2ZN6MTQR-da84e7e273",
+            "channels": [
+                "C1SAVL1TK"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2ZM956G0",
+                "created": 1478702105,
+                "timestamp": 1478702105,
+                "user": "U0B6LPVSM",
+                "is_intro": true,
+                "comment": "\uc911\uac04\uace0\uc0ac \uc774\ud6c4 \uccab \uac1c\ubc1c\uc774\ub2c8 \uace0\uc9c0\ud6c8\uc218\ub97c \ucd08\uae30\ud654\ud558\uc600\uc2b5\ub2c8\ub2e4",
+                "channel": ""
+            }
+        },
+        "user": "U0B6LPVSM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0B6LPVSM|stein>",
+        "bot_id": null,
+        "ts": "1478702106.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc67c\ucabd\uc774 \ucf54\ub354 \uc624\ub978\ucabd\uc774 \ud574\ub2f9\ud558\ub294 \ub9ac\ubdf0\uc5b4\uc785\ub2c8\ub2e4",
+        "ts": "1478702119.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182#issuecomment-259614202|#182: \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30.>",
+                "text": "\uc810\uac80\uc744 \ud558\uba74 \uc11c\ubc84(\ud558\ub4dc\uc6e8\uc5b4\ub4e0 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub4e0)\uac00 \ub0b4\ub824\uac00\ub294\ub370 \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0\ub294 \uc5b4\ub514\uc11c \ub744\uc6cc\uc8fc\ub098\uc694?",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182#issuecomment-259614202|#182: \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30.>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478760349.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/167#issuecomment-259614272|#167: [\ud0c0\uc784\ud14c\uc774\ube14] \ub418\ub3cc\ub9ac\uae30 \uae30\ub2a5>",
+                "text": "\ub418\ub3cc\ub9ac\uae30 \uae30\ub2a5\uc774 \uc5b4\ub5a4 \uae30\ub2a5\uc778\uac00\uc694?",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/167#issuecomment-259614272|#167: [\ud0c0\uc784\ud14c\uc774\ube14] \ub418\ub3cc\ub9ac\uae30 \uae30\ub2a5>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478760388.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/157#issuecomment-259614684|#157: \ub85c\uadf8\uc778\uc774 \ud544\uc694\ud55c \ud398\uc774\uc9c0(\ub9c8\uc774\ud398\uc774\uc9c0 \ub4f1)\uc5d0\uc11c \ub85c\uadf8\uc544\uc6c3\ud558\uba74 SPARCS SSO \ub85c\uadf8\uc778 \ucc3d\uc774 \ub728\ub294 \ubb38\uc81c \ud574\uacb0>",
+                "text": "\ud604\uc7ac \uad6c\ud604\ub418\uc5b4\uc788\ub294 \uc0c1\ud0dc(\ub85c\uadf8\uc544\uc6c3 \ud558\uc790\ub9c8\uc790 \ubc14\ub85c SSO \ud398\uc774\uc9c0\ub85c \uc774\ub3d9\ud558\ub294 \uc0c1\ud0dc)\uc5d0 \ub2e4\ub978 \ubd84\ub4e4\uc740 \ubcc4\ub2e4\ub978 \ubd88\ub9cc\uc774 \uc5c6\ub294 \ub4ef \ud558\uc5ec \uae30\ud68d\uc0c1 \uc758\ub3c4\ub41c \uc0c1\ud0dc\ub77c\uace0 \ubcf4\uaca0\uc2b5\ub2c8\ub2e4. \ub530\ub77c\uc11c \ubcc4\ub2e4\ub978 \ud574\uacb0\ucc45\uc744 \uc801\uc6a9\ud558\uc9c0 \uc54a\uace0 \uc774\uc288 \ub2eb\uaca0\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/157#issuecomment-259614684|#157: \ub85c\uadf8\uc778\uc774 \ud544\uc694\ud55c \ud398\uc774\uc9c0(\ub9c8\uc774\ud398\uc774\uc9c0 \ub4f1)\uc5d0\uc11c \ub85c\uadf8\uc544\uc6c3\ud558\uba74 SPARCS SSO \ub85c\uadf8\uc778 \ucc3d\uc774 \ub728\ub294 \ubb38\uc81c \ud574\uacb0>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478760578.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/157|#157 \ub85c\uadf8\uc778\uc774 \ud544\uc694\ud55c \ud398\uc774\uc9c0(\ub9c8\uc774\ud398\uc774\uc9c0 \ub4f1)\uc5d0\uc11c \ub85c\uadf8\uc544\uc6c3\ud558\uba74 SPARCS SSO \ub85c\uadf8\uc778 \ucc3d\uc774 \ub728\ub294 \ubb38\uc81c \ud574\uacb0> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/157|#157 \ub85c\uadf8\uc778\uc774 \ud544\uc694\ud55c \ud398\uc774\uc9c0(\ub9c8\uc774\ud398\uc774\uc9c0 \ub4f1)\uc5d0\uc11c \ub85c\uadf8\uc544\uc6c3\ud558\uba74 SPARCS SSO \ub85c\uadf8\uc778 \ucc3d\uc774 \ub728\ub294 \ubb38\uc81c \ud574\uacb0> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478760578.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/169#issuecomment-259614755|#169: [\uacf5\ud1b5] \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uacf5\uc6a9 \uad6c\uae00 \uacc4\uc815 \ubcf5\uad6c \uba54\uc77c \ubcc0\uacbd>",
+                "text": "\ubcf5\uad6c \uba54\uc77c\uc774 \ubb54\uac00\uc694?",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/169#issuecomment-259614755|#169: [\uacf5\ud1b5] \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uacf5\uc6a9 \uad6c\uae00 \uacc4\uc815 \ubcf5\uad6c \uba54\uc77c \ubcc0\uacbd>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478760620.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182#issuecomment-259617360|#182: \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30.>",
+                "text": "SSO\uc758 \uacbd\uc6b0, \ud558\ub4dc\uc6e8\uc5b4 \uc810\uac80\ub54c\ub294 \uc5b4\uca54 \uc218\uac00 \uc5c6\uc5b4\uc11c \uadf8\ub0e5 conn timeout\uc744 \ub744\uc6b0\uac8c \ub418\uace0 SSO \ubc84\uc804 \uc5c5\ub370\uc774\ud2b8 \ub54c\ub294 apache2\uc5d0 static page site\ub97c \ub9cc\ub4e4\uc5b4\uc11c \uadf8\uac78 \uc62c\ub9ac\uace0 sso site\ub97c \ub0b4\ub9b0 \uc0c1\ud0dc\ub85c \uc791\uc5c5\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182#issuecomment-259617360|#182: \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30.>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478761735.000011"
+    }
+]

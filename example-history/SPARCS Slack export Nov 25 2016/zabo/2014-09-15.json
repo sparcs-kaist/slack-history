@@ -1,0 +1,82 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] 1 new commit by coffee:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/77b9c63f6c2d|1 new commit> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/77b9c63f6c2d|77b9c63f6c2d>: autocomplete and account manage page - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410781963.000881"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "title": "Comment by poap\n",
+                "pretext": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/35#issuecomment-55580586|#35: \ub3d9\uc544\ub9ac \uac80\uc0c9 \ud398\uc774\uc9c0\uc758 autocomplete \uc791\uc131> (assigned to <https:\/\/github.com\/horknox|horknox>)",
+                "fallback": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/35#issuecomment-55580586|#35: \ub3d9\uc544\ub9ac \uac80\uc0c9 \ud398\uc774\uc9c0\uc758 autocomplete \uc791\uc131> (assigned to <https:\/\/github.com\/horknox|horknox>)",
+                "color": "E3E4E6",
+                "text": "\ud588\uc74c",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410782215.000882"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/35|#35 \ub3d9\uc544\ub9ac \uac80\uc0c9 \ud398\uc774\uc9c0\uc758 autocomplete \uc791\uc131> by <https:\/\/github.com\/poap|poap>",
+                "fallback": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/35|#35 \ub3d9\uc544\ub9ac \uac80\uc0c9 \ud398\uc774\uc9c0\uc758 autocomplete \uc791\uc131> by <https:\/\/github.com\/poap|poap>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410782215.000883"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "title": "Comment by poap\n",
+                "pretext": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/30#issuecomment-55580614|#30: \uacc4\uc815 \uad00\ub9ac \ud398\uc774\uc9c0 \uc791\uc131> (assigned to <https:\/\/github.com\/poap|poap>)",
+                "fallback": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/30#issuecomment-55580614|#30: \uacc4\uc815 \uad00\ub9ac \ud398\uc774\uc9c0 \uc791\uc131> (assigned to <https:\/\/github.com\/poap|poap>)",
+                "color": "FAD5A1",
+                "text": "\uc808\ubc18\uc815\ub3c4 \ud568",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410782230.000884"
+    },
+    {
+        "user": "U02HV8AGZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02HV8AGZ|feelblu> has joined the channel",
+        "ts": "1410825429.000885"
+    }
+]

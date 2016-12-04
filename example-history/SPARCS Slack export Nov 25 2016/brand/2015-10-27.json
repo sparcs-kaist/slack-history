@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U03H8L275",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U03H8L275|daedoo> has left the channel",
+        "ts": "1445952608.000002"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U04HUNH5L",
+        "text": "<@U04HUNH5L|mango> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475821731.000050"
+    }
+]

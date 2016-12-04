@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0B6LPVSM|stein> uploaded a file: <https:\/\/sparcs.slack.com\/files\/stein\/F2VB04F32\/.facebook_1477620158587.jpg|Slack for Android Upload> and commented: \uc55e\uc73c\ub85c \uc624\ud2f0\uc5d8 \uc810\uac80 \ub54c \uc774 \uba58\ud2b8\ub97c \ub744\uc6b0\uba74 \ud573\ud573",
+        "file": {
+            "id": "F2VB04F32",
+            "created": 1477620204,
+            "timestamp": 1477620204,
+            "name": ".facebook_1477620158587.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U0B6LPVSM",
+            "editable": false,
+            "size": 19111,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2VB04F32\/.facebook_1477620158587.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2VB04F32\/download\/.facebook_1477620158587.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2VB04F32-d500a72ec3\/.facebook_1477620158587_64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2VB04F32-d500a72ec3\/.facebook_1477620158587_80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2VB04F32-d500a72ec3\/.facebook_1477620158587_360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2VB04F32-d500a72ec3\/.facebook_1477620158587_480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2VB04F32-d500a72ec3\/.facebook_1477620158587_160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2VB04F32-d500a72ec3\/.facebook_1477620158587_720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "image_exif_rotation": 1,
+            "original_w": 960,
+            "original_h": 720,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/stein\/F2VB04F32\/.facebook_1477620158587.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F2VB04F32-5eb738ef55",
+            "channels": [
+                "C029U6HTV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2VBHPQSW",
+                "created": 1477620204,
+                "timestamp": 1477620204,
+                "user": "U0B6LPVSM",
+                "is_intro": true,
+                "comment": "\uc55e\uc73c\ub85c \uc624\ud2f0\uc5d8 \uc810\uac80 \ub54c \uc774 \uba58\ud2b8\ub97c \ub744\uc6b0\uba74 \ud573\ud573",
+                "channel": ""
+            }
+        },
+        "user": "U0B6LPVSM",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0B6LPVSM|stein>",
+        "bot_id": null,
+        "ts": "1477620206.000586"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud558\uc9c0\ub9cc \ud604\uc2e4\uc740",
+        "ts": "1477624043.000587"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\"\uc11c\ubc84\uac00 \uc65c \uc8fd\uc5c8\ub294\uc9c0 \ubaa8\ub974\uaca0\uc2b5\ub2c8\ub2e4. \uc5b8\uc81c \uc0b4\uc544\ub098 \uc8fc\uc2e4\uc9c0\ub3c4 \ubaa8\ub974\uaca0\ub124\uc694. \uc800\ud76c\ub3c4 \ub2f5\ub2f5\ud569\ub2c8\ub2e4.\"",
+        "ts": "1477624076.000588"
+    }
+]

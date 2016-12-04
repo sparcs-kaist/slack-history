@@ -1,0 +1,312 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#33 indent \uc815\ub9ac' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/33 by a1sams1a",
+                "text": "tab\uc774\ub791 space\ub791 \uc11e\uc5ec \uc788\ub294 \uac83\uc744 \uc815\ub9ac\ud574\uc57c \ud55c\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#33 indent \uc815\ub9ac",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/33",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453452879.000107"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#34 pip8 \ub9de\ucd94\uae30' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34 by a1sams1a",
+                "text": "pip8\uc5d0 \ub9de\ucdb0\uc57c \ud55c\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#34 pip8 \ub9de\ucd94\uae30",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453452903.000108"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173855224|#34: pip8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "pep8...",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173855224|#34: pip8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by ktk1012\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453453811.000109"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/be767b1cd6431ea7ad6e92d7c76e41f83e0307eb|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/be767b1cd6431ea7ad6e92d7c76e41f83e0307eb|be767b1>: modify template indents from tabs to spaces - see #33 - Sam Jo",
+                "pretext": "[sparcssso:develop] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453453867.000110"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/33|#33 indent \uc815\ub9ac> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/33|#33 indent \uc815\ub9ac> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453453886.000111"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173856446|#34: pep8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "oh... such... stupid... \u3141\u3134\u3147\u3139",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173856446|#34: pep8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453454212.000112"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173859253|#34: pep8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\ub098\ub294 \ube61\ube61\uc774\ub2e4 3\ucc3d\ud558\uc138\uc694.",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173859253|#34: pep8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453454680.000113"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173859386|#34: pep8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\ub098\ub294 \ube61\ube61\uc774\ub2e4 \ub098\ub294 \ube61\ube61\uc774\ub2e4 \ub098\ub294 \ube61\ube61\uc774\ub2e4",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/34#issuecomment-173859386|#34: pep8 \ub9de\ucd94\uae30> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453454723.000114"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/32|#32 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/32|#32 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453473430.000115"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/410290939da9...39a7cea56bd2|13 new commits> by Sam Jo and 1 other",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/592ac2f9196d7de03604d9a4648d9afc95f414d3|592ac2f>: refactoring in progress \/ done for auth, password - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/06f049190d434e51e6a066626034323ed34da373|06f0491>: refactoring in progress \/ done for basic features - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/74a0dd654b9ac62d977c23ce0bc93aba5d44a1da|74a0dd6>: refactoring in progress \/ done for page debugging - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/0dc16faa9e9dd09f05bbb2c98ba1a4e5ca0bca0f|0dc16fa>: end refactoring jobs - done #24 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/db81409acaec50f097089e2bbefb4aaa11464981|db81409>: add user log and page - done #20 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/f35764b932f7b6cfd9bd4f8fc3027ce76ca7a919|f35764b>: fix RemovedInDjango19Warning on logger - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/cdc43fde0663843be9e29605e4fa26d7883c726c|cdc43fd>: add point lock - done #26 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a514380631a2202ecdfb375a883b1d1ca81308d7|a514380>: fix bug #28 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/e63d2a2e11f720e963081e8ad1fb985b284cd43f|e63d2a2>: make fixture for #28 does not affect email signup; add #29 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/cf2b7af1f3768736d2a8bae89d22e447722e5cac|cf2b7af>: integrate admin login page - see #25 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b311b50d122999569e597975c2173a206f8c86b8|b311b50>: superuser cannot register service - see #31 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/be767b1cd6431ea7ad6e92d7c76e41f83e0307eb|be767b1>: modify template indents from tabs to spaces - see #33 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/39a7cea56bd28b2e84ff611529026f4c07a7ddfc|39a7cea>: Merge pull request #32 from sparcs-kaist\/develop - Sam Brad Jo",
+                "pretext": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/410290939da9...39a7cea56bd2|13 new commits> by Sam Jo and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453473431.000116"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/27#issuecomment-173960895|#27: \uc2e4\uc11c\ubc84\ub85c deploy> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\uc2dc\uac04\uc744 \ucc29\uac01\ud574\uc11c... \ubc29\uae08 \ub05d\ub0c8\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/27#issuecomment-173960895|#27: \uc2e4\uc11c\ubc84\ub85c deploy> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453478287.000117"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/27|#27 \uc2e4\uc11c\ubc84\ub85c deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/27|#27 \uc2e4\uc11c\ubc84\ub85c deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453478287.000118"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#35 \ud574\uc9c0 \uac70\ubd80 \uae30\ub2a5' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/35 by a1sams1a",
+                "text": "SSO\uc5d0\uc11c \uc11c\ube44\uc2a4 \ud574\uc9c0\ub97c \uac70\ubd80\ud560 \uc218 \uc788\ub3c4\ub85d \ud574\uc57c \ud560\uae4c\uc694? \uc758\uacac\ubc14\ub78d\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#35 \ud574\uc9c0 \uac70\ubd80 \uae30\ub2a5",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/35",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453478333.000119"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#36 Access Token \ubcf4\uc548' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/36 by a1sams1a",
+                "text": "  1. access token life time \ucd94\uac00\n  2. app\uc5d0 \ub300\ud55c access token \uc815\ubcf4\ub97c \uc77d\uc744 \ub54c \uc77d\ub294 \uc11c\ubc84\uac00 \ub4f1\ub85d\ub41c\uac70\ub791 \uc77c\uce58\ud558\ub294\uc9c0 \ud655\uc778",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#36 Access Token \ubcf4\uc548",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/36",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453478672.000120"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/1f24d10e85863ac00f60ca4c86a744908a63e79e|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/1f24d10e85863ac00f60ca4c86a744908a63e79e|1f24d10>: hot fix - modify kaist sso renew link - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453478915.000121"
+    }
+]

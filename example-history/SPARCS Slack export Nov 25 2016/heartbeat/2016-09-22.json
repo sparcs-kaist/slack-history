@@ -1,0 +1,8 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "django + memcached\n\ndjango model:\n* Server:\n    STR name UNIQUE\n    STR alias\n    IP ip\n    STR key\n\n* UsageLog:\n    Server server\n    DATETIME datetime\n    CpuUsage cpu\n    MemoryUsage memory\n    LIST(DiskUsage) disk\n    LIST(ProcessUsage) process\n    LIST(ErrorLog) error\n    \n* CpuUsage:\n    DECIMAL user\n    DECIMAL system\n    DECIMAL idle\n\n* MemoryUsage:\n    INT swap_total\n    INT swap_used\n    INT virt_avail\n    INT virt_total\n    INT virt_used\n\n* DiskUsage:\n    STR device_name\n    STR fs_type\n    STR mount_point\n    INT used\n    INT total\n  \n* ProcessUsage:\n    ENUM(cpu, mem) type \n    INT order\n    DECIMAL cpu\n    DECIMAL memory\n    STR name\n    \n* ErrorLog:\n    DATETIME datetime\n    TEXT log",
+        "ts": "1474565187.000023"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#165 SPARCS SSO v2 \uc5f0\ub3d9' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/165 by kangwon",
+                "text": "\uacc4\uc18d\ud574\uc11c \uc0c8\ub85c\uc6b4 \ud480\ub9ac\ud018\uc2a4\ud2b8 \ubcf4\ub0b4\ub294 \uac83 \uc8c4\uc1a1\ud569\ub2c8\ub2e4.\n\uc774\uc81c \uc694\ub839\uc744 \uc880 \uc54c\uaca0\uc73c\ub2c8 \ub2e4\uc74c\ubd80\ud134 \uc548 \uadf8\ub7ec\ub3c4\ub85d \uc870\uc2ec\ud558\uaca0\uc2b5\ub2c8\ub2e4. \u3160\u3160\n\n\uc9c0\ub09c\ubc88 \ucf54\ub4dc \ub9ac\ubdf0 \ub54c \ud53c\ub4dc\ubc31 \ubc1b\uc740 \ubd80\ubd84\n1. is_beta\ub3c4 setting \ud30c\uc77c\uc5d0 \ub123\uae30\n2. \ub514\ubc84\uae45\uc6a9 print \uad6c\ubb38 \uc0ad\uc81c\n     \uc801\uc6a9\ud588\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#165 SPARCS SSO v2 \uc5f0\ub3d9",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/165",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471083301.866991"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/165#issuecomment-239613830|#165: SPARCS SSO v2 \uc5f0\ub3d9>",
+                "text": "1. \uc774 PR\uc774 merge\ub418\uba74 \uac1c\ubc1c \uc0c1\ud0dc\ub77c\ub3c4 \ub85c\uadf8\uc778\ud558\ub294\ub370 \ubcc4\ub3c4\uc758 \uc124\uc815\uc774 \ud544\uc694\ud558\uac8c \ub429\ub2c8\ub2e4. <https:\/\/wiki.sparcs.org\/w\/index.php\/SPARCS_SSO_%EC%97%B0%EB%8F%99#Test_Service> \uc744 \ucc38\uace0\ud558\uc5ec \uc124\uc815\ud574\uc8fc\uc138\uc694.\n2. \ud604\uc7ac\ub294 <https:\/\/ssobeta.sparcs.org\/> \uc5d0\uc11c\ub9cc APIv2\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc6d4\uc694\uc77c \uc624\uc804 2\uc2dc\ucbe4 \ud328\uce58\uac00 \uc885\ub8cc\ub418\uba74 \ubcf8 \uc11c\ubc84\uc5d0\uc11c\ub3c4 APIv2\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n3. \ubca0\ud0c0 \uc11c\ubc84\ub294 \ud68c\uc6d0\uac00\uc785\uc744 \ub2e4\uc2dc \ud574\uc57c \ud569\ub2c8\ub2e4. \ud68c\uc6d0 \uac00\uc785 \ud6c4 SPARCS \ud68c\uc6d0\uc5d0 \ub4f1\ub85d\ud574 \ub2ec\ub77c\uace0 sysop\uc5d0\uac8c \ubb38\uc758\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4.\n\n\u2022 by samjo -",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/165#issuecomment-239613830|#165: SPARCS SSO v2 \uc5f0\ub3d9>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471083353.867394"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/155|#155 SPARCS SSO v2 \uc5f0\ub3d9> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/155|#155 SPARCS SSO v2 \uc5f0\ub3d9> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471083378.867679"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud604\uc7ac SPARCS SSO \ud328\uce58\uac00 \uc644\ub8cc\ub418\uc5b4 \uc2e4\uc11c\ubc84\uc5d0\uc11c\ub3c4 API v2\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+        "ts": "1471091253.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc0c1\ub2e8\uc5d0 Dev Center\uac00 \ubcf4\uc774\uc9c0 \uc54a\ub294 \uacbd\uc6b0 \uc800\uc5d0\uac8c \ubb38\uc758\ud558\uc138\uc694",
+        "ts": "1471091269.000003"
+    }
+]

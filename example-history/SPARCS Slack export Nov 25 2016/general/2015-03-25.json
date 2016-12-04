@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc190\ubaa9\ubc1b\uce68\ub300 \ub3c4\ucc29\ud588\uc2b5\ub2c8\ub2e4!",
+        "ts": "1427273146.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "SKT \ub808\uc9c4 \ub2e4\uc2dc \ub429\ub2c8\ub2e4 ",
+        "ts": "1427276207.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc190\ubaa9\ubc1b\uce68\ub300 \ub2e4\uc74c\uc8fc\uc5d0 \ucc3e\uc73c\ub7ec \uac00\uaca0\uc2b5\ub2c8\ub2e4\u3160\u3160 \ub178\ub2f5\uc77c\uc815\u3160\u3160",
+        "ts": "1427298001.000010"
+    },
+    {
+        "user": "U045EMA87",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045EMA87|george> has joined the channel",
+        "ts": "1427301389.000011"
+    }
+]

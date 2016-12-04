@@ -1,0 +1,189 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud571\ube5d...",
+        "ts": "1478600537.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<@U02L44HTT> \ub514\ub809\ud130\ub9ac \uad6c\uc870\ub791",
+        "ts": "1478604634.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc774\ub984 \ubc14\uafc0\uac8c\uc694...",
+        "ts": "1478604640.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/heartbeat] Pull request submitted: '#2 remove server branch' https:\/\/github.com\/sparcs-kaist\/heartbeat\/pull\/2 by a1sams1a",
+                "pretext": "[sparcs-kaist\/heartbeat] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#2 remove server branch",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/heartbeat\/pull\/2",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478604835.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/heartbeat] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/heartbeat\/pull\/2|#2 remove server branch> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/heartbeat] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/heartbeat\/pull\/2|#2 remove server branch> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478604840.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/master|[heartbeat:master]> <https:\/\/github.com\/sparcs-kaist\/heartbeat\/compare\/bffce42e8eeb...308782955cb0|6 new commits> by JongHun Oh and 2 others",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/50e3ab8e355096a5ba5cd29b7276bd283bf7e274|50e3ab8>`  edit gitignore for ignore venv and delete some files that is not unneeded - JongHun Oh\n `<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/b1a1f4ef525cfb74b001caab3fe039099f19a2b9|b1a1f4e>`  make core app and write the model, but do not migrate yet - JongHun Oh\n `<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/eee3c3fa39634f791b86e8c1d1e7e5e532cb0499|eee3c3f>`  Change model for attaching Backup to heartbeat - JongHun Oh\n `<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/1720e0840a8e14552791560f3002c4158d08bebc|1720e08>`  core: fix wrong model fields - Jeong Woon Choi\n `<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/cb3f46eb78f15a7942b6948976e01a7743b52bb8|cb3f46e>`  Merge branch 'server' of <https:\/\/github.com\/sparcs-kaist\/heartbeat> into server - Jeong Woon Choi\n `<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/308782955cb080a8b93d86219c08048f88b4232a|3087829>`  Merge pull request #2 from sparcs-kaist\/server - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/master|[heartbeat:master]> <https:\/\/github.com\/sparcs-kaist\/heartbeat\/compare\/bffce42e8eeb...308782955cb0|6 new commits> by JongHun Oh and 2 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478604840.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat|[heartbeat]> The branch \"server\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/heartbeat|[heartbeat]> The branch \"server\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478604842.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat|[heartbeat]> The branch \"client\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/heartbeat|[heartbeat]> The branch \"client\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478605133.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/master|[heartbeat:master]> <https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/f2186583a57af4e4863d7f6fb45d05c7d4dc0086|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/f2186583a57af4e4863d7f6fb45d05c7d4dc0086|f218658>`  remove client - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/master|[heartbeat:master]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478605207.000010"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc774\uc81c heartbeat-server develop branch \ud558\ub098 \ud30c\uc11c \ud558\uba74 \ub428",
+        "ts": "1478605504.000011"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "client install script \uc9dc\ub193\uc74c",
+        "ts": "1478605510.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/master|[heartbeat-server:master]> <https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/commit\/16d116a0ff7c21c9106e5e712f0f928b831fcca9|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/commit\/16d116a0ff7c21c9106e5e712f0f928b831fcca9|16d116a>`  add (almost empty) api\/update - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/master|[heartbeat-server:master]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478607181.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server|[heartbeat-server]> New branch \"<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/develop|develop>\" was pushed by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server|[heartbeat-server]> New branch \"<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/develop|develop>\" was pushed by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478610049.000014"
+    }
+]

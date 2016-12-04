@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud06c\ud06d...",
+        "ts": "1441682447.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud750\ucf70\ud55c\ub2e4...",
+        "ts": "1441682450.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":fu:",
+        "ts": "1441689225.000004",
+        "reactions": [
+            {
+                "name": "fu",
+                "users": [
+                    "U0251JXSR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\ub7f0\uac8c \uc788\ub124\uc694",
+        "ts": "1441689232.000005"
+    }
+]

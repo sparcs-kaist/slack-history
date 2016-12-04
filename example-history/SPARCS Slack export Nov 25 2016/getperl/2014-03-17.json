@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "ts": "1395103721.000003"
+    },
+    {
+        "user": "U024SJ5TM",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SJ5TM|snogar> has left the channel",
+        "ts": "1395105972.000004"
+    }
+]

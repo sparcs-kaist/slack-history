@@ -1,0 +1,150 @@
+[
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "<@U024SN0K6>: \ud655\uc778\ud574\ubd24\ub294\ub370 \uc5c6\uc5b4\ub3c4 \ub40c\n\uc544\ub9c8 pillow\uae54\uace0 libjpeg\uae54\uc544\uc11c \uadf8\ub7f0\uac78\uac70\uc57c",
+        "ts": "1407918624.000239"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "libjpeg\uae54\uace0 \ub2e4\uc2dc \ud55c\ubc88 \uae54\uc544\uc57c \uc2e4\ud589\uac00\ub2a5\ud568",
+        "ts": "1407918644.000240"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/b6a58f7e3f12...5317e312126e|2 new commits>:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/b6a58f7e3f12...5317e312126e|2 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/34783500bcee|34783500bcee>: Login\uc774 \ub418\uc5c8\uc744 \ub54c\uc5d0 Logout \ubc84\ud2bc\uc73c\ub85c \ud45c\uc2dc\ud558\ub3c4\ub85d \ubcc0\uacbd - Changje Jeong\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/5317e312126e|5317e312126e>: Merge pull request #28 from changjej\/iss\/27 - JaeEui Ma",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407936246.000241"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/28|#28 Login\uc774 \ub418\uc5c8\uc744 \ub54c\uc5d0 Logout \ubc84\ud2bc\uc73c\ub85c \ud45c\uc2dc\ud558\ub3c4\ub85d \ubcc0\uacbd> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/28|#28 Login\uc774 \ub418\uc5c8\uc744 \ub54c\uc5d0 Logout \ubc84\ud2bc\uc73c\ub85c \ud45c\uc2dc\ud558\ub3c4\ub85d \ubcc0\uacbd> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407936246.000242"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/27|#27 Login \ud558\uc600\uc744 \ub54c\uc5d0 Login\ubc84\ud2bc\uc774 Logout\uc73c\ub85c \ubc14\ub00c\uc9c0 \uc54a\uc74c > by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/27|#27 Login \ud558\uc600\uc744 \ub54c\uc5d0 Login\ubc84\ud2bc\uc774 Logout\uc73c\ub85c \ubc14\ub00c\uc9c0 \uc54a\uc74c > by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407936253.000243"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud639\uc2dc \ub514\uc790\uc778\uc5d0 \uc4f0\uc778 \uae00\uc528\uccb4\uac00 \ubb54\uac00\uc694?",
+        "ts": "1407944975.000244"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc798 \ubaa8\ub974\uaca0\uc74c;;;",
+        "ts": "1407944979.000245"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/5317e312126e...86970eac7877|5 new commits>:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/5317e312126e...86970eac7877|5 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8dad766f824b|8dad766f824b>: Update requirements.txt - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/ac16ba6af2ac|ac16ba6af2ac>: Add PIL to requirements.txt - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/1676f8fbd268|1676f8fbd268>: Update README.md - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/7b5c85c06825|7b5c85c06825>: Update README.md - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/86970eac7877|86970eac7877>: Merge pull request #26 from changjej\/develop - JaeEui Ma",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407956379.000246"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/26|#26 Readme.md \ubc0f  requirements.txt \uc5c5\ub370\uc774\ud2b8 > by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/26|#26 Readme.md \ubc0f  requirements.txt \uc5c5\ub370\uc774\ud2b8 > by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407956379.000247"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "<@U024SNAD0>: \n\uc544\uc9c1 \uc9c0\ud5a5\ub204\ub098\uac00 \uae00\uc528\ub97c \ubabb\uc815\ud55c\uac78\ub85c \uc54c\uace0\uc788\uc5b4\uc694",
+        "ts": "1407956484.000248"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "<@U024SNG5N>: \n\uc800 \uac80\uc740\ubc14\ud0d5\uc740 \uc5ec\ubc31\uc774 \ub108\ubb34 \ub530\ub85c\ub530\ub85c \ub180\uc544\uc11c \ucd94\uac00\ud55c\uac74\ub370\n\ubb54\uac00 \ub2e4\ub978 \ub300\uc548\uc774 \ud544\uc694\ud560\uac70 \uac19\uae34 \ud558\ub124\uc694 \u315c\u315c",
+        "ts": "1407956545.000249"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] 1 new commit by chaos:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/584b89c83b60|1 new commit> by chaos",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/584b89c83b60|584b89c83b60>: remove django-imagefit - chaos",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407956752.000250"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1407987138.000251"
+    }
+]

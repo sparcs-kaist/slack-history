@@ -1,0 +1,84 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/past] 2 new commits pushed by o_chocho_o",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/2f9dc6307f090e37390bd018be1c766de43f63a3|2f9dc63>`  Added a README.md for gRPC client server that provides guide to local Django environment setup. - hyunsungcho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/c53e4d16131873b74fd68ee802aca8fc58cc1148|c53e4d1>`  Basic Django and MariaDB configuration for gRPC client server - hyunsungcho ",
+                "pretext": "[heartbeat\/past] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branches\/compare\/2f9dc6307f090e37390bd018be1c766de43f63a3..9accfa411027da600f4a30a83fc6090988e29cce|2 new commits> pushed by o_chocho_o",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465782544.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/past] 1 new commit force pushed by o_chocho_o",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9accfa411027da600f4a30a83fc6090988e29cce|9accfa4>`  Initial commit - Chang Won LEE ",
+                "pretext": "[heartbeat\/past] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/past|1 new commit> force pushed by o_chocho_o",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465783103.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/web-past] 4 new commits pushed by o_chocho_o",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/b2976cd706bd918b47b5239415abaccf5c981a58|b2976cd>`  Added a README.md for gRPC client server that provides guide to local Django environment setup. - hyunsungcho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/ebb3c808c60ae93aa3958505226ee8a7679e9434|ebb3c80>`  Basic Django and MariaDB configuration for gRPC client server - hyunsungcho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/aac30070c76c728e152e8f6c94ba4e23bfecf9d7|aac3007>`  README.md edited as design documentation - ChangWon Lee \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9accfa411027da600f4a30a83fc6090988e29cce|9accfa4>`  Initial commit - Chang Won LEE ",
+                "pretext": "[heartbeat\/web-past] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/web-past|4 new commits> pushed by o_chocho_o",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465793650.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request created by o_chocho_o",
+                "text": "\u2022 README.md edited as design documentation\n\u2022 Basic Django and MariaDB configuration for gRPC client server\n\u2022 Added a README.md for gRPC client server that provides guide to local Django environment setup.\n\u2022 Added to PR first to maintain workflow, but unit tests are to be added. (Do not approve yet!)",
+                "pretext": "[anyt-huh\/heartbeat] Pull request created by <https:\/\/bitbucket.org\/o_chocho_o\/|o_chocho_o>",
+                "title": "#21: Basic Django configuration for gRPC client server",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/21",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465793865.000005"
+    }
+]

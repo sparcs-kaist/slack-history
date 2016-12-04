@@ -1,0 +1,147 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#143 \ubaa8\ub378 \uc801\uc6a9 \uc2dc \ub098\ud0c0\ub098\ub294 \uc624\ub958 \uc218\uc815' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/143 by ashe-sparcs",
+                "text": "enum import \ubb38\uc81c : enum \ub514\ub809 \ub0b4\uc5d0 *init*.py \uac00 \uc5c6\ub294\uac8c \uc6d0\uc778\n\n\uadf8\uc678 \uc790\uc798\ud55c import \uc624\ud0c0\uc640  \uc778\ucf54\ub529 \uc9c0\uc815 \uc548\ud574\uc900 \uac83 \uc218\uc815\ud574\ub193\uc74c. \n\n\uc0c8\ub85c\uc6b4 \ubb38\uc81c : \uc2e4\uc11c\ubc84\uc758 migrations \ud30c\uc77c\uacfc\uc758 \ucda9\ub3cc \uac00\ub2a5\uc131.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#143 \ubaa8\ub378 \uc801\uc6a9 \uc2dc \ub098\ud0c0\ub098\ub294 \uc624\ub958 \uc218\uc815",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/143",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469374895.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/143|#143 \ubaa8\ub378 \uc801\uc6a9 \uc2dc \ub098\ud0c0\ub098\ub294 \uc624\ub958 \uc218\uc815> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/143|#143 \ubaa8\ub378 \uc801\uc6a9 \uc2dc \ub098\ud0c0\ub098\ub294 \uc624\ub958 \uc218\uc815> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469374926.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/ab152ede8f22...64c521a806ef|2 new commits> by ashe-sparcs and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/4c9d4dc099b3efe6ea2597964342c65a1ed3a760|4c9d4dc>`  \ubaa8\ub378 \uc801\uc6a9 \uc2dc \ub098\ud0c0\ub098\ub294 \uc624\ub958 \uc218\uc815. - ashe-sparcs\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/64c521a806ef58de54e1175f2b8da910c0b35555|64c521a>`  Merge pull request #143 from ashe-sparcs\/timetable - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/ab152ede8f22...64c521a806ef|2 new commits> by ashe-sparcs and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469374928.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#144 [\uacfc\ubaa9\uc0ac\uc804] SPARCS SSO \uc0ac\ub9dd \uc2dc \uc608\uc678\ucc98\ub9ac' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/144 by ashe-sparcs",
+                "text": "SPARCS SSO\uac00 \uc0ac\ub9dd \uc2dc\uc5d0 \uc0c8\ub85c \ub85c\uadf8\uc778 \uc2dc\ub3c4\ud558\uba74 500 \uc5d0\ub7ec \ub728\ub294\ub370 \uc774\uac70 \uc608\uc678\ucc98\ub9ac\ud574\uc11c \ub85c\uadf8\uc778 \ub9c9\uace0 \uc77d\uae30 \uc804\uc6a9\uc73c\ub85c\ub9cc\n\n\ubcfc \uc218 \uc788\ub3c4\ub85d \ud558\uae30.",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#144 [\uacfc\ubaa9\uc0ac\uc804] SPARCS SSO \uc0ac\ub9dd \uc2dc \uc608\uc678\ucc98\ub9ac",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/144",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469421700.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#145 [\uacfc\ubaa9\uc0ac\uc804] \ud6c4\uae30 (\uc790\ub3d9)\uc784\uc2dc\uc800\uc7a5 \uae30\ub2a5' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/145 by ashe-sparcs",
+                "text": "\ud6c4\uae30\ub3c4 \uc774\uba54\uc77c \uc791\uc131 \uc2dc\ucc98\ub7fc \uc784\uc2dc\uc800\uc7a5 \uae30\ub2a5\uc774 \uc788\uc5c8\uc73c\uba74 \uc88b\uaca0\uc2b5\ub2c8\ub2e4. \n\noptional\ub85c \uc911\uac04\uc5d0 \uc11c\ubc84 \uc5f0\uacb0\uc774 \ub04a\uae30\ub294 \ub4f1\uc758 \uc0c1\ud669\uc5d0 \ub300\ube44\ud558\uc5ec \uc77c\uc815 \uc2dc\uac04 \uac04\uaca9\uc73c\ub85c \uc790\ub3d9 \uc784\uc2dc\uc800\uc7a5\uc774 \uc788\uc5b4\ub3c4 \uc88b\uc744 \uac83\n\n\uac19\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#145 [\uacfc\ubaa9\uc0ac\uc804] \ud6c4\uae30 (\uc790\ub3d9)\uc784\uc2dc\uc800\uc7a5 \uae30\ub2a5",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/145",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469421825.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/master|[otlplus:master]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/96c933b0977b2034a1071a50c50fce38fdf25cf6|1 new commit> by Kim, Jae-Sung",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/96c933b0977b2034a1071a50c50fce38fdf25cf6|96c933b>`  Update README.md - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/master|[otlplus:master]> 1 new commit by Kim, Jae-Sung:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469428863.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by isyangban on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/144#issuecomment-234853279|#144: [\uacfc\ubaa9\uc0ac\uc804] SPARCS SSO \uc0ac\ub9dd \uc2dc \uc608\uc678\ucc98\ub9ac>",
+                "text": "\uc77d\uae30 \uc804\uc6a9\uc73c\ub85c\ub9cc \ubcfc \uc218 \uc788\uac8c \ud55c\ub2e4\ub294 \uac8c \uc815\ud655\uc774 \ubb34\uc2a8 \uc758\ubbf8\uc778\uc9c0 \ubaa8\ub974\uaca0\ub124\uc694. ",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by isyangban on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/144#issuecomment-234853279|#144: [\uacfc\ubaa9\uc0ac\uc804] SPARCS SSO \uc0ac\ub9dd \uc2dc \uc608\uc678\ucc98\ub9ac>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469429205.000005"
+    }
+]

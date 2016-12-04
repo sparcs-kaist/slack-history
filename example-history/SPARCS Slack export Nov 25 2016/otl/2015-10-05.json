@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "<@U041VNW3G>\n\uac1c\ubc1c \uc9c4\ud589\uc774 \uc5b4\ub5bb\uac8c \ub418\uace0 \uc788\ub098\uc694? \uae30\ud68d \ud68c\uc758\ub77c\ub358\uac00 \ub41c\uac8c \uc788\ub294\uc9c0?",
+        "ts": "1444041104.000002"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\uc9c0\ub09c\uc8fc \uae08\uc694\uc77c\uc5d0 \uae30\ud68d \ud68c\uc758\ub97c \ud588\uace0 \uba54\uc77c\ub9c1 \ud30c\uba74 \ud68c\uc758\ub85d \ub3cc\ub9ac\ub824\uace0 \ud569\ub2c8\ub2e4",
+        "ts": "1444041672.000003"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "<@U04J6LN3W>: \uba54\uc77c\ub9c1 \ud30c\ub2ec\ub77c\uace0 \uc598\uae30\ud588\uc5b4\uc694!",
+        "ts": "1444041737.000004"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\uc2dc\ud5d8\uc804\uc5d0 \uac1c\ubc1c\ud658\uacbd \uc138\ud305\uc774\ub791 \ubc30\ubd84\ud558\uace0 \uc911\uac04\ub05d\ub098\uc790\ub9c8\uc790 \ubc14\ub85c \uc2dc\uc791\ud560 \uc0dd\uac01\uc785\ub2c8\ub2e4",
+        "ts": "1444041822.000005"
+    },
+    {
+        "user": "U024WGSD3",
+        "topic": "otlplus@sparcs.org \uba54\uc77c\ub9c1 \uad6c\ub3c5\ud574\uc8fc\uc138\uc694",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024WGSD3|undead> set the channel topic: otlplus@sparcs.org \uba54\uc77c\ub9c1 \uad6c\ub3c5\ud574\uc8fc\uc138\uc694",
+        "ts": "1444050520.000006"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\uba54\uc77c\ub9c1 \ud30c\uc84c\uace0 \ud68c\uc758\ub85d \ub3cc\ub838\uc2b5\ub2c8\ub2e4!",
+        "ts": "1444055064.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc5b8\ub354\ub85c\ub3c4 \uba54\uc77c\ub9c1 \ub9cc\ub4e4\uc5b4\uc84c\uc73c\ub2c8 \uad00\uc2ec\uc788\uc73c\uc2e0 \ubd84\ub4e4 edalias \ud1b5\ud574 \uad6c\ub3c5\ud558\uc2dc\ub77c\uace0 \uc548\ub0b4\ud574\ub4dc\ub9ac\ub834",
+        "ts": "1444055132.000008"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\ub135",
+        "ts": "1444056209.000009"
+    },
+    {
+        "user": "U0B6LUY3C",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U0B6LUY3C|bes> has left the channel",
+        "ts": "1444106434.000010"
+    }
+]

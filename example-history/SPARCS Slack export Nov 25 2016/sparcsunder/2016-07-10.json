@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc774\uc2a4\ud2b8\uc18c\ud504\ud2b8\uc5d0\uc11c \ud604\uc7ac \ud604\uc5ed \ubcd1\ud2b9 \ucc44\uc6a9\uc911\uc785\ub2c8\ub2e4 <http:\/\/www.estsoft.co.kr\/Default.aspx?wbs=5.0.3.5&amp;rcrtid=R201601150002>",
+        "attachments": [
+            {
+                "title": "\ub290\ub08c\uc774 \uc88b\uc740 \ud68c\uc0ac - (\uc8fc)\uc774\uc2a4\ud2b8\uc18c\ud504\ud2b8 - \ucc44\uc6a9\uacf5\uace0",
+                "title_link": "http:\/\/www.estsoft.co.kr\/Default.aspx?wbs=5.0.3.5&rcrtid=R201601150002",
+                "text": "\uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\ud68c\uc0ac \/ \uc774\uc2a4\ud2b8\uc18c\ud504\ud2b8\ub294 1993\ub144 10\uc6d4 2\uc77c\uc5d0 \uc124\ub9bd\ub41c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\ud68c\uc0ac\ub85c\uc11c \ud3b8\ub9ac\ud568, \uc990\uac70\uc6c0, \uc548\uc804\ud568\uc758 \uac00\uce58\ub97c \ub2f4\uc740 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \ud1b5\ud574 \ubcf4\ub2e4 \ub098\uc740 \uc0b6\uc758 \uac00\uce58\ub97c \uc81c\uacf5\ud558\uace0\uc790 \ub178\ub825\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.ESTsoft\uc758 EST\ub294 Emotional Science &amp; Technology\ub85c \uac10\uc131.\uacfc\ud559.\uae30\uc220\uc744 \ub73b\ud558\uba70, \ucef4\ud4e8\ud130\uc758 \uacfc\ud559 \uae30\uc220\ub85c \uc778\uac04\uc758 \uc0b6\uc744 \ub354\uc6b1 \ud48d\uc694\ub86d\uac8c \ud558\uace0\uc790 \ud558\ub294 \uc774\uc2a4\ud2b8\uc18c\ud504\ud2b8\uc758 \uac00\uce58\ub97c \ub2f4\uace0 \uc788\ub294 \uc774\ub984\uc785\ub2c8\ub2e4.",
+                "fallback": "\ub290\ub08c\uc774 \uc88b\uc740 \ud68c\uc0ac - (\uc8fc)\uc774\uc2a4\ud2b8\uc18c\ud504\ud2b8 - \ucc44\uc6a9\uacf5\uace0",
+                "image_url": "http:\/\/www.estsoft.co.kr\/images\/sns_thumb.jpg",
+                "from_url": "http:\/\/www.estsoft.co.kr\/Default.aspx?wbs=5.0.3.5&rcrtid=R201601150002",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13782,
+                "service_icon": "http:\/\/www.estsoft.co.kr\/images\/sns_thumb.jpg",
+                "service_name": "estsoft.co.kr",
+                "id": 1
+            }
+        ],
+        "ts": "1468162553.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<@U024WGSD3> <@U0251JXSR>",
+        "ts": "1468212307.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": ":joy:",
+        "ts": "1468212337.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": ":worried:",
+        "ts": "1468212924.000010"
+    }
+]

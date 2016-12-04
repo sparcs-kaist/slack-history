@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U026NDWJW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U026NDWJW|apple> has joined the channel",
+        "ts": "1449160606.000003"
+    },
+    {
+        "user": "U026NDWJW",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U026NDWJW|apple> has left the channel",
+        "ts": "1449160624.000004"
+    }
+]

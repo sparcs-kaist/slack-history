@@ -1,0 +1,40 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:channel] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d5bbe6f1f351fc2252bcfa37672a9acaf54fb8de|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d5bbe6f1f351fc2252bcfa37672a9acaf54fb8de|d5bbe6f>: \ucc44\ub110 \uae00\uc4f0\uae30 \ud398\uc774\uc9c0 \ud504\ub860\ud2b8 \uc791\uc5c5\ud568(\ud30c\uc77c \uad00\ub828\ub41c \ubd80\ubd84\uc740 board \uc704\uc9c0\uc705 \ud574\uacb0 \ud6c4 \ud55c\uaebc\ubc88\uc5d0 \ud560 \uc608\uc815) - TaeHyun",
+                "pretext": "[araplus:channel] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446551631.000026"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uac13\ud0dc\ud604 \uce90\ub9ac\uac01",
+        "ts": "1446551653.000027"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\ubcf4\ub4dc\uaebc \ubcf5\ubd99\ud588\ub294\ub370 \u314e\u314e..",
+        "ts": "1446552093.000028"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1446552635.000029"
+    }
+]

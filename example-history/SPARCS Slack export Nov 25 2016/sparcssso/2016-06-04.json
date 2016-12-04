@@ -1,0 +1,121 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/210e17d3d2a0...5daa4481eb56|2 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a980f2fbe3e432429bde25fb396c15df63dfb9a6|a980f2f>`  fix statistics page and backend - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5daa4481eb564785cd32fc194e4467cc2cbd46a1|5daa448>`  Merge branch 'develop' of <https:\/\/github.com\/sparcs-kaist\/sparcssso> into develop - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/210e17d3d2a0...5daa4481eb56|2 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465028701.000089"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a9a0d7f2141f94f3c267c3741e92a850d4b8b4a7|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a9a0d7f2141f94f3c267c3741e92a850d4b8b4a7|a9a0d7f>`  set max time diff=10s on logout #67 - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465028928.000090"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#70 Deploy' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/70 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#70 Deploy",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/70",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465028961.000091"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/70|#70 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/70|#70 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465028967.000092"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/ecc02b04c663...8303f1b4f8cb|6 new commits> by pipoket and 3 others",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/02c15eb1f3f27650afa5ec156b6efef091500261|02c15eb>`  Fix typo in translation file on line 158 - pipoket\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/210e17d3d2a0512052725f0238ee28f2576c6877|210e17d>`  Merge pull request #69 from pipoket\/patch-1 - Chang Won LEE\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a980f2fbe3e432429bde25fb396c15df63dfb9a6|a980f2f>`  fix statistics page and backend - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5daa4481eb564785cd32fc194e4467cc2cbd46a1|5daa448>`  Merge branch 'develop' of <https:\/\/github.com\/sparcs-kaist\/sparcssso> into develop - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a9a0d7f2141f94f3c267c3741e92a850d4b8b4a7|a9a0d7f>`  set max time diff=10s on logout #67 - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8303f1b4f8cb05a8021d94bd25b11153d434a14a|8303f1b>`  Merge pull request #70 from sparcs-kaist\/develop - Sam Brad Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/ecc02b04c663...8303f1b4f8cb|6 new commits> by pipoket and 3 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465028968.000093"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/67|#67 Set abs(time diff)=10s on \/api\/logout> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/67|#67 Set abs(time diff)=10s on \/api\/logout> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465028974.000094"
+    }
+]

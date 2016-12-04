@@ -1,0 +1,185 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/592ac2f9196d7de03604d9a4648d9afc95f414d3|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/592ac2f9196d7de03604d9a4648d9afc95f414d3|592ac2f>: refactoring in progress \/ done for auth, password - Sam Jo",
+                "pretext": "[sparcssso:develop] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453197379.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud3ec\uc778\ud2b8-\ub77d \uc774\uc288 \uc788\uc74c: \uc774\uc288\ub85c \ub0a8\uae38 \uac83",
+        "ts": "1453213454.000033"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#26 Point Lock' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26 by a1sams1a",
+                "text": "Point Lock\uc744 \ub9cc\ub4e4\uc5b4\uc57c \ud55c\ub2e4.\n\ucd94\ud6c4 \uc2a4\ud399 \uacb0\uc815",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#26 Point Lock",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453213761.000034"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26#issuecomment-172870834|#26: Point Lock> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\uacfc\uc5f0 lock\uc744 \uac78\uc5b4\uc57c \ud560 \uc815\ub3c4\ub85c request\uac00 \ub3d9\uc2dc\uc5d0 \uc62c \uac00\ub2a5\uc131\uc774 \uc5bc\ub9c8\ub098..? \ub3d9\uc2dc\uc5d0 \ub313\uae00 \ub2ec\uae30 \ubc84\ud2bc\uc744 \ub204\ub974\uc9c0 \uc54a\ub294 \ud55c \uae00\uc384....",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26#issuecomment-172870834|#26: Point Lock> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453213958.000035"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26#issuecomment-172871251|#26: Point Lock> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\uadf8\ub0e5 \ud074\ub77c\uc774\uc5b8\ud2b8\ub85c \uc77c\uac70\ub9ac\ub97c \ubbf8\ub8f0\uac00\uc694...?",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26#issuecomment-172871251|#26: Point Lock> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453214067.000036"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26#issuecomment-172872112|#26: Point Lock> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\uad73\uc774 \ud560 \uc774\uc720\uac00 \uc788\uc744\uae4c \uc2f6\uc74c... \ud55c \uc720\uc800\uac00 \ub3d9\uc2dc\uc5d0 \ub9ac\ud018\uc2a4\ud2b8\ub97c \ub450 \uac1c \uc774\uc0c1 \uc3e0 \uac00\ub2a5\uc131\uc774 \ub098\ub294 \uac70\uc758 \uc5c6\ub2e4\uace0 \ubcf4\ub294\ub370 \uc5b4\ub5bb\uac8c \uc0dd\uac01\ud558\ub294\uc9c0?",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/26#issuecomment-172872112|#26: Point Lock> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453214277.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc6d0\ub798 race condition\uc774 10\ub9cc\ubc88\uc5d0 \ud55c\ubc88 \uc77c\uc5b4\ub098\uace0 \uadf8\ub7f0\ub370",
+        "ts": "1453228615.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubb34\uc2dc\ud558\ub294 \uacb0\uc815\uc774 \uc720\ud6a8\ud55c\uc9c0 \ubaa8\ub974\uaca0\ub124",
+        "ts": "1453228653.000039"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc7f9\uace0 \uc790\uccb4\ub3c4 \uc53d\uae00\ub728\ub808\ub4dc\ub85c \ub3cc\uace0\uc788\uace0",
+        "ts": "1453258045.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub3d9\uc2dc\uc5d0 \ub450 \ucef4\ud4e8\ud130\uc5d0\uc11c SPARCS SSO\ub85c \ub85c\uadf8\uc778\ud574\uc11c \ub9ac\ud018\uc2a4\ud2b8\ub97c \ub0a0\ub824\uc57c",
+        "ts": "1453258064.000041"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "point \uc774\uc288\uac00 \uc0dd\uae30\ub294\ub370",
+        "ts": "1453258070.000042"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\ub294 \uc5b4\ucc0c \uc0dd\uac01\ud558\uc2dc\ub294\uc9c0\uc694?",
+        "ts": "1453258073.000043"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544 \uc74c",
+        "ts": "1453258079.000044"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544\ub77c \ucd94\ucc9c\uacfc \uc544\ub77c \ub313\uae00\uc774 \uac19\uc774 \ub2ec\ub9b0\ub2e4\uac70\ub098 \ud558\ub294 \uc0c1\ud669\uc740 \uc788\uaca0\ub124\uc694",
+        "ts": "1453258088.000045"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc911\uc694\ud55c\uac70\ub294 \uc7f9\uace0\uac00 \uc53d\uae00\ub728\ub808\ub4dc\ub85c \ub3c8\ub2e4\ub294 \uac83\uc774\uaca0\uc9c0\uc694",
+        "ts": "1453258097.000046"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544.....",
+        "ts": "1453258268.000047"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c.......",
+        "ts": "1453258270.000048"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud5f7\uac08\ub9ac\ub124\uc694\uc624",
+        "ts": "1453258272.000049"
+    }
+]

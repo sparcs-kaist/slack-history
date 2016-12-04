@@ -1,0 +1,184 @@
+[
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc74c \uc2dc\uac04\uc774 \ub420\uc9c0 \ubaa8\ub974\uaca0\uc9c0\ub9cc",
+        "ts": "1476362212.000477"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uac04\ub2e8\ud788 \ubcf8\uaca9 \uc784\ubca0\ub514\ub4dc \uac1c\ubc1c \uac8c\uc784 (...)",
+        "ts": "1476362229.000478"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud5db",
+        "ts": "1476362235.000479"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uba85\ub2e8\uc5d0 \uc62c\ub824\ub4dc\ub9b4\uae4c\uc694? \uc81c\uac00 \ube60\ub974\uac8c \ub05d\ub0b4\ub824\uba74 \ube60\ub974\uac8c \ub05d\ub0bc \uc218 \uc788\ub294 \uc778\ud2b8\ub85c\ub77c\uc11c \ub9d0\uc774\uc9c0\uc694!",
+        "ts": "1476362248.000480"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc2ec\ucc9c I\/O (Shenzhen I\/O)",
+        "ts": "1476362253.000481"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc601\uc5c5\uc744 \ud574\ubcfc\uae4c \ud569\ub2c8\ub2e4",
+        "ts": "1476362266.000482"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub135 \uc88b\uc2b5\ub2c8\ub2e4!",
+        "ts": "1476362270.000483"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc2a4\ud30d\uc2a4 \uc5ec\ub7ec\ubd84\uacfc \ud568\uaed8\ud558\uba74 \uc7ac\ubbf8\uac00 \ub450 \ubc30\uc77c \uac83 \uac19\uc740 \uac15\ucd94 \uac8c\uc784\uc774\uc5d0\uc694! \u314b\u314b",
+        "ts": "1476362294.000484",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U024U2P7Y",
+                    "U0B6FN5MH",
+                    "U024SPDHG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc774\ubc88\uc5d4 \uac8c\uc784 \ud314\uace0 \ub2e4\uc74c\uc5d0\ub294 \ucc45\uc774\ub098 \ud314\uc544\ubcfc\uae4c...",
+        "ts": "1476362410.000487"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc644\uc18c SF \uc18c\uc124 \uc0bc\uccb4 \uc18c\uac1c \ub77c\uac70\ub098 ;;;",
+        "ts": "1476362430.000488",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U024SPDHG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ucc3d\uc5c5\ud560 \ub54c \ud544\uc694\ud55c \uac83\ub4e4\uc774\ub77c\ub2c8 \uc815\ub9d0 \uac10\uc0ac\ud558\uae34 \ud558\uc9c0\ub9cc \ub108\ubb34 \uc2ec\uac01\ud574\uc9c0\ub294 \uac83 \uac19\uc544\uc11c",
+        "ts": "1476362476.000489"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub204\uac00 \ubd10\ub3c4 \uc548 \uc2ec\uac01\ud55c \uac8c\uc784 \uc18c\uac1c\ub97c \ud558\ub824\uace0\uc694",
+        "ts": "1476362494.000490"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc544\ub2c8\uba74 \uc218\uc694?\uc5d0 \ub530\ub77c\uc11c",
+        "ts": "1476362824.000491"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc694\uc998 \ubcf4\ub294 Worst-case Optimal Join Algorithms",
+        "ts": "1476362834.000492"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubc1c\ud45c\ub97c \ud560 \uc218\ub3c4 \uc788\uc2b5\ub2c8\ub2e4 \uadfc\ub370 \uc124\ub9c8 \uadf8\ub7f0\uac78 \uc6d0\ud558\uc2dc\ub098\uc694",
+        "ts": "1476362852.000493"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "2010\ub144\ub300(!) \ub4e4\uc5b4\uc11c \uae30\uc874 DB \uc774\ub860\uc744 \ub4a4\uc5ce\ub294 \uc0c8\ub85c\uc6b4 join \uc54c\uace0\ub9ac\uc998\ub4e4\uc774 \ub098\uc654\ub2e4\ub294 \uc0ac\uc2e4!",
+        "ts": "1476362916.000494"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud5c9",
+        "ts": "1476363167.000495"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud3b8\ud558\uc2e0 \ucabd\uc73c\ub85c \ud574\uc8fc\uc138\uc694 \ud5e4\ud5e4\ud5e4",
+        "ts": "1476363170.000496"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubc18\ubc18 \ud574\uc57c\uc9c0 \u314b\u314b",
+        "ts": "1476363207.000497"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":+1:",
+        "ts": "1476363222.000498"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc815\ub9d0 \uc774\uc0c1\ud55c \ubc1c\ud45c \ub418\uaca0\ub2e4 \u314b\u314b",
+        "ts": "1476363226.000499"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ud558\ub098\ub294 \ub2e4\uc74c \ub2ec\uc5d0 \ud560\uac8c\uc694 \uc4f0\ub824\uace0 \ubcf4\ub2c8 \ub2e4\uc74c \ub2ec\uc5d0\ub294 \ub610 \ub2e4\uc74c \ub2ec \uc18c\uc7ac\uac00 \uc788\uc744 \uac83 \uac19\ub124\uc694",
+        "ts": "1476363268.000500"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc2ec\ucc9c I\/O\uc640 \uc870\uc778 \uc54c\uace0\ub9ac\uc998, \uc73c\ub85c \ub05d\uc5d0 \ub123\uc5b4\uc8fc\uc138\uc694~",
+        "ts": "1476363406.000501"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub135!",
+        "ts": "1476363711.000502"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc800\ub3c4 \uac00\ubccd\uac8c \uc900\ube44\ud560 \uc608\uc815\uc785\ub2c8\ub2e4 \u314b\u314b\u314b",
+        "ts": "1476407898.000504"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uc2ec\ucc9c\uc774 \ubb54\uac00\uc694\u314b\u314b\n",
+        "ts": "1476408162.000505"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uc544 \uc704\uc5d0 \uc2a4\ud3a0\ub9c1\uc774 \uc788\ub124\uc694\u314b\u314b\n",
+        "ts": "1476408209.000506"
+    }
+]

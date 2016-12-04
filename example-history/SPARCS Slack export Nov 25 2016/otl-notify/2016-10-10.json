@@ -1,0 +1,44 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#182 \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30. ' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182 by ashe-sparcs",
+                "text": "\uc5ec\ud0dc\uae4c\uc9c0 \uc810\uac80\uc774\ub098 \uc5c5\ub370\uc774\ud2b8\ub97c \ud560\ub54c\uba74 \ud398\uc774\uc2a4\ubd81, \uc544\ub77c\uc5d0 \uae00\ub9cc \uc62c\ub9ac\uace0 \uc624\ud2f0\uc5d8 \uc11c\ubc84\ub97c \ub0b4\ub838\uc5c8\uc5c8\uc2b5\ub2c8\ub2e4. \uadf8\ub798\uc11c \uc624\ud2f0\uc5d8\ub85c \uc811\uc18d\ud558\uba74 \uadf8\ub0e5 \"\ud398\uc774\uc9c0\ub97c \ud45c\uc2dc\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4\"\ub77c\uace0 \ub5b4\ub294\ub370 @ojh3636 \ub2d8\uc758 \uc758\uacac\uc744 \ubc1b\uc544\ub4e4\uc5ec\uc11c \uc810\uac80\uc774\ub098 \uc5c5\ub370\uc774\ud2b8 \ub0b4\uc6a9\uc744 \uc548\ub0b4\ud558\ub294 \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0\ub97c \uc62c\ub9ac\ub3c4\ub85d \ubc14\uafb8\uba74 \uc88b\uaca0\ub2e4\ub294 \uc0dd\uac01\uc774 \ub4e4\uc5c8\uc2b5\ub2c8\ub2e4. \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0\uc9c0\ub9cc, \uc810\uac80, \uc5c5\ub370\uc774\ud2b8 \ub4f1 \uc5ec\ub7ec \uc0c1\ud669\uc5d0 \uc720\uc5f0\ud558\uac8c \ub300\uc751\ud560 \uc218 \uc788\ub3c4\ub85d \ud2c0\uc744 \uc798 \uc9f0\uc73c\uba74 \ud569\ub2c8\ub2e4. \uad6c\ud604 \uc790\uccb4\ub294 \uc5b4\ub835\uc9c0 \uc54a\uc744 \uac83 \uac19\uc544\uc11c \ud604\uc7ac \ubc31\uc5d4\ub4dc \uac1c\ubc1c \ub09c\ud56d\uc73c\ub85c \ubd80\ub2f4\uc2a4\ub7ec\uc6b4 \uc0c1\ud669\uc5d0\uc11c \uc27d\uac8c 1\ucee4\ubc0b \ud558\uc2e4 \uc218 \uc788\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4. \uac1c\uafc0~",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#182 \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30. ",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1476115834.000070"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182#issuecomment-252667368|#182: \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30.>",
+                "text": "\uba3c\uc800 \uc7a1\ub294 \uc0ac\ub78c\uc774 \uc784\uc790~",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/182#issuecomment-252667368|#182: \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uc810\uac80, \uc5c5\ub370\uc774\ud2b8, \uc624\ub958 \ubc1c\uc0dd \ub4f1\uc744 \uc704\ud55c \uc2a4\ud0dc\ud2f1 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30.>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1476115845.000071"
+    }
+]

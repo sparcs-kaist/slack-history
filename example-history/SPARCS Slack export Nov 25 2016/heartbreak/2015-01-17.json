@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\ucc30\uc81c \uccab \uc9e4..",
+        "ts": "1421492324.000021"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uac15\ud558\ub2e4...",
+        "ts": "1421492327.000022"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1421498750.000023"
+    }
+]

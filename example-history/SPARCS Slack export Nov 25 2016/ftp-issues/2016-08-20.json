@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uc0c1\ud558\ub124.. \uc5b8\uc81c\ub294 \ub610 \uc798\ub418\uace0...",
+        "ts": "1471676490.000105"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub610 \uc7ac\ubd80\ud305\ud574\uc57c\ud558\ub098 \u3147\u3141\u3147...",
+        "ts": "1471692747.000106"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadfc\ub798 \uc7ac\ubd80\ud305\ud558\uba74 \uc5c4\uccad \uc798 \ub418\ub294 \uacbd\uc6b0\ub97c \uc790\uc8fc \ubcf8 \uac70 \uac19\uc740\ub370...",
+        "ts": "1471692766.000107"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F23BGKWFR\/pasted_image_at_2016_08_21_12_28_pm.png|Pasted image at 2016-08-21, 12:28 PM>",
+        "file": {
+            "id": "F23BGKWFR",
+            "created": 1471750124,
+            "timestamp": 1471750124,
+            "name": "Pasted image at 2016_08_21 12_28 PM.png",
+            "title": "Pasted image at 2016-08-21, 12:28 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 3613,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F23BGKWFR\/pasted_image_at_2016_08_21_12_28_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F23BGKWFR\/download\/pasted_image_at_2016_08_21_12_28_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F23BGKWFR-4a42bad447\/pasted_image_at_2016_08_21_12_28_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F23BGKWFR-4a42bad447\/pasted_image_at_2016_08_21_12_28_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F23BGKWFR-4a42bad447\/pasted_image_at_2016_08_21_12_28_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 259,
+            "thumb_360_h": 115,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F23BGKWFR-4a42bad447\/pasted_image_at_2016_08_21_12_28_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 259,
+            "original_h": 115,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F23BGKWFR\/pasted_image_at_2016_08_21_12_28_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F23BGKWFR-5af8355d9d",
+            "channels": [
+                "C02EBG12E"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1471750125.000108"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub0b4\ubd80\ub9dd\uc778\ub370 \uc65c\uc774\ub7ec\uc8e0..",
+        "ts": "1471750132.000109"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "10G \uad50\uccb4\ub294 \uc544\uc9c1\uc774\uc8e0?",
+        "ts": "1471750143.000110"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub2e4\ub4e4 \ub2e4\uc74c\uc774 \ub300\uc138\uc774\uae34\ud55c\ub370",
+        "ts": "1471750160.000111"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc560\uc815\uc73c\ub85c \uc4f0\ub824\uace0 \ud574\ub3c4 \uc880 \ub9ce\uc774 \ubd88\ud3b8\ud558\ub124\uc694",
+        "ts": "1471750169.000112"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "\uc74c \uc800\ub294 \ud559\uad50\uc5d0\uc11c 6~9MB\/s \uac00 \ub098\uc624\ub124\uc694... \uc65c \uadf8\ub7f4\uae4c\uc694.",
+        "ts": "1471762438.000113"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "10G \uad50\uccb4\ub294 \uc544\uc9c1\uc785\ub2c8\ub2e4..",
+        "ts": "1471762445.000114"
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc9c0\uae08 \uc678\ubd80\uc5d0\uc11c sparcs.org\ub791 <http:\/\/otl.kaist.ac.kr|otl.kaist.ac.kr> \uc811\uc18d\uc774 \uc548 \ub418\ub294 \uac70 \uac19\uc740\ub370 \ud639\uc2dc \ubb34\uc2a8 \uc774\uc288 \uc788\ub098\uc694?",
+        "ts": "1470648247.000096"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U024SPDHG>: \uc804 \ub418\ub294\ub370\uc694",
+        "ts": "1470648352.000097"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ub9dd \uad00\ub828 \uc815\ubcf4\uac00?",
+        "ts": "1470648355.000098"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc804 SKT \uc774\ub3d9\ud1b5\uc2e0\ub9dd\uc5d0\uc11c \ubb38\uc81c\uc81c\ub85c.",
+        "ts": "1470648379.000099"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc120\ub989\uc5ed \ub514\ucea0\ud504...",
+        "ts": "1470648380.000100"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud68c\uc120\uc740 \uc5b4\ub514\uaec0\uc9c0 \ub098\ub3c4 \uc798 \ubaa8\ub974\uaca0...\u314b\u314b",
+        "ts": "1470648385.000101"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc811\uc18d\ud558\uba74 \ubb34\ud55c \"\uc5f0\uacb0 \uc911...\"",
+        "ts": "1470648417.000102"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "nslookup\uc740 \uc798 \ub418\uace0",
+        "ts": "1470648436.000103"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud2b8\ub808\uc774\uc2a4\ub8e8\ud2b8\ub294\uc694?",
+        "ts": "1470648448.000104"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "DNS \uc11c\ubc84\ub85c \ucd94\uc815\ucee8\ub300 KT\ud68c\uc120\uc774 \uc544\ub2d0\uae4c \uc2f6...",
+        "ts": "1470648450.000105"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3147\u314e",
+        "ts": "1470648453.000106"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "traceroute\ub85c\ub294 \ub3c4\ub2ec\ud558\ub294\ub370?",
+        "ts": "1470648494.000107"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud760;",
+        "ts": "1470648495.000108"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud760;",
+        "ts": "1470648506.000109"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "```\n&gt; traceroute -d <http:\/\/otl.kaist.ac.kr|otl.kaist.ac.kr>\ntraceroute to <http:\/\/otl.kaist.ac.kr|otl.kaist.ac.kr> (143.248.234.218), 64 hops max, 52 byte packets\n 1  172.16.0.1 (172.16.0.1)  2.031 ms  1.256 ms  2.173 ms\n 2  172.20.1.1 (172.20.1.1)  0.310 ms  0.414 ms  0.501 ms\n 3  220.117.166.254 (220.117.166.254)  1.111 ms  0.463 ms  0.669 ms\n 4  * * *\n 5  112.189.29.193 (112.189.29.193)  17.679 ms  1.087 ms  1.021 ms\n 6  112.174.119.197 (112.174.119.197)  1.522 ms\n    112.174.119.209 (112.174.119.209)  1.529 ms\n    112.174.58.17 <tel:(112.174.58.17|(112.174.58.17>)  1.509 ms\n 7  112.174.78.46 <tel:(112.174.78.46|(112.174.78.46>)  5.196 ms  4.044 ms  3.839 ms\n 8  211.44.125.197 (211.44.125.197)  4.819 ms  4.543 ms  2.802 ms\n 9  58.229.10.149 (58.229.10.149)  4.174 ms  4.459 ms  7.972 ms\n10  58.229.11.86 (58.229.11.86)  7.590 ms  5.231 ms  7.930 ms\n11  * * *\n12  118.217.108.42 (118.217.108.42)  4.096 ms  4.126 ms  4.154 ms\n13  123.212.24.138 (123.212.24.138)  3.994 ms  4.134 ms  4.105 ms\n14  143.248.117.4 (143.248.117.4)  4.496 ms  4.335 ms  4.293 ms\n15  143.248.117.29 (143.248.117.29)  6.583 ms  7.710 ms  6.215 ms\n16  143.248.117.73 (143.248.117.73)  7.257 ms  6.136 ms  6.736 ms\n17  <http:\/\/otl.kaist.ac.kr|otl.kaist.ac.kr> (143.248.234.218)  6.285 ms  5.490 ms  6.260 ms\n```",
+        "ts": "1470648508.000110"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "ftp \ub294 \uc811\uc18d \ub418\uc138\uc694?",
+        "ts": "1470648527.000111"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc544\ub77c\ub294?",
+        "ts": "1470648528.000112"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc544\ub77c\ub294 \uc798 \ub418\uace0",
+        "ts": "1470648531.000113"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc544\ub77c\ub791 \uc624\ud2f0\uc5d8\uc774\ub791 \uac19\uc740 \ubb3c\ub9ac\uc11c\ubc84\ub77c\uc11c",
+        "ts": "1470648535.000114"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "ftp\ub3c4 \uc798 \ub418\uace0.",
+        "ts": "1470648540.000115"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc9c4\uc9dc \uc2e0\uae30\ud55c \ud604\uc0c1\uc77c\uc138..",
+        "ts": "1470648541.000116"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub2f5\uc740 \ud558\ub098\ubc16\uc5d0 \uc5c6\ub124\uc694",
+        "ts": "1470648552.000117"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ubc29\ud654\ubcbd\uc5d0 \ub610 \ubb34\uc2a8\uc9d3\uc744...",
+        "ts": "1470648557.000118"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "VM\uc774\ub098 \ucee8\ud14c\uc774\ub108\uac00 \uc8fd\uc5c8\ub098",
+        "ts": "1470648558.000119"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\u314b\u314b\u314b\u314b",
+        "ts": "1470648562.000120"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc800\ub3c4 \ub458\ub2e4 \uc798 \ub429\ub2c8\ub2e4",
+        "ts": "1470648565.000121"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc608\uc804\uc5d0\ub3c4 \ud55c\ubc88 \ubc29\ud654\ubcbd\uc774 \uc8fd\uc5b4\uc11c",
+        "ts": "1470648571.000122"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud074\ub77c\uc774\uc5b8\ud2b8\uc5d0 \ub530\ub77c \ubcf5\ubd88\ubcf5\uc73c\ub85c \uc811\uc18d\uc774 \ub418\uace0 \uc548\ub418\uace0 \ud588\ub358 \uc801\uc774 \uc788\uc5c8\uc9c0",
+        "ts": "1470648581.000123"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud559\uad50 \uc778\uc99d\uc11c \uc124\uce58\ud55c \uc0c1\ud0dc\uc5d0\uc11c letsencrypt\ub85c \uadf8\ub0e5 \ubc14\uafb8\uba74 \uc6d0\ub798\ub294 \ud559\uad50 \ubc29\ud654\ubcbd\uc774 SSL\uc744 \uc911\uac04\uc5d0 proxy \ucc98\ub9ac\ud574\ubc84\ub824\uc11c \uc678\ubd80\uc5d0\uc11c\ub294 \uacc4\uc18d \ud559\uad50 \uc778\uc99d\uc11c\uac00 \ubcf4\uc5ec\uc57c \ud558\ub294\ub370 \ub9c9 letsencrypt\ub85c \ubcf4\uc778\ub2e4\uace0 \uc88b\uc544\ud588\ub2e4\uac00",
+        "ts": "1470648622.000124"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc54c\uace0\ubcf4\ub2c8 \ubc29\ud654\ubcbd\uc774 \uc8fd\uc5b4\uc11c \uadf8\ub7f0 \uac70\uc600\ub2e4\ub294 \uc0ac\uc2e4\uc744 \uae68\ub2ec\uc740 \uc801\uc774..",
+        "ts": "1470648628.000125"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ucc38\uace0\ub85c \uc774\ubbf8 \ud559\uad50 \uc778\uc99d\uc11c \uc2e0\uccad\ud574\uc11c \uc0ac\uc6a9\uc911\uc778 \uc11c\ubc84\uac00 \uc788\ub294\ub370 \uadf8\uac78 letsencrypt\ub85c \ubc14\uafb8\uace0 \uc2f6\uc73c\uba74",
+        "ts": "1470648657.000126"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud328\ud0a4\uc9c0 \uc124\uce58\ud55c\ub2e4\uace0 \ub05d\ub098\ub294 \uac8c \uc544\ub2c8\uace0 \ud559\uad50 \uc815\ubcf4\ud1b5\uc2e0\ud300\uc5d0 \ubcf4\uc548 \uc608\uc678 \uc2e0\uccad\uc11c \ub0b4\uc57c \ud569\ub2c8\ub2e4",
+        "edited": {
+            "user": "U024SPDHG",
+            "ts": "1470648686.000000"
+        },
+        "ts": "1470648673.000127"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ud638\uc624\u2026.",
+        "ts": "1470648752.000129"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uadf8\ub098\uc800\ub098 \uc9c0\uae08\ubc1c\uacac\ud588\ub294\ub370",
+        "ts": "1470648757.000130"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ud559\uad50\uc5d0\uc11c \uc8fc\ub294 \uc778\uc99d\uc11c SHA1\uc778\uac00\ubcf4\uad70\uc694\u2026? \ube68\uac04\ubd88\uc774\u2026.",
+        "ts": "1470648770.000131"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc751 \u314b\u314b",
+        "ts": "1470648775.000132"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uadf8\uac70 \ub0b4\uac00 \uc815\ubcf4\ud1b5\uc2e0\ud300\uc5d0 \uace0\uccd0\ub2ec\ub77c\uace0 \uc598\uae30\ud574\ub1a8\ub294\ub370",
+        "ts": "1470648786.000133"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ubcf4\ub2c8\uae4c \ud559\uad50\uc5d0\uc11c \uc9c1\uc811 \uc6b4\uc601\ud558\ub294 \uc0ac\uc774\ud2b8\ub4e4\uc740 \uc778\uc99d\uc11c\ub97c \ub2e4\uc2dc \ubc1b\uc544\uc11c \uad1c\ucc2e\uc740\ub370",
+        "ts": "1470648797.000134"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ub530\ub85c \uc778\uc99d\uc11c \uc2e0\uccad\ud574\uc11c \uc0ac\uc6a9\ud558\ub294 \uc11c\ubc84\ub4e4\uc740 \uc5c5\ub370\uc774\ud2b8\ub97c \uc548\ud574\uc8fc\ub354\ub77c\uad6c",
+        "ts": "1470648812.000135"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ub3c8 \ubb38\uc81c\uc77c\uae4c\uc694? \ud760",
+        "ts": "1470648835.000136"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uadf8\uac70\ubcf4\ub2e4\ub294 \uc11c\ubc84 \ub8e8\ud2b8 \uad8c\ud55c\ub3c4 \uc5c6\uace0 \ub531\ud788 \ub204\uac00 \ubb50\ub77c \ud558\uc9c0 \uc54a\uc73c\ub2c8\uae4c..?;;",
+        "ts": "1470648858.000137"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uadf8\ub0e5 let\u2019s encrypt \ub85c \ud1b5\uc77c\ud574\uc57c..",
+        "ts": "1470649895.000138",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02EBLXSU",
+                    "U024SPDHG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

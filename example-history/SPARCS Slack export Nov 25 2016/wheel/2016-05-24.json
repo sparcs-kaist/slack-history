@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub9c1\ud06c\ub4dc\uc778 \uc774\uba54\uc77c\uc8fc\uc18c\uac00 gura\ub85c \uc124\uc815\ub418\uc5b4\uc788\ub294 \uc120\ubc30\ub2d8\ub4e4\uc774 \uba87 \ubd84 \uacc4\uc2e0 \uac83 \uac19\uc740\ub370 \uc5b4\ub5bb\uac8c \uc54c\ub824\ub4dc\ub9b4 \uc218 \uc788\uc744\uae4c\uc694?",
+        "ts": "1464078359.000084"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc2ac\ub799 \uc81c\ub108\ub7f4\uc774\ub098 \uc2a4\ud30d\uc2a4 \uc81c\uc77c \ud070 \ud1a1\uc5d0\uc11c Jihye Jenny\ub2d8\uc744 \ucc3e\ub294\ub2e4. \uc5b4\ub54c\uc694?",
+        "ts": "1464080380.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "06 \uae40\uc9c0\ud61c?",
+        "ts": "1464080417.000086"
+    },
+    {
+        "user": "U03H8L275",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U03H8L275|daedoo> has left the channel",
+        "ts": "1464097726.000087"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "?!",
+        "ts": "1464098210.000088"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc5ec\ud2bc",
+        "ts": "1464148360.000089"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uae40\uc9c0\ud61c \ud68c\uc6d0\uc5d0\uac8c \ud55c\ubc88 \uce74\ud1a1\ud574\ubcfc\uaed8\uc6a9 \uc544\uc9c1\ub3c4 \ud574\uacb0 \uc548 \ub418\uc5c8\uc73c\uba74~",
+        "ts": "1464148370.000090"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc9c0\ud61c \ud68c\uc6d0\uc5d0\uac8c \uc774\uba54\uc77c \uc8fc\uc18c \ubaa9\ub85d \ud655\uc778\ud558\ub294 \ubc95\uc744 \uc54c\ub824\ub4dc\ub838\uc5b4\uc6a9",
+        "ts": "1464152017.000091"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub135",
+        "ts": "1464155102.000092"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4",
+        "ts": "1464155105.000093"
+    }
+]

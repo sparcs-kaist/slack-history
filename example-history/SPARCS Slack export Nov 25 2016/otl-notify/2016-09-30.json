@@ -1,0 +1,106 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/144|#144 [\uacfc\ubaa9\uc0ac\uc804] SPARCS SSO \uc0ac\ub9dd \uc2dc \uc608\uc678\ucc98\ub9ac> by <https:\/\/github.com\/isyangban|isyangban>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/144|#144 [\uacfc\ubaa9\uc0ac\uc804] SPARCS SSO \uc0ac\ub9dd \uc2dc \uc608\uc678\ucc98\ub9ac> by <https:\/\/github.com\/isyangban|isyangban>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475233324.000051"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#176 front page update (3)- react js environment setup' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/176 by xowns5979",
+                "text": "template\/timetable\/index.html \ud15c\ud50c\ub9bf\uc5d0\n&lt;div id='app'&gt;&lt;\/div&gt;  \ubd80\ubd84\uacfc\n\nstatic\/js\/timetable\/timetable.js jsx \ud30c\uc77c\uc5d0\n\nreturn( &lt;h1&gt; Hello &lt;\/h1&gt; ) \ub294 \n\uc81c\ub300\ub85c react, webpack, babel \ub4e4 \uc14b\uc5c5 \uc798 \ub42c\ub294\uc9c0 \ud655\uc778\ud558\ub824\uace0 \ub123\uc5b4\ub1a8\uace0 \ud2c0\ub9cc \ub9cc\ub4e4\uc5c8\uc5b4\uc694.\n\n\uc2e4\uc81c\ub85c \ubc14\ub010 \ubd80\ubd84\uc740 \uc5c6\uace0 Set up\ub9cc..\u3160\n\n\ud14c\uc2a4\ud2b8 \ubd80\ubd84\uc740 \uadf8\ub0e5 \uba38\uc9c0 \ud574\ub3c4 \ub2e4\uc74c \ud480\ub9ac\ud018\ub54c \uc5c6\uc568\uac70\ub77c\uc11c \uad1c\ucc2e\uc744 \uac70 \uac19\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/xowns5979|xowns5979>",
+                "title": "#176 front page update (3)- react js environment setup",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/176",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475234804.000052"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/176|#176 front page update (3)- react js environment setup> by <https:\/\/github.com\/xowns5979|xowns5979>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/176|#176 front page update (3)- react js environment setup> by <https:\/\/github.com\/xowns5979|xowns5979>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475234896.000053"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#177 front page update (3)- react js environment setup' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/177 by xowns5979",
+                "text": "template\/timetable\/index.html \ud15c\ud50c\ub9bf\uc5d0\n\ubd80\ubd84\uacfc\nstatic\/js\/timetable\/timetable.js jsx \ud30c\uc77c\uc5d0\n\nreturn(\n\nHello\n\n) \ub294 \n\uc81c\ub300\ub85c react, webpack, babel \ub4e4 \uc14b\uc5c5 \uc798 \ub42c\ub294\uc9c0 \ud655\uc778\ud558\ub824\uace0 \ub123\uc5b4\ub1a8\uace0 \ud2c0\ub9cc \ub9cc\ub4e4\uc5c8\uc5b4\uc694.\n\uc2e4\uc81c\ub85c \ubc14\ub010 \ubd80\ubd84\uc740 \uc5c6\uace0 Set up\ub9cc..\u3160\n\n\ud14c\uc2a4\ud2b8 \ubd80\ubd84\uc740 \uadf8\ub0e5 \uba38\uc9c0 \ud574\ub3c4 \ub2e4\uc74c \ud480\ub9ac\ud018\ub54c \uc5c6\uc568\uac70\ub77c\uc11c \uad1c\ucc2e\uc744 \uac70 \uac19\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/xowns5979|xowns5979>",
+                "title": "#177 front page update (3)- react js environment setup",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/177",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475235540.000054"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#178 timetable: implement print functions' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/178 by isyangban",
+                "text": "\uae30\uc874 otl \ucf54\ub4dc \ucc38\uace0\ud574\uc11c\nprint_to_pdf \uc640 print_to_image \ub9cc\ub4e4\uc5c8\uc2b5\ub2c8\ub2e4.\n\n\uc544\uc9c1 \ud14c\uc2a4\ud2b8\ub97c \ubabb\ud574\ubd24\ub294\ub370, crop size\ub9cc \uc870\uae08 \uc870\uc815\ud558\uba74 \uc798 \ub420 \uac83 \uac19\uc2b5\ub2c8\ub2e4?",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/isyangban|isyangban>",
+                "title": "#178 timetable: implement print functions",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/178",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475241269.000055"
+    }
+]

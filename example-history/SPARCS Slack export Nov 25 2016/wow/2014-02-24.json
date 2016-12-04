@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1393305758.000191"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc9c4\uadfc\uc774\ud615\uc774\ub2e4",
+        "ts": "1393305866.000192"
+    }
+]

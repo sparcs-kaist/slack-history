@@ -1,0 +1,473 @@
+[
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1xf6gs\/how_do_you_plan_map_out_your_program\/|How do you plan \/ map out your program?>\nI have to admit I&amp;#39;m not so strong on the planning phase of writing code. What&amp;#39;s your process? How does it help you? Do you know any resources for learning useful methods for planning out code to increase quality and avoid bugs?  submitted by  konbit  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have to admit I'm not so strong on the planning phase of writing code. What's your process? How does it help you? Do you know any resources for lear...",
+                "fallback": "I have to admit I'm not so strong on the planning phase of writing code. What's your process? How does it help you? Do you know any resources for lear...",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1xf6gs\/how_do_you_plan_map_out_your_program\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391934837.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1xfc7e\/danlentzclctrie_github\/|danlentz\/cl-ctrie \u00b7 GitHub>\nsubmitted by  lispm  to  lisp  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1xfc7e\/danlentzclctrie_github\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391941319.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xfdbs\/the_computational_complexity_of_machine_learning\/|The Computational Complexity of Machine Learning>\nsubmitted by  kentrado  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391943345.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1xfj0m\/spring_4_mvc_hello_world_tutorial_full_example\/|Spring 4 MVC Hello World Tutorial - Full Example - Java Hash>\nsubmitted by  pkaruna  to  java  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1xfj0m\/spring_4_mvc_hello_world_tutorial_full_example\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391951323.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/Python\/comments\/1xfkde\/what_are_some_importantpopular_python_packages\/|What are some important\/popular python packages that are still 2.7 dependent?>\nSome estimates put Python 3 as \"the obvious choice for new projects\" at 3 months away (<http:\/\/python-notes.curiousefficiency.org\/en\/latest\/python3\/questions_and_answers.html>).  One reason that is obviously an issue is the backwards compatibility. If I wanted to start developing in python 3.X now, what packages do I need to watch out for?  submitted by  am6465  to  Python  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Some estimates put Python 3 as \"the obvious choice for new projects\" at 3 months away (<http:\/\/python-notes.curiousefficiency.org\/en\/latest\/python3\/que>...",
+                "fallback": "Some estimates put Python 3 as \"the obvious choice for new projects\" at 3 months away (<http:\/\/python-notes.curiousefficiency.org\/en\/latest\/python3\/que>...",
+                "from_url": "http:\/\/www.reddit.com\/r\/Python\/comments\/1xfkde\/what_are_some_importantpopular_python_packages\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391953498.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1xfr99\/the_mill_cpu_architecture_instruction_execution\/|The Mill CPU Architecture - Instruction Execution>\nsubmitted by  _jameshales  to  compsci  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/compsci\/comments\/1xfr99\/the_mill_cpu_architecture_instruction_execution\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391960514.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1xfv2x\/choose_the_best_licence_for_your_open_source\/|Choose The Best Licence For Your Open Source Project>\nsubmitted by  OpenSourceToday  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391963193.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1xfw4i\/androideclipse_how_to_group_edittext_boxes\/|[Android][Eclipse] How to group editText boxes?>\nI am trying to do something simliar to this article Stack Overflow but i have no idea how to add a group of text boxes to a group. the line ViewGroup group = (ViewGroup)findViewById(R.id.your_group);  Where do i group all the text boxes to one id such as your_group? Thanks for any help  submitted by  Jade__Dragon  to  learnprogramming  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am trying to do something simliar to this article [Stack Overflow](<http:\/\/stackoverflow.com\/questions\/5740708\/android-clearing-all-edittext-fields-w>...",
+                "fallback": "I am trying to do something simliar to this article [Stack Overflow](<http:\/\/stackoverflow.com\/questions\/5740708\/android-clearing-all-edittext-fields-w>...",
+                "from_url": "http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1xfw4i\/androideclipse_how_to_group_edittext_boxes\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391964221.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/Python\/comments\/1xfx5w\/my_girlfriend_made_these_today\/|My girlfriend made these today :)>\nsubmitted by  tomekwojcik  to  Python  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391965718.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xfysr\/cnow_studentvolunteer_program_still_accepting\/|C++Now Student\/Volunteer program still accepting applications>\nsubmitted by  louis_dionne  to  cpp  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391966269.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xg2rc\/help_understanding_a_bb_chord_in_c_major\/|Help understanding a Bb chord in C Major.>\nHere&amp;#39;s the progression from \"Coming Back To Life\" by Pink Floyd, as I understand it (in C Major):  I I IV IV vi V IV IV vi IV vi Bb? vi V I I  or C C F F Am G F F Am F Am Bb? Am G C C   My question: is there any standard theory as to why that Bb (bVII) works? I was watching the Justin Guitar video on Secondary Dominants (which I&amp;#39;m pretty sure this is not), but is it something else, theory wise? It&amp;#39;s the sub-dominant of the F, so is a secondary sub-dominant something, even though it d...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Here's the progression from \"Coming Back To Life\" by Pink Floyd, as I understand it (in C Major): --- I I IV IV vi V IV IV vi IV vi Bb...",
+                "fallback": "Here's the progression from \"Coming Back To Life\" by Pink Floyd, as I understand it (in C Major): --- I I IV IV vi V IV IV vi IV vi Bb...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xg2rc\/help_understanding_a_bb_chord_in_c_major\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391970460.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1xg3ix\/google_never_ceases_to_amaze_but_why_is_this_the\/|Google never ceases to amaze, but why is this the first I'm seeing of this?>\nsubmitted by  GoodOl  to  google  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1xg3ix\/google_never_ceases_to_amaze_but_why_is_this_the\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391970940.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1xg3jy\/create_iosandroid_apps_in_minutes_from_this\/|Create iOS\/Android apps in minutes from this Cordova+Backbone sample project>\nsubmitted by  hxmc  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391973589.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/linux\/comments\/1xgc8a\/ian_jackson_calls_for_removal_of_bdale_as\/|Ian Jackson calls for removal of Bdale as debian-ctte chair after systemd vote>\nsubmitted by  hdevalence  to  linux  [link] [\ub313\uae00 80]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/linux\/comments\/1xgc8a\/ian_jackson_calls_for_removal_of_bdale_as\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391978144.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/engineering\/comments\/1xgelh\/first_job_out_of_collegeslightly_disappointing\/|First Job out of College...Slightly Disappointing.>\nHi there everyone, This is my second reddit posting ever, i plan on becoming more active over the next few weeks as there is plenty of great info on these boards. Anyways, I graduated from college back in May of 2013 with a BS in Mechanical Engineering. I graduated Cum Laude, passed the FE, and found a job not too far from home as a Utilities Engineer.  The job involves lots of researching various pieces of equipment, such as air compressors, hvac units, boilers, etc for factories. The firm I wo...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi there everyone, This is my second reddit posting ever, i plan on becoming more active over the next few weeks as there is plenty of great info on ...",
+                "fallback": "Hi there everyone, This is my second reddit posting ever, i plan on becoming more active over the next few weeks as there is plenty of great info on ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/engineering\/comments\/1xgelh\/first_job_out_of_collegeslightly_disappointing\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391978690.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1xgj6q\/clws_workstealing_scheduler_for_lispworks\/|CLWS - Work-stealing scheduler for LispWorks>\nsubmitted by  lispm  to  lisp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391980774.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xgnik\/the_double_harmonic_major_scale_in_misirlou\/|The Double Harmonic Major Scale in 'Misirlou'>\nRecently made a vlog about the Double Harmonic Major Scale in &amp;#39;Misirlou&amp;#39; by Dick Dale and the Del Tones. Talks a little about the Freygish too. It also gave me an excuse to play my old trumpet from high school. Here&amp;#39;s the link, thanks! <http:\/\/www.tonaltrends.com\/double-harmonic-in-misirlou>  submitted by  deanolivet  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Recently made a vlog about the Double Harmonic Major Scale in 'Misirlou' by Dick Dale and the Del Tones. Talks a little about the Freygish too. It als...",
+                "fallback": "Recently made a vlog about the Double Harmonic Major Scale in 'Misirlou' by Dick Dale and the Del Tones. Talks a little about the Freygish too. It als...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xgnik\/the_double_harmonic_major_scale_in_misirlou\/",
+                "id": 1
+            },
+            {
+                "text": "Music Blogs for Tonal Trend Spotters.",
+                "fallback": "Music Blogs for Tonal Trend Spotters.",
+                "from_url": "http:\/\/www.tonaltrends.com\/double-harmonic-in-misirlou",
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391984975.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xgt7l\/job_c_developer_bloomberg_tokyo_estimates_on\/|[Job] C++ developer @ Bloomberg Tokyo ~ Estimates on salary for this position?>\nsubmitted by  sailingonward  to  cpp  [link] [\ub313\uae00 3]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xgt7l\/job_c_developer_bloomberg_tokyo_estimates_on\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391988631.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xgter\/suggest_a_c_project\/|Suggest a C++ project>\nHi, I&amp;#39;m trying to get better at C++. Is there something I could port to C++ to help me improve? I understand OOP and use C++ professionally, but I&amp;#39;d like to reach expert level.  submitted by  lapinrigolo  to  cpp  [link] [\ub313\uae00 9]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi, I'm trying to get better at C++. Is there something I could port to C++ to help me improve? I understand OOP and use C++ professionally, but I'd ...",
+                "fallback": "Hi, I'm trying to get better at C++. Is there something I could port to C++ to help me improve? I understand OOP and use C++ professionally, but I'd ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xgter\/suggest_a_c_project\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391995847.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xha3y\/how_does_gradient_descent_know_which_values_to\/|How does gradient descent know which values to pick next?>\nHi all. I&amp;#39;m a beginner, and was confused on how Gradient Descent (SGD) knows what parameter values to pick on the next iteration if convergence has not been achieved.  I&amp;#39;m aware of the update rule (the formula with the partial derivative and the learning rate), but am still confused on how it chooses the parameter value to plug into the formula. My guess was that the cost function is plotted, and it picks values along the curve, but am unsure about this. Thanks!  submitted by  mangaprinc...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi all. I'm a beginner, and was confused on how Gradient Descent (SGD) knows what parameter values to pick on the next iteration if convergence has no...",
+                "fallback": "Hi all. I'm a beginner, and was confused on how Gradient Descent (SGD) knows what parameter values to pick on the next iteration if convergence has no...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xha3y\/how_does_gradient_descent_know_which_values_to\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391998545.000004"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/web_design\/comments\/1xhcpn\/adobe_dreamweaver_you_can_do_it\/|Adobe Dreamweaver, you can do it>\nsubmitted by  MikeOscarEcho  to  web_design  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/web_design\/comments\/1xhcpn\/adobe_dreamweaver_you_can_do_it\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391999032.000006"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xhlmq\/hyperparameter_estimation_on_confidence_bounded\/|Hyper-parameter estimation on confidence bounded losses?>\nI&amp;#39;m searching hyperparameters using TPE methods on a small dataset. The loss function for the hyperparameter search is the mean of my accuracy metric over the K-Folded training set. The standard deviation of the accuracy metric for a given parameter is high, no matter how I cross-validate or how much I slide the percentage of the training data used in fitting the algorithm. I&amp;#39;m okay with the noise, there is bootstrap-reproducible accuracy for some hyperparameter combinations. In fact the...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm searching hyperparameters using TPE methods on a small dataset. The loss function for the hyperparameter search is the mean of my accuracy metric ...",
+                "fallback": "I'm searching hyperparameters using TPE methods on a small dataset. The loss function for the hyperparameter search is the mean of my accuracy metric ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xhlmq\/hyperparameter_estimation_on_confidence_bounded\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392002820.000008"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1xhra4\/i_have_created_digital_network_diagram_for_home\/|I have created digital network diagram for home network using LibreOffice Draw, any suggestion to improve either diagram or network?>\nsubmitted by  swamytk  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1xhra4\/i_have_created_digital_network_diagram_for_home\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392007018.000010"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1xhuw5\/using_vagrant_to_automate_lisp_setups\/|Using Vagrant to automate Lisp setups>\nI like using lots of different programming languages, but I don&amp;#39;t like spending time installing them. So I wrote a big Puppet script for Vagrant to automatically download and install several Lisp flavors:  Common Lisp Chicken Scheme Clojure  If anyone would like to contribute Puppet Modules to make this even easier, let me know!  submitted by  mcandre  to  lisp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I like using lots of different programming languages, but I don't like spending time installing them. So I wrote a big Puppet script for Vagrant to au...",
+                "fallback": "I like using lots of different programming languages, but I don't like spending time installing them. So I wrote a big Puppet script for Vagrant to au...",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1xhuw5\/using_vagrant_to_automate_lisp_setups\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392009110.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xhzki\/harvesting_and_analyzing_tweets_school_of_data\/|Harvesting and Analyzing Tweets | School of Data>\nsubmitted by  imsome1  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xhzki\/harvesting_and_analyzing_tweets_school_of_data\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392012694.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xi0cf\/beyond_basic_chord_substitutions\/|Beyond basic chord substitutions>\nI have several questions regarding extending beyond basic chord substitution, most of which include modulation\/accidentals. Here is the chart I have been thinking on, which gives the three harmonic groups for a western diatonic scale (tonic, sub-dominant, and dominant). 1) Firstly... does the chord substitution chart suggest that if you&amp;#39;re playing the relative minor (so Am is now your tonic) that the fifth (Em) is not a dominant for it? But if we sharpen the third, and make it an E, does it ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have several questions regarding extending beyond basic chord substitution, most of which include modulation\/accidentals. [Here](<http:\/\/www.lotusmu>...",
+                "fallback": "I have several questions regarding extending beyond basic chord substitution, most of which include modulation\/accidentals. [Here](<http:\/\/www.lotusmu>...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xi0cf\/beyond_basic_chord_substitutions\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392013722.000004"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xi4xu\/code_attributes_30_min_video_by_steve_baker_at\/|Code Attributes - 30 min video by Steve Baker at Phoenix Perl Mongers>\nsubmitted by  szabgab  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xi4xu\/code_attributes_30_min_video_by_steve_baker_at\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392017462.000006"
+    }
+]

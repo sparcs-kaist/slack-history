@@ -1,0 +1,145 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "6CC644",
+                "pretext": "[sparcs-kaist\/zabo] Pull request submitted by <https:\/\/github.com\/etaehyun4|etaehyun4>",
+                "title": "#23 Feat\/view - Arrange Pictures",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/23",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/23|Pull request submitted> by <https:\/\/github.com\/etaehyun4|etaehyun4>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407681199.000099"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/23|#23 Feat\/view - Arrange Pictures> by <https:\/\/github.com\/etaehyun4|etaehyun4>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/23|#23 Feat\/view - Arrange Pictures> by <https:\/\/github.com\/etaehyun4|etaehyun4>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407681210.000100"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/e5fe7fe4b7cd...9e1859f415de|5 new commits>:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/e5fe7fe4b7cd...9e1859f415de|5 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/889c34fb7890|889c34fb7890>: Show posters in Random-order - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/cdcb272ddc91|cdcb272ddc91>: Implement Poster Interval Assignment Algorithm and Show them - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8c1376fe8426|8c1376fe8426>: Make a blank between the posters - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/792b2c53cdb0|792b2c53cdb0>: Get poster's url from backend - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9e1859f415de|9e1859f415de>: Merge pull request #23 from etaehyun4\/feat\/view - etaehyun4",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407681211.000101"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/tree\/revert-23-feat\/view|revert-23-feat\/view>\" was pushed by mjy0503",
+                "text": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/tree\/revert-23-feat\/view|revert-23-feat\/view>\" was pushed by mjy0503",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407699653.000102"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "6CC644",
+                "pretext": "[sparcs-kaist\/zabo] Pull request submitted by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#24 Revert \"Feat\/view - Arrange Pictures\"",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/24",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/24|Pull request submitted> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "text": "Reverts sparcs-kaist\/zabo#23",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407699946.000103"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/9e1859f415de...6f7cc8cf7953|2 new commits> by JaeEui Ma:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/9e1859f415de...6f7cc8cf7953|2 new commits> by JaeEui Ma",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/a1809802419b|a1809802419b>: Revert \"Feat\/view - Arrange Pictures\" - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6f7cc8cf7953|6f7cc8cf7953>: Merge pull request #24 from sparcs-kaist\/revert-23-feat\/view - JaeEui Ma",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407699951.000104"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/24|#24 Revert \"Feat\/view - Arrange Pictures\"> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/24|#24 Revert \"Feat\/view - Arrange Pictures\"> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407699951.000105"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[zabo] The branch \"revert-23-feat\/view\" was deleted by mjy0503",
+                "text": "[zabo] The branch \"revert-23-feat\/view\" was deleted by mjy0503",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407699954.000106"
+    }
+]

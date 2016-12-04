@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03H8L275|daedoo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/daedoo\/F03JKHPT1\/__________friendship.mpeg|\uc2a4\ud30d\uc2a4_Friendship.mpeg>",
+        "file": {
+            "id": "F03JKHPT1",
+            "created": 1423173132,
+            "timestamp": 1423173132,
+            "name": "\uc2a4\ud30d\uc2a4_Friendship.mpeg",
+            "title": "\uc2a4\ud30d\uc2a4_Friendship.mpeg",
+            "mimetype": "application\/octet-stream",
+            "filetype": "binary",
+            "pretty_type": "Binary",
+            "user": "U03H8L275",
+            "editable": false,
+            "size": 100497895,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F03JKHPT1\/__________friendship.mpeg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F03JKHPT1\/download\/__________friendship.mpeg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/daedoo\/F03JKHPT1\/__________friendship.mpeg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F03JKHPT1-3436003bce",
+            "channels": [
+                "C039U349D"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03H8L275",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U03H8L275|daedoo>",
+        "bot_id": null,
+        "ts": "1423173148.000008"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "<@U024U2P7Y>:",
+        "ts": "1423173164.000009"
+    }
+]

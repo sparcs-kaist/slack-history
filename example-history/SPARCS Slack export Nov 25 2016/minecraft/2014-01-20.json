@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0K6|rodumani> has joined the channel",
+        "ts": "1390269220.000002"
+    },
+    {
+        "user": "U024SN0K6",
+        "purpose": "\ub9c8\ud06c\uc720\uc800",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SN0K6|rodumani> set the channel purpose: \ub9c8\ud06c\uc720\uc800",
+        "ts": "1390269220.000003"
+    },
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNE2E|kuss> has joined the channel",
+        "ts": "1390270169.000004"
+    },
+    {
+        "user": "U024SN150",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN150|bbashong> has joined the channel",
+        "ts": "1390271558.000005"
+    },
+    {
+        "user": "U024SN37L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN37L|grandmarnier> has joined the channel",
+        "ts": "1390272554.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\ub098\ub3c4 \uc8fc\ub9d0\uc5d0 \ub9c8\ud06c\ud574\uc57c\uaca0\ub2e4",
+        "ts": "1390272576.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ucef4\ucef4",
+        "ts": "1390272584.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "\u314b\u314b",
+        "ts": "1390272774.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uce74\ub4dc\ub9cc\uc788\uc73c\uba74 \uc0ac\ub294\ub370",
+        "ts": "1390275423.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ubcf4\uc548\uce74\ub4dc\uac00 \uc5c6\uc74c-&gt;\uacc4\uc88c\uc774\uccb4 \uc548\ub428 \/\uce74\ub4dc\uac00 \uc5c6\uc74c-&gt;\ud604\uae08\uc774 \uc5c6\uc74c \/\uc2e0\ubd84\uc99d\uc774 \uc5c6\uc74c-&gt;\uce74\ub4dc \uc7ac\ubc1c\uae09\uc774 \uc548\ub428",
+        "ts": "1390275471.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc2e0\ubd84\uc99d \uc7ac\ubc1c\uae09 -&gt; \ud604\uae08\uc774 \uc5c6\uc74c -&gt; fail \uc778\uac00",
+        "ts": "1390275503.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc2a4\ud300\uacb0\uc81c\ub294 \uce74\ub4dc\ub4b7\uba74 \uc138\uc790\ub9ac\ubc88\ud638 \uc678\uc6cc\uc11c \ud560\uc218\uc788\ub294\ub370..",
+        "ts": "1390275665.000013"
+    },
+    {
+        "user": "U024SPDHG",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SPDHG|daybreaker> has joined the channel",
+        "ts": "1390279413.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc544\ud558",
+        "ts": "1390279416.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc544\ucc38 \ub9c8\ud06c\uc5d0 \uc778\ucc48\uc790\ud310\uae30 \uc606\uc5d0 \uc8fc\ubbfc\uc0f5\ub3c4 \ub9cc\ub4e4\uc5c8\uc74c",
+        "ts": "1390279513.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ucca0\ub3c4 \uc7ac\ub8cc \uc218\uae09\uc744 renewable resource\ub85c \uc5d0\uba54\ub784\ub4dc \ubc8c\uc5b4\uc11c \uad6c\uc785\ud560 \uc218 \uc788\uac8c \ud588\uc74c (\ub098\ubb34 \ub3cc \uc369\uc740\uace0\uae30 \ub530\uc704..)",
+        "ts": "1390279555.000017"
+    }
+]

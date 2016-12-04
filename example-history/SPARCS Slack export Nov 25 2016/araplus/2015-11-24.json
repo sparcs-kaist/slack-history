@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e285172a6c7f86bb18d460abf32081d292bf55dc|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e285172a6c7f86bb18d460abf32081d292bf55dc|e285172>: Implemented gallery front-end. - TaeHyun",
+                "pretext": "[araplus:board] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448370438.000016"
+    }
+]

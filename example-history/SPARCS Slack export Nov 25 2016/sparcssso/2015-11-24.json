@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1448356970.000046"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "2\uc870 4\ud56d\uc5d0\uc11c \uccab \ubb38\uc7a5\uc744 '\uc774\uba54\uc77c\uc744 \uc778\uc99d\ud55c \uacbd\uc6b0, \uc774\uba54\uc77c\ub85c\ub3c4 \uc11c\ube44\uc2a4\uc5d0 \ub85c\uadf8\uc778 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.' \ub77c\uace0 \uc21c\uc11c\ub97c \ubc14\uafb8\ub294 \uac8c \uc774\ud574\ud558\uae30 \uc26c\uc6b8 \uac83 \uac19\uc74c",
+        "ts": "1448371402.000047"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\ubb38\uc7a5 \uc21c\uc11c\ub3c4 '\uc774\uba54\uc77c \uc778\uc99d\uc740 ~ \uc774\ub8e8\uc5b4\uc9d1\ub2c8\ub2e4' \ubb38\uc7a5\uc774 \uba3c\uc800 \ub098\uc624\uba74 \uc88b\uc744 \uac70 \uac19\uc74c",
+        "ts": "1448371625.000048"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\ud398\ubd81\uacc4\uc815 \uc5f0\ub3d9\uc73c\ub85c \uac00\uc785\ud55c \ud6c4\uc5d0 \uc774\uba54\uc77c \uc778\uc99d\uc740 \uac00\ub2a5\ud55c\uac00?",
+        "ts": "1448371713.000049"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "2\uc870 \uc77d\uace0\ub294 \uc798 \ubaa8\ub974\uaca0\ub2e4",
+        "ts": "1448371729.000050"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc9c8\ubb382. \ud2b8\uc704\ud130 \uacc4\uc815 \uc5f0\ub3d9\uc73c\ub85c \uac00\uc785\ud55c \ub2e4\uc74c\uc5d0 \ub2e4\ub978 \uc5f0\ub3d9\uc744 \ud558\uc9c0 \uc54a\uc740 \uc0c1\ud0dc\uc5d0\uc11c\ub3c4 \uc790\uc720\ub86d\uac8c \ud2b8\uc704\ud130 \uacc4\uc815 \uc5f0\ub3d9 \ud574\uc81c\ub97c \ud560 \uc218 \uc788\ub098?",
+        "ts": "1448371797.000051"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc9c8\ubb383. 9\uc870 4\ud56d\uc774 \uac1c\uc815\uc57d\uad00\uc5d0 \ub300\ud574 \uac70\ubd80 \uc758\uc0ac\ud45c\uc2dc\ub97c \ud55c \uacbd\uc6b0\ub294 60\uc77c\uc744 \uae30\ub2e4\ub9ac\uc9c0 \uc54a\uace0 \ud0c8\ud1f4\uac00 \uac00\ub2a5\ud558\ub2e8 \ub73b\uc774\uc57c?",
+        "ts": "1448372180.000052"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uac1c\uc778\uc815\ubcf4\ucde8\uae09\ubc29\uce68 2\uc870\uc5d0\uc11c \ud398\ubd81\uc774\ub098 \ud2b8\uc704\ud130 \uacc4\uc815\uc744 \uc5f0\ub3d9 \ud574\uc81c\ud560 \uacbd\uc6b0 \uc218\uc9d1\ud588\ub358 \uace0\uc720 ID\ub294 \uc5b4\ub5bb\uac8c \ud558\ub294\uc9c0 \ub0b4\uc6a9\uc774 \uc788\uc73c\uba74 \uc88b\uc744 \ub4ef\ud568 \u314b",
+        "ts": "1448372682.000053"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc774\uac70 \ub418\uac8c \uc798 \uc37c\ub2e4 \u314b\u314b",
+        "ts": "1448372701.000054"
+    }
+]

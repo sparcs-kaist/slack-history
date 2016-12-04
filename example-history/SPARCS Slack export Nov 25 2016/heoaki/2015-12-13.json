@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "Suppose an application use only 4MB memory with 4KB page size in a machine with 32-bit address space. What should be the size of the flat table ?",
+        "ts": "1449996490.000310"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc774\uac70 \uc124\uba85\uc880 \u3160",
+        "ts": "1449996492.000311"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc2a4\ud130\ub514 \ub0b4\uc77c \ud569\uc2dc\ub2e4 \u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1450000135.000312"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544\uc73c \uc624\ud1a0\ub9c8\ud0c0\ub294 \uc5b8\uc81c\ubcf4\ub098",
+        "ts": "1450000137.000313"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc9c0\ub098\uac04\uac83\uc740~",
+        "ts": "1450000349.000314"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc9c0\ub098\uac04\ub300\ub85c~",
+        "ts": "1450000350.000315"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uadf8\ub7f0\uc758\ubbf8\uac00~\uc788\uc8e0~",
+        "ts": "1450000355.000316"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uadf8\ub7fd\uc2dc\ub2e4~",
+        "ts": "1450002254.000317"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<http:\/\/stackcanary.com\/?p=1169>",
+        "attachments": [
+            {
+                "fallback": "A 980x188px image",
+                "image_url": "http:\/\/stackcanary.com\/wordpress\/wp-content\/uploads\/2014\/08\/cropped-cropped-tumblr_mxrv62sm2I1st5lhmo1_128011.jpg",
+                "from_url": "http:\/\/stackcanary.com\/?p=1169",
+                "image_width": 980,
+                "image_height": 188,
+                "image_bytes": 68954,
+                "id": 1
+            }
+        ],
+        "ts": "1450004621.000318"
+    },
+    {
+        "user": "U071EU7B3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U071EU7B3|zazang> has joined the channel",
+        "ts": "1450028221.000320"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "14\ubc88 ppt \uc9c8\ubb38: MESI \ud504\ub85c\ud1a0\ucf5c\uc5d0\uc11c M state\uac00 BusUp \uc2dc\uadf8\ub110\uc744 \ubc1b\ub294 \uacbd\uc6b0\uac00 \uc788\uc74c? \uc65c state transition\uc5d0 \ud45c\uc2dc\uac00 \ub3fc\uc788\uc744\uae4c",
+        "ts": "1450038912.000321"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "M\uc774\ub798",
+        "ts": "1450038920.000322"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "E",
+        "ts": "1450038920.000323"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "14\ubc88 ppt \uc9c8\ubb38: MESI \ud504\ub85c\ud1a0\ucf5c\uc5d0\uc11c E state\uac00 BusUp \uc2dc\uadf8\ub110\uc744 \ubc1b\ub294 \uacbd\uc6b0\uac00 \uc788\uc74c? \uc65c state transition\uc5d0 \ud45c\uc2dc\uac00 \ub3fc\uc788\uc744\uae4c",
+        "ts": "1450038929.000324"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uadf8\ub7ec\uac8c",
+        "ts": "1450066520.000325"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub098\ub3c4 \ubabb\ubc1b\ub294\ub2e4\uace0 \ubcf4\ub294\ub370",
+        "ts": "1450066522.000326"
+    }
+]

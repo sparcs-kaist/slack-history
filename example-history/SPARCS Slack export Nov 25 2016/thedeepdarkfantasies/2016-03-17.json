@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/www.inven.co.kr\/board\/powerbbs.php?come_idx=2097&amp;iskin=ff14&amp;l=521288>",
+        "attachments": [
+            {
+                "title": "\ud30c\uc774\ub110\ud310\ud0c0\uc9c014 \uc778\ubca4 : \ud754\ud55c \uc911\ud559\uad50 \ub2f4\uc784\uc120\uc0dd\ub2d8",
+                "title_link": "http:\/\/www.inven.co.kr\/board\/powerbbs.php?come_idx=2097&iskin=ff14&l=521288",
+                "text": "\ub300\uc804\uc11c\uc911\ud559\uad50 \uc120\uc0dd\ub2d8\uc774\ub77c\ub294\uad70\uc694...",
+                "fallback": "\ud30c\uc774\ub110\ud310\ud0c0\uc9c014 \uc778\ubca4 : \ud754\ud55c \uc911\ud559\uad50 \ub2f4\uc784\uc120\uc0dd\ub2d8",
+                "from_url": "http:\/\/www.inven.co.kr\/board\/powerbbs.php?come_idx=2097&iskin=ff14&l=521288",
+                "id": 1
+            }
+        ],
+        "ts": "1458210615.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc800\ub7f0 \uc0ac\ub78c\uc740 \ub204\uad6c\ub791 \uacb0\ud63c\ud560\uae4c",
+        "ts": "1458210824.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uad50\uc7a5",
+        "ts": "1458212480.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uad50\uc7a5\uc774 \ub2f5\uc774\ub2e4",
+        "ts": "1458212653.000009"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F0TBUJJJJ\/pasted_image_at_2016_03_17_09_32_pm.png|Pasted image at 2016-03-17, 9:32 PM>",
+        "file": {
+            "id": "F0TBUJJJJ",
+            "created": 1458217951,
+            "timestamp": 1458217951,
+            "name": "Pasted image at 2016_03_17 09_32 PM.png",
+            "title": "Pasted image at 2016-03-17, 9:32 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 49583,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0TBUJJJJ\/pasted_image_at_2016_03_17_09_32_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0TBUJJJJ\/download\/pasted_image_at_2016_03_17_09_32_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0TBUJJJJ-30bbda09c1\/pasted_image_at_2016_03_17_09_32_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0TBUJJJJ-30bbda09c1\/pasted_image_at_2016_03_17_09_32_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0TBUJJJJ-30bbda09c1\/pasted_image_at_2016_03_17_09_32_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 215,
+            "thumb_360_h": 173,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0TBUJJJJ-30bbda09c1\/pasted_image_at_2016_03_17_09_32_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 215,
+            "original_h": 173,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F0TBUJJJJ\/pasted_image_at_2016_03_17_09_32_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0TBUJJJJ-c700d3ac79",
+            "channels": [
+                "C02JBHWTC"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1458217951.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc11c\uc911? \uc61b\ub0a0 \ub0b4\uac00 \uc0b4\ub358 \ub3d9\ub124 \uc911\ud559\uad50\uc778\ub370",
+        "ts": "1458220926.000011"
+    }
+]

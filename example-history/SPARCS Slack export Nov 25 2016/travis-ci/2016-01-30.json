@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1454187278.000002"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sparcs.slack.com\/services\/B0KS80LMN|Travis CI>",
+        "bot_id": "B0KS80LMN",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U024SHSMT",
+        "ts": "1454187280.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS80LMN",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/105935665|#9> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/b9abb59df749...b291226a08b1|b291226>) of sparcs-kaist\/jangteo-api@master by Keunhong Lee passed in 4 min 20 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/105935665|#9> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/b9abb59df749...b291226a08b1|b291226>) of sparcs-kaist\/jangteo-api@master by Keunhong Lee passed in 4 min 20 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454189074.000004"
+    },
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SHSMT|leeopop> has left the channel",
+        "ts": "1454189177.000005"
+    },
+    {
+        "text": "removed an integration from this channel: <https:\/\/sparcs.slack.com\/services\/B0KS80LMN|Travis CI>",
+        "bot_id": "B0KS80LMN",
+        "type": "message",
+        "subtype": "bot_remove",
+        "user": "U024SHSMT",
+        "ts": "1454189199.000006"
+    }
+]

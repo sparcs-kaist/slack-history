@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6e9cdf8bc3fd0446d33457166776c4ca6f7d3242|1 new commit> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6e9cdf8bc3fd0446d33457166776c4ca6f7d3242|6e9cdf8>: modify permission for alpha version - storykim",
+                "pretext": "[araplus:develop] 1 new commit by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448080212.000004"
+    }
+]

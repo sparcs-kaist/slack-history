@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "?",
+        "ts": "1442128591.000788"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "<@U024SHLFH>: \uc6f9\uac1c\ubc1c\uc744 \ucc98\uc74c \ubc30\uc6b0\ub294 \uc0ac\ub78c\ud55c\ud14c js \uac00\ub974\uce58\ub824\uba74 \ubb50\ub85c \uac00\ub974\uce58\ub294\uac8c \uc88b\uc744\uae4c",
+        "ts": "1442129407.000789"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "angularJS \ub77c\ub294 \uac83\ub3c4 coffeescript \ub85c \uc4f8 \uc218 \uc788\ub098? \ud68c\uc0ac\uc5d0\uc11c\ub294 coffeescript \uc37c\uc5c8\ub294\ub370 \uc774\uac78\ub85c \uac00\ub974\uce58\ub294\uac8c \uc88b\uc744\ub77c\ub098...",
+        "ts": "1442131926.000790"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uae43 \uc544\uc608 \ubaa8\ub974\ub294 \uc560\ub4e4\ud55c\ud14c \ub300\ucda9 \uc774\uc815\ub3c4\ub85c\ub9cc \uc18c\uac1c\ud560\ub824\uace0\ud558\ub294\ub370 \ubb50 \ube60\uc9c4\uac70 \uc788\uc744\ub77c\ub098\uc5ec\n<https:\/\/github.com\/snu-sf-class\/swpp2015fall\/blob\/master\/Git.md>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "snu-sf-class\/swpp2015fall",
+                "title_link": "https:\/\/github.com\/snu-sf-class\/swpp2015fall\/blob\/master\/Git.md",
+                "text": "Contribute to swpp2015fall development by creating an account on GitHub.",
+                "fallback": "GitHub: snu-sf-class\/swpp2015fall",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/13548575?v=3&s=400",
+                "from_url": "https:\/\/github.com\/snu-sf-class\/swpp2015fall\/blob\/master\/Git.md",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "id": 1
+            }
+        ],
+        "ts": "1442168377.000791"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ucf54\uba58\ud2b8 \uc8fc\uc2dc\uba74 \uac10\uc0ac..",
+        "ts": "1442168455.000793"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "<https:\/\/www.youtube.com\/watch?v=M_XwzBMTJaM>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "StarCraft II: Legacy of the Void Opening Cinematic",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=M_XwzBMTJaM",
+                "author_name": "StarCraft",
+                "author_link": "https:\/\/www.youtube.com\/user\/starcraft",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/M_XwzBMTJaM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: StarCraft II: Legacy of the Void Opening Cinematic",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/M_XwzBMTJaM?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=M_XwzBMTJaM",
+                "id": 1
+            }
+        ],
+        "ts": "1442213427.000794"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\uc800\uac70 \uc5b4\uc81c \uc0dd\ubc29\uc73c\ub85c \ubd10\uc11c \uc9c0\ub838\uc5c8\ub294\ub370",
+        "ts": "1442213447.000796"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\ucde8\ud5a5\uc800\uaca9\ub2f9\ud574\uc11c \uc88b\uc558\uc74c",
+        "ts": "1442213463.000797"
+    }
+]

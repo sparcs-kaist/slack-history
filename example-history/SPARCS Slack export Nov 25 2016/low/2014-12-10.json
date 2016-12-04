@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U02CJ9UCL",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02CJ9UCL|argon> has joined the channel",
+        "ts": "1418221367.000002"
+    }
+]

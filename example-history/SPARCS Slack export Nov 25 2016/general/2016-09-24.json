@@ -1,0 +1,174 @@
+[
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc2ac-\ub799\uc5d0\uc11c \ud22c\ud45c \uc62c\ub9ac\ub824\uba74 \uc5b4\ub5bb\uac8c \ud574\uc57c\ud558\ub098\uc694? Simple poll\uc774\ub780\uac78 \uae54\ub824\ud558\ub2c8 \uc778\ud130\uadf8\ub798\uc774\uc158\uac1c\uc218 \ucd08\uacfc\ub77c \uc548\ub41c\ub2e4\ub294\ub370",
+        "ts": "1474709241.002521"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "1. \uc9dc\uc7a5\uba74\n2. \uc9ec\ubf55\n3. \ud0d5\uc218\uc721 ",
+        "ts": "1474712817.002522",
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U024SHLFH",
+                    "U0VBXNPNF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U024SHLFH",
+                    "U0VBXNPNF",
+                    "U026NDWJW",
+                    "U04J6LN3W"
+                ],
+                "count": 4
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U024SHLFH",
+                    "U0VBXNPNF",
+                    "U024SR90N"
+                ],
+                "count": 3
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U0VBXNPNF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U026NDWJW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat2",
+                "users": [
+                    "U02PEJCVA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "suckzoo",
+                "users": [
+                    "U024U2P7Y",
+                    "U02L44HTT",
+                    "U0VBXNPNF",
+                    "U024SNG5N",
+                    "U0B6LPVSM"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc800\ub807\uac8c.....",
+        "ts": "1474712848.002523"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "1. \uce58\ud0a8\n2. \ud53c\uc790\n3. \uae40\ud53c\ud0d5",
+        "ts": "1474712899.002524",
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U0VBXNPNF",
+                    "U04J6LN3W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U0VBXNPNF",
+                    "U026NDWJW",
+                    "U0V6MLCAH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "suckzoo",
+                "users": [
+                    "U024U2P7Y",
+                    "U02L44HTT",
+                    "U0VBXNPNF",
+                    "U024SNG5N",
+                    "U0B6LPVSM"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc624\ud638",
+        "ts": "1474712999.002525",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U0VBXNPNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2f9",
+        "ts": "1474713259.002526"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": ":suckzoo-face:",
+        "ts": "1474781385.002527"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": ":suckzoo:",
+        "ts": "1474781405.002528"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc815\ub9d0 \ub370\ub2e8\ud574~",
+        "ts": "1474781413.002529"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "<@U024U2P7Y> \uc11d\uc8fc\ud615 \uc0ac\uc9c4\uc73c\ub85c \ud788\ud2b8\ub2e4\ud788\ud2b8\ucf58 \ub9cc\ub4e4\uc5b4\ub3c4 \ub418\ub098\uc694?",
+        "ts": "1474781991.002530"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub9c8\uc74c\ub300\ub85c",
+        "ts": "1474782025.002531"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uadfc\ub370 \uc11d\uc8fc\ud615 \uc9e4\uc774 \uc5c6\uc5b4\uc11c \ubabb\ub9cc\ub4e4\uaca0\ub2e4",
+        "ts": "1474782057.002532"
+    }
+]

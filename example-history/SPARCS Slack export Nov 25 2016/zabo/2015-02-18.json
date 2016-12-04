@@ -1,0 +1,75 @@
+[
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "id": 1,
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/878d30e7969f...bee0ffac8969|4 new commits> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/0418810|0418810>: Change announcement and host description word-wrap css to pre-line. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/73115b5|73115b5>: Handle is_published parameter to control dratf and published article. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/6c01112|6c01112>: Remove useless url and view function. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/bee0ffa|bee0ffa>: Create user search url and view function. Add owner selection function on article editing page. - Horknox",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/878d30e7969f...bee0ffac8969|4 new commits> by Horknox:",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1424272591.000940"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc7a5\uace0\uc5d0\uc11c \uae30\ubcf8 \uc720\uc800 \ubaa8\ub378\uc5d0\ub294 \uc65c Full name \uc774 \uc5c6\ub294\uac00\u3163",
+        "ts": "1424273109.000941"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uac80\uc0c9\uc774 \ucc38... \uad6c\ud604\uc744 \uc5b4\ucc0c\ud574\uc57c\ud560\uc9c0...",
+        "ts": "1424273116.000942"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "field\ub97c \ub530\ub85c \ub9cc\ub4e4\ub358\uac00 \ud574\uc57c\ud560 \uac83 \uac19\uc74c. <@U0251JXSR>",
+        "ts": "1424273129.000943"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "Last name\uc774\ub791 first name\uc911\uc5d0 \ud558\ub098\ub9cc \ucc44\uc6b0\ub294\uac74 \uc5b4\ub5a4\uac00\uc694 \u314b\u314b",
+        "ts": "1424300682.000944"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc624... \uadf8\uac83\ub3c4 \ubc29\ubc95\uc774\uae34\ud558\uaca0\uad70",
+        "ts": "1424301036.000945"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "db \ud544\ub4dc\uac00 \ud314\uc218 \uac12\uc774 \uc544\ub2c8\uae30\ub97c...",
+        "ts": "1424301062.000946"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub2e4\ud589\ud788\ub3c4 \uc544\ub2c8\uad70. \uadf8\ub7fc last\ub97c \ucc44\uc6b8\uae4c first\ub97c \ucc44\uc6b8\uae4c",
+        "ts": "1424301132.000947"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ud37c\uc2a4\ud2b8\uc694",
+        "ts": "1424302744.000948"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\u314b\u314b",
+        "ts": "1424302747.000949"
+    }
+]

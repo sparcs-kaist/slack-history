@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1434684168.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "purpose": "\ub3d9\ubc29\uc758 \uc8fc\ubbfc\uc774\uc790 \uc5d0\ub9b0\uc758 \uc8fc\ubbfc\ub4e4",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024U2P7Y|suckzo_o> set the channel purpose: \ub3d9\ubc29\uc758 \uc8fc\ubbfc\uc774\uc790 \uc5d0\ub9b0\uc758 \uc8fc\ubbfc\ub4e4",
+        "ts": "1434684169.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub9c8\ube44\ub178\uae30\ud558\uc138\uc694",
+        "ts": "1434684177.000004"
+    },
+    {
+        "user": "U024U2P7Y",
+        "topic": "\uc5d0\ub9b0\uc758 \uc8fc\ubbfc\ub4e4",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024U2P7Y|suckzo_o> set the channel topic: \uc5d0\ub9b0\uc758 \uc8fc\ubbfc\ub4e4",
+        "ts": "1434684184.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U0251JXSR>",
+        "ts": "1434684248.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "@shavakan",
+        "ts": "1434684251.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U024WGSD3>",
+        "ts": "1434684253.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U024SJ7R9>",
+        "ts": "1434684256.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "@penguin",
+        "ts": "1434684258.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U024SR90N>",
+        "ts": "1434684280.000011"
+    },
+    {
+        "user": "U0251JXSR",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0251JXSR|coffee> has joined the channel",
+        "ts": "1434684288.000012"
+    },
+    {
+        "user": "U024WGSD3",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1434684295.000013"
+    },
+    {
+        "user": "U024SJ7R9",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "ts": "1434684299.000014"
+    },
+    {
+        "user": "U024SR90N",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SR90N|minseo> has joined the channel",
+        "ts": "1434684305.000015"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1434689701.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc6b8\ud504@Hodduc \ud558\ud504@Hodduc",
+        "ts": "1434689877.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc6b8\ud504\ub294 \ud55c\ub3d9\uc548 \uc548\ud558\uaca0\uc9c0\ub9cc...",
+        "ts": "1434689881.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc800\ud76c \ub2e4 \uc6b8\ud508\ub370 \u3160\u3160\u3160\u3160\u3160",
+        "ts": "1434690746.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\u3147\u3147\uc6b8\ud504\uc5d0\ub3c4 \uc77c\ub2e8 \uce90\ub9ad\uc740 \uc788\uc74c..",
+        "ts": "1434691629.000020"
+    }
+]

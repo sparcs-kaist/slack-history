@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "2",
+        "edited": {
+            "user": "U024SHLFH",
+            "ts": "1405415547.000000"
+        },
+        "ts": "1405415507.000008"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "1",
+        "ts": "1405417082.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "0",
+        "ts": "1405424777.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "-1",
+        "ts": "1405490488.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "-2",
+        "ts": "1405493219.000014"
+    }
+]

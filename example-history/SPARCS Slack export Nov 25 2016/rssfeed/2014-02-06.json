@@ -1,0 +1,458 @@
+[
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1x5ty7\/internet_wave_simulator\/|Internet wave simulator>\nsubmitted by  Sumido  to  javascript  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1x5ty7\/internet_wave_simulator\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391682446.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/linux\/comments\/1x5u8d\/linux_users_on_average_are_the_biggest_donors_to\/|Linux Users, on Average, are the biggest donors to the current Humble Bundle.>\nsubmitted by  This_Is_Q  to  linux  [link] [\ub313\uae00 29]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391684771.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1x68yv\/c_programming_language_tutorial\/|C Programming Language Tutorial>\nsubmitted by  vikashsmg11  to  java  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1x68yv\/c_programming_language_tutorial\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391688742.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x6aoj\/research_question_in_validation_type_study\/|Research question in validation type study>\nHey there Reddit, I&amp;#39;m working om my master thesis which as of yet is taking way too much time. My study centers around a model which uses a relatively unknown method to predict mortality of ICU patients. The model has already been created by someone else (or actually, a bunch of different people over different studies) and I&amp;#39;m going to take that model, a. test if the results of the previous researcher hold up in a different dataset, b. change some aspects of the model in terms of how it ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hey there Reddit, I'm working om my master thesis which as of yet is taking way too much time. My study centers around a model which uses a relativel...",
+                "fallback": "Hey there Reddit, I'm working om my master thesis which as of yet is taking way too much time. My study centers around a model which uses a relativel...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x6aoj\/research_question_in_validation_type_study\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391690306.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1x6eqy\/jep_188_java_memory_model_update\/|JEP 188: Java Memory Model Update>\nsubmitted by  letrec  to  java  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1x6eqy\/jep_188_java_memory_model_update\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391695761.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/web_design\/comments\/1x6h1x\/someone_forgot_something\/|Someone forgot something.>\nsubmitted by  sirwarlord  to  web_design  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391697387.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1x6h6d\/nvidia_pledges_more_support_for_linux_open_source\/|NVIDIA pledges more support for Linux open source 'Nouveau' driver>\nsubmitted by  OpenSourceToday  to  opensource  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391699037.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x6kup\/multiview_learning_with_categorical_and\/|Multi-view Learning with Categorical and Continuous Variables?>\nI am working on building a robust binary classifier from a data set of around 40,000 samples and for each sample, there are two feature sets.  One feature vector is a set of around 15 related continuous variables which every sample has, and the other feature vector is a set of around 70 categorical variables which the sample may or may not have an entry for at all. My current approach is to use a combination of domain knowledge and associative rule learning on the categorical variables to form a...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am working on building a robust binary classifier from a data set of around 40,000 samples and for each sample, there are two feature sets. One f...",
+                "fallback": "I am working on building a robust binary classifier from a data set of around 40,000 samples and for each sample, there are two feature sets. One f...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x6kup\/multiview_learning_with_categorical_and\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391701524.000003"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x6ucb\/could_someone_explain_to_me_why_this_sounds_good\/|Could someone explain to me why this sounds good?>\nI have a chord progression that sounds great to me, but I don&amp;#39;t understand why... Moving back and forth between Amaj and Bmin, I&amp;#39;ll sometimes hit a Bb7 (Bb + F + A). Then a measure goes to Emaj, then back to Amaj. THEN, I&amp;#39;ll hit that Bb7 chord and move up to a Cmaj, and it creates a great sounding build-up to go back into the A... But I don&amp;#39;t understand; does this have to do with a chromatic scale? I know my major scales very well and all their modal counterparts, and I can&amp;#39;t...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have a chord progression that sounds great to me, but I don't understand why... Moving back and forth between Amaj and Bmin, I'll sometimes hit a Bb...",
+                "fallback": "I have a chord progression that sounds great to me, but I don't understand why... Moving back and forth between Amaj and Bmin, I'll sometimes hit a Bb...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x6ucb\/could_someone_explain_to_me_why_this_sounds_good\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391705420.000005"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x6y12\/just_came_across_this_app_pretty_incredible\/|Just came across this app, pretty incredible>\n<http:\/\/www.youtube.com\/watch?v=7KSyrX6GV-4>  submitted by  jro691  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "<http:\/\/www.youtube.com\/watch?v=7KSyrX6GV-4>",
+                "fallback": "<http:\/\/www.youtube.com\/watch?v=7KSyrX6GV-4>",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x6y12\/just_came_across_this_app_pretty_incredible\/",
+                "id": 1
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "NotateMe - Phones Take Note",
+                "title_link": "http:\/\/www.youtube.com\/watch?v=7KSyrX6GV-4",
+                "author_name": "NotateMe",
+                "author_link": "http:\/\/www.youtube.com\/user\/NotateMe",
+                "thumb_url": "http:\/\/i1.ytimg.com\/vi\/7KSyrX6GV-4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: NotateMe - Phones Take Note",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"http:\/\/www.youtube.com\/embed\/7KSyrX6GV-4?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "http:\/\/www.youtube.com\/watch?v=7KSyrX6GV-4",
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391707075.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1x70b6\/google_smartwatch_concept_just_take_my_money\/|Google smartwatch concept? Just take my money.>\nsubmitted by  thehullmeister  to  google  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1x70b6\/google_smartwatch_concept_just_take_my_money\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391710535.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1x73ur\/learn_web_development_from_scratch_using_this\/|Learn Web Development from scratch using this detailed, step-by-step curriculum that I created. It uses (mostly free) online courses>\nHere is the curriculum. I&amp;#39;m a technology researcher, but when I launched my startup SlideRule, I had to learn Web Development from scratch, using online courses and resources. This curriculum outlines the best resources I found, and lays them out in a sequence that a beginner should be able to follow. This is a curriculum, not the best curriculum. I&amp;#39;d love to hear your feedback on whether you find this useful. What should I should change or add?  submitted by  parul8ue  to  learnprogramm...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "[Here is the curriculum](<http:\/\/www.mysliderule.com\/web-dev>). I'm a technology researcher, but when I launched my startup [SlideRule](<http:\/\/myslider>...",
+                "fallback": "[Here is the curriculum](<http:\/\/www.mysliderule.com\/web-dev>). I'm a technology researcher, but when I launched my startup [SlideRule](<http:\/\/myslider>...",
+                "from_url": "http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1x73ur\/learn_web_development_from_scratch_using_this\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391713016.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/math\/comments\/1x78y5\/understanding_steins_paradox\/|Understanding Stein's Paradox>\nI am currently reading \"Our Days Are Numbered\" by Jason Brown, a incredibly light read about using math in our every day lives. Having done a significant amount of post secondary in the area I felt pretty comfortable until the author began talking about Stein&amp;#39;s Paradox. Essentially it is saying that if you observe the short term averages of 3 criteria and use this as an estimator for the long term averages indivdually, you will be further off than if you had skewed the results to the short t...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am currently reading \"Our Days Are Numbered\" by Jason Brown, a incredibly light read about using math in our every day lives. Having done a signific...",
+                "fallback": "I am currently reading \"Our Days Are Numbered\" by Jason Brown, a incredibly light read about using math in our every day lives. Having done a signific...",
+                "from_url": "http:\/\/www.reddit.com\/r\/math\/comments\/1x78y5\/understanding_steins_paradox\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391713964.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1x7d4t\/join_perl_hardware_and_help_organize_the_hardware\/|Join Perl Hardware and help organize the Hardware Hackathon at YAPC::NA::2014>\nsubmitted by  rblackwe  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1x7d4t\/join_perl_hardware_and_help_organize_the_hardware\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391715412.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/engineering\/comments\/1x7pue\/looking_for_a_small_fuel_injected_tuneable_engine\/|Looking for a small, fuel injected, tuneable engine.>\nI&amp;#39;m looking for a small (preferably one or two cylinders.. can fit on a desk) fuel injected, tuneable engine. I&amp;#39;d like to build a camless engine but don&amp;#39;t have the resources or cash right now to pursue this on a full sized engine.  Any of you guys know of a small engine that fits the bill?   submitted by  Del_Sol  to  engineering  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm looking for a small (preferably one or two cylinders.. can fit on a desk) fuel injected, tuneable engine. I'd like to build a camless engine but ...",
+                "fallback": "I'm looking for a small (preferably one or two cylinders.. can fit on a desk) fuel injected, tuneable engine. I'd like to build a camless engine but ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/engineering\/comments\/1x7pue\/looking_for_a_small_fuel_injected_tuneable_engine\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391723822.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1x7tzf\/help_with_errors\/|help with errors>\nelif (bookn!=isbn[z]) and (z==4) { coutbookn; z=0; }  my esif is giving me lots of errors. i think i have the syntax wrong but i don&amp;#39;t know void tax(float total[],int &amp;count,float &amp;pretax,float &amp;tax,float &amp;aftertax) tax(total,count,pretax,tax,aftertax);  my function call is giving me this error error C2064: term does not evaluate to a function taking 5 arguments  submitted by  link_daddy  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391725014.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1x8115\/can_i_use_autoload_to_map_method_calls_to_jsonrpc\/|Can I use AUTOLOAD to map method calls to JSON-RPC calls?>\nJSON-RPC method calls look like billing.cust.invoice() where the periods are the separators. Is it possible to do something like $j = new JSON-Obj; $j-&gt;billing-&gt;cust-&gt;invoice(1234);  Where billing\/cust\/invoice do not exist, but get mapped to a static function like method_call($name,$params); It seems like I should be able to use AUTOLOAD to catch the \"fake\" calls, keep track of them, and when you get to the end map those to a string and pass it to method_call()?  submitted by  scottchiefbaker  t...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "JSON-RPC method calls look like `billing.cust.invoice()` where the periods are the separators. Is it possible to do something like $j = new JSON-...",
+                "fallback": "JSON-RPC method calls look like `billing.cust.invoice()` where the periods are the separators. Is it possible to do something like $j = new JSON-...",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1x8115\/can_i_use_autoload_to_map_method_calls_to_jsonrpc\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391728859.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1x81w1\/c_papers_for_issaquah_concepts_database_evolution\/|C++ Papers for Issaquah - Concepts, Database &amp; Evolution>\nsubmitted by  meetingcpp  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1x81w1\/c_papers_for_issaquah_concepts_database_evolution\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391729401.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1x883v\/using_pytest_as_a_testrunner_for_c_unit_tests\/|Using pytest as a testrunner for C unit tests [xpost from r\/python]>\nsubmitted by  jmcnamara13  to  C_Programming  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391732927.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1x8cn1\/guide_to_advanced_programming_in_c\/|Guide to Advanced Programming in C>\nsubmitted by  mhh91  to  C_Programming  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391735520.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x8hk1\/question_about_computing_bayes_error_with_or\/|Question about computing Bayes Error - with or without loss function?>\nI am new to Bayesian Decision Theory and don&amp;#39;t understand the following concept: So from what I understood, the Bayes error is used to report the performance of a Bayes classifier in terms of the probability of making and error. From the conditional error probabilities (I uploaded the equations as images in hope they are helpful to explain what I am referring to) ![conditional error](<http:\/\/sebastianraschka.com\/_my_resources\/images\/equations\/cond_error.png>) we can obtain the total probabilit...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am new to Bayesian Decision Theory and don't understand the following concept: So from what I understood, the Bayes error is used to report the per...",
+                "fallback": "I am new to Bayesian Decision Theory and don't understand the following concept: So from what I understood, the Bayes error is used to report the per...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x8hk1\/question_about_computing_bayes_error_with_or\/",
+                "id": 1
+            },
+            {
+                "from_url": "http:\/\/sebastianraschka.com\/_my_resources\/images\/equations\/cond_error.png",
+                "fallback": "416x79px image",
+                "image_url": "http:\/\/sebastianraschka.com\/_my_resources\/images\/equations\/cond_error.png",
+                "image_width": 416,
+                "image_height": 79,
+                "image_bytes": 8007,
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391739716.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/Python\/comments\/1x8oar\/a_quick_note_on_my_pleasant_experience_with\/|A quick note on my pleasant experience with Beautiful Soup.>\nI know everybody here has extolled the virtues of Beautiful Soup for parsing HTML many times, but now that I finally had a reason to use it, I can chime in with my agreement. I wanted to scrape the library hours from my university website and five minutes at the python shell gave me the information I needed to write a script. 20 lines is all that is needed to get my hours in a very digestible format. As a note of caution, I&amp;#39;ll mention that I had to get an alternate parser as described in the...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I know everybody here has extolled the virtues of Beautiful Soup for parsing HTML many times, but now that I finally had a reason to use it, I can chi...",
+                "fallback": "I know everybody here has extolled the virtues of Beautiful Soup for parsing HTML many times, but now that I finally had a reason to use it, I can chi...",
+                "from_url": "http:\/\/www.reddit.com\/r\/Python\/comments\/1x8oar\/a_quick_note_on_my_pleasant_experience_with\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391746731.000004"
+    },
+    {
+        "text": "<http:\/\/helloworld.naver.com\/645609|Java\uc758 \ub0a0\uc9dc\uc640 \uc2dc\uac04 API>\n\ub124\uc774\ubc84 \ube44\uc988\ub2c8\uc2a4 \ud50c\ub7ab\ud3fc \uc6f9\ud50c\ub7ab\ud3fc\uac1c\ubc1c\ub7a9 \uc815\uc0c1\ud601\n\t\nJava\uc758 \uae30\ubcf8 SDK\uc5d0\uc11c \ub0a0\uc9dc\uc640 \uc2dc\uac04\uc744 \ub2e4\ub8e8\ub294 java.util.Date \ud074\ub798\uc2a4\uc640 java.util.Calendar \ud074\ub798\uc2a4\ub294 \uc0ac\uc6a9\ud558\uae30 \ubd88\ud3b8\ud558\ub2e4\ub294 \uc545\ud3c9\uc774 \uc790\uc790\ud569\ub2c8\ub2e4. \uc774\ub97c \ub2f5\ub2f5\ud558\uac8c \uc5ec\uae34 \uc0ac\ub78c\ub4e4\uc774 \uc774 \ud074\ub798\uc2a4\ub97c \ub300\uccb4\ud558\ub824\uace0 Joda-Time \uac19\uc740 \uc624\ud508\uc18c\uc2a4 \ub77c\uc774\ube0c\ub7ec\ub9ac\ub97c \ub9cc\ub4e4\uae30\ub3c4 \ud588\uc2b5\ub2c8\ub2e4. \ub9ce\uc774 \ub2a6\uc5c8\uc9c0\ub9cc \ub2e4\ud589\ud788 JDK 8\uc5d0\uc11c\ub294 \uac1c\uc120\ub41c \ub0a0\uc9dc\uc640 \uc2dc\uac04 API\uac00 \uc81c\uacf5\ub429\ub2c8\ub2e4.\n\n\uc774 \uae00\uc5d0\uc11c\ub294...",
+        "username": "hello world",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391751206.000006"
+    },
+    {
+        "text": "<http:\/\/www.nextree.co.kr\/p5864\/|Java Annotation: \uc778\ud130\ud398\uc774\uc2a4 \uac15\uc694\ub85c\ubd80\ud130 \uc790\uc720\ub97c\u2026>\n\uc791\ub144\uc5d0 \ud588\ub358\u00a0\ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c Spring Annotation\uacfc JAXB Annotation\uc744 \uc0ac\uc6a9\ud55c \uacbd [\u2026]",
+        "username": "\ub125\uc2a4\ud2b8\ub9ac | NEXTREE",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391752711.000007"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x8vxs\/trying_to_understand_the_infraworld_by_lorne_balfe\/|Trying to understand \"The Infraworld\" by Lorne Balfe>\nI&amp;#39;ll go through what I gathered so far: At about a minute in there is a repeating sequence of five 16th notes, creating syncopation over the 4\/4 revealed later and but also indicating scale: it plays B, A#, F#, D#, E#, (or Cb, Bb, Gb, Eb, F,) making the only suitable signature that of F#(Gb)  That said, this is the section I pretty much don&amp;#39;t comprehend.  The first chord is a B over a D# bass, and looking at a spectrogram there&amp;#39;s a prominent enough F# to possibly be a fundamental fre...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'll go through what I gathered so far: At [about a minute in](<http:\/\/youtu.be\/9u0KaxhJwmM?t=59s>) there is a repeating sequence of five 16th notes, c...",
+                "fallback": "I'll go through what I gathered so far: At [about a minute in](<http:\/\/youtu.be\/9u0KaxhJwmM?t=59s>) there is a repeating sequence of five 16th notes, c...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x8vxs\/trying_to_understand_the_infraworld_by_lorne_balfe\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391757711.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/science\/comments\/1x8wko\/treat_your_spouse_well_heart_disease_risk_linked\/|Treat Your Spouse Well - Heart Disease Risk Linked With Spouses\u2019 Social Support>\nsubmitted by  hifive123  to  science  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/science\/comments\/1x8wko\/treat_your_spouse_well_heart_disease_risk_linked\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391758256.000000"
+    }
+]

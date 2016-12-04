@@ -1,0 +1,595 @@
+[
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud639\uc2dc parallax scrolling ??? \uc5d0 \ub300\ud574 \uc870\uc608\uac00 \uae4a\uc73c\uc2e0\ubd84 \uacc4\uc2e0\uac00\uc694",
+        "ts": "1409643235.002785"
+    },
+    {
+        "user": "U02HV8AGZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02HV8AGZ|feelblu> has joined the channel",
+        "ts": "1409656472.002786"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc544 ... \u3142\u3134\uc0b0\u3147\u3142",
+        "ts": "1409672380.002787"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u3160",
+        "ts": "1409672380.002788"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314e\u3131\u3147",
+        "ts": "1409712124.002789"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud559\uae30\uac00 \ubc8c\uc368 \ud798\ub4e4\uc5b4",
+        "ts": "1409715774.002790"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1409715881.002791"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "3\uc77c\uc9f8\uc77c\ud150\ub370\uc694!",
+        "ts": "1409715885.002792"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub9c8\uc758 3\uc77c",
+        "ts": "1409716251.002793"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub3d9\ud654\ud6c8\ub828 3\uc77c \uc9f8 \uc81c\uc77c \ud798\ub4e4\uc9c0",
+        "ts": "1409716271.002794"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uace7 \uc218\uc6a9 \ub2e8\uacc4\uc5d0 \ub4e4\uc5b4\uac78\uac70\ub77c \ubbff\uc74c",
+        "ts": "1409716291.002795"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "rodumani: \ub514\ub370\uc774 \ud504\ub86c\ud504\ud2b8 \uc258\ud568\uc218\uc880 \uc8fc\uc148",
+        "ts": "1409721602.002796"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1409721603.002797"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uac11\uc790\uae30 \ub2ec\uace0\uc2f6\ub2e4",
+        "ts": "1409721607.002798"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "# Remaining date.\nfunction remains {\n\tif [[ $(uname -a) =~ \"Darwin\" ]]\n\tthen\n        echo $(( $(( $(date -j -f \"%Y%m%d\" \"20160501\" +%s) - $(date -j +%s) )) \/ 86400 ))\n\telse\n\t\techo $(( $(( $(date -d \"20160501\" +%s) - $(date +%s) )) \/ 86400 + 1))\n\tfi\t\n}",
+        "ts": "1409722049.002799"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0K6|rodumani> uploaded a file: <https:\/\/sparcs.slack.com\/files\/rodumani\/F02HZGG0T\/d-day_function.sh|D-Day function>",
+        "file": {
+            "id": "F02HZGG0T",
+            "created": 1409722043,
+            "timestamp": 1409722043,
+            "name": "d-day_function.sh",
+            "title": "D-Day function",
+            "mimetype": "text\/plain",
+            "filetype": "shell",
+            "pretty_type": "Shell",
+            "user": "U024SN0K6",
+            "editable": true,
+            "size": 259,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02HZGG0T\/d-day_function.sh?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02HZGG0T\/download\/d-day_function.sh?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/rodumani\/F02HZGG0T\/d-day_function.sh",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02HZGG0T-c65e256808",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/rodumani\/F02HZGG0T\/d-day_function.sh\/edit",
+            "preview": "# Remaining date.\r\nfunction remains {\r\n\tif [[ $(uname -a) =~ \"Darwin\" ]]\r\n\tthen\r\n        echo $(( $(( $(date -j -f \"%Y%m%d\" \"20160501\" +%s) - $(date -j +%s) )) \/ 86400 ))\r\n\telse\r\n\t\techo $(( $(( $(date -d \"20160501\" +%s) - $(date +%s) )) \/ 86400 + 1))\r\n\tfi\t\r\n}",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># Remaining date.<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">function<\/span> remains {<\/pre><\/div>\n<div><pre>\t<span class=\"cm-keyword\">if<\/span> [[ <span class=\"cm-quote\">$(uname -a)<\/span> <span class=\"cm-operator\">=<\/span>~ <span class=\"cm-string\">&quot;Darwin&quot;<\/span> ]]<\/pre><\/div>\n<div><pre>\t<span class=\"cm-keyword\">then<\/span><\/pre><\/div>\n<div><pre>        <span class=\"cm-builtin\">echo<\/span> <span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(date -j -f &quot;%Y%m%d&quot; &quot;20160501&quot; +%s)<\/span><span class=\"cm-quote\"> - <\/span><span class=\"cm-quote\">$(date -j +%s)<\/span><span class=\"cm-quote\"> )<\/span><span class=\"cm-quote\">)<\/span> \/ <span class=\"cm-number\">86400<\/span> ))<\/pre><\/div>\n<div><pre>\t<span class=\"cm-keyword\">else<\/span><\/pre><\/div>\n<div><pre>\t\t<span class=\"cm-builtin\">echo<\/span> <span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(date -d &quot;20160501&quot; +%s)<\/span><span class=\"cm-quote\"> - <\/span><span class=\"cm-quote\">$(date +%s)<\/span><span class=\"cm-quote\"> )<\/span><span class=\"cm-quote\">)<\/span> \/ <span class=\"cm-number\">86400<\/span> <span class=\"cm-operator\">+<\/span> <span class=\"cm-number\">1<\/span>))<\/pre><\/div>\n<div><pre>\t<span class=\"cm-keyword\">fi<\/span>\t<\/pre><\/div>\n<div><pre>}<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 9,
+            "lines_more": 0,
+            "preview_is_truncated": null,
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0K6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0K6|rodumani>",
+        "bot_id": null,
+        "ts": "1409722070.002800"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uac10\uc0ac!",
+        "ts": "1409722085.002801"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc800\uac70 zsh\uc5d0 \ub2e4\ub294\ubc95 \uc54c\uba74 \uacf5\uc720\uc880 \u314b\u314b",
+        "ts": "1409722203.002802"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "theme\uc5d0 \uc774\uc058\uac8c \ub2ec\uace0\uc2f6\uc740\ub385",
+        "ts": "1409722212.002803"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc800\ub294 \uc774\ub7f0\uc2dd\uc73c\ub85c \ub2ec\uc558\uc5b4\uc694",
+        "ts": "1409722236.002804"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0K6|rodumani> uploaded a file: <https:\/\/sparcs.slack.com\/files\/rodumani\/F02J0ERDC\/-.sh|Untitled>",
+        "file": {
+            "id": "F02J0ERDC",
+            "created": 1409722215,
+            "timestamp": 1409722215,
+            "name": "-.sh",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "shell",
+            "pretty_type": "Shell",
+            "user": "U024SN0K6",
+            "editable": true,
+            "size": 242,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0ERDC\/-.sh?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0ERDC\/download\/-.sh?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/rodumani\/F02J0ERDC\/-.sh",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02J0ERDC-8318553b2b",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/rodumani\/F02J0ERDC\/-.sh\/edit",
+            "preview": "# Prompt format: \\n # USER at MACHINE in DIRECTORY on git:BRANCH STATE [TIME] \\n $ \r\nRPROMPT=\"%{$reset_color%}\"\r\nPROMPT=\"%{$fg[$colors[$RANDOM%6]]%}D-$(remains)%{$reset_color%} \\\r\n%{$fg[red]%}D+$(ddays)%{$reset_color%} \\\r\n%{$fg[white]%}[%*] \\",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># Prompt format: \\n # USER at MACHINE in DIRECTORY on git:BRANCH STATE [TIME] \\n $ <\/span><\/pre><\/div>\n<div><pre><span class=\"cm-def\">RPROMPT<\/span><span class=\"cm-operator\">=<\/span><span class=\"cm-string\">&quot;%{<\/span><span class=\"cm-def\">$reset_color<\/span><span class=\"cm-string\">%}&quot;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-def\">PROMPT<\/span><span class=\"cm-operator\">=<\/span><span class=\"cm-string\">&quot;%{<\/span><span class=\"cm-def\">$fg<\/span><span class=\"cm-string\">[<\/span><span class=\"cm-def\">$colors<\/span><span class=\"cm-string\">[<\/span><span class=\"cm-def\">$RANDOM<\/span><span class=\"cm-string\">%6]]%}D-<\/span><span class=\"cm-quote\">$(remains)<\/span><span class=\"cm-string\">%{<\/span><span class=\"cm-def\">$reset_color<\/span><span class=\"cm-string\">%} \\<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-string\">%{<\/span><span class=\"cm-def\">$fg<\/span><span class=\"cm-string\">[red]%}D+<\/span><span class=\"cm-quote\">$(ddays)<\/span><span class=\"cm-string\">%{<\/span><span class=\"cm-def\">$reset_color<\/span><span class=\"cm-string\">%} \\<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-string\">%{<\/span><span class=\"cm-def\">$fg<\/span><span class=\"cm-string\">[white]%}[%*] \\<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 5,
+            "lines_more": 0,
+            "preview_is_truncated": null,
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0K6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0K6|rodumani>",
+        "bot_id": null,
+        "ts": "1409722241.002805"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN150|bbashong> shared a file: <https:\/\/sparcs.slack.com\/files\/bbashong\/F02F08BNC\/_____________2014-08-04_18.04.14.png|\uc2a4\ud06c\ub9b0\uc0f7 2014-08-04 18.04.14.png>",
+        "file": {
+            "id": "F02F08BNC",
+            "created": 1407143064,
+            "timestamp": 1407143064,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2014-08-04 18.04.14.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2014-08-04 18.04.14.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SN150",
+            "editable": false,
+            "size": 89819,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02F08BNC\/_____________2014-08-04_18.04.14.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02F08BNC\/download\/_____________2014-08-04_18.04.14.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02F08BNC-a6a0cf\/_____________2014-08-04_18.04.14_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02F08BNC-a6a0cf\/_____________2014-08-04_18.04.14_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02F08BNC-a6a0cf\/_____________2014-08-04_18.04.14_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 308,
+            "image_exif_rotation": 1,
+            "original_w": 647,
+            "original_h": 553,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/bbashong\/F02F08BNC\/_____________2014-08-04_18.04.14.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02F08BNC-0b7ef0c044",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN150",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U024SN150|bbashong>",
+        "bot_id": null,
+        "ts": "1409722382.002806"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc544 \ub09c 20160501\uc774\uc544\ub2c8\uc9c0",
+        "ts": "1409722395.002807"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub0b4\uaec0\uce7c\ub77c\uc57c",
+        "ts": "1409722395.002808"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc0dd\uac01\ud574\ubcf4\ub2c8",
+        "ts": "1409722433.002809"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub0b4\uac00\ud55c\uac8c",
+        "ts": "1409722435.002810"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud638\ub5a1\uc774\uc6d0\ud558\ub294\uac74\uac00?",
+        "ts": "1409722440.002811"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub9de\uc74c?",
+        "ts": "1409722445.002812"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub099\ud604\uc774\ud615 \uacf5\uc720\uc880",
+        "ts": "1409722492.002813"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub098\uc624\ub298",
+        "ts": "1409722505.002814"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ubc18\ucc28\uc368\uc11c",
+        "ts": "1409722507.002815"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc9d1\uc5d0\uac00\uc590\uc74c \u314e\u314e",
+        "ts": "1409722512.002816"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc9d1\uc5d0\uac00\uc57c\uc788\uc74c",
+        "ts": "1409722517.002817"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc5b4\uc81c\uc220\uc744 \ub108\ubb34\uba39\uc5b4\uc11c..",
+        "ts": "1409722530.002818"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc2e4\ud68c\uc2dd\uc5d0\uc11c \uc7a5\uc5b4 \ud14c\uc774\ube14\ub2f9 25\ub9cc\uc6d0\uc529\uba39\uc74c",
+        "ts": "1409722573.002819"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1409723009.002820"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SNC3Y|iterator> uploaded a file: <https:\/\/sparcs.slack.com\/files\/iterator\/F02J0G13W\/iterator_zsh-theme.sh|iterator.zsh-theme>",
+        "file": {
+            "id": "F02J0G13W",
+            "created": 1409723582,
+            "timestamp": 1409723582,
+            "name": "iterator_zsh-theme.sh",
+            "title": "iterator.zsh-theme",
+            "mimetype": "text\/plain",
+            "filetype": "shell",
+            "pretty_type": "Shell",
+            "user": "U024SNC3Y",
+            "editable": true,
+            "size": 1011,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0G13W\/iterator_zsh-theme.sh?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0G13W\/download\/iterator_zsh-theme.sh?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/iterator\/F02J0G13W\/iterator_zsh-theme.sh",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02J0G13W-7fa0795ec1",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/iterator\/F02J0G13W\/iterator_zsh-theme.sh\/edit",
+            "preview": "function remains {\r\n  if [[ $(uname -a) =~ \"Darwin\" ]]\r\n  then\r\n    echo $(( $(( $(date -j -f \"%Y%m%d\" \"20160113\" +%s) - $(date -j +%s) )) \/ 86400 ))\r\n  else\r\n    echo $(( $(( $(date -d \"20160113\" +%s) - $(date +%s) )) \/ 86400 + 1))\r\n  fi\r\n}\r\n\r\nfunction prompt_char {\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">function<\/span> remains {<\/pre><\/div>\n<div><pre>  <span class=\"cm-keyword\">if<\/span> [[ <span class=\"cm-quote\">$(uname -a)<\/span> <span class=\"cm-operator\">=<\/span>~ <span class=\"cm-string\">&quot;Darwin&quot;<\/span> ]]<\/pre><\/div>\n<div><pre>  <span class=\"cm-keyword\">then<\/span><\/pre><\/div>\n<div><pre>    <span class=\"cm-builtin\">echo<\/span> <span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(date -j -f &quot;%Y%m%d&quot; &quot;20160113&quot; +%s)<\/span><span class=\"cm-quote\"> - <\/span><span class=\"cm-quote\">$(date -j +%s)<\/span><span class=\"cm-quote\"> )<\/span><span class=\"cm-quote\">)<\/span> \/ <span class=\"cm-number\">86400<\/span> ))<\/pre><\/div>\n<div><pre>  <span class=\"cm-keyword\">else<\/span><\/pre><\/div>\n<div><pre>    <span class=\"cm-builtin\">echo<\/span> <span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(( <\/span><span class=\"cm-quote\">$(date -d &quot;20160113&quot; +%s)<\/span><span class=\"cm-quote\"> - <\/span><span class=\"cm-quote\">$(date +%s)<\/span><span class=\"cm-quote\"> )<\/span><span class=\"cm-quote\">)<\/span> \/ <span class=\"cm-number\">86400<\/span> <span class=\"cm-operator\">+<\/span> <span class=\"cm-number\">1<\/span>))<\/pre><\/div>\n<div><pre>  <span class=\"cm-keyword\">fi<\/span><\/pre><\/div>\n<div><pre>}<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">function<\/span> prompt_char {<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 10,
+            "lines_more": 20,
+            "preview_is_truncated": null,
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SNC3Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SNC3Y|iterator>",
+        "bot_id": null,
+        "ts": "1409723608.002821"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub0b4\uaebc",
+        "ts": "1409723614.002822"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "<http:\/\/puu.sh\/bjldC\/f26e868b01.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/bjldC\/f26e868b01.png",
+                "fallback": "416x115px image",
+                "image_url": "http:\/\/puu.sh\/bjldC\/f26e868b01.png",
+                "image_width": 416,
+                "image_height": 115,
+                "image_bytes": 14729,
+                "id": 1
+            }
+        ],
+        "ts": "1409723635.002823"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc544 \uc5ec\uae34 \ube0c\ub79c\uce58\uac00 \uc5c6\ub124",
+        "ts": "1409723653.002825"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "<http:\/\/puu.sh\/bjliR\/909af3c973.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/bjliR\/909af3c973.png",
+                "fallback": "518x209px image",
+                "image_url": "http:\/\/puu.sh\/bjliR\/909af3c973.png",
+                "image_width": 518,
+                "image_height": 209,
+                "image_bytes": 33467,
+                "id": 1
+            }
+        ],
+        "ts": "1409723665.002826"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub09c \uadf8\ub0e5 \uc0c9\uc740 \uace0\uc815",
+        "ts": "1409723721.002828"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc73c\uc545\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1409724286.002829"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud568\uc815\uc774\ub124",
+        "ts": "1409724288.002830"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": ".dotfiles \uac00 \uc544\ub2c8\ub77c",
+        "ts": "1409724290.002831"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "dotfiles \u314b\u314b\u314b\u314b",
+        "ts": "1409724292.002832"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U026JLU7V|lucidash> uploaded a file: <https:\/\/sparcs.slack.com\/files\/lucidash\/F02J0GR9A\/pasted_image_at_2014_09_03_03_04_pm.png|Pasted image at 2014-09-03, 3:04 PM>",
+        "file": {
+            "id": "F02J0GR9A",
+            "created": 1409724297,
+            "timestamp": 1409724297,
+            "name": "Pasted image at 2014_09_03 03_04 PM.png",
+            "title": "Pasted image at 2014-09-03, 3:04 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U026JLU7V",
+            "editable": false,
+            "size": 34444,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0GR9A\/pasted_image_at_2014_09_03_03_04_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0GR9A\/download\/pasted_image_at_2014_09_03_03_04_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02J0GR9A-34cf17\/pasted_image_at_2014_09_03_03_04_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02J0GR9A-34cf17\/pasted_image_at_2014_09_03_03_04_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02J0GR9A-34cf17\/pasted_image_at_2014_09_03_03_04_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 39,
+            "image_exif_rotation": 1,
+            "original_w": 584,
+            "original_h": 63,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/lucidash\/F02J0GR9A\/pasted_image_at_2014_09_03_03_04_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02J0GR9A-48edba12c9",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U026JLU7V",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U026JLU7V|lucidash>",
+        "bot_id": null,
+        "ts": "1409724325.002833"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U026JLU7V|lucidash> uploaded a file: <https:\/\/sparcs.slack.com\/files\/lucidash\/F02J0GT8S\/pasted_image_at_2014_09_03_03_05_pm.png|Pasted image at 2014-09-03, 3:05 PM>",
+        "file": {
+            "id": "F02J0GT8S",
+            "created": 1409724340,
+            "timestamp": 1409724340,
+            "name": "Pasted image at 2014_09_03 03_05 PM.png",
+            "title": "Pasted image at 2014-09-03, 3:05 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U026JLU7V",
+            "editable": false,
+            "size": 35287,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0GT8S\/pasted_image_at_2014_09_03_03_05_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02J0GT8S\/download\/pasted_image_at_2014_09_03_03_05_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02J0GT8S-480d00\/pasted_image_at_2014_09_03_03_05_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02J0GT8S-480d00\/pasted_image_at_2014_09_03_03_05_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02J0GT8S-480d00\/pasted_image_at_2014_09_03_03_05_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 40,
+            "image_exif_rotation": 1,
+            "original_w": 590,
+            "original_h": 66,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/lucidash\/F02J0GT8S\/pasted_image_at_2014_09_03_03_05_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02J0GT8S-4c129e7084",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U026JLU7V",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U026JLU7V|lucidash>",
+        "bot_id": null,
+        "ts": "1409724368.002834"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc228\uae30\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4",
+        "ts": "1409724407.002835"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1409724409.002836"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1409725692.002837"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ub2f7\ud30c\uc77c\uc774 \uc544\ub2d8\uc7bc",
+        "ts": "1409725695.002838"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1409725697.002839"
+    }
+]

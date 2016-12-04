@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0K6|rodumani> has joined the channel",
+        "ts": "1406105846.000002"
+    },
+    {
+        "user": "U024SN0K6",
+        "purpose": "\uc54c\uace0\ub9ac\uc998 \ud1a0\ub860\uc7a5",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SN0K6|rodumani> set the channel purpose: \uc54c\uace0\ub9ac\uc998 \ud1a0\ub860\uc7a5",
+        "ts": "1406105847.000003"
+    },
+    {
+        "user": "U024SN150",
+        "inviter": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN150|bbashong> has joined the channel",
+        "ts": "1406105874.000004"
+    },
+    {
+        "user": "U024SL5UT",
+        "inviter": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SL5UT|chaos> has joined the channel",
+        "ts": "1406105874.000005"
+    },
+    {
+        "user": "U024SN37L",
+        "inviter": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN37L|grandmarnier> has joined the channel",
+        "ts": "1406105874.000006"
+    },
+    {
+        "user": "U024SKNH9",
+        "inviter": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SKNH9|whitegold> has joined the channel",
+        "ts": "1406105874.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\ud5d0 \uc54c\uace0\ub9ac\uc998\ucc44\ub110\ub3c4 \uc0dd\uacbc\uc5b4",
+        "ts": "1406106068.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "...",
+        "ts": "1406106069.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc5ec\ub7ec\ubd84 \uc0ac\uc2e4 \uc54c\uace0\ub9ac\uc998 \ubb38\uc81c\ud478\ub294 \uc0ac\uc774\ud2b8\ub294\nacmicpc.net\uc774 \ubb38\uc81c\uac00 \ub354 \ub9ce\uc544\uc694\nalgospot\uc740 \ucc45\uc5d0 \uc788\ub294 \ubb38\uc81c\ub098 \uad00\ub828 \ub300\ud68c \ubb38\uc81c\uac00 \uc788\uc8e0",
+        "ts": "1406106173.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc639",
+        "ts": "1406106452.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uac70\uc704 \ubb38\uc81c NNK \ubc16\uc5d0 \uc0dd\uac01\uc774 \uc548\ub098\ub124 \u3160",
+        "ts": "1406110200.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\ucc38\uace0\ub85c \ubcf4\ud1b5 1\uc5b5\ubc88\uc758 \uc5f0\uc0b0\uc774 1\ucd08\uc5d0\uc694\u314b\u314b",
+        "ts": "1406110344.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc76d 10...07 \ub85c \ub098\ub204\ub294 \uac83\ub9cc \ucd94\uac00\ud588\ub294\ub370 \uc664\ucf00 \ub9ce\uc774 \ube68\ub77c\uc9c0\uc9c0",
+        "ts": "1406113343.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "52\uac1c \uc5b8\uc5b4\uac00 \ub41c\ub2e4\ub2c8!",
+        "ts": "1406161603.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "Obj-C\uac00 \ub418\uc796\uc544!",
+        "ts": "1406161709.000016"
+    }
+]

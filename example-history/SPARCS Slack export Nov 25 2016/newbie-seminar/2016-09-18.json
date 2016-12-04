@@ -1,0 +1,45 @@
+[
+    {
+        "user": "U02PEJCVA",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474202685.000002"
+    },
+    {
+        "user": "U02PEJCVA",
+        "purpose": "2016 SPARCS Fall Newbie Seminar",
+        "text": "<@U02PEJCVA|samjo> set the channel purpose: 2016 SPARCS Fall Newbie Seminar",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1474202708.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc2a4\ud0dc\ud504 \uc18c\ud658\uc758 \uc678\uce68!",
+        "ts": "1474202839.000004"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "<@U045EMA87|george> <@U02LDHPL1|leejeok> <@U04J6LN3W|potato> <@U02PEJCVA|samjo>",
+        "ts": "1474202839.000005"
+    },
+    {
+        "user": "U045EMA87",
+        "inviter": "U02PEJCVA",
+        "text": "<@U045EMA87|george> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474202885.000006"
+    },
+    {
+        "user": "U04J6LN3W",
+        "inviter": "U02PEJCVA",
+        "text": "<@U04J6LN3W|potato> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474202906.000007"
+    }
+]

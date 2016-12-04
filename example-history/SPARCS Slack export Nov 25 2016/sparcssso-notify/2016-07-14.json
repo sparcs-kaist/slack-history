@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/417364711ad8...b2a7736bfbc2|2 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5d11326c1ff54be90310a8f7ee1cdd0824ec2b67|5d11326>`  implement v2 api - \/stats\/ (done #95) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b2a7736bfbc2691e11ca4d698e0d409b67a7659a|b2a7736>`  add point_mod_time to userprofile (done #86) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/417364711ad8...b2a7736bfbc2|2 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468512131.000002"
+    }
+]

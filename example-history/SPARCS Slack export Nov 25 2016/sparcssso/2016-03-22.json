@@ -1,0 +1,78 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/53|#53 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/53|#53 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1458634879.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/9337897be0f5...79c0749d4a15|2 new commits> by Sam Jo and 1 other",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/663768d6d41deff7db0287e77f7d22ea97023c03|663768d>: add cert verification see #50 - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/79c0749d4a15b088ae60991df0df457ce1c9d369|79c0749>: Merge pull request #53 from sparcs-kaist\/develop - Sam Brad Jo",
+                "pretext": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/9337897be0f5...79c0749d4a15|2 new commits> by Sam Jo and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1458634879.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/50|#50 Certificate Validation> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/50|#50 Certificate Validation> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1458635082.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "deploy \uc644\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1458635109.000013"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "sparcssso \uc5f0\ub3d9 \ub77c\uc774\ube0c\ub7ec\ub9ac\uac00 \uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\uc73c\ub2c8",
+        "ts": "1458635121.000014"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uac01 \uc11c\ube44\uc2a4 \uc5ed\uc2dc \uc5c5\ub370\uc774\ud2b8\ud574\uc8fc\uc138\uc694",
+        "ts": "1458635130.000015"
+    }
+]

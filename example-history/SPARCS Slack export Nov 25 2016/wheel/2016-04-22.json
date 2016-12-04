@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544\uc9c1 tong docker \uc548\ub418\uc8e0...? <@U04J6LN3W>",
+        "ts": "1461340868.000025"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<https:\/\/wiki.ubuntu.com\/XenialXerus\/ReleaseNotes>",
+        "ts": "1461340874.000026"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "Ubuntu 16.04 LTS\uc5d0\uc11c\ub294 Open vSwitch \ucd5c\uc2e0\ubc84\uc804\uc744 \uc9c0\uc6d0\ud55c\ub2e4\uace0 \ud569\ub2c8\ub2e4",
+        "ts": "1461340929.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "docker 1.10\uc73c\ub85c \uc62c\ub77c\uac08 \ub54c \uc774\ubbf8\uc9c0 \ud574\uc2dc \uc0dd\uc131 \ubc29\uc2dd\uc774 \ubc14\ub00c\uc5b4\uc11c \ub370\ubaac \ub730\ub54c \uc790\ub3d9 \ub9c8\uc774\uadf8\ub808\uc774\uc158 \ub3c4\ub294\ub370",
+        "ts": "1461370459.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc774\ub54c docker \ucee4\ub9e8\ub4dc \uc548\uba39\ub294 \uba39\ud1b5 \uc0c1\ud0dc\ub85c \ubcf4\uc77c\uc218 \uc788\uc2b5\ub2c8\ub2e4. \uae30\ub2e4\ub9ac\uba74 \uc54c\uc544\uc11c \ub3cc\uc544\uc624\ub294\ub370 \uc2dc\uac04 \uc880 \uac78\ub9ac\ub2c8 \ucc38\uace0\ud558\uc138\uc694.",
+        "ts": "1461370485.000029"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud638\uc624",
+        "ts": "1461386098.000030"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ucc38\uace0\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1461386110.000031"
+    }
+]

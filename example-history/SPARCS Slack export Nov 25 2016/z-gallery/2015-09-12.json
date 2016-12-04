@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "please img \uc2a4\ud30d\uc2a4",
+        "ts": "1442053647.000026"
+    },
+    {
+        "text": "<http:\/\/cfile7.uf.tistory.com\/image\/265E8C415406AAB611034B#.png>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "fallback": "640x442px image",
+                "image_url": "http:\/\/cfile7.uf.tistory.com\/image\/265E8C415406AAB611034B#.png",
+                "image_width": 640,
+                "image_height": 442,
+                "image_bytes": 88484,
+                "from_url": "http:\/\/cfile7.uf.tistory.com\/image\/265E8C415406AAB611034B#.png",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442053658.000027"
+    }
+]

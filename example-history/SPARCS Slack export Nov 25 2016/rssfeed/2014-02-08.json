@@ -1,0 +1,560 @@
+[
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xce9b\/why_are_case_statements_annoying_for_enum_class\/|why are case statements annoying for enum class?>\nEnum classes bring strong type-checking that&amp;#39;s enforced by the compiler. Why then does it then force you to specify the enum class for each individual statement instead of implicitly giving taking the namespace from the subject of the switch? Seems like unnecessary verbosity, no? enum class Foo { Bar, Car } auto f = Foo::Bar; switch (f) { case Foo::Bar: \/\/ handle bar case Foo::Car: \/\/ handle car }  vs switch (f) { case Bar: \/\/ handle bar case Car: \/\/ handle car }   submitted by  vlovich  to ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Enum classes bring strong type-checking that's enforced by the compiler. Why then does it then force you to specify the enum class for each individua...",
+                "fallback": "Enum classes bring strong type-checking that's enforced by the compiler. Why then does it then force you to specify the enum class for each individua...",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xce9b\/why_are_case_statements_annoying_for_enum_class\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391847799.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xcfc4\/perl_and_me_part_9_thats_why_i_failed_recess_get\/|Perl and Me, Part 9: That's Why I Failed Recess - Get Shit Done>\nsubmitted by  szabgab  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xcfc4\/perl_and_me_part_9_thats_why_i_failed_recess_get\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391849319.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/linux\/comments\/1xchoe\/krita_may_be_released_on_steam_video\/|Krita may be released on Steam [video]>\nsubmitted by  actLikeApidgeon  to  linux  [link] [\ub313\uae00 4]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/linux\/comments\/1xchoe\/krita_may_be_released_on_steam_video\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391859841.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1xco5m\/parsing_the_solved_problem_that_isntwhile_we\/|\"Parsing: The Solved Problem That Isn't\"--while we think of parsing as already settled, fundamental questions remain disturbingly unanswered>\nsubmitted by  claird  to  compsci  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/compsci\/comments\/1xco5m\/parsing_the_solved_problem_that_isntwhile_we\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391863629.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xcscm\/care_to_share_the_folderstructure_you_are_using\/|care to share the folder-structure you are using for organization of different projects?>\nBasically I have a problem which is more related to the internal structure of different ML\/stats projects rather than ML per se. I have quite a few different projects. which are always under ~\/Projects\/project1\/ ~\/Projects\/project2\/ etc. For consistency I like all of the project dirs having the same structure, like \"inputs\", \"outputs\", \"meta\", \"src\". Or something very similar. But here is the problem - ideally I would like outputs being produced by doing something to a subset of inputs. However ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Basically I have a problem which is more related to the internal structure of different ML\/stats projects rather than ML per se. I have quite a few d...",
+                "fallback": "Basically I have a problem which is more related to the internal structure of different ML\/stats projects rather than ML per se. I have quite a few d...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xcscm\/care_to_share_the_folderstructure_you_are_using\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391867932.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1xctlm\/help_with_java_error_1712\/|Help with Java Error -1712?>\nHello everyone. I have recently updated to java 7 update 51. And now I cant open .Jar files, any have any ideas? And I also couldn&amp;#39;t open them today at all. I could yesterday, but then today I tried to open a .Jar (The technic launcher to be exact) And it said  And then I tried to update java, went as it normally does. But no luck. I am also on Mac if that helps. Any one have any ideas at all. Please?  submitted by  spartaboy  to  java  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hello everyone. I have recently updated to java 7 update 51. And now I cant open .Jar files, any have any ideas? And I also couldn't open them today a...",
+                "fallback": "Hello everyone. I have recently updated to java 7 update 51. And now I cant open .Jar files, any have any ideas? And I also couldn't open them today a...",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1xctlm\/help_with_java_error_1712\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391869017.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1xcv91\/are_project_coins_collection_enhancements_going\/|Are Project Coin's collection enhancements going to be in JDK8?>\nsubmitted by  lukaseder  to  java  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1xcv91\/are_project_coins_collection_enhancements_going\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391870637.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xcvcf\/in_honor_of_the_original_guitar_group_a_question\/|In honor of the original \"guitar group\", a question about John's strumming on \"All my loving\". What exactly is he playing?>\nAt various times in the recording, it sounds like a triplet, a \"normal\" strum and someone even says it is in 12\/8 time.  What is this rhythm guitar sorcery on the track?   submitted by  celebratedmrk  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "At various times in the recording, it sounds like a triplet, a \"normal\" strum and someone even says it is in 12\/8 time. What is this rhythm guitar s...",
+                "fallback": "At various times in the recording, it sounds like a triplet, a \"normal\" strum and someone even says it is in 12\/8 time. What is this rhythm guitar s...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xcvcf\/in_honor_of_the_original_guitar_group_a_question\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391871177.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xcvvp\/learning_c_visual_resources\/|Learning C - Visual Resources?>\nHello! I&amp;#39;m just beginning to learn C and have looked through a few resources, however many of them are text based and I&amp;#39;m looking for a more visual resources. I like to learn through video or lecture, learning the theory and watching it being implemented. This is how I&amp;#39;ve learned BASH scripting, so I was wondering if there are any good resources out there that fit my needs.  Thanks! - MetalLobster  submitted by  MetalLobster  to  C_Programming  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hello! I'm just beginning to learn C and have looked through a few resources, however many of them are text based and I'm looking for a more visual ...",
+                "fallback": "Hello! I'm just beginning to learn C and have looked through a few resources, however many of them are text based and I'm looking for a more visual ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xcvvp\/learning_c_visual_resources\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391871724.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1xcz20\/on_naming_conventions_and_slice_vs_splice\/|On naming conventions and slice vs splice>\nsubmitted by  homoiconic  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1xcz20\/on_naming_conventions_and_slice_vs_splice\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391874961.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1xczju\/having_trouble_reading_others_code\/|Having trouble reading others' code.>\nI&amp;#39;m at a point in my education where I can set out to accomplish a task and I will get it done. I mainly develop for a LAMP stack which I run on my home Linux box. My goal is to get a developer job this year. However, one of my setbacks is my inability to read the code that others write. I&amp;#39;ve been trying to sift through github, looking for a project that I can contribute to. However, I find that even if their code is written in PHP, it feels like French compared to my English. Is this si...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm at a point in my education where I can set out to accomplish a task and I will get it done. I mainly develop for a LAMP stack which I run on my ho...",
+                "fallback": "I'm at a point in my education where I can set out to accomplish a task and I will get it done. I mainly develop for a LAMP stack which I run on my ho...",
+                "from_url": "http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1xczju\/having_trouble_reading_others_code\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391876021.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xd3p0\/bigml_is_machine_learning_for_everyone\/|BigML is Machine Learning for everyone>\nsubmitted by  mhausenblas  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391877636.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xd41b\/alternatives_to_xm2vts_dataset_for_audio_video\/|Alternatives to XM2VTS dataset for Audio Video recognition>\nHi guyz, I am trying to implement the paper <http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/23757540> to learn more about machine learning but it uses XM2VTS dataset for speaker-independent audio-visual speech recognition. which is not free and as currently I neither belong to academia nor have much funds I am stuck .. Can someone please help me find some open source data set that I can use...  submitted by  theNewBeginning001  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi guyz, I am trying to implement the paper <http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/23757540> to learn more about machine learning but it uses XM2VTS datase...",
+                "fallback": "Hi guyz, I am trying to implement the paper <http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/23757540> to learn more about machine learning but it uses XM2VTS datase...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xd41b\/alternatives_to_xm2vts_dataset_for_audio_video\/",
+                "id": 1
+            },
+            {
+                "text": "PubMed comprises more than 23 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.",
+                "fallback": "PubMed comprises more than 23 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.",
+                "from_url": "http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/23757540",
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391879163.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/Python\/comments\/1xd4fm\/i_made_a_program_that_i_was_about_to_publish_but\/|I made a Program that I was about to publish but I realized other people would need a form of Python to open up the file. What could a user download without downloading a whole IDE?>\nsubmitted by  TerminalReddit  to  Python  [link] [\ub313\uae00 8]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391880745.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xddh2\/programming_confidence\/|Programming confidence?>\nSo I am in the last year of school before I can start getting out and looking for a job programming. This semester has started out a little rough for my assignments. I feel like my confidence is shaken a little bit. I understand all the concepts, but I feel like my programs are maybe a little more complicated than need be, and overall not optimal as I would hope. I guess you could say at this point I am a better reader than writer of source code. Anybody relate to this from school years? Is it j...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "So I am in the last year of school before I can start getting out and looking for a job programming. This semester has started out a little rough for ...",
+                "fallback": "So I am in the last year of school before I can start getting out and looking for a job programming. This semester has started out a little rough for ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xddh2\/programming_confidence\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391884726.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xde11\/help_with_printing_hash_of_hashes_from_the_inner\/|Help with printing Hash of Hashes from the Inner Hash>\nHello, I am trying to print out a hash table. It looks like this: $charHash{$alignI}{$key} So far I can print it out so that for each $alignI, each $key is printed. Now I kind of want to print out each $key first. For example, if I have five values for $alignI (0,1,2,3,4) and five values for $key (A,B,C,D,E) I want to print it so that the first line reads $align = 0, $key = A, $align = 0, $key = B, etc.  Any help would be nice! Thank you!  submitted by  shamWOW15  to  perl  [link] [\ub313\uae00 \ub2ec\uae30...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hello, I am trying to print out a hash table. It looks like this: $charHash{$alignI}{$key} So far I can print it out so that for each $alignI, each $...",
+                "fallback": "Hello, I am trying to print out a hash table. It looks like this: $charHash{$alignI}{$key} So far I can print it out so that for each $alignI, each $...",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xde11\/help_with_printing_hash_of_hashes_from_the_inner\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391885275.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/Python\/comments\/1xdecr\/does_anyone_know_if_pymob_is_actually_real\/|Does anyone know if PyMob is actually real?>\nsubmitted by  Exodus111  to  Python  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/Python\/comments\/1xdecr\/does_anyone_know_if_pymob_is_actually_real\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391885825.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xdfcs\/where_to_begin_from_understanding_music_theory\/|Where to begin from? (understanding music theory)>\nI&amp;#39;m really interrested in music theory but I have to admit I don&amp;#39;t understand much when I&amp;#39;m reading threads here. What books would you recommend to get started? I want to know how music works, how it is theorized more than I want to learn how to read scores. (Sorry for my bad english)  submitted by  FairyUnicorn  to  musictheory  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm really interrested in music theory but I have to admit I don't understand much when I'm reading threads here. What books would you recommend to g...",
+                "fallback": "I'm really interrested in music theory but I have to admit I don't understand much when I'm reading threads here. What books would you recommend to g...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xdfcs\/where_to_begin_from_understanding_music_theory\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391887413.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xdmtr\/vim_for_perl_development_1h_long_presentation_by\/|Vim for Perl Development - 1h long presentation by Doug Miles Phoenix.pm>\nsubmitted by  szabgab  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xdmtr\/vim_for_perl_development_1h_long_presentation_by\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391890898.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xdojy\/double_flatsdouble_sharps_why\/|Double flats\/double sharps: why?>\nI&amp;#39;ve been taking piano lessons for a few months now, and I&amp;#39;m still really green on all of this theory stuff. I want to audition next fall for a music minor, and I&amp;#39;m going over some of the audition material (The Well Tempered Clavier), and I&amp;#39;m seeing a LOT of double sharps. What&amp;#39;s the point? Why not just just raise your F-double-sharp to a G? I&amp;#39;m sure I&amp;#39;m opening a huge can of worms here but it&amp;#39;s really confusing. I can kind of understand where it would come from i...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I've been taking piano lessons for a few months now, and I'm still really green on all of this theory stuff. I want to audition next fall for a music ...",
+                "fallback": "I've been taking piano lessons for a few months now, and I'm still really green on all of this theory stuff. I want to audition next fall for a music ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xdojy\/double_flatsdouble_sharps_why\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391892813.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xdtp4\/how_would_you_get_the_sound_of_organ_in_this_pink\/|How would you get the sound of organ in this Pink Floyd track (Atom Heart Mother Suite)>\nHere is the link to the youtube copy of the song. It should start you at ~11:30. It really starts at 10:30, but you can really hear Richard Wright utilizing the harmonics of the orgna&amp;#39;s attack around 11:30. I&amp;#39;m pretty sure it&amp;#39;s a Farfisa organ, but even if I have that right, it&amp;#39;s a matter of settings. Is the kind of sound you could produce with a synth or a keyboard with a lot of voices (by combining voices or something). I have a crappy Casio keyboard that has 400+ voices on it,...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "[Here](<https:\/\/www.youtube.com\/watch?feature=player_detailpage&amp;v=QPu8oeJgLhY#t=688>) is the link to the youtube copy of the song. It should start you ...",
+                "fallback": "[Here](<https:\/\/www.youtube.com\/watch?feature=player_detailpage&amp;v=QPu8oeJgLhY#t=688>) is the link to the youtube copy of the song. It should start you ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xdtp4\/how_would_you_get_the_sound_of_organ_in_this_pink\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391899003.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1xdugn\/google_will_have_to_display_on_its_french_search\/|Google will have to display on its French search page a notice saying it has been fined by the local data-protection watchdog over how user information is tracked and stored, France's top administrative court ruled on Friday.>\nsubmitted by  Aschebescher  to  google  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1xdugn\/google_will_have_to_display_on_its_french_search\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391905058.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xec6e\/good_entry_points_to_reinforcement_learning\/|Good entry points to reinforcement learning literature?>\nI realize that there is a reinforcement learning subreddit, but it looks pretty dead, so I figured I&amp;#39;d try here first.  I haven&amp;#39;t really touched reinforcement learning since an intro class in grad school, and am trying to get caught up to speed on what&amp;#39;s current in the field these days. I&amp;#39;ve read through Powell&amp;#39;s \"Approximate Dynamic Programming\" and re-read the Sutton and Barto book, so I feel like I&amp;#39;ve got a decent handle on the broad strokes, but they&amp;#39;re also both ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I realize that there is a reinforcement learning subreddit, but it looks pretty dead, so I figured I'd try here first. I haven't really touched rein...",
+                "fallback": "I realize that there is a reinforcement learning subreddit, but it looks pretty dead, so I figured I'd try here first. I haven't really touched rein...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xec6e\/good_entry_points_to_reinforcement_learning\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391907695.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xecoj\/benchmarking_ec2_for_deep_learning_in_python\/|Benchmarking EC2 for Deep Learning in Python>\nsubmitted by  ZF2uPxnUfdHdxf2U  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391908172.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xed7b\/how_can_i_configure_cpan_as_much_as_possible\/|How can I configure CPAN \"as much as possible\" automatically in terms of Vagrant\/Puppet?>\nI want to automate setting up a Perl environment using Vagrant, Puppet, and CPAN. On first time run, cpan says: $ cpan <http:\/\/CPAN.pm|CPAN.pm> requires configuration, but most of it can be done automatically. If you answer &amp;#39;no&amp;#39; below, you will enter an interactive dialog for each configuration option instead. Would you like to configure as much as possible automatically? [yes]  I would like to signal cpan, yes, go do this, without requiring interaction with the user. Is there a command line flag or othe...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I want to automate setting up a Perl environment using Vagrant, Puppet, and CPAN. On first time run, `cpan` says: $ cpan <http:\/\/CPAN.pm|CPAN.pm> requires con...",
+                "fallback": "I want to automate setting up a Perl environment using Vagrant, Puppet, and CPAN. On first time run, `cpan` says: $ cpan <http:\/\/CPAN.pm|CPAN.pm> requires con...",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xed7b\/how_can_i_configure_cpan_as_much_as_possible\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391912272.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/math\/comments\/1xegs3\/problem_of_the_week_6\/|Problem of the Week #6>\nHello all, Here is the sixth problem of the week:  Find all real-valued differentiable functions on R such that f&amp;#39;(x) = (f(x + n) - f(x)) \/ n for all positive integers n and real numbers x.  It&amp;#39;s taken from the 2010 Putnam exam. If you&amp;#39;d like to suggest a problem, please PM me. Enjoy!  Previous weeks  submitted by  doctorbong  to  math  [link] [\ub313\uae00 14]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hello all, Here is the sixth problem of the week: &gt; Find all real-valued differentiable functions on **R** such that f'(x) = (f(x + n) - f(x)) \/ n f...",
+                "fallback": "Hello all, Here is the sixth problem of the week: &gt; Find all real-valued differentiable functions on **R** such that f'(x) = (f(x + n) - f(x)) \/ n f...",
+                "from_url": "http:\/\/www.reddit.com\/r\/math\/comments\/1xegs3\/problem_of_the_week_6\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391917901.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xeqnf\/libcurl_how_to_use_parameters\/|[libcurl] how to use parameters>\nHi There I&amp;#39;m using libcurl to get xml files from the server. I can get the file easy bun not sure how to pass these optional parameters.  following is text form the API document. all suggestions are welcomed gist This will return the usage history associated with service being queried. <https:\/\/customer-webtools-api.internode.on.net\/api\/v1.5\/$(SERVICE_ID)\/history> There are also extra form parameters you can pass to get extra information about the service param description Example, Type or Val...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi There I'm using libcurl to get xml files from the server. I can get the file easy bun not sure how to pass these optional parameters. following i...",
+                "fallback": "Hi There I'm using libcurl to get xml files from the server. I can get the file easy bun not sure how to pass these optional parameters. following i...",
+                "from_url": "http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xeqnf\/libcurl_how_to_use_parameters\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391918376.000000"
+    },
+    {
+        "text": "<http:\/\/www.nextree.co.kr\/p6189\/|\ub610 \ud558\ub098\uc758 Cross Platform: Eclipse RAP>\n\uc18c\ud504\ud2b8\uc6e8\uc5b4\ub294 \uc624\ub298\ub0a0 \uc6b0\ub9ac\uac00 \uc0dd\ud65c\ud558\ub294\ub370 \ub9ce\uc740 \uad00\uc5ec\ub97c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uba54\uc77c\uc774\ub098 \uba54\uc2e0\uc800\ub97c \uc774\uc6a9\ud558\uc5ec \uce5c\uad6c\ub098 [\u2026]",
+        "username": "\ub125\uc2a4\ud2b8\ub9ac | NEXTREE",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\ub294 \uc624\ub298\ub0a0 \uc6b0\ub9ac\uac00 \uc0dd\ud65c\ud558\ub294\ub370 \ub9ce\uc740 \uad00\uc5ec\ub97c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uba54\uc77c\uc774\ub098 \uba54\uc2e0\uc800\ub97c \uc774\uc6a9\ud558\uc5ec \uce5c\uad6c\ub098 \uac00\uc871\ub4e4\uc758 \uc548\ubd80\ub97c \ubb3b\uae30\ub3c4 \ud558\uad6c\uc694. \uc6cc\ub4dc \ud504\ub85c\uc138\uc11c\ub098 \uc2a4\ud504\ub808\ub4dc \uc26c\ud2b8 \uac19\uc740 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub85c \uc6b0\ub9ac\uc758 \uc77c\uc0c1 \uc5c5\ubb34\ub97c \ucc98\ub9ac\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\uac83\uc774 \uac00\ub2a5\ud55c \uc774\uc720\ub294 \ub2e4\uc591\ud55c \ub514\ubc14\uc774\uc2a4\ub4e4\uc774 \uc6b0\ub9ac \uacc1\uc5d0 \uc788\uae30",
+                "fallback": "\uc18c\ud504\ud2b8\uc6e8\uc5b4\ub294 \uc624\ub298\ub0a0 \uc6b0\ub9ac\uac00 \uc0dd\ud65c\ud558\ub294\ub370 \ub9ce\uc740 \uad00\uc5ec\ub97c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uba54\uc77c\uc774\ub098 \uba54\uc2e0\uc800\ub97c \uc774\uc6a9\ud558\uc5ec \uce5c\uad6c\ub098 \uac00\uc871\ub4e4\uc758 \uc548\ubd80\ub97c \ubb3b\uae30\ub3c4 \ud558\uad6c\uc694. \uc6cc\ub4dc \ud504\ub85c\uc138\uc11c\ub098 \uc2a4\ud504\ub808\ub4dc \uc26c\ud2b8 \uac19\uc740 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub85c \uc6b0\ub9ac\uc758 \uc77c\uc0c1 \uc5c5\ubb34\ub97c \ucc98\ub9ac\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774\uac83\uc774 \uac00\ub2a5\ud55c \uc774\uc720\ub294 \ub2e4\uc591\ud55c \ub514\ubc14\uc774\uc2a4\ub4e4\uc774 \uc6b0\ub9ac \uacc1\uc5d0 \uc788\uae30",
+                "from_url": "http:\/\/www.nextree.co.kr\/p6189\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391924206.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xf0ri\/perl_vs_python_2013_some_actual_stats\/|Perl vs Python 2013, some actual stats..>\nsubmitted by  szabgab  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xf0ri\/perl_vs_python_2013_some_actual_stats\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391926856.000000"
+    },
+    {
+        "text": "<http:\/\/www.buggymind.com\/540|[AngularJS] Model \ub370\uc774\ud130\uc758 \uc8fc\uae30\uc801 \uac31\uc2e0\uacfc View \uc5c5\ub370\uc774\ud2b8>\n",
+        "username": "Extremely Agile",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "service_name": "Extremely Agile",
+                "title": "[AngularJS] Model \ub370\uc774\ud130\uc758 \uc8fc\uae30\uc801 \uac31\uc2e0\uacfc View \uc5c5\ub370\uc774\ud2b8",
+                "title_link": "http:\/\/www.buggymind.com\/540",
+                "fallback": "Extremely Agile: [AngularJS] Model \ub370\uc774\ud130\uc758 \uc8fc\uae30\uc801 \uac31\uc2e0\uacfc View \uc5c5\ub370\uc774\ud2b8",
+                "image_url": "http:\/\/cfile9.uf.tistory.com\/image\/2630654052F72A400E6562",
+                "from_url": "http:\/\/www.buggymind.com\/540",
+                "image_width": 400,
+                "image_height": 225,
+                "image_bytes": 18058,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391930571.000000"
+    }
+]

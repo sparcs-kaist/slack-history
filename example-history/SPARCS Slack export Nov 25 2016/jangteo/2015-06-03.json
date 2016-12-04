@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B050A0JVD",
+        "attachments": [
+            {
+                "fallback": "[shopand:master] <https:\/\/github.com\/sparcs-kaist\/shopand\/commit\/14b7e91|1 new commit> by Jonghyuk Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/shopand\/commit\/14b7e91|14b7e91>: Modified .gitignore for ignoring VIM swap files - Jonghyuk Jung",
+                "pretext": "[shopand:master] 1 new commit by Jonghyuk Jung:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1433339345.502131"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "ts": "1457970111.000002"
+    },
+    {
+        "user": "U02PEJCVA",
+        "purpose": "\uc2e0\uc785\uc0dd \uc9c0\uc6d0 \ud398\uc774\uc9c0",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U02PEJCVA|samjo> set the channel purpose: \uc2e0\uc785\uc0dd \uc9c0\uc6d0 \ud398\uc774\uc9c0",
+        "ts": "1457970112.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "1. \uc2e0\uc785\uc0dd \uc9c0\uc6d0 \ud398\uc774\uc9c0 \ub9cc\ub4e4\uae30",
+        "ts": "1457970118.000004"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "2. \uc5b8\uc81c\ub098 \uc6b0\ub9ac\uc758 \uce5c\uad6c Django",
+        "ts": "1457970135.000005"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "3. \uacc4\uc815\uc740 SPARCS SSO \uc5f0\ub3d9",
+        "ts": "1457970142.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "4. \uc9c0\uc6d0\uc11c \uc785\ub825\/\uc218\uc815\/\uc0ad\uc81c\/\uc9c0\uc6d0 \uc2dc\uac04 \ud655\uc778\/\ud569\uaca9 \uc5ec\ubd80 \ud655\uc778",
+        "ts": "1457970159.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "5. \uc9c0\uc6d0 \uc2dc\uac04 \uc5ec\ubd80\ub294 o\/x\ub85c \ub418\uc5b4 \uc788\ub294 table \ud615\ud0dc\ub85c csv\ub85c \ub2e4\uc6b4\ubc1b\uc544 \uad00\ub9ac\uc790\uac00 \uc2dc\uac04\ud45c\ub97c \uc9e4 \uc218 \uc788\ub3c4\ub85d \ud568",
+        "ts": "1457970211.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "6. \uc9e0 \uc2dc\uac04\ud45c\ub97c import\ud558\uc5ec \uc801\uc6a9\ub418\ub3c4\ub85d \ud568",
+        "ts": "1457970219.000009"
+    },
+    {
+        "user": "U04J6LN3W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04J6LN3W|potato> has joined the channel",
+        "ts": "1457973107.000002"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc5c4\uba48\uba48\uba38",
+        "ts": "1457973114.000003"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc774\ubc88 \ud559\uae30 \ub274 \ud504\ub85c\uc81d\ud2b8\uc778\uac00\uc694?",
+        "ts": "1457973120.000004"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud655\uc2e4\ud788 \ud558\ub098 \uc788\uc73c\uba74 \uc88b\uc744 \uac83 \uac19\uc544\uc694.",
+        "ts": "1457973130.000005"
+    },
+    {
+        "user": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02LDHPL1|leejeok> has joined the channel",
+        "ts": "1458000207.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "\uc88b\uad70\uc694",
+        "ts": "1458000232.000003"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1418572986.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ucfe0\ud0a4\ub7f0 \ub2e4\uc2dc \uae54\uc558\uc2b5\ub2c8\ub2e4",
+        "ts": "1418573000.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc544\uc774\ud328\ub4dc\ub3c4\ubabb\ubc1b\uc740\uc560\uac00 \uae54\uc558\ub124",
+        "ts": "1418611624.000004"
+    }
+]

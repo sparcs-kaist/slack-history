@@ -1,0 +1,1557 @@
+[
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uba54\ubaa8\ub9ac\uc5d0 \ub2f4\uaca8\uc788\ub294 \ub370\uc774\ud0c0\uc758 \uc2dc\uc791\uc8fc\uc18c\uac00 \ubb34\uc870\uac74 4\uc758\ubc30\uc218\ub77c\ub294\uac70 \uc544\ub2cc\uac00",
+        "ts": "1445244554.000064"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147 \uc2dc\uc791\uc8fc\uc18c\uac00 4k",
+        "ts": "1445251732.000065"
+    },
+    {
+        "user": "U0CNHRJQJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CNHRJQJ|joonp> has joined the channel",
+        "ts": "1445252899.000066"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc544\ud0a4",
+        "ts": "1445252984.000067"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc774\uac70 \ub2f5\uc9c0\uc5c6\ub294\ub370 \uc5b4\ub5bb\uac8c\ud574\uc57c\ud558\ub098\uc694?",
+        "ts": "1445252987.000068"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uac11\ucc9c \ubb3c \ub530\ub4ef\ud55c\uac00\uc694?",
+        "ts": "1445252995.000069"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ud480\uc5b4\ubcf4\uace0 \ub9de\ucdb0\ubd10\uc57c \ub420 \uc098\uc778\ub370",
+        "ts": "1445253097.000070"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ub9de\ucdb0\ubd10\uc57c\uc9c0 \uba38",
+        "ts": "1445253098.000071"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc624\ub798\uac78\ub9bc?",
+        "ts": "1445253101.000072"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ubaa8\ub984",
+        "ts": "1445253103.000073"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ub300\ucda9\ubd24\ub294\ub370",
+        "ts": "1445253105.000074"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ub098 \uc544\uc9c1 \uc548\ubd24\uc74c",
+        "ts": "1445253105.000075"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uaf64\ub098 \uc5b4\ub824\uc6cc\ubcf4\uc784",
+        "ts": "1445253107.000076"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc815\ub9ac\ud55c\uac70\ud568\ub354\ubcf4\uace0",
+        "ts": "1445253152.000077"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ubc14\ub85c\ud480\uae30\uc2dc\uc791\ud560\ub77c\uace0",
+        "ts": "1445253154.000078"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc624\ub298 \uc5b8\uc81c\uc798\uaebc?",
+        "ts": "1445253161.000079"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc57d 3~4\uc2dc",
+        "ts": "1445253217.000080"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uac01",
+        "ts": "1445253221.000081"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ub3d9\ubc29 \ubbf8\ud305 \ud568 \ud558\uc2e4",
+        "ts": "1445253226.000082"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ubd80\ub044\ub7fd\uc9c0\ub9cc",
+        "ts": "1445253230.000083"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ub098 \ubc16\uc784",
+        "ts": "1445253297.000084"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "12\uc2dc \ub118\uc5b4 \ub4e4\uc5b4\uac08\ub4ef",
+        "ts": "1445253302.000085"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc77c\ub2e8\ud480\uc5b4\ubcf4\uace0",
+        "ts": "1445253356.000086"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ucc45",
+        "ts": "1445256415.000087"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ub2f5\uc9c0 \uc788\ub098\uc694?",
+        "ts": "1445256418.000088"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "4.12 \ud480\uc73c\uc2e0 \ubd84 \uc788\ub098\uc694?",
+        "ts": "1445265267.000089"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub3c4\uc6c0! \ub3c4\uc6c0!",
+        "ts": "1445265277.000090"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uadf8",
+        "ts": "1445270974.000091"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ubbf8\ub4dc\ud140 prep",
+        "ts": "1445270977.000092"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "16\ubc88\uae4c\uc9c0\ub294 \ud480\uc5c8\ub294\ub370",
+        "ts": "1445270983.000093"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc880 \ubd10\uc8fc\uc138\uc694",
+        "ts": "1445270987.000094"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\u3160\u3160",
+        "ts": "1445270988.000095"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0B6FN5MH|nobell> shared a file: <https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md|prep.md>",
+        "file": {
+            "id": "F0CNYRCPM",
+            "created": 1445271056,
+            "timestamp": 1445271056,
+            "name": "prep_md.md",
+            "title": "prep.md",
+            "mimetype": "text\/plain",
+            "filetype": "markdown",
+            "pretty_type": "Markdown (raw)",
+            "user": "U0B6FN5MH",
+            "editable": true,
+            "size": 10378,
+            "mode": "snippet",
+            "is_external": true,
+            "external_type": "unknown",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/gist.github.com\/5cba76be72ae12ba6f2f#file-prep-md",
+            "url_private_download": "https:\/\/gist.github.com\/5cba76be72ae12ba6f2f#file-prep-md",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md\/edit",
+            "preview": "# 1\n\n### 1-1. The CPI of a single cycle design is always less than or equal to the CPI of a pipelined implementation.\n\nTrue. singly cycle design \uc5d0\uc11c CPI\ub294 \ubb34\uc870\uac74 1. \ud30c\uc774\ud504\ub77c\uc778\uc5d0\uc11c\ub294 ideally 1, \uc2e4\uc81c\ub85c\ub294 \ub354 \ucee4\uc9c8 \uc218 \uc788\uc74c.\n\n### 1-2. Since RISC can access the memory only through load and store instructions, RISC must support many different addressing modes to satisfy various memory access needs by different applications.\n\nFalse. \uc6b0\ub9ac\uac00 \ubc30\uc6b4 MIPS\ub9cc \ubcf4\ub354\ub77c\ub3c4 displacement mode \ud558\ub098\ubc16\uc5d0 \uc5c6\uc74c.\n",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-1\">#<\/span><span class=\"cm-header cm-header-1\"> <\/span><span class=\"cm-header cm-header-1\">1<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-header cm-header-3\">###<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">1-1.<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">The<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">CPI<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">of<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">a<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">single<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">cycle<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">design<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">is<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">always<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">less<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">than<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">or<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">equal<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">to<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">the<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">CPI<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">of<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">a<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">pipelined<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">implementation.<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>True. singly cycle design \uc5d0\uc11c CPI\ub294 \ubb34\uc870\uac74 1. \ud30c\uc774\ud504\ub77c\uc778\uc5d0\uc11c\ub294 ideally 1, \uc2e4\uc81c\ub85c\ub294 \ub354 \ucee4\uc9c8 \uc218 \uc788\uc74c.<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-header cm-header-3\">###<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">1-2.<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">Since<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">RISC<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">can<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">access<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">the<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">memory<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">only<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">through<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">load<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">and<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">store<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">instructions,<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">RISC<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">must<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">support<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">many<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">different<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">addressing<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">modes<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">to<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">satisfy<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">various<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">memory<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">access<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">needs<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">by<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">different<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">applications.<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>False. \uc6b0\ub9ac\uac00 \ubc30\uc6b4 MIPS\ub9cc \ubcf4\ub354\ub77c\ub3c4 displacement mode \ud558\ub098\ubc16\uc5d0 \uc5c6\uc74c.<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 23,
+            "lines_more": 13,
+            "preview_is_truncated": null,
+            "channels": [
+                "C0BQ8MPH9"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0B6FN5MH",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U0B6FN5MH|nobell>",
+        "bot_id": null,
+        "ts": "1445271057.000097"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0B6FN5MH|nobell> shared a file: <https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md|prep.md>",
+        "file": {
+            "id": "F0CNYRCPM",
+            "created": 1445271056,
+            "timestamp": 1445271056,
+            "name": "prep_md.md",
+            "title": "prep.md",
+            "mimetype": "text\/plain",
+            "filetype": "markdown",
+            "pretty_type": "Markdown (raw)",
+            "user": "U0B6FN5MH",
+            "editable": true,
+            "size": 10378,
+            "mode": "snippet",
+            "is_external": true,
+            "external_type": "unknown",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/gist.github.com\/5cba76be72ae12ba6f2f#file-prep-md",
+            "url_private_download": "https:\/\/gist.github.com\/5cba76be72ae12ba6f2f#file-prep-md",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md\/edit",
+            "preview": "# 1\n\n### 1-1. The CPI of a single cycle design is always less than or equal to the CPI of a pipelined implementation.\n\nTrue. singly cycle design \uc5d0\uc11c CPI\ub294 \ubb34\uc870\uac74 1. \ud30c\uc774\ud504\ub77c\uc778\uc5d0\uc11c\ub294 ideally 1, \uc2e4\uc81c\ub85c\ub294 \ub354 \ucee4\uc9c8 \uc218 \uc788\uc74c.\n\n### 1-2. Since RISC can access the memory only through load and store instructions, RISC must support many different addressing modes to satisfy various memory access needs by different applications.\n\nFalse. \uc6b0\ub9ac\uac00 \ubc30\uc6b4 MIPS\ub9cc \ubcf4\ub354\ub77c\ub3c4 displacement mode \ud558\ub098\ubc16\uc5d0 \uc5c6\uc74c.\n",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-1\">#<\/span><span class=\"cm-header cm-header-1\"> <\/span><span class=\"cm-header cm-header-1\">1<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-header cm-header-3\">###<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">1-1.<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">The<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">CPI<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">of<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">a<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">single<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">cycle<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">design<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">is<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">always<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">less<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">than<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">or<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">equal<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">to<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">the<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">CPI<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">of<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">a<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">pipelined<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">implementation.<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>True. singly cycle design \uc5d0\uc11c CPI\ub294 \ubb34\uc870\uac74 1. \ud30c\uc774\ud504\ub77c\uc778\uc5d0\uc11c\ub294 ideally 1, \uc2e4\uc81c\ub85c\ub294 \ub354 \ucee4\uc9c8 \uc218 \uc788\uc74c.<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-header cm-header-3\">###<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">1-2.<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">Since<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">RISC<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">can<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">access<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">the<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">memory<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">only<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">through<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">load<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">and<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">store<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">instructions,<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">RISC<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">must<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">support<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">many<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">different<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">addressing<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">modes<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">to<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">satisfy<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">various<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">memory<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">access<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">needs<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">by<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">different<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">applications.<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>False. \uc6b0\ub9ac\uac00 \ubc30\uc6b4 MIPS\ub9cc \ubcf4\ub354\ub77c\ub3c4 displacement mode \ud558\ub098\ubc16\uc5d0 \uc5c6\uc74c.<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 23,
+            "lines_more": 13,
+            "preview_is_truncated": null,
+            "channels": [
+                "C0BQ8MPH9"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0B6FN5MH",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U0B6FN5MH|nobell>",
+        "bot_id": null,
+        "ts": "1445271063.000100"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc774\ub7f0",
+        "ts": "1445271080.000104"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc800\uac70 \uc5b4\ub5bb\uac8c \uc9c0\uc6b0\uc9c0",
+        "ts": "1445271110.000105"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc784\ud3ec\ud2b8 \uc548\ud558\uac8c",
+        "ts": "1445271114.000106"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc5ec\uae30 \uc785\ub2c8\ub2e4 -&gt; <https:\/\/gist.github.com\/heejongahn\/5cba76be72ae12ba6f2f>",
+        "ts": "1445271124.000107"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0B6FN5MH|nobell> shared a file: <https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md|prep.md>",
+        "file": {
+            "id": "F0CNYRCPM",
+            "created": 1445271056,
+            "timestamp": 1445271056,
+            "name": "prep_md.md",
+            "title": "prep.md",
+            "mimetype": "text\/plain",
+            "filetype": "markdown",
+            "pretty_type": "Markdown (raw)",
+            "user": "U0B6FN5MH",
+            "editable": true,
+            "size": 10378,
+            "mode": "snippet",
+            "is_external": true,
+            "external_type": "unknown",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/gist.github.com\/5cba76be72ae12ba6f2f#file-prep-md",
+            "url_private_download": "https:\/\/gist.github.com\/5cba76be72ae12ba6f2f#file-prep-md",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/nobell\/F0CNYRCPM\/prep_md.md\/edit",
+            "preview": "# 1\n\n### 1-1. The CPI of a single cycle design is always less than or equal to the CPI of a pipelined implementation.\n\nTrue. singly cycle design \uc5d0\uc11c CPI\ub294 \ubb34\uc870\uac74 1. \ud30c\uc774\ud504\ub77c\uc778\uc5d0\uc11c\ub294 ideally 1, \uc2e4\uc81c\ub85c\ub294 \ub354 \ucee4\uc9c8 \uc218 \uc788\uc74c.\n\n### 1-2. Since RISC can access the memory only through load and store instructions, RISC must support many different addressing modes to satisfy various memory access needs by different applications.\n\nFalse. \uc6b0\ub9ac\uac00 \ubc30\uc6b4 MIPS\ub9cc \ubcf4\ub354\ub77c\ub3c4 displacement mode \ud558\ub098\ubc16\uc5d0 \uc5c6\uc74c.\n",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-1\">#<\/span><span class=\"cm-header cm-header-1\"> <\/span><span class=\"cm-header cm-header-1\">1<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-header cm-header-3\">###<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">1-1.<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">The<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">CPI<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">of<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">a<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">single<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">cycle<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">design<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">is<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">always<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">less<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">than<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">or<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">equal<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">to<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">the<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">CPI<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">of<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">a<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">pipelined<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">implementation.<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>True. singly cycle design \uc5d0\uc11c CPI\ub294 \ubb34\uc870\uac74 1. \ud30c\uc774\ud504\ub77c\uc778\uc5d0\uc11c\ub294 ideally 1, \uc2e4\uc81c\ub85c\ub294 \ub354 \ucee4\uc9c8 \uc218 \uc788\uc74c.<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-header cm-header-3\">###<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">1-2.<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">Since<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">RISC<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">can<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">access<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">the<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">memory<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">only<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">through<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">load<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">and<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">store<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">instructions,<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">RISC<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">must<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">support<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">many<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">different<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">addressing<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">modes<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">to<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">satisfy<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">various<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">memory<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">access<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">needs<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">by<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">different<\/span><span class=\"cm-header cm-header-3\"> <\/span><span class=\"cm-header cm-header-3\">applications.<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>False. \uc6b0\ub9ac\uac00 \ubc30\uc6b4 MIPS\ub9cc \ubcf4\ub354\ub77c\ub3c4 displacement mode \ud558\ub098\ubc16\uc5d0 \uc5c6\uc74c.<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 23,
+            "lines_more": 13,
+            "preview_is_truncated": null,
+            "channels": [
+                "C0BQ8MPH9"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0B6FN5MH",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U0B6FN5MH|nobell>",
+        "bot_id": null,
+        "ts": "1445271125.000108"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "<https:\/\/gist.github.com\/heejongahn\/5cba76be72ae12ba6f2f>",
+        "ts": "1445271193.000112"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc544 \ub410\uad70",
+        "ts": "1445271196.000113"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "1-4\uc5d0 F \uc544\ub2cc\uac00\uc694?",
+        "ts": "1445272610.000114"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "flip flop\uc774 clock edge\uc5d0\uc11c \ubc14\ub00c\ub294\uac70\uace0 latch\ub294 clock assert\uc5d0\uc11c \ubc14\ub00c\ub294\uac70 \uc544\ub2cc\uac00\uc694?",
+        "ts": "1445272775.000115"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "+ delay slot\uc740 compiler support\uac00 \ud544\uc694\ud55c\ub370 isa\ub85c \ubcf4\ub294\uac8c \ub9de\uc9c0 \uc54a\ub098\uc694?",
+        "ts": "1445272822.000116"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc544\uace0 \uc9c0\uae08\ubd24\ub124",
+        "ts": "1445273120.000117"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ub178\ud2f0\ub97c \ucf1c\ub194\uc57c\uaca0\uad6c\ub098",
+        "ts": "1445273132.000118"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "samjo: \uadf8\ub7fc \ub7ab\uce58\ub294 \uadf8\ub0e5 \ud074\ub77d\uc774 \ub4e4\uc5b4\uc640\uc788\uae30\ub9cc \ud558\uba74 \ub418\ub098\uc694?",
+        "ts": "1445273144.000119"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ud5f7\uac08",
+        "ts": "1445273148.000120"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "isa \ubb54\uc9c0\ub294",
+        "ts": "1445273154.000121"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc800 \ubaa8\ub974\uaca0\uc5b4\uc11c \uac70\uc758 \ucc0d\uc5c8\uc5b4\uc694",
+        "ts": "1445273158.000122"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uadf8\ub7f0\uac78\ub85c \uae30\uc5b5\ud558\uace0 \uc788\uc5b4\uc694",
+        "ts": "1445273162.000123"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "pdf-basic logic\uc5d0 \ub098\uc640\uc788\ub358\uac70 \uac19\uc544\uc694",
+        "ts": "1445273184.000124"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uad73",
+        "ts": "1445273188.000125"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "isa\ub294...",
+        "ts": "1445273196.000126"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc544\uc545",
+        "ts": "1445273197.000127"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc9c4\uc9dc \uc774\uac70",
+        "ts": "1445273199.000128"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc2dc\ud5d8\ubb38\uc81c \uc800\ub9cc \uc5b4\ub824\uc6b4\uac74 \uc544\ub2c8\uc8e0?",
+        "ts": "1445273203.000129"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub124....",
+        "ts": "1445273208.000130"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc9c4\uc9dc \uac81\u3134\uc544\u3153\ub835\ub124",
+        "ts": "1445273216.000131"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uac13-\uc11d\uc8fc\ub2d8\uc758 \ub3c4\uc6c0\uc774 \ud544\uc694\ud569\ub2c8\ub2e4....",
+        "ts": "1445273221.000132"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544 \uadf8\ub9ac\uace0 4.12\ub3c4 \uc5b4\ub835....",
+        "ts": "1445273229.000133"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ucc45 \uc548\ubd24\ub294\ub514",
+        "ts": "1445273236.000134"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc774\uc81c \ubcfc\ub77c\uad6c\uc5ec",
+        "ts": "1445273238.000135"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "?_",
+        "ts": "1445273712.000136"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "?_?",
+        "ts": "1445273714.000137"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc800\ub294 \uc544\ubb34\uac83\ub3c4....",
+        "ts": "1445273717.000138"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "dsgfdasdafd",
+        "ts": "1445273771.000139"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U02PEJCVA>: clock\uc774 assert\ub41c\ub2e4\ub294\uac8c \ubb50\ub0e5",
+        "ts": "1445275422.000146"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub0e5\ub0e5",
+        "ts": "1445275423.000147"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub0b4\uac00 \ud68c\ub85c\ub97c \uc798 \ubab0\ub77c...\ud559\uc0dd......",
+        "ts": "1445275433.000148"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "=clock\uc774 \uc62c\ub77c\uac04 \uc0c1\ud0dc\uc5d0\uc11c",
+        "ts": "1445275517.000149"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub0e5\ub0e5\ub0d0\uc559?",
+        "ts": "1445275523.000150"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc800\ub3c4 \ud68c\ub85c\ub294 \uc798 \ubaa8\ub985\ub2c8\ub2e4\ub9cc",
+        "ts": "1445275542.000151"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "clock\uc774 \ubc8c\ub5a1 \ud55c \uc0c1\ud0dc\ub77c\uace0 \uc0dd\uac01\ud558\uba74 \ub418\ub098?",
+        "ts": "1445275545.000152"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub139\ub139",
+        "ts": "1445275552.000153"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c",
+        "ts": "1445275564.000154"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c\uc74c",
+        "ts": "1445275565.000155"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub7f0\uac00",
+        "ts": "1445275566.000156"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub807\uad70",
+        "ts": "1445275569.000157"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "ISA\ub77c\ub294\uac8c",
+        "ts": "1445275860.000158"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud558\ub4dc\uc6e8\uc5b4-\uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc57d\uc18d\uc774\ub2c8\uae4c",
+        "ts": "1445275867.000159"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c",
+        "ts": "1445275887.000160"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc57d\uc18d",
+        "ts": "1445275888.000161"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "promise",
+        "ts": "1445275891.000162"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "contract",
+        "ts": "1445276202.000163"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "1\ubc88\uc740",
+        "ts": "1445276211.000164"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "TFFTTFFTFFF\ub098\uc624\uc2dc\ub098",
+        "ts": "1445276219.000165"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc800\ub294",
+        "ts": "1445276408.000166"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "TFFFTFFFFFF",
+        "ts": "1445276441.000167"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "15B\ubb50\uc9c0 \uc73c\uc5b4\uc5b4",
+        "ts": "1445276444.000168"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "2\ubc88\uc740",
+        "ts": "1445276445.000169"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "ISA specification\n\u2013 All architecturally visible states: registers, condition codes, etc\n\u2013 Instruction formats and behaviors\n\u2013 Memory model (paging, segmented memory etc)\n\u2013 IO (Interrupts)",
+        "ts": "1445276447.000170"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5d0 \ub9de\ucdb0\uc11c \ud574\uc57c\ud560\uac70\uac19\uc740\ub370",
+        "ts": "1445276451.000171"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544",
+        "ts": "1445276453.000172"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "latch \uc548\uace0\ucce4\ub2e4",
+        "ts": "1445276455.000173"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "TFFFTFFTFFF",
+        "ts": "1445276470.000174"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub4a4\uc5d0\uc11c \ub124\ubc88\uca30\uaebc",
+        "ts": "1445276470.000175"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "false",
+        "ts": "1445276471.000176"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5e5\uc5e5",
+        "ts": "1445276477.000177"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub0a8\uc544\uc788\ub294\uac74",
+        "ts": "1445276479.000178"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc2e4\ud589\ud55c\ub2e4\ub0e5",
+        "ts": "1445276481.000179"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uadf8\ub807\ub0d0\uc559",
+        "ts": "1445276487.000180"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub807\ub0e5?",
+        "ts": "1445276491.000181"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub0e5\ub0e5",
+        "ts": "1445276498.000182"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "<@U02PEJCVA> write-back\uc774 \ub354 \uc548\uc88b\uc744\ub54c\uac00 \uc5b8\uc81c\ub0e5",
+        "ts": "1445276500.000183"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc2dc\ud5d8\ubc94\uc704 \uc544\ub2c8\ub77c\uc11c \ubaa8\ub974\ub0e5...",
+        "ts": "1445276518.000184"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5e5",
+        "ts": "1445276522.000185"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubc94\uc704\uc544\ub2cc\uac00",
+        "ts": "1445276524.000186"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud391\ud391\ud321\ud321",
+        "ts": "1445276532.000187"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud321",
+        "ts": "1445276535.000188"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uad11",
+        "ts": "1445276537.000189"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uad11\uad11 \uc6b0\ub7ed\ub530...",
+        "ts": "1445276543.000190"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "2\ubc88\uc740 ABEF?",
+        "ts": "1445276556.000191"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "+1",
+        "ts": "1445276570.000192"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "A\uac00",
+        "ts": "1445276575.000193"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub4e4\uc5b4\uac00\ub098",
+        "ts": "1445276576.000194"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c",
+        "ts": "1445276583.000195"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "A\uac00 \uc560\ub9e4\ud55c\ub514",
+        "ts": "1445276584.000196"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ucef4\ud30c\uc77c\ub7ec\uac00",
+        "ts": "1445276585.000197"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "isa\uc758 behavior\ub97c \uc54c\uc544\uc57c \ud55c\ub2e4",
+        "ts": "1445276596.000198"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubb50 \uc774\ub7f0\uac70\uba74",
+        "ts": "1445276597.000199"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub4e4\uc5b4\uac08\ud150\ub370",
+        "ts": "1445276599.000200"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544",
+        "ts": "1445276601.000201"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\u3139\u3147 \uc560\ub9e4\ud55c\ub370... \u3160\u3160",
+        "ts": "1445276603.000202"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc54c\uc544\uc57c \ub51c\ub808\uc774\ub97c \uae4c\uace0 \uadf8\ub7ec\ub098",
+        "ts": "1445276605.000203"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc138\ubaa8 \ud569\uc2dc\ub2e4 \uc138\ubaa8",
+        "ts": "1445276611.000204"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uadfc\ub370",
+        "ts": "1445276611.000205"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ucef4\ud30c\uc77c\ub7ec\uac00",
+        "ts": "1445276613.000206"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "isa\uc5d0 \ub9e4\uc6b0 \ub514\ud39c\ub358\ud2b8",
+        "ts": "1445276618.000207"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud558\ub294\uac70\uc544\ub2c8\ub0d0",
+        "ts": "1445276620.000208"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147",
+        "ts": "1445276624.000209"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub139\ub139",
+        "ts": "1445276629.000210"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u3147\u3147",
+        "ts": "1445276631.000211"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uadf8\ub7fc",
+        "ts": "1445276631.000212"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ucd25\ucd25...",
+        "ts": "1445276633.000213"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubaa8\ub450\uac00 isa\uc640 \uad00\ub828\uc788\ub294\uac78\ub85c",
+        "ts": "1445276641.000214"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "!",
+        "ts": "1445276643.000215"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "Islamic States of America",
+        "ts": "1445276653.000216"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc544",
+        "ts": "1445276658.000217"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub09c \uc774\uc81c",
+        "ts": "1445276659.000218"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc624\ud1a0\ub9c8\ud0c0 \uacf5\ubd80\ud558\ub7ec",
+        "ts": "1445276661.000219"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uac04\ub2e4",
+        "ts": "1445276661.000220"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "3\uc2dc\ucbe4 \uc624\ud1a0\ub9c8\ud0c0 \ub2e4\uce58\uace0 \ub098\uc640\uc11c",
+        "ts": "1445276672.000221"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub0a8\uc740 1\uc2dc\uac04 \ub9c8\ubb34\ub9ac\ud558\uba74",
+        "ts": "1445276675.000222"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "P.E.R.F.E.C.T",
+        "ts": "1445276680.000223"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "3\uc2dc\uae4c\uc9c0",
+        "ts": "1445276683.000224"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud06c",
+        "ts": "1445276684.000225"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc548\uc904\uac70\uac19\uc740\ub370",
+        "ts": "1445276684.000226"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud074\ub77c\uc2a4...",
+        "ts": "1445276688.000227"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc544\ubab0\ub791 \ub09c \uc798\ub7ad",
+        "ts": "1445276705.000228"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc2b9\ub9ac\uc758 \uc624\ud2b8\ub9c8\ud0c0&gt;&lt;",
+        "ts": "1445276707.000229"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "+1",
+        "ts": "1445276714.000230"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub2e4\ub4e4 \uad7f\ubc24\ud574\ub77c\ub0e5",
+        "ts": "1445276718.000231"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc800\ub3c4 \uc790\ub7ec \uac11\ub2c8\ub2e4",
+        "ts": "1445276720.000232"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2e4 \ud480\uace0",
+        "ts": "1445276724.000233"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub0b4\uc77c \ub9de\ucdb0\ubd05\uc2dc\ub2e4",
+        "ts": "1445276728.000234"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub9de\ucd9c\uc2dc\uac04\uc774",
+        "ts": "1445276731.000235"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc138\uc2dc\ubc18\uc804\uc5d4 \uc790\uc57c\uc9c0",
+        "ts": "1445276732.000236"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc788\ub098...",
+        "ts": "1445276732.000237"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubfc5",
+        "ts": "1445276735.000238"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147 \uc788\uc8e0",
+        "ts": "1445276736.000239"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "3\uc2dc\uc5d0 \ubd05\uc2dc\ub2e4",
+        "ts": "1445276742.000240"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub3d9\ubc29\uc5d0\uc11c\uc694?",
+        "ts": "1445276752.000241"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624\ube60 \ud3b8\ud55c\uacf3\uc5d0\uc11c :heart:",
+        "ts": "1445276762.000242"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "...........",
+        "ts": "1445276768.000243"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub09c \uc624\ube60\ubc29\ub3c4 \uc870\uc740\ub370",
+        "ts": "1445276778.000244"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":heart:",
+        "ts": "1445276779.000245"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4",
+        "ts": "1445276790.000246"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ubbf8\ub974\uad00\uc778\ub370....",
+        "ts": "1445276795.000247"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc5ec\uae30 \uc624\uc2dc\ub824\uba74 \uba40\uc5b4\uc11c...",
+        "ts": "1445276802.000248"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uae30\ub984 \ucda9\ubd84\ud569\ub2c8\ub2e4",
+        "ts": "1445276808.000249"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubd80\ub989\ubd80\ub989",
+        "ts": "1445276811.000250"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544 \ub9de\ub2e4 \u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1445276821.000251"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544\ubb34\ud2bc \uc804 \uc624\ub298 \ub3d9\ubc29\uc5d0 \uac08\uac8c\uc694",
+        "ts": "1445276829.000252"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147",
+        "ts": "1445276833.000253"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ubcf8\uc564\uc824\uc2a4\ub294",
+        "ts": "1445277443.000254"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc5b4\ub54c\uc694",
+        "ts": "1445277444.000255"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc9c0\uae084\uba85\uc788\ub294\ub514",
+        "ts": "1445277446.000256"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc2a4\ud30d\uc2a4\ub294 2\uba85",
+        "ts": "1445277448.000257"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc74c..",
+        "ts": "1445277610.000258"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ub3d9\ubc29\uac08\uae4c",
+        "ts": "1445277612.000259"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc9c0\uae08 \ubcf8\uc564\uc824\uc2a4\uc5d0 \uc0ac\ub78c \ub9ce\uc74d\ub2c8\uae4c?",
+        "ts": "1445277762.000260"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c\uc74c",
+        "ts": "1445277777.000261"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub7fc \ub0b4\uc77c \ubcf8\uc5d4\uc824\uc2a4\uac00 \uc801\ud569\ud558\ub139",
+        "ts": "1445277785.000262"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub124\uc624",
+        "ts": "1445277787.000263"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc544",
+        "ts": "1445277792.000264"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc774\ube0c\ub8f8\uc774\uad6c\ub098",
+        "ts": "1445277793.000265"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "4\uba85\uc774\uc5ec",
+        "ts": "1445277794.000266"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uac00 \uc544\ub2c8\ub77c",
+        "ts": "1445277797.000267"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "4\uba85\uc788\ub2e4",
+        "ts": "1445277798.000268"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544\ud0a44\uc778?",
+        "ts": "1445277811.000269"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\u3147\u3147\u3147\u3147",
+        "ts": "1445277818.000270"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ud760\ud760",
+        "ts": "1445280113.000277"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc5b4\ub514\ub85c\uac00\uc57c\ud558\uc624",
+        "ts": "1445280115.000278"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ud5c8\uc55c!!",
+        "ts": "1445320747.000345"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ud5c8\uc55c\ud0bc!!!!",
+        "ts": "1445320749.000346"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624\ub298 \ub3d9\ubc29\uc778\uac00\ud6a8?",
+        "ts": "1445321047.000347"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5b4\ub514\ub85c \uac00\uc57c\ud558\uc624",
+        "ts": "1445321063.000348"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc800\ub294 \ub3d9\ubc29\uc5d0 \uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1445321213.000349"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\ube0c\ub8f8\uc774\uc5ff",
+        "ts": "1445321323.000350"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\ube0c\ub8f8\uc640\uc6a7",
+        "ts": "1445321325.000351"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U0B6FN5MH>: \ub178\ubca8\ub2d8 \uc624\ub514\uc608\uc6a7!!!",
+        "ts": "1445321515.000355"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uac13\ub178\ubca8\ub2d8\uc774",
+        "ts": "1445321705.000359"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc548\uc624\uc2e0\ub2e4",
+        "ts": "1445321706.000360"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u315c\u315c",
+        "ts": "1445321707.000361"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc2dc\ud5d8\uc7a5\uc5b4\ub514\uc5d0\uc5ec?; \u315c\u315c",
+        "ts": "1445321752.000362"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "apple: \uac15\uc758\uc2e4\uc774\uc5ec",
+        "ts": "1445322973.000363"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc544\ucc38 \uadf8\ub798\uc11c Write back\uc758 \ub2e8\uc810\uc740 \ubb54\uac00\uc5ec",
+        "ts": "1445323773.000364"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\u3160\u3160",
+        "ts": "1445323774.000365"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc2dc\ud5d8\ubc94\uc704\uac00 \uc544\ub2c8\ub77c\ub294\uac8c",
+        "ts": "1445323783.000366"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2e8\uc810\uc785\ub2c8\ub2e4",
+        "ts": "1445323785.000367"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\u3131\u3145",
+        "ts": "1445323787.000368"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\u3131\u3145",
+        "ts": "1445323788.000369"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\u3131\u3145",
+        "ts": "1445323788.000370"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\u3131\u3145",
+        "ts": "1445323789.000371"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc190\ucef4\ud30c\uc77c \ud558\ub294\ubb38\uc81c",
+        "ts": "1445323819.000372"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ud558\ub098 \ub098\uc624\uac9f\uc9c0",
+        "ts": "1445323820.000373"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uceac....",
+        "ts": "1445323824.000374"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\u3160.\u3160",
+        "ts": "1445323824.000375"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ucef4\ud30c\uc77c?",
+        "ts": "1445323826.000376"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc190\uc73c\ub85c?",
+        "ts": "1445323827.000377"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "applecc....",
+        "ts": "1445323828.000378"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud0a4\uc57c...",
+        "ts": "1445323838.000379"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc608\uc220\uac00\ub124 \uc608\uc220\uac00",
+        "ts": "1445323841.000380"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "applecc -o source source.c",
+        "ts": "1445323843.000381"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "for loop \ub450\uac1c \uc8fc\uace0 \uc190\ucef4\ud30c\uc77c \ud558\ub77c\uace0 \ub098\uc62c\uac83\uac19\uc74c",
+        "ts": "1445323852.000382"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "applecc -s out source.c",
+        "ts": "1445323863.000383"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "cat out",
+        "ts": "1445323866.000384"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "out.s\uad6c\ub098",
+        "ts": "1445323891.000385"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc815\uc815\ud569\ub2c8\ub2e4",
+        "ts": "1445323893.000386"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "cso out",
+        "ts": "1445323897.000387"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "csout",
+        "ts": "1445323898.000388"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "CS OUT!",
+        "ts": "1445323899.000389"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "libapple.a",
+        "ts": "1445323900.000390"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "-bash: applecc: command not found",
+        "ts": "1445323912.000391"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "ln -s applecc gcc",
+        "ts": "1445323922.000392"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "???",
+        "ts": "1445323930.000393"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "applecc -s out.s source.c",
+        "ts": "1445323938.000394"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "llvm\uc73c\ub85c\ud569\uc2dc\ub2e4",
+        "ts": "1445323945.000395"
+    }
+]

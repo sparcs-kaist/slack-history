@@ -1,0 +1,647 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud720\uc138\ubbf8\ub098\uac00 \uc815\ud68c\uc6d0\uc744 \ub300\uc0c1\uc73c\ub85c \ud55c\ub2e4\uace0 \ub418\uc5b4 \uc788\uc5b4\uc11c \uc6d0\ub798 \uc900\ud68c\uc6d0\uc740 \ud720\uc138\ubbf8\ub098 \uc790\uccb4\ub97c \ucc38\uac00\ud560 \uc218 \uc5c6\ub124\uc694. ",
+        "ts": "1405844105.004952"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud720 \uc138\ubbf8\ub098 \ub54c\ubb38\uc5d0 \uc7a0\uae50 \ub4a4\uc801\uc774\ub2e4\uac00",
+        "ts": "1405858995.004953"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc624\ub79c\ub9cc\uc5d0 <http:\/\/hodduc.sparcs.net>",
+        "ts": "1405859000.004954"
+    },
+    {
+        "text": "&lt;p`eremen&gt; <http:\/\/www.etnews.com\/20140718000261?SNS=00002&amp;ot=0351>",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405859090.004955"
+    },
+    {
+        "text": "&lt;j`Bot&gt; [\u25cb <http:\/\/etnews.com|etnews.com>] \uacf5\uc778\uc778\uc99d\uc11c \uc720\uc2ec \uc11c\ube44\uc2a4 \u2018\ubcf4\uc548\uc131\u2019 \ub17c\ub780",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405859091.004956"
+    },
+    {
+        "text": "&lt;p`eremen&gt; \uae54\ub54c\uae30 \ud558\ub098\ub9cc \uaf3d\uaca0\uc2b5\ub2c8\ub2e4",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405859096.004957"
+    },
+    {
+        "text": "&lt;c`ombacsa&gt; peremen: ",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405862562.004958"
+    },
+    {
+        "text": "&lt;c`ombacsa&gt; \uc608\uc804\uc5d0 Facebook \uc758",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405862568.004959"
+    },
+    {
+        "text": "&lt;c`ombacsa&gt; Ubuntu \ud55c\uad6d \uc0ac\uc6a9\uc790 \ud3ec\ub7fc\uc778\uac00 \ud558\ub294 \uacf3\uc5d0",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405862572.004960"
+    },
+    {
+        "text": "&lt;c`ombacsa&gt; \uc774\ucc2c\uc9c4\ub2d8\uc774 \uc62c\ub838\ub358 \uae00\uc774 \uc5c4\uccad \uc774\uc288\uac00 \ub418\uc5c8\ub2e4\uace0 \ub4e4\uc5c8\ub294\ub370",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405862577.004961"
+    },
+    {
+        "text": "&lt;c`ombacsa&gt; \ud639\uc2dc \uadf8 \uc8fc\uc18c\ub97c \ucc3e\uc744 \uc218 \uc788\uc744\uae4c\uc694?",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405862581.004962"
+    },
+    {
+        "text": "&lt;p`eremen&gt; <https:\/\/www.facebook.com\/groups\/ubuntu.ko\/permalink\/682537725117411\/>",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405862919.004963"
+    },
+    {
+        "text": "&lt;c`ombacsa&gt; @peremen \uac10\uc0ac",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405862983.004964"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "Tor \ub124\ud2b8\uc6cc\ud06c \ub4e4\uc5b4\uac00\ubcf4\ub2c8\uae4c .onion TLD \uac00 \uc788\uae34 \uc788\ub124\uc694?",
+        "ts": "1405863412.004965"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc624 \uc2e0\uae30\ud558\ub2e4",
+        "ts": "1405863414.004966"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc774\uac70 \ubb50\uc9c0",
+        "ts": "1405863418.004967"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubb50\uc9c0 \uc65c \uad6c\uae00\uc774 \uc548\ub418\uc9c0",
+        "ts": "1405889386.004968"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub3cc\uc544\uc654\ub2e4",
+        "ts": "1405889402.004969"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "<http:\/\/tux.so\/word:facebook:propaganda>",
+        "ts": "1405900879.004970"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "1\uc904\uc694\uc57d : \ub0b4\uac00 \uacf5\uaca9\uc801, \uc120\ub3d9\uc801, \ub3c4\ubc1c\uc801\uc778 \ub313\uae00\uc744 \uacf5\uac1c \ud3ec\uc2a4\ud2b8\uc5d0 \ub2ec\uba74 \ub098\uc640 \ub0b4 \uce5c\uad6c\uc5d0\uac8c\ub9cc \uacf5\uac1c\ub41c\ub2e4.",
+        "ts": "1405900923.004971"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "<https:\/\/algospot.com\/judge\/problem\/read\/NAMING>",
+        "ts": "1405902614.004972"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc660\uc9c0\uc774\uac83\ub3c4",
+        "ts": "1405902619.004973"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud30c\uc774\uc36c\uc73c\ub85c \ubabb\ud560\uac70\uac19\uc740\ub370\uc694",
+        "ts": "1405902622.004974"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "500ms ..",
+        "ts": "1405902941.004975"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "pass\ub9cc\uccd0\ub3c4 500\uc740\ub118\uaca0\ub2e4",
+        "ts": "1405902996.004976"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc77c\ub2e8\ud574\ubd10\uc57c\uc9c0",
+        "ts": "1405902997.004977"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub099\ud604\uc774\ud615 \uc65c \uc804\uc9c1\ubcd1 \uac78\ub838\uc5b4\uc694 \u314b\u314b\u314b",
+        "ts": "1405903627.004978"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc804\uc9c1\ubcd1\uc774\ubb54\ub370",
+        "ts": "1405903688.004979"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc544 \u314b",
+        "ts": "1405903689.004980"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uad1c\ucc2e\uc774\uac74\uae08\ubc29\ud560\ub4ef(\uae08\ubc29\ud3ec\uae30\ud558\ub358\uac00)",
+        "ts": "1405903699.004981"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc804 \uc65c \uc544\uc9c1\ub3c4 ZEROONE\uc744 \ubabb\ud55c\uac70\uc8e0",
+        "ts": "1405903746.004982"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "C\ub85c \uba3c\uc800 \ud480\uace0 \ud560\uae4c..",
+        "ts": "1405903750.004983"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadf8\ub7fc\ub10c",
+        "ts": "1405903793.004984"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "zeroone\ud480\uace0",
+        "ts": "1405903799.004985"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub2e4\ub978\uc0ac\ub78c\ub4e4 \ub2f5\ubcf4\uba74",
+        "ts": "1405903801.004986"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc77c\ub2e8 \ub0b4\uaec4\ubcf4\uace0 \ud5d0... \uc774\ub807\uac8c\ud55c\ub2e4\uc74c",
+        "ts": "1405903809.004987"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud638\ub5a1\uaebc\ubcf4\uace0 \uc640 \uc138\uc0c1\uc5d0",
+        "ts": "1405903812.004988"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc640..",
+        "ts": "1405903815.004989"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc774\ub7f4\uac78",
+        "ts": "1405903816.004990"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544 \uad81\uae08\ud574\uc11c \ube68\ub9ac \ubcf4\uace0\uc2f6\uc5b4\uc694",
+        "ts": "1405903818.004991"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uac13\ud638\ub5a1..",
+        "ts": "1405903836.004992"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544 \uadfc\ub370 C++\ub108\ubb34 \uc624\ub79c\ub9cc\uc774\ub77c",
+        "ts": "1405903851.004993"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\ub2e4\ub978 \uc0ac\ub78c \ub2f5\uc548\uc740 \uc5b4\ub5bb\uac8c \ubd10?",
+        "ts": "1405903891.004994"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc77c\ub2e8 \ud480\uba74",
+        "ts": "1405903902.004995"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ubcfc\uc218\uc788\uc5b4\uc694",
+        "ts": "1405903904.004996"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\ub7ec\ub2c8 \ud478\uc2dc\uc8e0",
+        "ts": "1405903906.004997"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\ub044\uc73d",
+        "ts": "1405903923.004998"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc2a4\uce7c\ub77c \ub290\ubbf8",
+        "ts": "1405903925.004999"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc218\uc5f4 \uc77d\ub294\ub370\ub9cc 1\ucd08 \uac78\ub824;;",
+        "ts": "1405903946.005000"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc2a4\uce7c\ub77c \u314b\u314b\u314b\u314b\u314b",
+        "ts": "1405903962.005001"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "gmail \uc800\ub9cc \uc548\ub418\ub098\uc694?",
+        "ts": "1405906992.005002"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544 \ub2e4\uc2dc \ub418\ub124\uc694",
+        "ts": "1405907006.005003"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544 C\ub85c \uc9dc\ub2c8\uae4c \uc9c4\uc9dc \ub9d0\ub3c4\uc548\ub418\uac8c \ube60\ub974\ub124\uc694",
+        "ts": "1405907957.005004"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\ub0e5 \ud55c\ubc88\uc5d0\ud1b5\uacfc \u314b",
+        "ts": "1405907960.005005"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc544 \ub09c \ud3ec\uae30 \uc2a4\uce7c\ub77c\ub97c \ubc84\ub9b4 \uc218\uac00 \uc5c4\uc131",
+        "ts": "1405908004.005006"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "py, java \ub2e4\ubc84\ub9ac\uace0 C\ub85c \uc9dc\ub2c8\uae4c 200\ub300..",
+        "ts": "1405908029.005007"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "C\ub294 \uc815\ub9d0\uc815\ub9d0\uc815\ub9d0\uc815\ub9d0\uc815\ub9d0 \ube60\ub974\ub124\uc694",
+        "ts": "1405908040.005008"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud638\ub5a1\ud615 \ucf54\ub4dc \uc774\ud574\uac00 \uc548\ub418\uc694",
+        "ts": "1405908058.005009"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub0b4\uac00 \uc54c\ub358 \ud30c\uc774\uc36c\uc774 \uc544\ub2cc\ub370",
+        "ts": "1405908067.005010"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub0b4\uaebc\ubd80\ud130\ubcf4\uba74",
+        "ts": "1405908141.005011"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadf8\ub098\ub9c8 \uc778\uac04\uc774\uc9e0\uac70\ub77c\uc11c\uad1c\ucc2e\uc74c",
+        "ts": "1405908148.005012"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1405908170.005013"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud638\ub5a1\ud615 \uc74c\uc2dd\uc124",
+        "ts": "1405908178.005014"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc639 c\ub294 \uc0ac\ub791\uc785\ub2c8\ub2e4",
+        "ts": "1405908639.005015"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "C\ub294 \uc0ac\ub791\uc785\ub2c8\ub2e4",
+        "ts": "1405908652.005016"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud55c\ubc29\uc5d0 \ud1b5\uacfc \u314b\u314b\u314b",
+        "ts": "1405908657.005017"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc2ec\uc9c0\uc5b4 \uc54c\uace0\ub9ac\uc998 \ucd5c\uc801\ud654\ud560\uac70\ub3c4 \uc5c6\uc774 \uadf8\ub0e5 \ud1b5\uacfc\ud560\uc218\uc788\uc5b4\uc694",
+        "ts": "1405908667.005018"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\u3147\u3147 \uc2ec\ud50c\ud558\uac8c \uc9f0\ub294\ub370 \uadf8\ub0e5 \ud1b5\uacfc\ud558\ub124",
+        "ts": "1405908710.005019"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud5d0",
+        "ts": "1405911313.005020"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc774\uc5b8\ud76c\uc528\uac00\ub204\uad6c\uc9c0",
+        "ts": "1405911316.005021"
+    },
+    {
+        "text": "&lt;j`Bot&gt; [\u25cb <http:\/\/media.daum.net|media.daum.net>] \uc774\ud1b5 3\uc0ac \ub108\ubb34 \uc55e\uc11c\uac00\ub294 \uc18d\ub3c4\u00b7\ud654\uc9c8 \uacbd\uc7c1..\uc18c\ube44\uc790 \uc774\uc775\ubcf4\ub2e8 \ub2e8\ub9d0\uae30 \uad50\uccb4\uc6a9 '\uaf3c\uc218'",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911320.005022"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc544\uc774\ub514\uac00 ONION\uc774\uc57c \uc2e0\uae30\ud558\ub2e4",
+        "ts": "1405911321.005023"
+    },
+    {
+        "text": "&lt;p`eremen&gt; \ub124 \uadf8\ub798\uc11c '\uc5b8\uc81c\uc801 \uc774\uc57c\uae30'\ub77c\uace0 \ud55c \uac70\uc600\uc8e0",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911323.005024"
+    },
+    {
+        "text": "&lt;p`eremen&gt; <http:\/\/media.daum.net\/digital\/newsview?newsid=20140721091510836> \uc774\ucbe4\uc5d0\uc11c Wi-Fi\uac00 11Mbps\ub77c\ub2c8",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911323.005025"
+    },
+    {
+        "text": "&lt;p`eremen&gt; \ub300\uccb4 \uc5b8\uc81c\uc801 \uc774\uc57c\uae30\ub97c...",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911325.005026"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "Wifi 11Mbps \uba74 802.11a",
+        "ts": "1405911418.005027"
+    },
+    {
+        "text": "&lt;p`eremen&gt; 11a\ub3c4 54\uac00 \ub418\uae34 \ud568",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911432.005028"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "802.11b \ub294 11\ubc16\uc5d0 \uc548\ub418\uc8e0?",
+        "ts": "1405911441.005029"
+    },
+    {
+        "text": "&lt;p`eremen&gt; \ub044\ub355\ub044\ub355",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911448.005030"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "54\uc9dc\ub9ac  802.11g\ub97c \uc5b8\uc81c\ubd80\ud130 \uc37c\ub354\ub77c",
+        "ts": "1405911465.005031"
+    },
+    {
+        "text": "&lt;p`eremen&gt; 11n\uc774 \uc2f1\uae00\uc2a4\ud2b8\ub9bc \ucd5c\ub300 150Mbps\uae4c\uc9c0 \uac00\ub2a5\ud558\uace0",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911467.005032"
+    },
+    {
+        "text": "&lt;p`eremen&gt; 11ac\uac00 443\uc774\uace0",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911473.005033"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "300 450 \uae4c\uc9c0\ub3c4 \uc788\uc8e0",
+        "ts": "1405911474.005034"
+    },
+    {
+        "text": "&lt;p`eremen&gt; ...",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1405911474.005035"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "helloworld \uac00\uc7a5 \ub290\ub9b0 \ub2f5\uc548 \ucc0d\uc5c8\ub2e4 \u314b\u314b\u314b",
+        "ts": "1405912157.005036"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc11c\ubc84\uc5d0\uc11c sudo &lt;\uba85\ub839&gt; \uc744 \uce5c \ub85c\uadf8\ub97c \ubcfc\uc218\uc788\ub294 \ubc29\ubc95\uc774\uc788\ub098\uc694 \ubaa8\ub4e0\uc720\uc800\uc758",
+        "ts": "1405912884.005037"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "<http:\/\/unix.stackexchange.com\/questions\/108577\/how-to-log-commands-within-a-sudo-su>",
+        "attachments": [
+            {
+                "title": "How to log commands within a \"sudo su -\"?",
+                "title_link": "http:\/\/unix.stackexchange.com\/questions\/108577\/how-to-log-commands-within-a-sudo-su",
+                "text": "If I: [user@notebook ~] sudo echo 123456uu 123456uu [user@notebook ~] Then I can see that in the logs: [root@notebook \/var\/log] grep 123456uu * auth.log:Jan 9 17:01:51 notebook sudo: user :",
+                "fallback": "How to log commands within a \"sudo su -\"?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/unix\/img\/apple-touch-icon@2.png?v=32fb07f7ce26",
+                "from_url": "http:\/\/unix.stackexchange.com\/questions\/108577\/how-to-log-commands-within-a-sudo-su",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1
+            }
+        ],
+        "ts": "1405913380.005038"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": " \/var\/log\/auth.log",
+        "ts": "1405913476.005040"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc74c \uba85\ub839\uc5b4\ub97c \ubcfc\uc218\uc788\ub294\uac70\uac19\uc9c4 \uc548\ud765\u3134\ub370",
+        "ts": "1405913555.005041"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc9c0\uae08\ubd80\ud130 \ub85c\uadf8\ub97c \ub0a8\uae30\ub294\uac70 \ub9d0\uace0",
+        "ts": "1405913566.005042"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc544\ub2c8\uba74 \uac4d \ub9ac\ubd93\uc744 \ub204\uac00 \uc2dc\ucf30\ub098 \uc54c\uc218\uc787\ub098",
+        "ts": "1405913582.005043"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "auth.log\uc5d0 \uc74c\uc2b4?",
+        "ts": "1405913775.005044"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc544 \ub098\uc624\ub124 \ub2e4\ub978\ub85c\uadf8\ub9cc \uc8fc\uad6c\uc7a5\ucc3d\uc788\uae38\ub798",
+        "ts": "1405914032.005045"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc3f4\ub9ac",
+        "ts": "1405914036.005046"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc774\uac70 \uc65c \ub9ac\ubd93\ub41c\uac70\uc9c0 \ub300\uccb4",
+        "ts": "1405914039.005047"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud760....",
+        "ts": "1405916382.005048"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "zsh with zprezto",
+        "ts": "1405916392.005049"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc0ac\uc6a9\ud558\uc2dc\ub294 \ubd84 \uacc4\uc2e0\uac00\uc6a9",
+        "ts": "1405916395.005050"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "on iterm2 for mac os",
+        "ts": "1405916409.005051"
+    }
+]

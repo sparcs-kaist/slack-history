@@ -1,0 +1,82 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f2cadc19e351eeb6cf56b5bb4310101dc32a6636|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f2cadc19e351eeb6cf56b5bb4310101dc32a6636|f2cadc1>: \uc775\uba85 \uae00\/ \ub313\uae00 \uc791\uc131 \uac00\ub2a5 \uac1c\uc218 \uc81c\ud55c. - rlaalstn5383",
+                "pretext": "[araplus:board] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1439971380.000041"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/68#issuecomment-132483857|#68: \uc775\uba85 \uae00 \/ \uc775\uba85 \ub313\uae00 \uce74\uc6b4\ud2b8> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "text": "f2cadc19e351eeb6cf56b5bb4310101dc32a6636\n\uac1c\uc218 \uc81c\ud55c 5\uac1c\ub85c \ub450\uc5c8\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/68#issuecomment-132483857|#68: \uc775\uba85 \uae00 \/ \uc775\uba85 \ub313\uae00 \uce74\uc6b4\ud2b8> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "title": "Comment by rlaalstn5383\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1439971514.000042"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/68|#68 \uc775\uba85 \uae00 \/ \uc775\uba85 \ub313\uae00 \uce74\uc6b4\ud2b8> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/68|#68 \uc775\uba85 \uae00 \/ \uc775\uba85 \ub313\uae00 \uce74\uc6b4\ud2b8> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1439971516.000043"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:channel] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5ed66bdd76179bc1f61c25e7e00a534409929d0e|1 new commit> by Sam Brad Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5ed66bdd76179bc1f61c25e7e00a534409929d0e|5ed66bd>: fix writing comment - Sam Brad Jo",
+                "pretext": "[araplus:channel] 1 new commit by Sam Brad Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1439972890.000044"
+    }
+]

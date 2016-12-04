@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U0251JXSR",
+        "inviter": "U024SL0G3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0251JXSR|coffee> has joined the channel",
+        "ts": "1392352420.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "...",
+        "ts": "1392352588.000012"
+    }
+]

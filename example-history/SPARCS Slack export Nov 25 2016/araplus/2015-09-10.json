@@ -1,0 +1,192 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/f3ab3e608b0c61274ea09e4f5386c8baf15a6340|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/f3ab3e608b0c61274ea09e4f5386c8baf15a6340|f3ab3e6>: change settings to production; change url in mail - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441884345.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/16|#16 SPARCS SSO \ub3c4\uba54\uc778 \ubc1c\uae09\ubc1b\uae30> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/16|#16 SPARCS SSO \ub3c4\uba54\uc778 \ubc1c\uae09\ubc1b\uae30> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889661.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/16#issuecomment-139227245|#16: SPARCS SSO \ub3c4\uba54\uc778 \ubc1c\uae09\ubc1b\uae30> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "text": "<http:\/\/sso.sparcs.org\/>",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/16#issuecomment-139227245|#16: SPARCS SSO \ub3c4\uba54\uc778 \ubc1c\uae09\ubc1b\uae30> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889662.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/14|#14 \uba54\uc77c \uc11c\ubc84 \uc5f4\uace0, \uc778\uc99d \uba54\uc77c \ubc0f \ube44\ubc00\ubc88\ud638 \uc7ac\uc124\uc815 \uba54\uc77c \ubc1c\uc1a1 \ubc29\uc2dd \ubcc0\uacbd> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/14|#14 \uba54\uc77c \uc11c\ubc84 \uc5f4\uace0, \uc778\uc99d \uba54\uc77c \ubc0f \ube44\ubc00\ubc88\ud638 \uc7ac\uc124\uc815 \uba54\uc77c \ubc1c\uc1a1 \ubc29\uc2dd \ubcc0\uacbd> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889669.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/14#issuecomment-139227340|#14: \uba54\uc77c \uc11c\ubc84 \uc5f4\uace0, \uc778\uc99d \uba54\uc77c \ubc0f \ube44\ubc00\ubc88\ud638 \uc7ac\uc124\uc815 \uba54\uc77c \ubc1c\uc1a1 \ubc29\uc2dd \ubcc0\uacbd> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "text": "Postfix installed",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/14#issuecomment-139227340|#14: \uba54\uc77c \uc11c\ubc84 \uc5f4\uace0, \uc778\uc99d \uba54\uc77c \ubc0f \ube44\ubc00\ubc88\ud638 \uc7ac\uc124\uc815 \uba54\uc77c \ubc1c\uc1a1 \ubc29\uc2dd \ubcc0\uacbd> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889690.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/15#issuecomment-139227439|#15: \ub9b4\ub9ac\uc988\ub97c \uc704\ud574 Facebook, Twitter \uc5f0\ub3d9 \uc791\uc5c5 \ub9c8\ubb34\ub9ac> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "text": "Facebook, Twitter App ID \ubc1c\uae09 \ubc0f \uc801\uc6a9 \uc644\ub8cc",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/15#issuecomment-139227439|#15: \ub9b4\ub9ac\uc988\ub97c \uc704\ud574 Facebook, Twitter \uc5f0\ub3d9 \uc791\uc5c5 \ub9c8\ubb34\ub9ac> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889720.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/15|#15 \ub9b4\ub9ac\uc988\ub97c \uc704\ud574 Facebook, Twitter \uc5f0\ub3d9 \uc791\uc5c5 \ub9c8\ubb34\ub9ac> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/15|#15 \ub9b4\ub9ac\uc988\ub97c \uc704\ud574 Facebook, Twitter \uc5f0\ub3d9 \uc791\uc5c5 \ub9c8\ubb34\ub9ac> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889720.000016"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/17#issuecomment-139227542|#17: OAuth \uad8c\ud55c \uc218\uc815>",
+                "text": "\ud574\ub2f9 \uad8c\ud55c\uc740 twitter api\uc758 \ucd5c\uc18c \uad8c\ud55c\uc73c\ub85c, \ub354 \uc774\uc0c1 \uad8c\ud55c \ucd95\uc18c\uac00 \ubd88\uac00\ub2a5\ud568",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/17#issuecomment-139227542|#17: OAuth \uad8c\ud55c \uc218\uc815>",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889755.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/17|#17 OAuth \uad8c\ud55c \uc218\uc815> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/17|#17 OAuth \uad8c\ud55c \uc218\uc815> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441889755.000018"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "*\ud604\uc7ac SPARCS SSO \uc0c1\ud669*\n1. <http:\/\/sso.sparcs.org|sso.sparcs.org> \ub3c4\uba54\uc778\uc5d0 \uc11c\ubc84\ub97c \ub744\uc6c0\n2. mail server \ubc0f apache\ub97c \uc124\uce58 \uc644\ub8cc\n3. mysql\uc744 \uc124\uce58\ud558\uace0, db \uc5f0\ub3d9 \uc644\ub8cc\n4. facebook, twitter app\uc744 \ubc1c\uae09\ubc1b\uace0, public\uc73c\ub85c \uc804\ud658\n5. \uc778\uc99d\uc11c \uc124\uce58 \ubc0f \ubaa8\ub4e0 \ud398\uc774\uc9c0 \uac15\uc81c SSL\uc0ac\uc6a9\n6. \ubc31\uc5c5 \uc124\uc815(\uc5b4\ub514\ub85c, \uc5b4\ub5bb\uac8c \ubc31\uc5c5\ud574\uc57c \ud560 \uc9c0 \uc54c\ub824\uc8fc\uc138\uc694!)\n\n*\ud560 \uc77c*\n1. \ubcf4\uc548 \ud14c\uc2a4\ud2b8(?)\n2. <http:\/\/sparcs.org|sparcs.org> \ubb38\uad6c \ucd94\uac00 \/ \ub9cc\ub4e0 \uc0ac\ub78c \ucd94\uac00 \ub4f1\n3. \uc601\uc5b4\/\ud55c\uad6d\uc5b4 \uc9c0\uc6d0\n4. \ub514\uc790\uc778(.....???)",
+        "edited": {
+            "user": "U02PEJCVA",
+            "ts": "1442071316.000000"
+        },
+        "ts": "1441889927.000019"
+    }
+]

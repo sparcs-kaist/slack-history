@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1390264768.000002"
+    },
+    {
+        "user": "U024SHSMT",
+        "purpose": "management issues for SPARCS networking services",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SHSMT|leeopop> set the channel purpose: management issues for SPARCS networking services",
+        "ts": "1390264768.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac8c\uc774\ud2b8\uc6e8\uc774 \uad00\ub828 \ubb38\uc81c \uc0dd\uae30\uba74 \ub9d0\uc500\ud574\uc8fc\uc138\uc694",
+        "ts": "1390264788.000004"
+    },
+    {
+        "user": "U024SN150",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN150|bbashong> has joined the channel",
+        "ts": "1390264957.000005"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1390264958.000006"
+    },
+    {
+        "user": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0K6|rodumani> has joined the channel",
+        "ts": "1390265076.000007"
+    },
+    {
+        "user": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "ts": "1390268495.000008"
+    },
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNE2E|kuss> has joined the channel",
+        "ts": "1390270255.000009"
+    }
+]

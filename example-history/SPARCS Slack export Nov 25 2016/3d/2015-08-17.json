@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1439798982.000002"
+    },
+    {
+        "user": "U024SHSMT",
+        "purpose": "3D Modeling\uc744 \uc704\ud55c \uc774\ubbf8\uc9c0 \ubaa8\uc74c",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SHSMT|leeopop> set the channel purpose: 3D Modeling\uc744 \uc704\ud55c \uc774\ubbf8\uc9c0 \ubaa8\uc74c",
+        "ts": "1439798983.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "Marika Fukunaga",
+        "ts": "1439799000.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/iv1.lisimg.com\/image\/7328604\/600full-marika-fukunaga.jpg>",
+        "attachments": [
+            {
+                "fallback": "250x375px image",
+                "image_url": "http:\/\/iv1.lisimg.com\/image\/7328604\/600full-marika-fukunaga.jpg",
+                "image_width": 250,
+                "image_height": 375,
+                "image_bytes": 68709,
+                "from_url": "http:\/\/iv1.lisimg.com\/image\/7328604\/600full-marika-fukunaga.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1439799004.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/www.wowow.co.jp\/plast\/img\/fukunaga-marika.jpg>",
+        "attachments": [
+            {
+                "fallback": "200x300px image",
+                "image_url": "http:\/\/www.wowow.co.jp\/plast\/img\/fukunaga-marika.jpg",
+                "image_width": 200,
+                "image_height": 300,
+                "image_bytes": 64127,
+                "from_url": "http:\/\/www.wowow.co.jp\/plast\/img\/fukunaga-marika.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1439799025.000007"
+    }
+]

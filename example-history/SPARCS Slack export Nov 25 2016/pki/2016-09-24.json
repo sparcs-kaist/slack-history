@@ -1,0 +1,33 @@
+[
+    {
+        "user": "U02PEJCVA",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474735373.000002"
+    },
+    {
+        "user": "U02PEJCVA",
+        "purpose": "SPARCS Public Key Infrastructure",
+        "text": "<@U02PEJCVA|samjo> set the channel purpose: SPARCS Public Key Infrastructure",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1474735375.000003"
+    },
+    {
+        "user": "U02PEJCVA",
+        "topic": "SPARCS Public Key Infrastructure",
+        "text": "<@U02PEJCVA|samjo> set the channel topic: SPARCS Public Key Infrastructure",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1474735402.000004"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sparcs.slack.com\/services\/B2FHWAXU1|github>",
+        "bot_id": "B2FHWAXU1",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U02PEJCVA",
+        "ts": "1474735485.000005"
+    }
+]

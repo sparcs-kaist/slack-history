@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U0B6LUY3C",
+        "text": "<@U0B6LUY3C|bes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475115209.000165"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5c5\ub370\uc774\ud2b8!\n1. \uc7a5\uc18c\ub294 \uad6c\uae00\ucf54\ub9ac\uc544\uc5d0 \uacc4\uc2e0 \uc120\ubc30\ub2d8\ub4e4\uc758 \ub3c4\uc6c0\uc744 \ubc1b\uc744 \uc218 \uc788\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4!\n2. \uadf8\ub798\uc11c \uc77c\uc815\uc744 \ud655\uc2e4\ud788 \ud53d\uc2a4\ud558\ub824\uace0 \ud569\ub2c8\ub2e4. \uc5b8\uc81c\uac00 \uc88b\uc744\uae4c\uc694? \uc758\uacac \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4!",
+        "ts": "1475127442.000166",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U024SPDHG",
+                    "U026A6BEJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ud22c\ud45c \uae30\ub2a5 \uc5c6\ub098 \u314b\u314b",
+        "ts": "1475128144.000167"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc6b0\uc655",
+        "ts": "1475129912.000168"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc5ec\ub7ec\uc0ac\ub78c \uc2dc\uac04 \uc57d\uc18d \uc7a1\ub294 \uac74 <http:\/\/doodle.com\/> \uc774\ub7f0 \uac78 \uc774\uc6a9\ud574\ubcf4\ub294 \uac83\ub3c4...",
+        "attachments": [
+            {
+                "title": "Doodle: easy scheduling",
+                "title_link": "http:\/\/doodle.com\/",
+                "text": "Doodle radically simplifies the process of scheduling events, meetings, appointments, etc. Herding cats gets 2x faster with Doodle. For free!",
+                "fallback": "Doodle: easy scheduling",
+                "image_url": "http:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "http:\/\/doodle.com\/",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "http:\/\/doodle.com\/dist\/normal\/i\/650dd6854eeca2499449e1a762978fc2.png",
+                "service_name": "Doodle",
+                "id": 1
+            }
+        ],
+        "ts": "1475129959.000169"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc77c\ub2e8 \ub098\ub294 \uc800\ub141\uc2dc\uac04\uc740 \ub300\uccb4\ub85c \ud504\ub9ac\ud55c \ud3b8\uc774\ub77c \ud070 \uac71\uc815 \uc548 \ud574\ub3c4 \ub420\ub4ef \u314b\u314b (\uc6d4\ubaa9 \uc6b4\ub3d9\uc774 \uc788\ub294\ub370 \ub05d\ub098\uba74 7\uc2dc\ucbe4\uc774\ub77c \ubb50 \uc800\ub141\uc57d\uc18d\uc5d0 \ud06c\uac8c \uc9c0\uc7a5\uc5c6\uc74c)",
+        "ts": "1475130536.000171"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ud1a0\uc694\uc77c 2\uc2dc\uc694",
+        "ts": "1475130907.000172"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc544\ub2c8\uba74 10\uc2dc",
+        "ts": "1475130923.000173"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud1a0\uc694\uc77c \uc624\uc804\uc740 \ub098\ub294 \uc544\ubc84\uc9c0\ub791 \uc6b4\ub3d9 \uc608\uc815\uc774\ub77c \uc880 \ud798\ub4e4 \uac70 \uac19\uace0 \uc624\ud6c4\ub098 \uc800\ub141\uc740 \u3147\u314b",
+        "ts": "1475132278.000174"
+    }
+]

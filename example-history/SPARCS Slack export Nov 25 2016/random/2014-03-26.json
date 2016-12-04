@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U0275NF0X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0275NF0X|andromeda> has joined the channel",
+        "ts": "1395830332.000007"
+    },
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1395887015.000008"
+    },
+    {
+        "user": "U0278KHU3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0278KHU3|egg> has joined the channel",
+        "ts": "1395889135.000009"
+    },
+    {
+        "user": "U02793XJQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02793XJQ|jjus> has joined the channel",
+        "ts": "1395892057.000010"
+    }
+]

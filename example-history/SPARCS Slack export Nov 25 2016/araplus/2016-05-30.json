@@ -1,0 +1,24 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue created: '#131 develop branch\uc5d0\uc11c \ubd88\ud310\uc5d0 \uae00\uc774 \uc548\uc62c\ub77c\uac11\ub2c8\ub2e4. ' https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/131 by sparcsJara",
+                "text": "nodejs\uc11c\ubc84\ub97c \ucf1c\ub3c4 \ubd88\ud310\uc5d0 \uae00\uc774 \uc62c\ub77c\uac00\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. ",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/sparcsJara|sparcsJara>",
+                "title": "#131 develop branch\uc5d0\uc11c \ubd88\ud310\uc5d0 \uae00\uc774 \uc548\uc62c\ub77c\uac11\ub2c8\ub2e4. ",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/131",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464629288.000052"
+    }
+]

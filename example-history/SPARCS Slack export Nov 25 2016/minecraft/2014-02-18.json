@@ -1,0 +1,129 @@
+[
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc774\ub7f0 \ubc29\uc2dd\uc740 \uc774\uc0c1\ud55c\uac00\uc694~? \uc606\uc73c\ub85c \uc774\ub3d9\ud558\ub294 \ub808\uc77c \u314b\u314b\u314b\u314b \ud558\ub098\uc5d0\uc11c \ub450\uac1c\ub85c \ubd84\ub9ac \ub418\ub294 \ub808\uc77c\uc785\ub2c8\ub2e4. 2\ud638\uc120\uc5d0 \ud55c\ubc88 \uc801\uc6a9\ud574\ubcfc\uae4c \ud558\ub294\ub370 \u314e\u314e",
+        "ts": "1392713055.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SJ7R9|sunguard> uploaded a file: <https:\/\/sparcs.slack.com\/files\/sunguard\/F0257DN1B\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F0257DN1B",
+            "created": 1392713094,
+            "timestamp": 1392713094,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U024SJ7R9",
+            "editable": false,
+            "size": 1261596,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0257DN1B\/slack_for_ios_upload.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0257DN1B\/download\/slack_for_ios_upload.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0257DN1B-aef3a9\/slack_for_ios_upload_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0257DN1B-aef3a9\/slack_for_ios_upload_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0257DN1B-aef3a9\/slack_for_ios_upload_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "image_exif_rotation": 1,
+            "original_w": 1536,
+            "original_h": 2048,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/sunguard\/F0257DN1B\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0257DN1B-c8e0e5b311",
+            "channels": [
+                "C024SJD65"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SJ7R9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SJ7R9|sunguard>",
+        "bot_id": null,
+        "ts": "1392713098.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc218\uc911\uc5d0\uc11c \uc880 \ub354 \ubc1d\uac8c \ubcf4\ub294 \ubc29\ubc95\uc740 \ube5b\ub098\ub294 \ud638\ubc15\uc774\ub098 \ube5b\ub098\ub294 \uc2a4\ud1a4 \ubc15\ub294 \uac70 \ubc16\uc5d0 \uc5c6\uc8e0..?\u3160",
+        "ts": "1392787333.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc0c1\uc810\uc5d0\uc11c \ud5ec\uba67 \uc778\ucc48!",
+        "ts": "1392788151.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ubb3c\uce5c\ud654\uc131(aqua affinity) \uc778\ucc48 \ubc1b\uc73c\uba74 \uc2dc\uc57c\ub3c4 \ubc1d\uc544\uc9c0\uace0 \uc218\uc911\uc791\uc5c5\uc18d\ub3c4\ub3c4 \uc62c\ub77c\uac11\ub2c8\ub2e4",
+        "ts": "1392788198.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc544\ud558! \uadf8\uac70 \uc228\ub9cc \uc26c\uc5b4\uc9c0\ub294 \uac8c \uc544\ub2c8\ub124\uc694? \uc624\uc624\uc624\uc624",
+        "ts": "1392789710.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ubb3c \uce5c\ud654\uc131 \uc778\ucc48\ubc1b\uc73c\uba74",
+        "ts": "1392790339.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ubb3c\uc5d0\uc11c \uc228\uc26c\uc5b4\uc694?",
+        "ts": "1392790341.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc544, \uc228\uc26c\ub294\uac8c \uc544\ub2cc\uac00?\u314b\u314b\u314b\u314b",
+        "ts": "1392790796.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\ud638\ud761 \uc778\ucc48\uc774 \ub530\ub85c \uc788\ub124",
+        "ts": "1392790975.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc900\ud638 \ub108\ud76c \uc9d1\uae4c\uc9c0 \uac70\uc758 \ub2e4 \ub6ab\uc5b4\uac10",
+        "ts": "1392791029.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc9d1 \uc9d3\uc744 \uc7ac\ub8cc \uc880 \uc904\uae4c?",
+        "ts": "1392791033.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc624\uc624\uc624\uc624 \u3133\u3133",
+        "ts": "1392791046.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b",
+        "ts": "1392791140.000015"
+    }
+]

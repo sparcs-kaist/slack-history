@@ -1,0 +1,88 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#73 Use gravatar to credit page' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/73 by a1sams1a",
+                "text": "Refer to <https:\/\/ko.gravatar.com\/>",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#73 Use gravatar to credit page",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/73",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1466841996.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#74 Add gogi as a new developer!' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/74 by a1sams1a",
+                "text": "Welcome to contribute!\n\u2022 create an account\n\u2022 provide a dev env",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#74 Add gogi as a new developer!",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/74",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1466842119.000004"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc624\uc624\uc624?",
+        "ts": "1466861821.000005"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc0c8 ~\ub178\uc608~  \uac1c\ubc1c\uc790\uc778\uac00",
+        "ts": "1466861891.000006"
+    },
+    {
+        "user": "U0VU4TX7C",
+        "inviter": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0VU4TX7C|gogi> has joined the channel",
+        "ts": "1466863438.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#75 Add pudding as a new designer!' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/75 by a1sams1a",
+                "text": "Welcome to contribute!\n\u2022 create an account\n\u2022 provide a dev env",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#75 Add pudding as a new designer!",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/75",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1466923329.000008"
+    }
+]

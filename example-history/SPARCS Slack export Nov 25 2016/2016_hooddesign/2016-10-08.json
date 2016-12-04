@@ -1,0 +1,148 @@
+[
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\uc0dd\uac01\ud574\ubcf4\ub2c8 \uc0c9\uc0c1 2\uac1c\ub97c \uc4f0\ub294\uac74 \uc5b4\ub5a8\uae4c\uc694?",
+        "ts": "1475924932.000044"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\uac80\uc815\uc0c9\uc5d0 \ud770\uc0c9\uc774\ub791 \ubd89\uc740\uc0c9 \ubb38\uad6c \ub4e4\uc5b4\uac00\uba74 \uc9f1\uc9f1 \uc608\uc060\ub4ef \ud55c\ub370 \u3147\u3147\u3145\u3147",
+        "ts": "1475924946.000045"
+    },
+    {
+        "type": "message",
+        "user": "U2D4R9FDJ",
+        "text": "\uc544\uc774\ub514\uc5b4 \uc88b\uc544\uc694",
+        "ts": "1475926155.000046"
+    },
+    {
+        "type": "message",
+        "user": "U2D4R9FDJ",
+        "text": "\ub300\ucda9 \uc2dc\uc548 \uadf8\ub824\ubcf4\uba74 \ub354 \uc798 \ubcf4\uc77c\ub4ef",
+        "ts": "1475926166.000047"
+    },
+    {
+        "type": "message",
+        "user": "U2D4SMLDA",
+        "text": "\ube68\uac04\uc0c9 \ubb34\uc870\uac74 \ucc2c\uc131\uc774\uc694~",
+        "ts": "1475926285.000048"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\uae34\ud314 \ud6c4\ub4dc \uc0ac\uc11c \ud314 \uc790\ub978\ub2e4\uc74c\uc5d0 \uae34\ud314 \ud2f0\uc154\uce20 \ucee4\uc2a4\ud140\ud574\uc11c \ubd99\uc5ec \uc785\uc73c\uba74",
+        "ts": "1475927395.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\uc9c4\uc9dc \uc608\uc060\ud150\ub370...",
+        "ts": "1475927399.000050"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0V6NC6UV|pudding> uploaded a file: <https:\/\/sparcs.slack.com\/files\/pudding\/F2M19T820\/mens_hoodie_01.jpg|Mens_Hoodie_01.jpg>",
+        "file": {
+            "id": "F2M19T820",
+            "created": 1475928150,
+            "timestamp": 1475928150,
+            "name": "Mens_Hoodie_01.jpg",
+            "title": "Mens_Hoodie_01.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U0V6NC6UV",
+            "editable": false,
+            "size": 1864614,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2M19T820\/mens_hoodie_01.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2M19T820\/download\/mens_hoodie_01.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_960.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M19T820-71d7d19a3c\/mens_hoodie_01_1024.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2100,
+            "original_h": 2100,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/pudding\/F2M19T820\/mens_hoodie_01.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F2M19T820-cac26129a5",
+            "channels": [
+                "C2GS0NT4N"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0V6NC6UV",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0V6NC6UV|pudding>",
+        "bot_id": null,
+        "ts": "1475928154.000051"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\uc601\uc5b4 \ub0a0\ub9bc\uccb4 \ud3f0\ud2b8 \uc608\uc05c\uac70 \uc788\uc73c\uba74 \ucd94\ucc9c\ubc1b\uc2b5\ub2c8\ub2e4 \u3160\u3160 \ud751\u2026 \ud3f0\ud2b8\uac00 \ub108\ubb34 \uc548\uc608\ubed0\uc11c...",
+        "ts": "1475928173.000052"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\ucee8\uc149\uc740 service is a conversation with life",
+        "ts": "1475928208.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\uc5d0\uc11c \uc704\uc5d0\ub294 conversarion with life\ub97c \ucd5c\ub300\ud55c \ubabb\uc54c\uc544\ubcf4\uba74\uc11c \uaf49\uaf49 \ucc28\uac8c \uc4f0\uace0...",
+        "ts": "1475928229.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\ubc11\uc5d0\ub294 we make services, sparcs",
+        "ts": "1475928238.000055"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\ub85c \ud574\uc11c \ubd89\uc740 \ud3ec\uc778\ud2b8\ub97c \uc8fc\ub294\uac74 \uc5b4\ub5a8\uae4c\u2026 \uc0dd\uac01 \ud574\ubd24\uc5b4\uc694 \u3147\u3145\u3147",
+        "ts": "1475928250.000056"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc74c \uc804 \uc2ec\ud50c\ud588\ub358\uac8c \ub354 \ucde8\ud5a5\uc778\uac70 \uac19\uc544\uc694 \u315c",
+        "ts": "1475937001.000057"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc2ec\ud50c\uc778\uac8c \ub354 \ucde8\ud5a5\uc774\uc5c8\ub358",
+        "ts": "1475937017.000058"
+    }
+]

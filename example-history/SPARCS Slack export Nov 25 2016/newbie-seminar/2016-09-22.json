@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ub139",
+        "ts": "1474534328.000027"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "<!channel> HTML,CSS \ucf54\ub4dc\uce74\ub370\ubbf8 \uc219\uc81c\ub791 \uc2e0\uc785\uc0dd\ud504\ub85c\uc81d\ud2b8 \uc8fc\uc81c \uc0dd\uac01\ud574\uc624\ub294\uac70 \uc78a\uc9c0\ub9c8\uc138\uc694",
+        "ts": "1474574297.000028"
+    },
+    {
+        "user": "U024WGSD3",
+        "text": "<@U024WGSD3|undead> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1474579878.000029"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "user": "U024SNG5N",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNG5N|panda> has joined the channel",
+        "ts": "1442365550.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "<@U02KZSK9L>: \ucabd\uc9c0 \uc2a4\ud399 \uc54c\ub824\uc918~!",
+        "ts": "1442365570.000028"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc544 \ub135",
+        "ts": "1442375886.000029"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc624\ub298 \ub0b4\ub85c \ub4dc\ub9b4\uac8c\uc694!",
+        "ts": "1442375892.000030"
+    },
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNE2E|kuss> has joined the channel",
+        "ts": "1442376509.000031"
+    }
+]

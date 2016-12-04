@@ -1,0 +1,24 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#161 [\ud0c0\uc784\ud14c\uc774\ube14\/\ubc31\uc5d4\ub4dc] DB \ub9cc\ub4dc\ub294 Script \uc81c\uc791\ud558\uae30' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/161 by jihoon-ko",
+                "text": "\ud0c0\uc784\ud14c\uc774\ube14\uc744 \uc704\ud55c \ud14c\uc2a4\ud2b8 DB\ub97c \ub9cc\ub4e4\uc5b4\uc57c\ud569\ub2c8\ub2e4.\n\uc11c\ub3d9\ubbfc \ud68c\uc6d0\uc774 \ub9cc\ub4e4\uc5c8\ub358 script\ub97c \uc798 \ub9cc\uc838\ubcf4\uba74 \uac00\ub2a5\ud560\uc218\ub3c4...",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "title": "#161 [\ud0c0\uc784\ud14c\uc774\ube14\/\ubc31\uc5d4\ub4dc] DB \ub9cc\ub4dc\ub294 Script \uc81c\uc791\ud558\uae30",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/161",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470591290.000002"
+    }
+]

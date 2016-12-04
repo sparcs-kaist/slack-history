@@ -1,0 +1,796 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> was branched from \"review\" and pushed by ashe-sparcs",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> was branched from \"review\" and pushed by ashe-sparcs",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468501586.000058"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d11356ddf921a6ef6635d0c23f14a807d6ef88ba|1 new commit> by JONG HUN",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d11356ddf921a6ef6635d0c23f14a807d6ef88ba|d11356d>`  Make timetable apps (Initial commit) - JONG HUN",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> 1 new commit by JONG HUN:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468503271.000059"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"timetable\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/9e2d7876211e4e5e2b5e350c243f0c116b2c3719|9e2d787>` by ojh3636. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/d11356ddf921...9e2d7876211e|Compare changes>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"timetable\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/9e2d7876211e4e5e2b5e350c243f0c116b2c3719|9e2d787>` by ojh3636. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/d11356ddf921...9e2d7876211e|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468503690.000060"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/9e2d7876211e4e5e2b5e350c243f0c116b2c3719|1 new commit> by JONG HUN",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/9e2d7876211e4e5e2b5e350c243f0c116b2c3719|9e2d787>`  Make timetable apps (Initial commit) - JONG HUN",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/timetable|[otlplus:timetable]> 1 new commit by JONG HUN:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468503690.000061"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/cd789a710d6ccf0822f10d433ccc93d566f45754|1 new commit> by ashe-sparcs",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/cd789a710d6ccf0822f10d433ccc93d566f45754|cd789a7>`  django update : 1.8.2 --&gt; 1.9.7 - ashe-sparcs",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by ashe-sparcs:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468509058.000062"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/92#issuecomment-232749095|#92: \uba54\uc77c \uc11c\ubc84 \uc124\uce58> (assigned to <https:\/\/github.com\/kangwon|kangwon>)",
+                "text": "<mailto:otlplus@sparcs.org|otlplus@sparcs.org> \ub85c \uc774\uba54\uc77c \uac00\ub3c4\ub85d \uc124\uc815\ud574\ub1a8\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/92#issuecomment-232749095|#92: \uba54\uc77c \uc11c\ubc84 \uc124\uce58> (assigned to <https:\/\/github.com\/kangwon|kangwon>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468520465.000063"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/92|#92 \uba54\uc77c \uc11c\ubc84 \uc124\uce58> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/92|#92 \uba54\uc77c \uc11c\ubc84 \uc124\uce58> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468520465.000064"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#105 \uc5c5\ub85c\ub4dc \ubc84\ud2bc\uc744 ajax\uc2dc\ucf30\ub2e4. \uc5c5\ub85c\ub4dc \ubc84\ud2bc \ud074\ub9ad \uc2dc page refresh\uc5c6\uc774' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/105 by jo1996jo",
+                "text": "\uc0ad\uc81c\ubc84\ud2bc\uc774 \ub098\ud0c0\ub098\uace0, 'yeah.'\ub77c\ub294 flash message\ub97c 1\ucd08\ub3d9\uc548 \ub744\uc6b4\ub2e4.(\ub514\uc790\uc778\n\uc218\uc815 \ud544\uc694) (issue 85)",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/jo1996jo|jo1996jo>",
+                "title": "#105 \uc5c5\ub85c\ub4dc \ubc84\ud2bc\uc744 ajax\uc2dc\ucf30\ub2e4. \uc5c5\ub85c\ub4dc \ubc84\ud2bc \ud074\ub9ad \uc2dc page refresh\uc5c6\uc774",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/105",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468524511.000065"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/105#issuecomment-232768820|#105: \uc5c5\ub85c\ub4dc \ubc84\ud2bc\uc744 ajax\uc2dc\ucf30\ub2e4. \uc5c5\ub85c\ub4dc \ubc84\ud2bc \ud074\ub9ad \uc2dc page refresh\uc5c6\uc774>",
+                "text": "\uba54\uc2dc\uc9c0\ub77c\ub3c4 \uc81c\ub300\ub85c \uc4f0\uc9c0 \u315c\u315c ",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/105#issuecomment-232768820|#105: \uc5c5\ub85c\ub4dc \ubc84\ud2bc\uc744 ajax\uc2dc\ucf30\ub2e4. \uc5c5\ub85c\ub4dc \ubc84\ud2bc \ud074\ub9ad \uc2dc page refresh\uc5c6\uc774>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468524843.000066"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/105#issuecomment-232768851|#105: \uc5c5\ub85c\ub4dc \ubc84\ud2bc\uc744 ajax\uc2dc\ucf30\ub2e4. \uc5c5\ub85c\ub4dc \ubc84\ud2bc \ud074\ub9ad \uc2dc page refresh\uc5c6\uc774>",
+                "text": "\uc2b9\ud604\uc544 \uad6c\uc81c \u3131\u3131 ",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/105#issuecomment-232768851|#105: \uc5c5\ub85c\ub4dc \ubc84\ud2bc\uc744 ajax\uc2dc\ucf30\ub2e4. \uc5c5\ub85c\ub4dc \ubc84\ud2bc \ud074\ub9ad \uc2dc page refresh\uc5c6\uc774>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468524853.000067"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#106 function which return email address of a professor given year, term, \u2026' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/106 by ashe-sparcs",
+                "text": "\u2026etc.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#106 function which return email address of a professor given year, term, \u2026",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/106",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468531776.000068"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0KW|combacsa> uploaded a file: <https:\/\/sparcs.slack.com\/files\/combacsa\/F1S01501G\/screenshot_20160715-091704.png|Slack for Android Upload>",
+        "file": {
+            "id": "F1S01501G",
+            "created": 1468541912,
+            "timestamp": 1468541912,
+            "name": "Screenshot_20160715-091704.png",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SN0KW",
+            "editable": false,
+            "size": 349434,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1S01501G\/screenshot_20160715-091704.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1S01501G\/download\/screenshot_20160715-091704.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1S01501G-96036c8bac\/screenshot_20160715-091704_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1440,
+            "original_h": 2560,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/combacsa\/F1S01501G\/screenshot_20160715-091704.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1S01501G-1ab29a9152",
+            "channels": [
+                "C029U6HTV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0KW",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0KW|combacsa>",
+        "bot_id": null,
+        "ts": "1468541916.000069"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<!channel>: \uc2e4\ub840\ud569\ub2c8\ub2e4. \uc774 \uba54\uc77c\ub4e4\uc774 \uc624\ub294 \uac74 \uad1c\ucc2e\uc740 \uc77c\uc778\uc9c0..",
+        "ts": "1468541933.000070"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub204\uad70\uac00 \uc678\ubd80 \uc544\uc774\ud53c\ub85c \uacc4\uc18d \uc811\uc18d\ud558\ub294\uac78\uae4c\uc694?",
+        "ts": "1468542014.000071"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<!channel>: \uc6b0\uc120 edalias otlplus \uad6c\ub3c5\uc744 \ud574\uc81c\ud574\uc8fc\uc138\uc694 \u315c\u315c \ubb34\uc2a8 \uc77c\uc774\uc9c0",
+        "ts": "1468542768.000072"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U0B6LPVSM> \uad6c\ub3c5\ud574\uc81c\ubcf4\ub2e4\ub294 \u314e\u314e \ud604 \uc11c\ube44\uc2a4\uc5d0 \ubb38\uc81c\uac00 \uc0dd\uae34 \uac74 \uc544\ub2cc\uac00\uc694?",
+        "ts": "1468542930.000073"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<@U024SN0KW>: \ub124 \uc54c\uc544\ubd10\uc57c \ud560\uac70 \uac19\uc544\uc694 \uadf8\ub3d9\uc548 \uadc0\ucc2e\uc73c\uc2e0\ubd84\ub4e4\uc740 \ud574\uc81c\ud574\ub2ec\ub77c\ub294 \ub73b\uc774\uc5c8\uc2b5\ub2c8\ub2e4",
+        "ts": "1468543014.000074"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<!channel>: \ud68c\uc0ac \ub3c4\ucc29\ud574\uc11c \ubc14\ub85c \uc0b4\ud344\ubcf4\uaca0\uc2b5\ub2c8\ub2e4 \ubd88\ud3b8\ub4dc\ub824 \uc815\ub9d0 \uc8c4\uc1a1\ud569\ub2c8\ub2e4",
+        "ts": "1468543107.000075"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ubd88\ud3b8\uc774\ub77c\ub2c8\uc6a9... \uc774\ub7f0 \uc77c\uc740 \uc88b\uc740 \uc77c\uc774\uc8e0! (?!)",
+        "ts": "1468543163.000076"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ub9ac\ubdf0 \ub9ac\uc808\ud2b8\uc758 \ucf54\uc2a4 \ubc88\ud638\ub85c \uc811\uadfc\uc744 \ud558\uba74",
+        "ts": "1468543188.000077"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc81c\uc774\uc2a8\uc73c\ub85c \ubb54\uac00 \ub515\uc154\ub108\ub9ac\ub97c \uc8fc\ub098\ubcf4\uad70\uc694",
+        "ts": "1468543200.000078"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<@U04J6LN3W>: \uc774\uac00 \uc5b4\uc81c \uc11c\ubc84 \ubcf5\uad6c\ud558\ub290\ub77c \ubc24\uc0c8\uc11c \uc77c\uc5b4\ub098\uc788\uc744\uc9c0 \ubaa8\ub974\uaca0\ub294\ub370 \u3160\u3160",
+        "ts": "1468543205.000079"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud558\uc5ec\uac04\uc5d0 \ud575\uc2ec\uc740",
+        "ts": "1468543318.000080"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "Http404 \ub77c\ub294 \uac8c \uc815\uc758\ub418\uc9c0 \uc54a\uc558\ub2e4\ub294 \uac70\uc8e0?",
+        "ts": "1468543331.000081"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubcf4\ub2c8\uae4c \uacc4\uc18d \ub098\ub358 \uc5d0\ub7ec\uac00 \uc774\uc81c\uc11c\uc57c \uc2ec\uac01\uc131\uc744 \ub4dc\ub7ec\ub0b8 \uac83 \uac19\uc740\ub370",
+        "ts": "1468543343.000082"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "apps.review.views:8\uc5d0 Http404 \ucd94\uac00\ud574\uc8fc\uba74 \uac04\ub2e8\ud788 \ud574\uacb0\ub420 \ubb38\uc81c\ucc98\ub7fc \ubcf4\uc785\ub2c8\ub2e4 \uc81c\ub208\uc5d0\ub294...",
+        "ts": "1468543387.000083"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0KW|combacsa> uploaded a file: <https:\/\/sparcs.slack.com\/files\/combacsa\/F1RV0KGKY\/screenshot_20160715-094302.png|Slack for Android Upload>",
+        "file": {
+            "id": "F1RV0KGKY",
+            "created": 1468543394,
+            "timestamp": 1468543394,
+            "name": "Screenshot_20160715-094302.png",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SN0KW",
+            "editable": false,
+            "size": 308266,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1RV0KGKY\/screenshot_20160715-094302.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1RV0KGKY\/download\/screenshot_20160715-094302.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RV0KGKY-778db5eeef\/screenshot_20160715-094302_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1440,
+            "original_h": 2560,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/combacsa\/F1RV0KGKY\/screenshot_20160715-094302.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1RV0KGKY-ffa1a5b708",
+            "channels": [
+                "C029U6HTV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0KW",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0KW|combacsa>",
+        "bot_id": null,
+        "ts": "1468543398.000084"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3147\u3147 \uadf8\ub7f4 \uac70 \uac19\ub124\uc694 \uc815\ub9d0.",
+        "ts": "1468543400.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc81c\uac00 \uc7a5\uace0 \uad6c\uc870\ub97c \uc798 \ubab0\ub77c\uc11c \uadf8\ub7f0\ub370 403 404 500 \uc774\ub7f0 \uac70\uac00 \ub2e4 apps \ub85c \ub418\ub098\uc694?",
+        "ts": "1468543452.000086"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#107 django.http.Http404\uac00 import\ub418\uc9c0 \uc54a\uc544 500\uc5d0\ub7ec \ubc1c\uc0dd' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/107 by Shavakan",
+                "image_url": "https:\/\/cloud.githubusercontent.com\/assets\/4944891\/16860221\/d6b11f24-4a70-11e6-8392-6682b7e18b30.png",
+                "image_width": 1359,
+                "image_height": 450,
+                "image_bytes": 59315,
+                "text": "\ubc24\uc0c8 \uc774\ub7f0 \uba54\uc77c\uc774 \uc790\uafb8 \ub0a0\uc544\uc640\uc11c \uc8fd\uc744 \uac83 \uac19\ub2e4.\n\uc774\uac83 \ub54c\ubb38\uc5d0 \uba87\ubc88 \uae7c\ub294\uc9c0 \ubaa8\ub974\uaca0\ub2e4.\n\n\ube60\ub974\uac8c import\ud574\uc8fc\ub3c4\ub85d \ud55c\ub2e4.\n\n<https:\/\/cloud.githubusercontent.com\/assets\/4944891\/16860221\/d6b11f24-4a70-11e6-8392-6682b7e18b30.png|image>",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/Shavakan|Shavakan> (assigned to <https:\/\/github.com\/Shavakan|Shavakan>)",
+                "title": "#107 django.http.Http404\uac00 import\ub418\uc9c0 \uc54a\uc544 500\uc5d0\ub7ec \ubc1c\uc0dd",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/107",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468543566.000087"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc88b\ub124\uc694. \uadf8\ub7f0\ub370,",
+        "ts": "1468543731.000088"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ubb50\ud558\ub7ec \uc811\uadfc\ud558\uc9c0\uc694? \/2\/ \uc5d0\ub294?",
+        "ts": "1468543741.000089"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc77c\ub2e8 \uc774\uba54\uc77c \ub3cc\ub9ac\ub294 \uae30\ub2a5\uc744 \uaed0\uc2b5\ub2c8\ub2e4.",
+        "ts": "1468543963.000090"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uac11\uc790\uae30 \uba54\uc77c \ud3ed\ud0c4\uc744 \ubcf4\ub0b4\uc11c \uc8c4\uc1a1\ud569\ub2c8\ub2e4.",
+        "ts": "1468543973.000091"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#108 Hot fix #107 Http404 import error in apps.review.view' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/108 by Shavakan",
+                "text": "Resolves #107 ",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/Shavakan|Shavakan> (assigned to <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>)",
+                "title": "#108 Hot fix #107 Http404 import error in apps.review.view",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/108",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468543996.000092"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc800\ub3c4 \uc800 \uce5c\uad6c\uac00 \uc800\ub807\uac8c \ub09c\ub9ac\uce60 \uc904\uc740 \ubab0\ub790\uc5b4\uc694...",
+        "ts": "1468544013.000093"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc74c \uc544\ub2c8\uc608\uc694",
+        "ts": "1468544019.000094"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubd84\uba85 \ud574\uacb0\ud574\uc57c\ud588\ub358 \ubb38\uc81c\ub97c \uc78a\uace0\uc788\uc5c8\ub358\uac74\ub370",
+        "ts": "1468544033.000095"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc7e4\uac00 \uc54c\ub824\uc900\uac70\ub2c8\uae4c \uc798\ud55c \uc77c\uc774\ub77c\uace0 \uc0dd\uac01\ud574\uc694",
+        "ts": "1468544041.000096"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc7ac\ube60\ub974\uac8c \ud480\ub9ac\ud018\ub97c \ub0a0\ub9ac\ub294\ub370 \uc131\uacf5\ud588\ub2e4",
+        "ts": "1468544111.000097"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "?!",
+        "ts": "1468544196.000098"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/108|#108 Hot fix #107 Http404 import error in apps.review.view> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/108|#108 Hot fix #107 Http404 import error in apps.review.view> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468544321.000099"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/cd789a710d6c...e0165c486291|2 new commits> by Shavakan and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/a34a204a697b066cabb73468df31af4dd87eb193|a34a204>`  Hot fix #107 Http404 import error in apps.review.view - Shavakan\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e0165c48629145ad7ea0738d7f7e9b89b5c032e6|e0165c4>`  Merge pull request #108 from Shavakan\/review - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/cd789a710d6c...e0165c486291|2 new commits> by Shavakan and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468544321.000100"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc74c \uc65c \uc624\ud2f0\uc5d8 \uc11c\ubc84 \uc811\uc18d\uc774 \uc548\ub418\uc9c0",
+        "ts": "1468544395.000101"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<@U04J6LN3W>: \uc774\uac70 \uc678\ubd80\uc5d0\uc11c \uc548\ub428?",
+        "ts": "1468544405.000102"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub124",
+        "ts": "1468544499.000103"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc2a4\ud30d\uc2a4 \ud55c \ubc88 \uc6b0\ud68c\ud574\uc11c \ub4e4\uc5b4\uac00\ubcf4\uc138\uc694",
+        "ts": "1468544506.000104"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<@U04J6LN3W>: \uba38\uc9c0\ud588\uc73c\ub2c8 \uc2e4\uc11c\ubc84\uc5d0 \ubc18\uc601\ubd80\ud0c1",
+        "ts": "1468544507.000105"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc624?",
+        "ts": "1468544511.000106"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc2a4\ud30d\uc2a4 \uc6b0\ud68c?",
+        "ts": "1468544519.000107"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "ssh <mailto:ashe@sparcs.org|ashe@sparcs.org> -&gt; ssh <mailto:somethingamazing@otlplus.sparcs.org|somethingamazing@otlplus.sparcs.org>",
+        "ts": "1468544571.000108"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc774\ub7f0 \uc2dd\uc73c\ub85c\uc694",
+        "ts": "1468544581.000109"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc544\ud558!",
+        "ts": "1468544695.000110"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc544\ub2c8\uba74 \ub9c8\ub8e8\uc5d0\uc11c\uc778\uac00 \ub3cc\uace0 \uc788\ub294 sparcs vpn\uc774 \uc788\ub294 \uac83\uc73c\ub85c \uc54c\uace0 \uc788\uc9c0\ub9cc",
+        "ts": "1468544772.000111"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc800\ub294 \uc18c\ubb38\ub9cc \ub4e4\uc5b4\uc11c \uc0ac\uc6a9\ubc95\uc744 \ubaa8\ub974\uaca0\ub124\uc694",
+        "ts": "1468544783.000112"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub428",
+        "ts": "1468544789.000113"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc9c0\uae08 \ubc18\uc601\ud558\ub824\uace0",
+        "ts": "1468544792.000114"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc2e4\uc11c\ubc84\uc5d0",
+        "ts": "1468544794.000115"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc544\uce68\uc5d0\ub3c4 vpn \uae54\uc544\uc918",
+        "ts": "1468544821.000116"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc77c\ub2e8 \ub9c8\ub8e8\uc5d0 \uc788\ub294 vpn\uc740",
+        "ts": "1468544858.000117"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc815\uccb4\uac00 \ubb61\ub2c8\uae4c",
+        "ts": "1468544861.000118"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<!channel>: \ubc18\uc601\ub418\uc5c8\uc2b5\ub2c8\ub2e4",
+        "ts": "1468544862.000119"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<@U04J6LN3W>: \uba54\uc77c\uc11c\ubc84 \ub2e4\uc2dc \uc5f4\uc5b4\ubd10",
+        "ts": "1468544872.000120"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<@U04J6LN3W>: \uba54\uc77c\uc11c\ubc84 \ub2e4\uc2dc",
+        "ts": "1468544874.000121"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\u3147\u3147",
+        "ts": "1468544874.000122"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub124 \ub2e4\uc2dc \ud65c\uc131\ud654\uc2dc\ucf30\uc2b5\ub2c8\ub2e4",
+        "ts": "1468544954.000123"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc77c\ub2e8 \uba54\uc77c\uc5d0 \ub0a0\uc544\uc628 \uc8fc\uc18c\ub85c \uc811\uc18d\ud574\ubd24\ub294\ub370 500\uc5d0\ub7ec\ub294 \uc548\ub098\ub124\uc694",
+        "ts": "1468544972.000124"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uba54\uc77c\ub3c4 \uc544\ub9c8 \uc548\uc624\ub294\ub4ef?",
+        "ts": "1468544978.000125"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc88b\uc544 9\uae00\uc790\uc9dc\ub9ac \ucee4\ubc0b \ub0a0\ub824\uc11c \ud569\ubc95\uc801\uc73c\ub85c \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uac1c\ubc1c\uc5d0 \ucc38\uc5ec\ud588\ub2e4",
+        "ts": "1468544998.000126"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uceac",
+        "ts": "1468545005.000127"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc774\ubbf8 \ud615\uc740 \uc815\uc2e0\uc801 \uc9c0\uc8fc\ub85c \uba85\uc608 \ud504\ub85c\uc81d\ud2b8\uc6d0\uc774\uc168\uc2b5\ub2c8\ub2e4",
+        "ts": "1468545026.000128"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc0e4\ud615\uc740 \uc800\ud76c \uacc1\uc5d0 \uc5c6\uc9c0\ub9cc \uc5b8\uc81c\ub098 \uacc1\uc5d0\uc11c \uc228\uc26c\uace0 \uacc4\uc2ed\ub2c8\ub2e4!",
+        "ts": "1468545058.000129"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uadf8\ub807\uac8c \uc5f4\uc2ec\ud788 \uc228\uc744 \uc26c\uc2dc\ub2e4\ubcf4\ub2c8 \ubaa8\ub4e0 \uac83\uc744 \uc54c\uac8c \ub418\uc2dc\uace0...",
+        "ts": "1468545080.000130"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub098\ub3c4 \uc5f4\uc2ec\ud788 \uc228\uc26c\uc5b4\uc57c\uc9c0...",
+        "ts": "1468545098.000131"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc800\ub3c4 \uc2ac\ub799\uc5d0\ub9cc \ub5a0\ub4e4\uc9c0 \ub9d0\uace0 \uae43\ud5d9\uc5d0 \uc774\uc288\ub97c \ub4f1\ub85d\ud574\uc57c \ud558\ub294\ub514.. \u3160\u3145\u3160\u314b",
+        "ts": "1468546267.000132"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<https:\/\/docs.google.com\/document\/d\/11qloFj-So8Bu7_mEYHprQl2-i_a-VbnivLAfc4qa8ac\/edit?usp=sharing>",
+        "ts": "1468548677.000133"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "OTLPLUS \uac1c\ubc1c \uaddc\uce59 \uc815\ud55c \ub0b4\uc6a9\uc778\ub370 \ubbf8\ud761\ud55c\uac70 \uac19\uc544\uc11c \ud53c\ub4dc\ubc31 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4. \uc5ec\uae30\uc5d0 \uc62c\ub824\uc8fc\uc2dc\uac70\ub098 \uc218\uc815 \uc81c\uc548 \ub2ec\uc544\uc8fc\uc2dc\uba74 \uac10\uc0ac\ud558\uacd8\uc2b5\ub2c8\ub2e4",
+        "ts": "1468548705.000134"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<!channel>:  \ubcf4\uace0 \uc800\ud76c\ub4e4\uc774 \uc815\ubaa8 \ub54c \ub17c\uc758\ud574\uc11c \ubc18\uc601\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1468548740.000135"
+    }
+]

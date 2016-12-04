@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "KIA",
+        "ts": "1474358282.000015"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "Korea \uc720\uc77c tier1",
+        "ts": "1474358292.000016"
+    },
+    {
+        "user": "U2D4V3E8Y",
+        "text": "<@U2D4V3E8Y|yujingaya> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474374463.000017"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "Cron &lt;mirror@ftp&gt; exec nice -n 5 measure-usage \/mirror\/svcs\/*\/measure-usage.conf\n\uc774\ub7f0 \uba54\uc77c \uc790\uafb8 \uc624\ub294\ub370,  root\uc640 mirror \uacc4\uc815 crontab \ubcf4\uba74 \uc544\ubb34\uac83\ub3c4 \uc5c6\ub294\ub370 \ubb50\ud558\ub294 \uc791\uc5c5\uc778\uac00\uc694?",
+        "ts": "1474383622.000018"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc0ac\uc6a9\ub7c9 \ud1b5\uacc4 \uac31\uc2e0\ud558\ub294 \uc791\uc5c5\uc774\uace0 \uc774\uac74 crontab \uc790\uccb4\uc5d0 \ub4f1\ub85d\ub41c \uac8c \uc544\ub2c8\ub77c cron.d\uc77c \uac70\ub77c\uace0... \uc54c\uace0 \uc788\uc5b4\uc694",
+        "ts": "1474386212.000019"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\/mirror\/etc\/crontab.leader, crontab.node \ucc38\uace0\ud558\uc138\uc694",
+        "ts": "1474386260.000020"
+    }
+]

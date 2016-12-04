@@ -1,0 +1,36 @@
+[
+    {
+        "user": "U2SM07DV2",
+        "inviter": "U02PEJCVA",
+        "text": "<@U2SM07DV2|nugu-nyang> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477077481.000680"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub028",
+        "ts": "1477077485.000681"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub204\uad6c\ub0e5?",
+        "ts": "1477079141.000682"
+    },
+    {
+        "text": "\uc0b4\uc544\uc788\ub0e5!",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477079141.000683"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub204\uad6c\ub0e5?",
+        "ts": "1477079881.000684"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U04HUNH5L",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U04HUNH5L|mango> has left the channel",
+        "ts": "1464314006.000002"
+    },
+    {
+        "user": "U04HUNH5L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUNH5L|mango> has joined the channel",
+        "ts": "1464314019.000003"
+    },
+    {
+        "user": "U04HUNH5L",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U04HUNH5L|mango> has left the channel",
+        "ts": "1464314030.000004"
+    }
+]

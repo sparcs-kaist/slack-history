@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\ubb38\uc601\uc774\uac00 \uad6c\ud604\ud574\uc8fc\ub294\uac78\ub85c",
+        "ts": "1447058431.000081"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ucd94\ucc9c \ubc18\ub300 \ud074\ub860\ud574\uc11c",
+        "ts": "1447073639.000082"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc7ac\ud65c\uc6a9\ud574\ub3c4\uad1c\ucc2e\uc744\ub4ef",
+        "ts": "1447073649.000083"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/14e6d46b576b...e0e3bdf22b6d|65 new commits> by chocho and 11 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b0bedc14b255b9c501fbc7741dfe2fbd61844769|b0bedc1>: created a new app 'channel' and models file for channel - chocho\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/59af16e81405dd8e527a496035b6642eabdd444e|59af16e>: created channel app's urls.py, views.py, and post_write.html in - koolvibes\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7306a18645eed7b7bac3825369dd56855497a4aa|7306a18>: Merge branch 'develop' into channel - koolvibes\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/31822813079d8db436a3b3c4da2deed3ddb54492|3182281>: modified for flake8 test - jazzinpark\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/729e0553e5eecf882ef7f10485e9bd3c7f96104a|729e055>: register_channel \uae30\ub2a5 \uad6c\ud604 - chocho\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ee26bfdb41818914d232c385a4fd2367c1ba9b26|ee26bfd>: implemented 1. Channel registration 2. writing\/reading\/editing\/deleting - jazzinpark\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5e97197aa2f9c0a9c13c42882574b1918dc2f152|5e97197>: Post\uc5d0 \ucd94\ucc9c\/\ubc18\ub300 \ub300\uc2e0 \ubcc4\uc810\uc744 \uc8fc\ub3c4\ub85d \ubcc0\uacbd - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a0f489c63855d4e65d53ac6c57abbed6e6c3e645|a0f489c>: Board \ucf54\ub4dc \ubcf5\uc0ac\ud558\uc5ec Channel\ub85c \uc218\uc815: \uc77c\ubd80 \uc624\ub958 \uc874\uc7ac, Channel\uc5d0 \ub9de\uac8c \uc218\uc815 \ud544\uc694 - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d54676814c83ac43e98db49ecb9b83628349b4b6|d546768>: remove create\/remove channel features - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/06162ff7a4740f93516fa2af4b70db822ab13701|06162ff>: remove best, category features, unused templates - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/92e9e8ee2284e96e1f39600eacee10f034df7513|92e9e8e>: remove anon post writing - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cd2be04843ef2e2bcd8613bea5d76e501a867900|cd2be04>: \uae00 \uc4f0\uae30 \ud398\uc774\uc9c0\uc5d0\uc11c Channel \uc120\ud0dd \ubd80\ubd84 \uc81c\uac70 - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/715d69d1f51d0acbda6c573da72bfe287376f28c|715d69d>: modify change log; remove public \/ private feature; remove official feature; remove anon comment - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a9f503dbfeaa1d8d15c1f265023f41d59fa0afd7|a9f503d>: modify models - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/feb1912a7f866e609ca7eeed727422f1f8a1c38c|feb1912>: refactor channel list\/write - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e1ca5bd8df1012b6eaada2db3e6821da677ab0de|e1ca5bd>: refactor post read - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5ed66bdd76179bc1f61c25e7e00a534409929d0e|5ed66bd>: fix writing comment - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/67f57ec6d4585395e84ef44e213e6a43f274c38b|67f57ec>: refactor read\/write, make backend of post\/comment vote, refactor backend of mark19 - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9a877f902f3eb36f239adeb2b9b8ce2a85b98ef7|9a877f9>: change url to \/channel\/post_order\/comment_order\/action; refactor view exception check; - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7645396b4863c3ba7f64654e1d33826a05404848|7645396>: use require_POST decorator; raise 404 on backend - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9ae577f067b80ee42e8b4ce1ec8528621e6f4542|9ae577f>: add report\/best comment backend - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0f104e49a47150740a591a32a64e754a4ff913a4|0f104e4>: add mark19\/delete frontend - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c20c536ef95379d54b751760b41b0c87eb71f3d6|c20c536>: fix modify comment, add vote for comment - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b74fe321b4b178717ce633f4539cb56b939dab9a|b74fe32>: add post rating frontend - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6594f06892b9c9d699f0539a1647100b9011490f|6594f06>: add channel create \/ modify \/ delete - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/eced83b7670178c54687cd4801498857b19d43c6|eced83b>: refactor report function - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4c824e4d168ce842c76d31a1848843a920e1c126|4c824e4>: add adult comment - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e091e77ef0ddbbd71f35ac24a7792d78ecc35bb8|e091e77>: add comment pagination; fix best comment frontend; add channel thumbnail frontend - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0f97226de9913b4203867bc0062e352feae3d1c8|0f97226>: remove vote test code - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a125e3c130c8fa316de59062f813b25de89f3333|a125e3c>: fix numtag - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cd26bf44b80ecedb43df083b52605731b0fe2e0a|cd26bf4>: notify test - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4299b6ef1d4b37fcfb94783287f68c97aee5485b|4299b6e>: Merge branch 'channel' of <https:\/\/github.com\/sparcs-kaist\/araplus> into channel - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5e8caa7f2d52f3a1eabb61afc12eeec6a82b2060|5e8caa7>: \uae00\uc5d0 \ubcc4\uc810 \ub300\uc2e0 \ucd94\ucc9c\/\ubc18\ub300\ub97c \uc8fc\ub3c4\ub85d \ub2e4\uc2dc \ubcc0\uacbd - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/65a54c1b25e9d0ddc0bc8f3d29f9cdb6862fc352|65a54c1>: \ubc18\ub300 \uc5c6\uc774 \ucd94\ucc9c\ub9cc \uac00\ub2a5\ud558\ub3c4\ub85d \ubcc0\uacbd. - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/bd396f67050c7b97df2b9f53e3aac0218c1bc995|bd396f6>: default post thumbnail, post thumbnail \ucd94\uac00 - rlaalstn5383\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7724c8de505fbe466e9f6fd470873cf02aeb93bb|7724c8d>: displaying thumbnail implemented. - rlaalstn5383\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/394f8cf69d27498ab9fbc470787ed3e1a3c99855|394f8cf>: merge branch 'develop' into 'channel' - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/958525f720942ffc33412c065d08150090351318|958525f>: \ud504\ub860\ud2b8 \uc791\uc5c5 : \ucc44\ub110\ub9ac\uc2a4\ud2b8 \ubcf4\ub294 \uac83 \uc644\ub8cc, \ucc44\ub110\uc758 \uc5f0\uc7ac\uae00 list \ubcf4\ub294\uac83 50% \uc644\ub8cc - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96a60d5bfb37d17039075ee842c5aa9336ed6c6b|96a60d5>: \ucc44\ub110 \ud504\ub860\ud2b8 \uc791\uc5c5 - \ucc44\ub110 \uc548\uc758 post list\ubcf4\ub294 \ud398\uc774\uc9c0 \uc644\ub8cc - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b1236af809bdc0e3884507852e08a1be176925da|b1236af>: \ucc44\ub110 \ud504\ub860\ud2b8 \uc791\uc5c5 - \ucc44\ub110 \uae00 \uc77d\uae30 \uc644\ub8cc - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d5bbe6f1f351fc2252bcfa37672a9acaf54fb8de|d5bbe6f>: \ucc44\ub110 \uae00\uc4f0\uae30 \ud398\uc774\uc9c0 \ud504\ub860\ud2b8 \uc791\uc5c5\ud568(\ud30c\uc77c \uad00\ub828\ub41c \ubd80\ubd84\uc740 board \uc704\uc9c0\uc705 \ud574\uacb0 \ud6c4 \ud55c\uaebc\ubc88\uc5d0 \ud560 \uc608\uc815) - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96c547dcec95610c35916b7919e48e0d4b35d983|96c547d>: grill \ud504\ub860\ud2b8\uc564\ub4dc \uc791\uc5c5 - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0e76ca6cc06fcad5275192e17952a26ea9b00d9b|0e76ca6>: post_title , board_name, comment_content\ub97c \ub178\ud2f0\uc5d0 \ucd94\uac00\ud588\uc2b5\ub2c8\ub2e4 \/\/ signiture can be null - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ec9dc84d03ca09e64ef376b6c8039ea0e7d3f3e4|ec9dc84>: solved #86: comment modify bug fix - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8bfd8a2544e9ba1c907ad57095e66728b29b69ea|8bfd8a2>: git frontend list.css &amp; fix minor error - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dabff9534b0d614b190d1d6262c6fadfbce427e4|dabff95>: solved #82 : unread notify shows on title - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/85bec6277996c478367ae8bfbf7789d0193ddfd8|85bec62>: grill main \ud398\uc774\uc9c0\ud655\ub300 \uc2dc \uae68\uc9c0\ub294 error\uc218\uc815 - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cbbc7ad69928585d0f09149dd441372047c2995c|cbbc7ad>: \ucc44\ub110 Notify \uad6c\ud604. \uc22b\uc790 \ud0dc\uadf8, \ub2c9\ub124\uc784 \ud0dc\uadf8\ub294 \uc791\ub3d9. - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/3caf589155ba25d332084cabe879be7bdb0b5754|3caf589>: show message list. - rlaalstn5383\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/250fc289faa306b7f88a6e5dd68929dadc8627d5|250fc28>: Merge branch 'board' of <https:\/\/\u2026",
+                "pretext": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/14e6d46b576b...e0e3bdf22b6d|65 new commits> by chocho and 11 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447079318.000084"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:session] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c3c46c92ee6f44959d89d71cf33c50e8b3d17510|1 new commit> by Shavakan",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c3c46c92ee6f44959d89d71cf33c50e8b3d17510|c3c46c9>: modified sso login url parameter - Shavakan",
+                "pretext": "[araplus:session] 1 new commit by Shavakan:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447080278.000085"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/e0e3bdf22b6d...6bce9d9ff8ba|4 new commits> by Sam Brad Jo and 1 other",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/23acaf38b91d98e1eac1ad513f4fd8543620f3b5|23acaf3>: fix typo in urls - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/74882c76e5eccde844d492731415efb8bde94957|74882c7>: modify sso url - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c3c46c92ee6f44959d89d71cf33c50e8b3d17510|c3c46c9>: modified sso login url parameter - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6bce9d9ff8badd689c00a5414f3e1d6b599560c5|6bce9d9>: Merge branch 'session' into develop - Shavakan",
+                "pretext": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/e0e3bdf22b6d...6bce9d9ff8ba|4 new commits> by Sam Brad Jo and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447080278.000086"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c496b7edfe8725ac51944b9be25c06104262436c|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c496b7edfe8725ac51944b9be25c06104262436c|c496b7e>: Resolved image upload issues(\ucc44\ub110\uc758 \uc774\ubbf8\uc9c0 \ud544\ub4dc\ub4e4\uc774 upload_dir\ub85c \uc800\uc7a5\ud558\ub358\uac78 media_root\uc5d0 \uc800\uc7a5\ud558\ub3c4\ub85d \ubcc0\uacbd) - ktk1012",
+                "pretext": "[araplus:develop] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447081549.000087"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] The branch \"board_form\" was deleted by Shavakan",
+                "text": "[araplus] The branch \"board_form\" was deleted by Shavakan",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447081594.000088"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] The branch \"notification\" was deleted by Shavakan",
+                "text": "[araplus] The branch \"notification\" was deleted by Shavakan",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447081612.000089"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SNG5N|panda> uploaded a file: <https:\/\/sparcs.slack.com\/files\/panda\/F0452D0N1\/i3267509548.gif|\uc870\ub4dc\uc640 \uc57c\ub4dc>",
+        "file": {
+            "id": "F0452D0N1",
+            "created": 1427267340,
+            "timestamp": 1427267340,
+            "name": "i3267509548.gif",
+            "title": "\uc870\ub4dc\uc640 \uc57c\ub4dc",
+            "mimetype": "image\/gif",
+            "filetype": "gif",
+            "pretty_type": "GIF",
+            "user": "U024SNG5N",
+            "editable": false,
+            "size": 1887362,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0452D0N1\/i3267509548.gif?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0452D0N1\/download\/i3267509548.gif?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0452D0N1-fb786db71c\/i3267509548_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0452D0N1-fb786db71c\/i3267509548_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0452D0N1-fb786db71c\/i3267509548_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 300,
+            "thumb_360_h": 173,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0452D0N1-fb786db71c\/i3267509548_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 300,
+            "original_h": 173,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/panda\/F0452D0N1\/i3267509548.gif",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0452D0N1-be2c2fc5bd",
+            "channels": [
+                "C039U349D"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SNG5N",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SNG5N|panda>",
+        "bot_id": null,
+        "ts": "1427267343.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc81c\ubaa9\uc774...\ub108\ubb34 \ud55c\uc815\uc801\uc778 \uc0ac\ub78c\ub4e4\ub9cc \uc774\ud574\ud560 \uc218 \uc788\ub294...",
+        "ts": "1427271489.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc5b4\uca0c\ub4e0 \uadc0\uc5ec\uc6b0\ub2c8\uae4c \uad1c\ucd98",
+        "ts": "1427281752.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub369\uce58\ucc28\uc774\uac00...",
+        "ts": "1427286069.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uace0\ube14\ub9b0\uc870\ub4dc\uc778\ub4ef",
+        "ts": "1427286071.000006"
+    }
+]

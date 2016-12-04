@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2e4\uc74c \ud2f0\ud30c\ud2f0 \uc77c\uc815\uc744 \uacc4\ud68d\ud569\uc2dc\ub2e4!",
+        "ts": "1461261102.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "1. \ub2e4\uc74c\uc8fc \ubaa9\uc694\uc77c \ubc14\ub85c \uc9c4\ud589",
+        "ts": "1461261106.000029",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U024U2P7Y",
+                    "U024WGSD3",
+                    "U02CPPE8C",
+                    "U024SPDHG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "2. \ud55c \uc8fc\ub294 \uc26c\ub294 \uac83\uc774...",
+        "ts": "1461261111.000030",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U024U2P7Y",
+                    "U04HUN944",
+                    "U04J6LN3W",
+                    "U02CPPE8C",
+                    "U02PEJCVA"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc911\ubcf5\uccb4\ud06c \uac00\ub2a5\ud574\uc694",
+        "ts": "1461261131.000031"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub9ac\uc561\uc158\uc73c\ub85c \ub2ec\uc544\uc8fc\uc138\uc6a9~",
+        "ts": "1461261135.000032"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud798\uac15\uc544",
+        "ts": "1410918590.002983"
+    },
+    {
+        "user": "U02KS7NU5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02KS7NU5|serialx> has joined the channel",
+        "ts": "1410931174.002984"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc6b0\uc655.. \uc548\ub155\ud558\uc138\uc694",
+        "ts": "1410931364.002985"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc548\ub155\ud558\uc138\uc694",
+        "ts": "1410931446.002986"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc639...",
+        "ts": "1410931749.002987"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U0VSP86NT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0VSP86NT|cookie> has joined the channel",
+        "ts": "1459165332.000017"
+    },
+    {
+        "user": "U0VT44LH0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0VT44LH0|nick> has joined the channel",
+        "ts": "1459167378.000018"
+    },
+    {
+        "user": "U0VU4TX7C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0VU4TX7C|gogi> has joined the channel",
+        "ts": "1459177310.000019"
+    },
+    {
+        "user": "U0VU5C0L8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0VU5C0L8|moss> has joined the channel",
+        "ts": "1459179872.000020"
+    }
+]

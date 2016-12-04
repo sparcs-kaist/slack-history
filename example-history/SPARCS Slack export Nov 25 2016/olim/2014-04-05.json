@@ -1,0 +1,77 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/olim] Issue created by <https:\/\/github.com\/sunguard|sunguard>",
+                "title": "#22 Make logout function with AJAX",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/22",
+                "fallback": "[sparcs-kaist\/olim] <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/22|Issue created> by <https:\/\/github.com\/sunguard|sunguard>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396705587.000218"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "pretext": "[olim:feature\/filesys] 2 new commits by Jong-Hyuk, Jung:",
+                "fallback": "[olim:feature\/filesys] <https:\/\/github.com\/sparcs-kaist\/olim\/compare\/84bff15d623a...ab6ab41c662e|2 new commits> by Jong-Hyuk, Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/olim\/commit\/c0d55bb51067|c0d55bb51067>: Changed button style for UI style extension. - Jong-Hyuk, Jung\n <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/ab6ab41c662e|ab6ab41c662e>: Refs #22: Made ajax logout.\nRefs #11: For upload button, 'logout button' is moved to user-menu. - Jong-Hyuk, Jung",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396705725.000219"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/olim] Issue closed: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/22|#22 Make logout function with AJAX> by <https:\/\/github.com\/sunguard|sunguard>",
+                "fallback": "[sparcs-kaist\/olim] Issue closed: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/22|#22 Make logout function with AJAX> by <https:\/\/github.com\/sunguard|sunguard>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396705745.000220"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "title": "Comment  by sunguard\n",
+                "pretext": "[sparcs-kaist\/olim] New comment on issue <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/21#issuecomment-39638447|#21: Make File model.>",
+                "fallback": "[sparcs-kaist\/olim] New comment on issue <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/21#issuecomment-39638447|#21: Make File model.>",
+                "color": "FAD5A1",
+                "text": "by modifying Filesys model, it is not necessary."
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396705912.000221"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/olim] Issue closed: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/21|#21 Make File model.> by <https:\/\/github.com\/sunguard|sunguard>",
+                "fallback": "[sparcs-kaist\/olim] Issue closed: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/21|#21 Make File model.> by <https:\/\/github.com\/sunguard|sunguard>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396705918.000222"
+    }
+]

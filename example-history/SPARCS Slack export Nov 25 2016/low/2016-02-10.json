@@ -1,0 +1,172 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/www.gamedevforever.com\/209>",
+        "attachments": [
+            {
+                "service_name": "\uac8c\uc784 \uac1c\ubc1c \ud3ec\uc5d0\ubc84",
+                "title": "C++\uc5d0\uc11c\ub3c4 coroutine &amp; yield",
+                "title_link": "http:\/\/www.gamedevforever.com\/209",
+                "text": "\ub3c4\ud50c\uad11\uc5b4\ub2d8\uc758 '\uc720\ub2c8\ud2f0\uc5d4\uc9c4\uc758 coroutine &amp; yield 1\ud3b8. FSM\uc758 \uc2b5\uaca9' \uc744 \ubcf4\uba74 \ucf54\ub8e8\ud2f4\uc5d0 \ub300\ud55c \uc790\uc138\ud55c \uc124\uba85\uc774 \ub098\uc635\ub2c8\ub2e4. \uadf8\ub807\ub2e4\uba74!! \uc774\ub807\uac8c \ud3b8\ud55c \ucf54\ub8e8\ud2f4\uc744!! C++\uc5d0\uc11c \uc4f8 \uc218\ub294 \uc5c6\uc744\uae4c?! (\uc81c\ud55c\uc801\uc774\uae34 \ud558\uc9c0\ub9cc)\uac00\ub2a5\ud569\ub2c8\ub2e4!! \uc0ac\uc2e4 C++ \uc790\uccb4\ub85c\ub9cc\uc740 \ub9cc\ub4e4\uae30\uac00 \uc5b4\ub835\uace0\uc694.. goto\ubb38\uc73c\ub85c \ub9cc\ub4dc\ub294\uac74 \uc790\uccb4 \uc2a4\ud0dd\uc744 \uac00\uc9c0\uc9c0 \uc54a\uae30 \ub54c\ubb38\uc5d0 \uc704\ud5d8\uc131\ub3c4 \uc788\uace0 \uc5ec\ub7ec\uac00\uc9c0 \ubb38\uc81c\uac00 \uc788\uc8e0 \uadf8\ub7f0\ub370 Win32 API\uc5d0\ub294 Fiber\ub77c\ub294 \ub140\uc11d\uc774 \uc874\uc7ac\ud569\ub2c8\ub2e4. Fiber\ub294 \uc720\uc800 \ub808\ubca8 \uc4f0\ub808..",
+                "fallback": "\uac8c\uc784 \uac1c\ubc1c \ud3ec\uc5d0\ubc84: C++\uc5d0\uc11c\ub3c4 coroutine &amp; yield",
+                "image_url": "http:\/\/cfile25.uf.tistory.com\/image\/174EA54C4FE2823B35C88F",
+                "ts": 20120702141729,
+                "from_url": "http:\/\/www.gamedevforever.com\/209",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 34231,
+                "id": 1
+            }
+        ],
+        "ts": "1455114605.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/www.gamedevforever.com\/289>",
+        "attachments": [
+            {
+                "service_name": "\uac8c\uc784 \uac1c\ubc1c \ud3ec\uc5d0\ubc84",
+                "title": "\ub2e4\uc2dc \ud55c\ubc88 C++\uc5d0\uc11c\ub3c4 coroutine",
+                "title_link": "http:\/\/www.gamedevforever.com\/289",
+                "text": "C++\uc5d0\uc11c\ub3c4 coroutine &amp; yield \ub97c \uc4f4\uc9c0 \ubc8c\uc368 1\ub144\uc774 \uc9c0\ub0ac\uc2b5\ub2c8\ub2e4. \uadf8\ub9ac\uace0 \uc9c0\ub09c 1\ub144\uac04 C++\uc5d0\ub3c4 \ub9ce\uc740 \uc77c\uc774 \uc788\uc5c8\uc2b5\ub2c8\ub2e4. \uadf8 \uc911 \uc81c\uac00 \uc8fc\ubaa9\ud55c \ud55c\uac00\uc9c0\ub294 \ubc14\ub85c C++ \ud45c\uc900\uc5d0 \ub4dc\ub514\uc5b4 coroutine\uc774 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \uac00\ub2a5\uc131\uc774 \uc5f4\ub838\ub2e4\ub294 \uac83\uc785\ub2c8\ub2e4! \ubc14\ub85c boost 1.53 \ubc84\uc804\uc5d0 coroutine\uc774 \uc815\uc2dd\uc73c\ub85c \ud3ec\ud568\ub41c \uac83\uc778\ub370\uc694. \uc624\ub298\uc740 \uc774 boost 1.53 \ubc84\uc804\uc5d0 \ud3ec\ud568\ub41c coroutine\uc5d0 \ub300\ud55c \uc18c\uac1c\ub97c \ud574\ubcf4\ub824\uace0 \ud569\ub2c8\ub2e4. \uc18c\uac1c\ub97c \uc2dc\uc791\ud558\uae30\uc5d0 \uc55e\uc11c \ud55c\uac00\uc9c0 \uc54c\ub824\ub4dc\ub9ac\uc790\uba74.. \uc774..",
+                "fallback": "\uac8c\uc784 \uac1c\ubc1c \ud3ec\uc5d0\ubc84: \ub2e4\uc2dc \ud55c\ubc88 C++\uc5d0\uc11c\ub3c4 coroutine",
+                "image_url": "http:\/\/cfile29.uf.tistory.com\/image\/2454FE3B51E54A2C387C92",
+                "ts": 20130716230423,
+                "from_url": "http:\/\/www.gamedevforever.com\/289",
+                "image_width": 273,
+                "image_height": 250,
+                "image_bytes": 20057,
+                "id": 1
+            }
+        ],
+        "ts": "1455114614.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/www.gamedevforever.com\/291>",
+        "attachments": [
+            {
+                "service_name": "\uac8c\uc784 \uac1c\ubc1c \ud3ec\uc5d0\ubc84",
+                "title": "C++ Coroutine",
+                "title_link": "http:\/\/www.gamedevforever.com\/291",
+                "text": "Coroutine\uc774\ub780? \ud504\ub85c\uadf8\ub7a8\uc774 \uc2e4\ud589\ub420\ub54c \ubd88\ub824\uc9c0\ub3c4\ub85d \ub9cc\ub4e4\uc5b4\uc9c4 \ud504\ub85c\uadf8\ub7a8\uc758 \uc911\uc2ec\uc774 \ub418\ub294 \uc77c\ub828\uc758 \ucf54\ub4dc\ub4e4\uc744 Main Routine(\uba54\uc778 \ub8e8\ud2f4) \uc774\ub77c\uace0 \ud558\uba70, Main Routine\uc678\uc5d0 \ub2e4\ub978 Routine\ub4e4\uc744 \ubaa8\ub450 Subroutine(\uc11c\ube0c\ub8e8\ud2f4) \uc774\ub77c\uace0 \ud569\ub2c8\ub2e4. \uadf8\ub9ac\uace0 \uc9c4\uc785\ud558\ub294 \uc9c0\uc810\uc744 \uc5ec\ub7ec \uac1c \uac00\uc9c8 \uc218 \uc788\ub294 Subroutine\uc744 Coroutine(\ucf54\ub8e8\ud2f4) \uc774\ub77c\uace0 \ud569\ub2c8\ub2e4. Coroutine\uc740 \ud638\ucd9c\ud55c Routine\uc744 \ub300\ub4f1\ud55c \uad00\uacc4\ub85c \ud638\ucd9c\ud560 \uc218 \uc788\uae30 \ub54c\ubb38\uc5d0 \ub2e4\ub978 Routine\uc758 \uc885\uc18d\uad00\uacc4\uac00 \uc544\ub2c8\ub77c\uace0 \ud45c..",
+                "fallback": "\uac8c\uc784 \uac1c\ubc1c \ud3ec\uc5d0\ubc84: C++ Coroutine",
+                "image_url": "http:\/\/cfile28.uf.tistory.com\/image\/22542C3B51F239162D13B7",
+                "ts": 20130726190033,
+                "from_url": "http:\/\/www.gamedevforever.com\/291",
+                "image_width": 449,
+                "image_height": 250,
+                "image_bytes": 20722,
+                "id": 1
+            }
+        ],
+        "ts": "1455114620.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/itguru.tistory.com\/189>",
+        "attachments": [
+            {
+                "service_name": "Programming IT",
+                "title": "\uc539\uc5b4\uba39\ub294 C++ \ud1a0\ub9c9\uae00 \u2460 - Rvalue(\uc6b0\uce21\uac12) \ub808\ud37c\ub7f0\uc2a4\uc5d0 \uad00\ud574",
+                "title_link": "http:\/\/itguru.tistory.com\/189",
+                "text": "\uc774 \uae00\uc740 <http:\/\/thbecker.net\/articles\/rvalue_references\/section_01.html> \uc5d0\uc11c \uac00\uc838\uc654\uace0 \ud55c\uad6d\ub9d0\ub85c \ubc88\uc5ed\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \ub610\ud55c \uc800\uc758 \uac1c\uc778\uc801\uc778 C++ \ub2a5\ub825 \ud5a5\uc0c1\uacfc '\uc800\uc758 \ubaa8\ud1a0\uc778 \uc9c0\uc2dd \uc804\ud30c' \ub97c \uc704\ud574 \ubaa8\ub4e0 \uc774\ub4e4\uc5d0\uac8c \uacf5\uac1c\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4. \uc774 \uae00\uc744 \uc774\ud574\ud558\uae30 \uc704\ud574\uc11c\ub294 \ucd08\ubcf4 \uc774\uc0c1\uc758 C++ \uc9c0\uc2dd\uc774 \ud544\uc694\ud569\ub2c8\ub2e4. \uc544\uc9c1 C++ \uc5d0 \uce5c\uc219\ud558\uc9c0 \uc54a\ub2e4\uba74 \uc539\uc5b4\uba39\ub294 C++ \uac15\uc88c\ub294 \uc5b4\ub54c\uc694? \uc548\ub155\ud558\uc138\uc694? \uc774 \uae00\uc740 \uc539\uc5b4\uba39\ub294 C++ \uacfc \uc774\uc5b4\uc9c0\ub294 \uac15\uc88c\ub294 \uc544\ub2c8\uace0, \uc774\ubc88 \uc0c8..",
+                "fallback": "Programming IT: \uc539\uc5b4\uba39\ub294 C++ \ud1a0\ub9c9\uae00 \u2460 - Rvalue(\uc6b0\uce21\uac12) \ub808\ud37c\ub7f0\uc2a4\uc5d0 \uad00\ud574",
+                "image_url": "http:\/\/m1.daumcdn.net\/svc\/image\/U03\/common_icon\/557567EA016E200001",
+                "ts": 20121103144721,
+                "from_url": "http:\/\/itguru.tistory.com\/189",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 3363,
+                "id": 1
+            }
+        ],
+        "ts": "1455114662.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/itguru.tistory.com\/196>",
+        "attachments": [
+            {
+                "service_name": "Programming IT",
+                "title": "\uc539\uc5b4\uba39\ub294 C++ \ud1a0\ub9c9\uae00 \u2461 - \ub78c\ub2e4(lambda) \ud568\uc218",
+                "title_link": "http:\/\/itguru.tistory.com\/196",
+                "text": "\uc774 \uae00\uc740 <http:\/\/ciere.com\/cppnow12\/lambda.pdf> \uc5d0\uc11c \uac00\uc838\uc654\uace0 \ud55c\uad6d\ub9d0\ub85c \ubc88\uc5ed\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \ub610\ud55c \uc800\uc758 \uac1c\uc778\uc801\uc778 C++ \ub2a5\ub825 \ud5a5\uc0c1\uacfc '\uc800\uc758 \ubaa8\ud1a0\uc778 \uc9c0\uc2dd \uc804\ud30c' \ub97c \uc704\ud574 \ubaa8\ub4e0 \uc774\ub4e4\uc5d0\uac8c \uacf5\uac1c\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4. \uc774 \uae00\uc744 \uc774\ud574\ud558\uae30 \uc704\ud574\uc11c\ub294 \ucd08\ubcf4 \uc774\uc0c1\uc758 C++ \uc9c0\uc2dd\uc774 \ud544\uc694\ud569\ub2c8\ub2e4. \uc544\uc9c1 C++ \uc5d0 \uce5c\uc219\ud558\uc9c0 \uc54a\ub2e4\uba74 \uc539\uc5b4\uba39\ub294 C++ \uac15\uc88c\ub294 \uc5b4\ub54c\uc694? \uc548\ub155\ud558\uc138\uc694? \uc774 \uae00\uc740 \uc9c0\ub09c\ubc88\uc5d0 \uc6b0\uce21\uac12 \ub808\ud37c\ub7f0\uc2a4\uc5d0 \uad00\ub828\ud55c \uae00\uc5d0 \uc774\uc5b4\uc11c \ub450 \ubc88\uc9f8\ub85c \uc4f0\ub294 C++ \ud1a0\ub9c9\uae00..",
+                "fallback": "Programming IT: \uc539\uc5b4\uba39\ub294 C++ \ud1a0\ub9c9\uae00 \u2461 - \ub78c\ub2e4(lambda) \ud568\uc218",
+                "image_url": "http:\/\/cfile6.uf.tistory.com\/image\/1152175050EB03B514EB55",
+                "ts": 20130108033636,
+                "from_url": "http:\/\/itguru.tistory.com\/196",
+                "image_width": 771,
+                "image_height": 127,
+                "image_bytes": 11751,
+                "id": 1
+            }
+        ],
+        "ts": "1455114672.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ucf54\ub8e8\ud2f4 \uad00\ub828\ud574\uc11c 3\uac1c, \ub78c\ub2e4\ud568\uc218 \ubc0f &amp;&amp; \uc5f0\uc0b0\uc790\uc5d0 \uad00\ud574\uc11c 2\uac1c\uc758 \uae00 \uacf5\uc720\ud569\ub2c8\ub2e4",
+        "ts": "1455114689.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "C++1y \uc5d0\uc11c \uc815\ub9d0 \uac15\ub825\ud55c \uae30\ub2a5\ub4e4\uc774 \ucd94\uac00\ub418\uace0\uc788\ub294\ub370 \ud55c\ubc88 \ubd10\ubcf4\uc138\uc694",
+        "ts": "1455114717.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc640",
+        "ts": "1455125548.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "1y\ubd80\ud130 \ucf54\ub8e8\ud2f4 \ub4e4\uc5b4\uac00\ub294\uac70\uc608\uc694?",
+        "ts": "1455125555.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "yield \ub418\uac8c \uc384\ub124\uc694",
+        "ts": "1455125560.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\u3134\u3134",
+        "ts": "1455152975.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544",
+        "ts": "1455152977.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "17\ubd80\ud130\ub4e4\uc5b4\uac10",
+        "ts": "1455152981.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc9c0\uae08 1y (11, 14) \uc5d0\ub294 \uc544\uc9c1 \uc5c6\uc74c",
+        "ts": "1455152993.000020"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc800\uac74 \ubd80\uc2a4\ud2b8\ub85c \ub9cc\ub4e0 \ud504\ub85c\ud1a0\ud0c0\uc785\uac19\uc740\uac74\ub370",
+        "ts": "1455153005.000021"
+    }
+]

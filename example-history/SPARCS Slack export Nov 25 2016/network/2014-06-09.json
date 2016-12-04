@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc754",
+        "ts": "1402303028.000088"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc9c0\uae08 IPTV\ub97c \uce21\uc815\ud574\ubcf4\uace0 \uc788\ub294\ub370",
+        "ts": "1402303040.000089"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c... \uc369... \uc27d\uc9c0\ub294 \uc54a\uc744\ub4ef",
+        "ts": "1402303045.000090"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1402364186.000091"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SHLFH|hodduc> has left the channel",
+        "ts": "1402364356.000092"
+    }
+]

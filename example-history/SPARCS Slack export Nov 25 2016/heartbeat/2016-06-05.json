@@ -1,0 +1,830 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #19: models.py \uc218\uc815\ud558\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/19\/modelspy created by ojh3636",
+                "text": "server class \uc758 ip field\uc5c6\uc560\uae30. (\ubc14\ub010 heartbeat proto file\uc5d0\ub294 ip\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.)",
+                "pretext": "[anyt-huh\/heartbeat] Issue created by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#19: models.py \uc218\uc815\ud558\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/19\/modelspy",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465158542.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/iss19] 5+ new commits pushed by Shavakan",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/d2944a4bbb5595291058000dd05104248bc3b5a6|d2944a4>`  Removed ip field from session.models.Server (Closes #19) - Shavakan \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/bddf4a5a031df4f217e0c0bc0fb6f4455432e30f|bddf4a5>`  Merged in web-front (pull request #8)\n\nSeparated out base.html - ChangWon Lee \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/1ecf6c815c281db3b2d9570905cc105b0e7b081f|1ecf6c8>`  Add core app model - Shavakan \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9cbb4ff4c8b8bf2b88347599420cc90a79cdf124|9cbb4ff>`  update heartbeat.proto file and heartbeat_pb2.py - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/b9a8006a57c2d84dff2daf1611df86023f7fe722|b9a8006>`  add requirement.txt file for virtual environment - Jong Hun Oh ",
+                "pretext": "[heartbeat\/iss19] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/iss19|5+ new commits> pushed by Shavakan",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465159420.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #19: models.py \uc218\uc815\ud558\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/19\/modelspy updated by Shavakan",
+                "text": "server class \uc758 ip field\uc5c6\uc560\uae30. (\ubc14\ub010 heartbeat proto file\uc5d0\ub294 ip\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.)",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#19: models.py \uc218\uc815\ud558\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/19\/modelspy",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465159420.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request created by Shavakan",
+                "text": "In response to Issue #19",
+                "pretext": "[anyt-huh\/heartbeat] Pull request created by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465159449.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request updated by Shavakan",
+                "text": "In response to Issue #19",
+                "pretext": "[anyt-huh\/heartbeat] Pull request updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465160022.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/web-back-grpc] 1 new commit pushed by ojh3636",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/a5602c1f114829fc4b191f9da7d7a283d9680b01|a5602c1>`  Modify that the grpc_call.py code can save the data in DB according to models.py - Jong Hun Oh ",
+                "pretext": "[heartbeat\/web-back-grpc] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branches\/compare\/a5602c1f114829fc4b191f9da7d7a283d9680b01..ced1811675c614efea3ac0e1c4a5462e6be0224a|1 new commit> pushed by ojh3636",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465161887.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #20: Proto file or Rpc Server code modify https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify created by ojh3636",
+                "text": "The WebData filed in heartbeat.proto file never used.\n\nPlease modify proto file or RPC method's spec.",
+                "pretext": "[anyt-huh\/heartbeat] Issue created by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#20: Proto file or Rpc Server code modify",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465162089.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #20: Proto file or Rpc Server code modify https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify updated by ojh3636",
+                "text": "The WebData filed in heartbeat.proto file is never used.\n\nPlease modify proto file or RPC method's spec.",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#20: Proto file or Rpc Server code modify",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465162112.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from ojh3636",
+                "text": "WebData class\ub3c4 \uc4f0\uc784\uc774 \uc5c6\uc5b4\uc11c \uc774\uc5d0\uad00\ud574\uc11c \ub2e4\uc2dc RPC \uc2a4\ud399\uc744  \ub17c\uc758\ud558\uace0 merge\ud574\uc57c\ud560 \ub4ef \uc2f6\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19343792",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465162216.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #17: grpc call\uc744 \ud1b5\ud574 \ubc1b\uc544\uc628 data\ub4e4\uc744 django db\uc5d0 \ub123\uae30. https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/17\/grpc-call-data-django-db commented on by ojh3636",
+                "text": "a5602c1 issue closed!",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#17: grpc call\uc744 \ud1b5\ud574 \ubc1b\uc544\uc628 data\ub4e4\uc744 django db\uc5d0 \ub123\uae30.",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/17\/grpc-call-data-django-db",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465162459.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #17: grpc call\uc744 \ud1b5\ud574 \ubc1b\uc544\uc628 data\ub4e4\uc744 django db\uc5d0 \ub123\uae30. https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/17\/grpc-call-data-django-db updated by ojh3636",
+                "text": "client \ucabd\uc5d0\uc11c grpc call\uc744 \ud1b5\ud574\uc11c \ubc1b\uc544\uc628 \uc5ec\ub7ec \uc11c\ubc84\uc758 data\ub4e4\uc744 django db\uc758 model\uc5d0 \ub9de\ucd94\uc5b4 \ub123\uc5b4\uc8fc\uae30. ",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#17: grpc call\uc744 \ud1b5\ud574 \ubc1b\uc544\uc628 data\ub4e4\uc744 django db\uc5d0 \ub123\uae30.",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/17\/grpc-call-data-django-db",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465162473.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from re-l",
+                "text": "WebData class\ub294 \uc6d0\ub798 \ubb54\uac00\uc694?",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/re-l\/|re-l>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19345491",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465177292.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #21: Test Code \ub9cc\ub4e4\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/21\/test-code created by re-l",
+                "text": "\uc544\uc9c1 \uc548\ub9d0\ub4e4\uc5b4\uc84c\uc2b5\ub2c8\ub2e4 \u3160\u3160",
+                "pretext": "[anyt-huh\/heartbeat] Issue created by <https:\/\/bitbucket.org\/re-l\/|re-l>",
+                "title": "#21: Test Code \ub9cc\ub4e4\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/21\/test-code",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465177326.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #22: \uc911\ubcf5\ub41c <!DOCTYPE html> https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/------------------- created by re-l",
+                "text": "In core app",
+                "pretext": "[anyt-huh\/heartbeat] Issue created by <https:\/\/bitbucket.org\/re-l\/|re-l>",
+                "title": "#22: \uc911\ubcf5\ub41c <!DOCTYPE html>",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/-------------------",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465178369.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from ojh3636",
+                "text": "\uc6d0\ub798 \uc11c\ubc84\uc758 name\uacfc downtime\uc5d0 \uad00\ud55c data structure\uac19\uc544\uc694. (\uc0ac\uc2e4 is_web\uc744 \ud1b5\ud574 \ud655\uc778\uc744 \ud558\uba74 \ub418\ub294\uac70\ub77c..)\n\n\uc74c..\uadf8\ub798\uc11c \uc81c \uc0dd\uac01\uc5d4 \ubaa8\ub378\uc5d4 \ub0a8\uaca8\ub193\uace0 rpc\ub97c \ub370\uc774\ud130\ub97c \ubc1b\uc558\uc744\ub54c is_web\uc774 fail\uc77c\ub54c db\uc5d0 \uc800\uc7a5\uc744 \ud574\uc8fc\uba74 \ub420\uac83\uac19\uc740\ub370..",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19347783",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465188487.000016"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from Shavakan",
+                "text": "is_web\uc740 \uc774 \uc11c\ubc84\uac00 \uc6f9\uc11c\ubc84\ub85c \uc0ac\uc6a9\uc774 \ub418\ub294 \uc11c\ubc84\uc778\uc9c0 (80\ubc88 \ud3ec\ud2b8\uac00 \uc5f4\ub824\uc788\ub294\uc9c0) \uae30\ub85d\ud574\uc11c \ub0a8\uaca8\ub454 \ud544\ub4dc \uc544\ub2cc\uac00\uc694?\n\n\ubcc4\ub3c4\ub85c \uc6f9\uc11c\ube44\uc2a4\uac00 \uc5b8\uc81c \uc8fd\uc5c8\ub294\uc9c0\uc758 \uc5ed\uc0ac\ub97c \uae30\ub85d\ud560 \ubc29\ubc95\uc774 \uc5c6\uc73c\ubbc0\ub85c WebData class\ub3c4 \ud544\uc694\ud55c \uac83 \uac19\uc740\ub370\uc694\n\n\uc11c\ubc84\uc640 \uc11c\ube44\uc2a4 \uc774\ub984\uc774 \uac19\ub2e4\ub294 \ubcf4\uc7a5\ub3c4 \ubc18\ub4dc\uc2dc \uc5c6\uace0 (\uc608: sparcs, sparcs2) \ud55c \uc11c\ubc84\uc5d0 \ubc18\ub4dc\uc2dc \ud558\ub098\uc758 \uc11c\ube44\uc2a4\ub9cc\uc774 \ub5a0\uc788\ub294\ub2e4\ub294 \ubcf4\uc7a5\ub3c4 \uc5c6\uc73c\ub2c8 \uc11c\ube44\uc2a4 \uc774\ub984\ub3c4 \ub530\ub85c \uac00\ub294\uac8c \ub9de\ub294 \uac83 \uac19\uace0\uc694\n\n\uc0ac\uc2e4 WebData \ud074\ub798\uc2a4\uc5d0 port number\ub97c \ucd94\uac00\ud558\ub294\uac8c \ub9de\ub294 \uac83 \uac19\uae34 \ud558\uc9c0\ub9cc, \uc11c\ube44\uc2a4 \uc774\ub984\uc73c\ub85c \ud3ec\ud2b8 \ubc88\ud638\ub97c \uad6c\ubd84\ud560 \uc218\ub3c4 \uc788\uc73c\ub2c8 \uadf8\ub807\uac8c\uae4c\uc9c4 \ud558\uc9c0 \uc54a\uc544\ub3c4 \uad1c\ucc2e\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19348417",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465190709.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from ojh3636",
+                "text": "\uc74c..\uc11c\ubc84\uac00 \uc8fd\uc5c8\ub2e4\ub294\uac8c rpc call\uc774 \uc8fd\uc740\uac74\uc9c0 \uc11c\ubc84\uc790\uccb4\uac00 \uc8fd\uc740\uac74\uc9c0 \uad6c\ubd84\ud560 \ubc29\ubc95\uc740 \uc5c6\uc9c0\ub9cc rpc call\uc774 \uc8fd\uc5c8\ub354\ub77c\ub3c4 \uc11c\ubc84\uac00 \uc8fd\uc740\uac78\ub85c \uac04\uc8fc\ud558\uace0 cliend\ucabd\uc5d0\uc11c rpc data\ub97c \ubc1b\uc544\uc624\uc9c0 \ubabb\ud558\uba74 WebData\uc5d0 \uae30\ub85d\uc744 \ud558\ub294\ud615\uc2dd\uc73c\ub85c \ud558\ub294\uac8c \ub9de\ub294\uac83\uac19\uae34\ud574\uc694.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19348479",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465190926.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from Shavakan",
+                "text": "\uc544\ub2c8\uc694~ \uc800\uac74 \uc6f9\uc11c\ubc84 \ud3ec\ud2b8\ub9cc \ud655\uc778\ud558\uae30\ub85c \ud588\uc5c8\uc796\uc544\uc694 \ub514\uc790\uc778 \uba85\uc138 \uc9e4 \ub54c",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19348498",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191003.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from Shavakan",
+                "text": "rpc\uac00 \uc8fd\ub294 \uacbd\uc6b0\ub294 \uace0\ub824\ud55c \uc801\uc774 \ud55c\ubc88\ub3c4 \uc5c6\ub294\ub370",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19348506",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191033.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from Shavakan",
+                "text": "\uc6b0\uc120 \uc11c\ubc84 != \uc11c\ube44\uc2a4\uc774\uad6c\uc694, Web data\ub294 \uc11c\ube44\uc2a4\uac00 \uc798 \uc791\ub3d9\ud558\uace0 \uc788\ub294\uc9c0\ub97c \ubcf4\ub294 \uc6a9\ub3c4\uc785\ub2c8\ub2e4",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19348529",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191108.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #20: Proto file or Rpc Server code modify https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify commented on by Shavakan",
+                "text": "Web Data\ub294 \uc0dd\uac01\ud574\ubcf4\ub2c8 grpc\ub85c \ud655\uc778\ud560\uac8c \uc5c6\uae30 \ub54c\ubb38\uc5d0 protobuf\uc5d0\uc11c\ub294 \uc0ad\uc81c\ud574\ub3c4 \uc0c1\uad00 \uc5c6\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#20: Proto file or Rpc Server code modify",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191156.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #22: \uc911\ubcf5\ub41c <!DOCTYPE html> https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/------------------- commented on by Shavakan",
+                "text": "\uc5b4\ub290 \ud30c\uc77c\uacfc \uc5b4\ub290 \ud30c\uc77c\uc5d0\uc11c \uc911\ubcf5\ub41c\uac74\uac00\uc694",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#22: \uc911\ubcf5\ub41c <!DOCTYPE html>",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/-------------------",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191202.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #22: \uc911\ubcf5\ub41c <!DOCTYPE html> https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/------------------- commented on by Shavakan",
+                "text": "\uc6b0\uc120 base.html, core\/index.html\uc5d0\uc11c \ubaa8\ub450 <!DOCTYPE html>\uc744 \ubc1c\uacac\ud574 core\/index.html\uc5d0\uc11c \uc0ad\uc81c\ud588\uc2b5\ub2c8\ub2e4.\n\n\uc544\ub9c8 session\uc5d0\ub3c4 \ub9c8\ucc2c\uac00\uc9c0\uc77c \uac83 \uac19\uc740\ub370, \ub098\uc911\uc5d0 \uc0ad\uc81c\ud558\uaca0\uc2b5\ub2c8\ub2e4",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#22: \uc911\ubcf5\ub41c <!DOCTYPE html>",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/-------------------",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191323.000024"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/iss22] 5+ new commits pushed by Shavakan",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/2281af093908977cb101bc198238527c4aae2296|2281af0>`  Removed doctype declaration from core\/index.html; doctype already\ndeclared in base.html (Resolves #22) - Shavakan \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/bddf4a5a031df4f217e0c0bc0fb6f4455432e30f|bddf4a5>`  Merged in web-front (pull request #8)\n\nSeparated out base.html - ChangWon Lee \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/1ecf6c815c281db3b2d9570905cc105b0e7b081f|1ecf6c8>`  Add core app model - Shavakan \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9cbb4ff4c8b8bf2b88347599420cc90a79cdf124|9cbb4ff>`  update heartbeat.proto file and heartbeat_pb2.py - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/b9a8006a57c2d84dff2daf1611df86023f7fe722|b9a8006>`  add requirement.txt file for virtual environment - Jong Hun Oh ",
+                "pretext": "[heartbeat\/iss22] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/iss22|5+ new commits> pushed by Shavakan",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191400.000025"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #22: \uc911\ubcf5\ub41c <!DOCTYPE html> https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/------------------- updated by Shavakan",
+                "text": "In core app",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#22: \uc911\ubcf5\ub41c <!DOCTYPE html>",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/-------------------",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191400.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/iss22] 5+ new commits force pushed by Shavakan",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/5038836b751ec6cfea8022c5cb42c15e4d278615|5038836>`  Removed doctype declaration from core\/index.html;\ndoctype already declared in base.html (Resolves #22) - Shavakan \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/bddf4a5a031df4f217e0c0bc0fb6f4455432e30f|bddf4a5>`  Merged in web-front (pull request #8)\n\nSeparated out base.html - ChangWon Lee \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/1ecf6c815c281db3b2d9570905cc105b0e7b081f|1ecf6c8>`  Add core app model - Shavakan \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9cbb4ff4c8b8bf2b88347599420cc90a79cdf124|9cbb4ff>`  update heartbeat.proto file and heartbeat_pb2.py - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/b9a8006a57c2d84dff2daf1611df86023f7fe722|b9a8006>`  add requirement.txt file for virtual environment - Jong Hun Oh ",
+                "pretext": "[heartbeat\/iss22] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/iss22|5+ new commits> force pushed by Shavakan",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191464.000027"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #22: \uc911\ubcf5\ub41c <!DOCTYPE html> https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/------------------- commented on by Shavakan",
+                "text": "Removed doctype declaration from core\/index.html;\ndoctype already declared in base.html (Resolves #22)\n\n\u2192 &lt;&lt;cset 5038836b751e&gt;&gt;",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#22: \uc911\ubcf5\ub41c <!DOCTYPE html>",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/-------------------",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191464.000028"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request created by Shavakan",
+                "text": "doctype already declared in base.html (Resolves #22)",
+                "pretext": "[anyt-huh\/heartbeat] Pull request created by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#11: Removed doctype declaration from core\/index.html;",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/11",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191477.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #22: \uc911\ubcf5\ub41c <!DOCTYPE html> https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/------------------- updated by Shavakan",
+                "text": "In core app",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#22: \uc911\ubcf5\ub41c <!DOCTYPE html>",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/22\/-------------------",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191530.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #20: Proto file or Rpc Server code modify https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify commented on by Shavakan",
+                "text": "\uc0ac\uc6a9\ud558\uc9c0 \uc54a\ub294 \ub370\uc774\ud130\uac00 \ud3ec\ud568\ub418\uc5b4\ub3c4 \uc0c1\uad00\uc740 \uc5c6\uc9c0 \uc54a\ub098\uc694?\n\npriority\uac00 \uc774\ub807\uac8c \ub192\uc744 \ud544\uc694\uac00 \uc788\ub098..?",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#20: Proto file or Rpc Server code modify",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/20\/proto-file-or-rpc-server-code-modify",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191583.000031"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #13: DB\uc5d0\uc11c django\ub85c \ub370\uc774\ud130 \ubd88\ub7ec\uc624\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/13\/db-django updated by Shavakan",
+                "text": "DB\uc5d0 \uc800\uc7a5\ub41c server status data\ub97c django\uc5d0\uc11c \uac00\uc838\uc624\uae30",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#13: DB\uc5d0\uc11c django\ub85c \ub370\uc774\ud130 \ubd88\ub7ec\uc624\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/13\/db-django",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191641.000032"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #13: DB\uc5d0\uc11c django\ub85c \ub370\uc774\ud130 \ubd88\ub7ec\uc624\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/13\/db-django updated by Shavakan",
+                "text": "DB\uc5d0 \uc800\uc7a5\ub41c server status data\ub97c django\uc5d0\uc11c \uac00\uc838\uc624\uae30",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#13: DB\uc5d0\uc11c django\ub85c \ub370\uc774\ud130 \ubd88\ub7ec\uc624\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/13\/db-django",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191651.000033"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #13: DB\uc5d0\uc11c django\ub85c \ub370\uc774\ud130 \ubd88\ub7ec\uc624\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/13\/db-django updated by Shavakan",
+                "text": "DB\uc5d0 \uc800\uc7a5\ub41c server status data\ub97c django\uc5d0\uc11c \uac00\uc838\uc624\uae30",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#13: DB\uc5d0\uc11c django\ub85c \ub370\uc774\ud130 \ubd88\ub7ec\uc624\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/13\/db-django",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191665.000034"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #21: Test Code \ub9cc\ub4e4\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/21\/test-code commented on by Shavakan",
+                "text": "\uc6f9\uc11c\ubc84 \ucabd\uc740 \ub531\ud788 \ubc29\ubc95\uc774 \uc5c6\uc744 \uac83 \uac19\uace0, grpc \ucabd\uc5d0\uc11c \ud574\uc8fc\uc154\uc57c \ud560 \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#21: Test Code \ub9cc\ub4e4\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/21\/test-code",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465191734.000035"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from ojh3636",
+                "text": "\uc74c..\uc81c\uac00 \ubc18\ub300\ub85c \uc0dd\uac01\ud558\uace0\uc788\uc5c8\ub098\ubcf4\ub0b4\uc694.. \uadf8\ub7fc is_web\uc740 \uc65c \ud544\uc694\ud55c\uac74\uac00\uc694??? is_web\uc790\uccb4\uac00 \uc544\ud30c\uce58\uc11c\ubc84\uac00 \uc798 \uc791\ub3d9\ud558\ub294\uc9c0 \uc548\ud558\ub294\uc9c0 \uccb4\ud06c\ud558\ub294\uac78\ub85c \uc54c\uace0\uc788\uc5c8\ub294\ub370..",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19349724",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465194256.000036"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request approved by ojh3636",
+                "text": "doctype already declared in base.html (Resolves #22)",
+                "pretext": "[anyt-huh\/heartbeat] Pull request approved by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#11: Removed doctype declaration from core\/index.html;",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/11",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465194428.000037"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from ojh3636",
+                "text": "\uadf8\ub7fc \uc11c\ubc84\uac00 \uc8fd\uc740\uac74\uc9c0 \uc11c\ube44\uc2a4\uac00 \uc8fd\uc740\uac74\uc9c0\ub294 \uc5b4\ub5bb\uac8c \ud655\uc778\ud558\ub098\uc694??",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19349903",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465194665.000038"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from Shavakan",
+                "text": "\uacbd\uc6b0\uac00 3\uac00\uc9c0 \uc788\ub2e4\uace0 \uc0dd\uac01\ud574\ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n1) \uc11c\ube44\uc2a4\uac00 \uc8fd\uc740 \uacbd\uc6b0:\n\n\u2022 \uadf8 \uc11c\ube44\uc2a4\uc758 \ud3ec\ud2b8\uc5d0 http request\ub97c \ub0a0\ub838\uc744 \ub54c \uc544\ubb34 \uc751\ub2f5\ub3c4 \uc624\uc9c0 \uc54a\ub294 \uacbd\uc6b0 \uc11c\ube44\uc2a4\uac00 \uc8fd\uc5c8\ub2e4\uace0 \ud310\ub2e8\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4\n\n2) grpc server \uc5b4\ud50c\ub9ac\ucf00\uc774\uc158\uc774 \uc8fd\uc740 \uacbd\uc6b0:\n\n\u2022 grpc client request\ub97c \ubcf4\ub0c8\uc744 \ub54c \uc9c0\uc18d\uc801\uc73c\ub85c timeout\uc774 \ubc1c\uc0dd\ud558\uba74 grpc server \uc5b4\ud50c\ub9ac\ucf00\uc774\uc158\uc774 \ub2e4\uc6b4\ub418\uc5c8\ub2e4\uace0 \ud310\ub2e8\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ud574\ub2f9 grpc error\uac00 \ubc1c\uc0dd\ud558\uba74 \uc608\uc678 \ucc98\ub9ac\ub97c \ud574\uc8fc\ub294 \uac83\uc73c\ub85c \ud558\ud2b8\ube44\ud2b8 db\uc5d0 \ubc18\uc601\ud560 \uc218 \uc788\uc744 \uac83 \uac19\uc9c0\ub9cc, \uc77c\ub2e8 \uc9c0\uae08\uc740 \uc774 \uacbd\uc6b0\uc5d0 \ub300\ud574\uc11c\ub294 \uc6b0\ub9ac\uac00 \uace0\ub824\ub97c \ud558\uc9c0 \uc54a\uc558\uace0, \uc774\ubbf8 \uc791\uc131\ud55c design doc\uc5d0\ub3c4 \ud574\ub2f9 \ubd80\ubd84\uc774 \ube60\uc838 \uc788\uc73c\ub2c8\uae4c \ub118\uc5b4\uac11\uc2dc\ub2e4.\n\n3) \uc11c\ubc84\uac00 \uc8fd\uc740 \uacbd\uc6b0:\n\n\u2022 \uc5ec\ub7ec\uac00\uc9c0 \ubc29\ubc95\uc774 \uc788\uaca0\uc9c0\ub9cc, ping\uc744 \ub54c\ub838\ub294\ub370 request\uac00 \uc624\uc9c0 \uc54a\ub294\ub2e4\uac70\ub098, ssh \ud504\ub85c\ud1a0\ucf5c\ub85c\ub3c4 \uc751\ub2f5\uc774 \uc624\uc9c0 \uc54a\uc73c\uba74 \uc11c\ubc84\uac00 \uc8fd\uc5c8\uac70\ub098, \uc801\uc5b4\ub3c4 \ub124\ud2b8\uc6cc\ud06c\uac00 \ub2e4\uc6b4\ub418\uc5c8\ub2e4\uace0 \ud310\ub2e8\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. grpc request \ub9cc\uc73c\ub85c\ub294 \uc11c\ubc84\uac00 \uc8fd\uc740\uac74\uc9c0, grpc server \uc5b4\ud50c\ub9ac\ucf00\uc774\uc158\uc774 \uc8fd\uc740\uac74\uc9c0 \uad6c\ubd84\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc774 \uacbd\uc6b0 \ub610\ud55c \uc6b0\ub9ac\uac00 \uace0\ub824\ub97c \ud558\uc9c0 \uc54a\uc740 \uac83 \uac19\uace0, \ud558\ud2b8\ube44\ud2b8\ub294 \uc6b0\uc120 \"\uc11c\ubc84\uac00 \uc8fd\uc9c0 \uc54a\ub3c4\ub85d \ubaa8\ub2c8\ud130\ub9c1\uc744 \ub3c4\uc640\uc904 \uc218 \uc788\ub294 \uc11c\ube44\uc2a4\"\ub97c \ubaa9\uc801\uc73c\ub85c \ud588\uc73c\ub2c8\uae4c \uc774\ubbf8 \uc0ac\ub9dd\ud55c \uc11c\ubc84\uc5d0 \ub300\ud574\uc11c\ub294 \uc77c\ub2e8 \ub118\uc5b4\uac11\uc2dc\ub2e4. \ubb3c\ub860 \uc7a5\uae30\uc801\uc73c\ub85c\ub294 \uc774\ubbf8 \ub3cc\uc544\uac00\uc2e0 \uc11c\ubc84\ub3c4 \ud655\uc2e4\ud558\uac8c \ubcf4\uace0\ud560 \ud544\uc694\uac00 \uc788\uaca0\uc9c0\ub9cc, \ub2f9\uc7a5 \uc9c0\uae08\uc740 \uc2dc\uac04\uc774 \ub9ce\uc774 \uc5c6\uc73c\ub2c8\uae4c\uc694. \uc544\uc9c1\ub3c4 \ubaa8\ub378\uc744 \uc218\uc815\ud558\ub294 \uac83\ubcf4\ub2e4\ub294 \ucd94\ud6c4 \uc218\uc815\ud560 \ubaa9\ub85d\uc5d0 \uc798 \uae30\ub85d\ud574\ub450\uace0 \uc77c\ub2e8 \uc11c\ubc84 \uc0c1\ud0dc\uac00 \uc798 \ubaa8\ub2c8\ud130\ub9c1\ub418\ub294\uc9c0 \uc9c0\uae08\uae4c\uc9c0 \uad6c\ud604\uc5d0 \ubb38\uc81c\ub294 \uc5c6\ub294\uc9c0 \ud655\uc778\ud558\ub294 \uac83\uc774 \uba3c\uc800\ub77c\uace0 \uc0dd\uac01\ud569\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: Removed ip field from session.models.Server (Closes #19)",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/10\/_\/diff#comment-19350374",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465195526.000039"
+    }
+]

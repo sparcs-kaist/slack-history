@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/65a22518cb8471a25035606b6fbf765797227196|1 new commit> by Jeong Woon Choi",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/65a22518cb8471a25035606b6fbf765797227196|65a2251>: SSO \ud574\uc9c0 \uae30\ub2a5 \uad6c\ud604, \ub85c\uadf8\uc778 \uc720\uc800\ub124\uc784 \uc218\uc815 - Jeong Woon Choi",
+                "pretext": "[otlplus:session] 1 new commit by Jeong Woon Choi:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452441757.000065"
+    }
+]

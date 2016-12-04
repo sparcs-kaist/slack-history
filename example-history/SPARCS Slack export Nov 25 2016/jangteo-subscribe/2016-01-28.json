@@ -1,0 +1,493 @@
+[
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1453991182.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "purpose": "GitHub, Trello integration for #jangteo",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024U2P7Y|suckzo_o> set the channel purpose: GitHub, Trello integration for #jangteo",
+        "ts": "1453991182.000003"
+    },
+    {
+        "user": "U04HUN944",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUN944|kyeome> has joined the channel",
+        "ts": "1453991195.000004"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub028",
+        "ts": "1453991198.000005"
+    },
+    {
+        "user": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "ts": "1453991203.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub0e5",
+        "ts": "1453991206.000007"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sparcs.slack.com\/services\/B0KKYC7QD|github>",
+        "bot_id": "B0KKYC7QD",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U024U2P7Y",
+        "ts": "1453991212.000008"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sparcs.slack.com\/services\/B0KL4NYF7|Trello>",
+        "bot_id": "B0KL4NYF7",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U024U2P7Y",
+        "ts": "1453991287.000009"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sparcs.slack.com\/services\/B0KL91FPG|Trello>",
+        "bot_id": "B0KL91FPG",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U024U2P7Y",
+        "ts": "1453991343.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "hello",
+        "ts": "1453991422.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "JangteoAPI &lt;-&gt; trello jangteo-api",
+        "ts": "1453991433.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "Jangteo &lt;-&gt; trello jangteo",
+        "ts": "1453991437.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "github &lt;-&gt; jangteo-api(\uc77c\ub2e8)",
+        "ts": "1453991441.000014"
+    },
+    {
+        "user": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "ts": "1453991516.000015"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sparcs.slack.com\/services\/B050A0JVD|shop&amp; github>",
+        "bot_id": "B050A0JVD",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U024U2P7Y",
+        "ts": "1453991519.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "integration \ub05d!",
+        "ts": "1453991558.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "List renamed from \"??\" to \"<https:\/\/trello.com\/b\/OAbTx8Et|NOTE>\"",
+                "text": "List renamed from \"??\" to \"<https:\/\/trello.com\/b\/OAbTx8Et|NOTE>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453991803.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uc801\uc6a9>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uc801\uc6a9>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453991863.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card renamed from \"SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uc801\uc6a9\" to \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "text": "Card renamed from \"SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uc801\uc6a9\" to \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453991873.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card archived: \"<https:\/\/trello.com\/c\/zNPLvq26|Trello \ub9cc\ub4e4\uae30>\"",
+                "text": "Card archived: \"<https:\/\/trello.com\/c\/zNPLvq26|Trello \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453992059.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "*Description:* <http:\/\/Loopback.io|Loopback.io> \uc774\uc6a9",
+                "text": "*Description:* <http:\/\/Loopback.io|Loopback.io> \uc774\uc6a9",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/PGWmEUhr|Initial Commit>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453992075.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/a1sams1a|Sam Jo> added to card \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "text": "New member <https:\/\/trello.com\/a1sams1a|Sam Jo> added to card \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453992109.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/6a37d6b3e1f6a2519928d094f3223d8ba3dc80cb|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/6a37d6b3e1f6a2519928d094f3223d8ba3dc80cb|6a37d6b>: Initial commit - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453993259.000024"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud06c.....",
+        "ts": "1453993281.000025"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc774-\ub2c8-\uc15c!",
+        "ts": "1453993291.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b10df41c59bd7431007ccd5f0b490fadc30732a6|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b10df41c59bd7431007ccd5f0b490fadc30732a6|b10df41>: README.md revised - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453993301.000027"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/71d99afd7782cdeed20910362600ee4b8a5127a5|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/71d99afd7782cdeed20910362600ee4b8a5127a5|71d99af>: Integrated mocha.js test framework to project - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453993580.000028"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/ee875053a3f2c1796fcc0d510bba62100e93d8fb|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/ee875053a3f2c1796fcc0d510bba62100e93d8fb|ee87505>: Revised README - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453994276.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card moved: \"<https:\/\/trello.com\/c\/PGWmEUhr|Initial Commit>\" from list \"DOING\" to list \"DONE\"",
+                "text": "Card moved: \"<https:\/\/trello.com\/c\/PGWmEUhr|Initial Commit>\" from list \"DOING\" to list \"DONE\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453994309.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|DOING>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|DOING>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453994315.000031"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\"",
+                "text": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453994319.000032"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/3022e793bb95042c7c5a12593adf4da8730d7416|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/3022e793bb95042c7c5a12593adf4da8730d7416|3022e79>: Added Travis-CI to project - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453994913.000033"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/cfac8dcc425de89380cf53a392528323ffb503e0|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/cfac8dcc425de89380cf53a392528323ffb503e0|cfac8dc>: Revised travis file - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453995356.000034"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/1f59755cf3ca0d53b86c73b2f4343d9b9132719b|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/1f59755cf3ca0d53b86c73b2f4343d9b9132719b|1f59755>: Revised some mistakes related with tests - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453996168.000035"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b30cfbced2c029e62d9455d71118fe4102134a84|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b30cfbced2c029e62d9455d71118fe4102134a84|b30cfbc>: Revised travis yaml file - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453996422.000036"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544 \uc874\ub098 \uc624\ud0c0\uc7c1\uc774",
+        "ts": "1453996446.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "language\ub97c languages\ub77c\uace0 \uc4f0\ub124 \u3161\u3161",
+        "ts": "1453996451.000038"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b493836675ae23e2f639e0a15dbaf0657deecff8|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b493836675ae23e2f639e0a15dbaf0657deecff8|b493836>: Revised travis yaml - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453996905.000039"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/a335f62a3ebfd1ee1ebe1c667e5fd83c0bcdfabb|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/a335f62a3ebfd1ee1ebe1c667e5fd83c0bcdfabb|a335f62>: Revised travis yaml - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453997303.000040"
+    }
+]

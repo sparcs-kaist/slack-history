@@ -1,0 +1,52 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please img \uae40\uc18c\ud604",
+        "ts": "1396332984.000214"
+    },
+    {
+        "text": "<http:\/\/cfile4.uf.tistory.com\/image\/243E1D3E52AC2E0818E0BC#.png>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "from_url": "http:\/\/cfile4.uf.tistory.com\/image\/243E1D3E52AC2E0818E0BC#.png",
+                "fallback": "360x480px image",
+                "image_url": "http:\/\/cfile4.uf.tistory.com\/image\/243E1D3E52AC2E0818E0BC#.png",
+                "image_width": 360,
+                "image_height": 480,
+                "image_bytes": 22397,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396332984.000215"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please img \uae40\uc720\uc815",
+        "ts": "1396332986.000217"
+    },
+    {
+        "text": "<http:\/\/cfile28.uf.tistory.com\/image\/2652234C51163EBB0F55AD#.png>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "from_url": "http:\/\/cfile28.uf.tistory.com\/image\/2652234C51163EBB0F55AD#.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/cfile28.uf.tistory.com\/image\/2652234C51163EBB0F55AD#.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 330448,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396332987.000218"
+    }
+]

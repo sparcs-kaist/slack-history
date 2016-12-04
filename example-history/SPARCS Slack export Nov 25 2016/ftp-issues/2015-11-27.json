@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "W: Failed to fetch <http:\/\/kr.archive.ubuntu.com\/ubuntu\/dists\/trusty-updates\/main\/binary-amd64\/Packages>  Hash Sum mismatch\n\nW: Failed to fetch <http:\/\/kr.archive.ubuntu.com\/ubuntu\/dists\/trusty-updates\/universe\/binary-amd64\/Packages>  Hash Sum mismatch",
+        "ts": "1448620540.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc0b4\ub824\uc8fc\uc138\uc694",
+        "ts": "1448620542.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "<@U024U2P7Y>:",
+        "ts": "1448620701.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud6c4....",
+        "ts": "1448620806.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub135 \ubcfc\uac8c\uc694",
+        "ts": "1448620814.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc800 \uc8fc\uc18c\ub85c \ub4e4\uc5b4\uac00\uba74 404\ub0a8",
+        "ts": "1448620825.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc73d..",
+        "ts": "1448620827.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "6\uc2dc\uac04 \uc804\ubd80\ud130 \uc2f1\ud06c\uc911\uc774\ub358\ub370\u2026..",
+        "ts": "1448621379.000009"
+    }
+]

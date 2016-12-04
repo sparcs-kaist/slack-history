@@ -1,0 +1,487 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc0b0\ub09a\uc9c0~!?",
+        "ts": "1403077092.003139"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<@U024SN0KW>: <https:\/\/github.com\/langdev\/log.langdev.org>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "langdev\/log.langdev.org",
+                "title_link": "https:\/\/github.com\/langdev\/log.langdev.org",
+                "text": "<http:\/\/log.langdev.org|log.langdev.org> - Logging bot and log viewer for LangDev",
+                "fallback": "GitHub: langdev\/log.langdev.org",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/770512?s=400",
+                "from_url": "https:\/\/github.com\/langdev\/log.langdev.org",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "id": 1
+            }
+        ],
+        "ts": "1403077114.003140"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc598 \uc774\ub984\uc774 \uc0b0\ub09a\uc9c0\uc785\ub2c8\ub2f9",
+        "ts": "1403077122.003142"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc624",
+        "ts": "1403077138.003143"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uadf8\ub807\uad70\uc694 ... ! ~_~",
+        "ts": "1403079125.003144"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ud5c9 \uc0b0\ub09a\uc9c0\uc5d0 slack integration\uc774 \uc788\uc74c?",
+        "ts": "1403079145.003145"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc544 \uadf8\uac78 \ub9cc\ub4e0\ub2e4\ub294\uac83\uc778\uac00",
+        "ts": "1403079196.003146"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\u3147\u3147 \uadf8\ub0e5 IRC gateway \uc5f0\uacb0\ud574\uc8fc\ub2c8 \uc798 \ub418\ub294\ub370?",
+        "ts": "1403080068.003147"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "slack \uacb0\uc81c \uc774\uc720\uac00 \ud558\ub098 \uc0ac\ub77c\uc9d0.. \u314b",
+        "ts": "1403080098.003148"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc624\uc624",
+        "ts": "1403080113.003149"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ucc44\ub110\ubcc4\ub85c \ud558\ub098\uc529 IRC\uc5d0 \ubc29\uc744 \ud30c\uc11c",
+        "ts": "1403080126.003150"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc0b0\ub09a\uc9c0 \ubd99\uc5ec\ub450\uba74 \ub418\ub294 \uac70\uad70\uc694 !!!???!!!",
+        "ts": "1403080136.003151"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "?? \uc544\ub2c8\uc5d0\uc694",
+        "ts": "1403080145.003152"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uadf8\ub0e5 slack\uc744 irc \ud074\ub77c\uc774\uc5b8\ud2b8\ub85c \uc811\uc18d\ud560\uc218 \uc788\uc74c...'",
+        "ts": "1403080154.003153"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc544\ud558",
+        "ts": "1403080166.003154"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<https:\/\/sparcs.slack.com\/account\/gateways>",
+        "ts": "1403080175.003155"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc0b0\ub09a\uc9c0\uc5d0\uac8c slack \uac01 \ucc44\ub110\uc5d0 \ub4e4\uc5b4\uac00\uac8c \uc2dc\ud0a8 \ub2e4\uc74c\uc5d0 ... \uc544\ud558 ...",
+        "ts": "1403080180.003156"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc774\uac78 \uc0b0\ub09a\uc9c0 setting\uc5d0 \ub123\uc5b4\ub450\uba74 \ub418\uc694",
+        "ts": "1403080183.003157"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub139 \uadf8\ub807\uc8e0",
+        "ts": "1403080188.003158"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc6b0\uc640 ...",
+        "ts": "1403080206.003159"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uae30\uc874 SPARCS IRC \ucc44\ud305\ub85c\uadf8\ub791 <#C024SHLFM> \ucc44\ub110 SLACK \ub85c\uadf8\ub791 \ud569\uce58\uba74 \uc9f1\uba38\uc2ef\uc744\ub73b",
+        "ts": "1403080229.003160"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud639\uc2dc git \uc5d0 \ud30c\uc77c \ud558\ub098\ub9cc \ub354\uc774\uc0c1\uc758 commit\uc744 \ub9c9\ub294 \uae30\ub2a5 \uc788\ub098\uc694?",
+        "ts": "1403081272.003161"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": ".gitignore \ud574\ubc84\ub83c\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1403081310.003162"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3161 \ub18d\ub2f4\uc785\ub2c8\ub2e4.",
+        "ts": "1403081316.003163"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u315c\u315c \ud3ec\ud568\uc740 \ub418\uc5b4 \uc788\ub418 \uc2e4\uc218\ub85c \ub354\uc774\uc0c1\uc758 \ucee4\ubc0b\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uace0\uc2f6\uc5b4\uc694",
+        "ts": "1403081441.003164"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc74c",
+        "ts": "1403081591.003165"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uba54\uc778\uc800\uc7a5\uc18c\uac00 \uc788\ub2e4\uba74 pre-receive hook\uc73c\ub85c push\ub97c \ub9c9\uc744\uc21c \uc788\uc74c",
+        "ts": "1403081611.003166"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ud2b9\uc815 \ud30c\uc77c\uc774 \ubcc0\uacbd\ub418\uba74 push reject\ud558\uba74 \ub418\ub2c8\uae4c...",
+        "ts": "1403081631.003167"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uba54\uc778\uc740 \uc788\ub294\ub370",
+        "ts": "1403081689.003168"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\ub807\uac8c\ub9cc \uac00\ub2a5\ud55c\uac00\uc694",
+        "ts": "1403081692.003169"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ubb54\uac00 git lock \uac19\uc740\uac8c \uc788\uc744\uac83 \uac19\uc558\ub294\ub370",
+        "ts": "1403081698.003170"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "git freeze \uc774\ub7f0",
+        "ts": "1403081701.003171"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub530\ub85c \uc5c6\uc744\uac78?",
+        "ts": "1403081721.003172"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\ub807\uad70\uc694.. \uc73c..",
+        "ts": "1403081741.003173"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uadf8\ub7f0\ub370 .gitignore \ub418\uc5b4 \uc788\ub294 \ud30c\uc77c\ub3c4 \uc800\uc7a5\uc18c\uc5d0 \ud3ec\ud568\uc740 \ub418\uc5b4 \uc788\uc9c0 \uc54a\ub098?",
+        "ts": "1403082138.003174"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "git add \ud558\uace0 \ub098\uba74",
+        "ts": "1403082171.003175"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": ".gitignore \uc758 \uc601\ud5a5\uc744 \uc548\ubc1b\uc544\uc694",
+        "ts": "1403082175.003176"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "git update-index --assume-unchanged &lt;file&gt;",
+        "ts": "1403082377.003177"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uadf8 \ub2e4\uc74c\uc5d0 git ls-files -v | grep \"^[[:lower:]]\"",
+        "ts": "1403082679.003178"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud558\uba74 \uadf8\ub807\uac8c \uc228\uae34 \ud30c\uc77c\ub4e4\uc744 \ubcfc \uc218 \uc788\ub2e4 \uc774\uac70\uad70 ...",
+        "ts": "1403082686.003179"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc774\ub7ec\uba74 \ubcc0\uacbd\ub418\uc9c0 \uc54a\uc544\uc57c \ud558\ub294 \ud30c\uc77c\uc774 \ubcc0\uacbd\ub418\ub294 \uac74 \ub9c9\uc744 \uc218 \uc788\uaca0\uad70",
+        "ts": "1403082695.003180"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ubcc0\uacbd\ub41c \ucc44\ub85c \ucee4\ubc0b\uc774 \ub418\ub294 \uac83 ...",
+        "ts": "1403082703.003181"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U024SN37L>: \u3131\u3145 \u3131\u3145",
+        "ts": "1403082727.003182"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc8fc\uc758\uc810:",
+        "ts": "1403090398.003183"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uccb4\ud06c\uc544\uc6c3\ud558\uba74 \ub36e\uc5b4\uc368\uc9c4\ub2e4",
+        "ts": "1403090402.003184"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "--skip-worktree \ud558\uba74 \uae30\ubcf8\uc801\uc73c\ub85c \ub611\uac19\uc740\ub370 \uc774 \ud50c\ub798\uadf8 \ud480\ub54c\uae4c\uc9c0 \uccb4\ud06c\uc544\uc6c3\uc744 \uc544\uc608 \ubabb\ubc1b\uac8c\ud568",
+        "ts": "1403090455.003185"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc124\uc815\ud30c\uc77c\uac19\uc740\uac70 \ubcf4\ud1b5 \ub9ce\uc774 \uac78\uc5b4\ub193\ub294\ub370 \ub458\ub2e4 \uc704\uc5d0 \uc11c\uc220\ud55c \uc810\ub4e4\uc774 \uc788\uae30 \ub54c\ubb38\uc5d0",
+        "ts": "1403090495.003186"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub098\ub294 \uadf8\ub0e5 \ud30c\uc77c.template \uc800\uc7a5\uc18c\uc5d0 \uc62c\ub9ac\uace0 \uc9c4\uc9dc \ud30c\uc77c\uc744 ignore\ud558\ub294 \ud3b8",
+        "ts": "1403090515.003187"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "SVN\uc744 \uc501\uc2dc\ub2e4",
+        "ts": "1403090669.003188"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc7a0\uae50 \uc0ac\uc774\uc5d0 \ud30c\uc77c \ud558\ub098 \uc0ac\ub77c\uc9c4 \uac83 \uac19\uc740\ub370",
+        "ts": "1403090735.003192"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uac13svn...",
+        "ts": "1403090766.003193"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/9ySQc\/818084235a.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/9ySQc\/818084235a.png",
+                "fallback": "471x361px image",
+                "image_url": "http:\/\/puu.sh\/9ySQc\/818084235a.png",
+                "image_width": 471,
+                "image_height": 361,
+                "image_bytes": 16984,
+                "id": 1
+            }
+        ],
+        "ts": "1403090791.003194"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/9ySSH\/4101ad1a9d.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/9ySSH\/4101ad1a9d.png",
+                "fallback": "1936x1056px image",
+                "image_url": "http:\/\/puu.sh\/9ySSH\/4101ad1a9d.png",
+                "image_width": 1936,
+                "image_height": 1056,
+                "image_bytes": 242250,
+                "id": 1
+            }
+        ],
+        "ts": "1403090813.003196"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc2a4\uc0f7\uc880 \ub2e4\uc2dc\ucc0d\ub290\ub77c",
+        "ts": "1403090833.003198"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud55c\uac00\uc9c0 \ub354 \ud64d\ubcf4\ud558\uc9c0\uba74 cygwin-X \uc544\uc8fc \uc88b\ub124\uc694",
+        "ts": "1403090852.003199"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/9ySUz\/f0d0be6431.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/9ySUz\/f0d0be6431.png",
+                "fallback": "1936x1056px image",
+                "image_url": "http:\/\/puu.sh\/9ySUz\/f0d0be6431.png",
+                "image_width": 1936,
+                "image_height": 1056,
+                "image_bytes": 278898,
+                "id": 1
+            }
+        ],
+        "ts": "1403090853.003200"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud798\uac15\uc544",
+        "ts": "1403135712.003202"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud798\uac15\uc544",
+        "ts": "1403136021.003203"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud558\uc544... \ub0b4\uac00 rhn \ub9cc\ub8cc\ub418\uc5c8\ub294\ub370\ub3c4 \ubd88\uad6c\ud558\uace0 \uc65c RHEL\uc744 \uae54\uc558\uc744\uae4c",
+        "ts": "1403139181.003204"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc774\uac74 \ub098\uc758 \ucc45\uc784\uc774 \uc544\ub2c8\ub2e4. \uc704\uc5d0 \ubd84\ub4e4\uc774 RHEL\uc744 \uc2e0\ubd09\ud558\ub294 \ud0d3\uc774\uc9c0",
+        "ts": "1403139205.003205"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud558\uc544",
+        "ts": "1403139207.003206"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc5b4\ucc28\ud53c mirror\ubc14\ub00c\uc11c \ub2e4\uc2dc update\ud560\uaebc\uba74 \uadf8\ub0e5 \uc2dc\uc791\ubd80\ud130 CentOS\ub97c \uae54\uc9c0 \uc65c RHEL\uc744 \uae54\uac8c \ud588\uc744\uae4c",
+        "ts": "1403139266.003207"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\uac74 \uc704\uc5d0 \ubd84\ub4e4\uc774 \ubd80\ud2b8 \uc774\ubbf8\uc9c0\ub97c \ub9cc\ub4e4\uc904 \ubaa8\ub974\uae30 \ub54c\ubb38\uc774\uaca0\uc9c0",
+        "ts": "1403139281.003208"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub7fc \ub124\uac00 \ud558\uba74 \ub418\ub294\uac70 \uc544\ub2c8\uc5c8\ub098?",
+        "ts": "1403139293.003209"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc5b4\ucc28\ud53c \ub098\ub294 \ub2e4\uc74c\uc8fc\uac00 \ud1f4\uc0ac\ub2e4. \uc774\ub807\uac8c \ud574\ub3c4 \ub2e4\uc74c\ubc88\uc5d0 \ub610 RHEL\uc744 \uae54\uac8c \ubed4\ud558\uc9c0",
+        "ts": "1403139339.003210"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ubd89\uc740\ubaa8\uc790",
+        "ts": "1403140602.003211"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\ud1a0\ub2e5\ud1a0\ub2e5",
+        "ts": "1403140947.003212"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud1a0\ub2e5\ud1a0\ub2e5",
+        "ts": "1403141466.003213"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\uadfc\ub370 \uc800\uae30\uc11c",
+        "ts": "1403141823.003214"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\uc911\uc694\ud55c \uc790\ub791 \ud3ec\uc778\ud2b8\ub294",
+        "ts": "1403141826.003215"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\"\ub098\ub294 \ub2e4\uc74c\uc8fc\uac00 \ud1f4\uc0ac\ub2e4.\"",
+        "ts": "1403141830.003216"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\uac04\uc9c0 \uca50\ub2e4 \ubc14\ud034..\u3160\u3160",
+        "ts": "1403141836.003217"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\ubc14\ud034 \uc18c\uc9d1\ud574\uc81c\ub418\uba74 \ubc25\uc0ac\ub7ec \uc591\uc7ac \ub180\ub7ec\uc640",
+        "ts": "1403141864.003218"
+    }
+]

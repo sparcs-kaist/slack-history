@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U045EMA87",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045EMA87|george> has joined the channel",
+        "ts": "1443780125.000002"
+    },
+    {
+        "user": "U046N9CV2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046N9CV2|hood> has joined the channel",
+        "ts": "1443790338.000003"
+    }
+]

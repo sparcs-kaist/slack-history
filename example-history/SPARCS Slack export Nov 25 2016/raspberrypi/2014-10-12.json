@@ -1,0 +1,183 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<https:\/\/www.facebook.com\/groups\/119911081444173\/557707837664493\/?notif_t=group_activity>",
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https:\/\/www.facebook.com\/groups\/119911081444173\/557707837664493\/?notif_t=group_activity",
+                "text": "Facebook is a social utility that connects people with friends and others who work, study and live around them. People use Facebook to keep up with...",
+                "fallback": "Facebook: ",
+                "from_url": "https:\/\/www.facebook.com\/groups\/119911081444173\/557707837664493\/?notif_t=group_activity",
+                "id": 1
+            }
+        ],
+        "ts": "1413136849.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc774\ub7f0\uac8c \uc788\ub294\ub370",
+        "ts": "1413136853.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc6b0\ub9ac \uc774\uc655\ud558\ub294\uac70 \uc815\ubd80\ub3c8 \ubc1b\uc544\uba39\uc73c\uba74\uc11c \ubc30\ubd80\ub974\uac8c \ud50c\uc81d\ud574\ubcf4\uba74 \uc5b4\ub5a8\uae4c\uc694",
+        "ts": "1413136865.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "1\ucc28\ub9cc \uc811\uc218\ud558\uace0 \uad11\ud0c8\ud574\ub3c4 \ubb34\uad00\ud55c\ub4ef\ud569\ub2c8\ub2e4",
+        "ts": "1413136885.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uc624 \uc800\ub3c4 \uadf8\uc0dd\uac01\ud588\ub294\ub385 \u314b\u314b\u314b",
+        "ts": "1413136908.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc800\uac70 \ud30c\uc77c\uc774 \uc5c6\uc5b4",
+        "ts": "1413173780.000009"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F02PD2L29\/2.___________________________.pdf|2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.pdf>",
+        "file": {
+            "id": "F02PD2L29",
+            "created": 1413173871,
+            "timestamp": 1413173871,
+            "name": "2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.pdf",
+            "title": "2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 293267,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PD2L29\/2.___________________________.pdf?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PD2L29\/download\/2.___________________________.pdf?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F02PD2L29\/2.___________________________.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02PD2L29-213a006d3f",
+            "channels": [
+                "C02KLSMGV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1413173872.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F02PD2L2D\/2.___________________________.hwp|2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.hwp>",
+        "file": {
+            "id": "F02PD2L2D",
+            "created": 1413173873,
+            "timestamp": 1413173873,
+            "name": "2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.hwp",
+            "title": "2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.hwp",
+            "mimetype": "application\/octet-stream",
+            "filetype": "binary",
+            "pretty_type": "Binary",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 28672,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PD2L2D\/2.___________________________.hwp?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PD2L2D\/download\/2.___________________________.hwp?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F02PD2L2D\/2.___________________________.hwp",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02PD2L2D-ed44122ca9",
+            "channels": [
+                "C02KLSMGV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1413173873.000011"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F02PE816C\/2.___________________________.docx|2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.docx>",
+        "file": {
+            "id": "F02PE816C",
+            "created": 1413173874,
+            "timestamp": 1413173874,
+            "name": "2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.docx",
+            "title": "2. \uc2e0\uccad\uc591\uc2dd \ubc0f \uc11c\uc57d\uc11c.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 21114,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PE816C\/2.___________________________.docx?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PE816C\/download\/2.___________________________.docx?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F02PE816C\/2.___________________________.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02PE816C-67b0ee865d",
+            "channels": [
+                "C02KLSMGV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1413173874.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc624\ub298 \uc138\ubbf8\ub098 \ub4e4\uc73c\uba74\uc11c \uc878\ub9b4\ub54c \uc368\ubd10\uc57c\uaca0\ub2e4",
+        "ts": "1413174106.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc624\ud508\uc18c\uc2a4 \ud50c\ub7ab\ud3fc + IoE \ub85c \ubc00\uace0\ub098\uac00\uba74 0.5%\uc815\ub3c4 \ub2f9\ucca8\ud655\ub960 \uc788\uaca0\ub2e4",
+        "ts": "1413174131.000014"
+    }
+]

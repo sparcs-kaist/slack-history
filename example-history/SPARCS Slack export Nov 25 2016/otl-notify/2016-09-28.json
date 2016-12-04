@@ -1,0 +1,41 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/develop|[otlplus:develop]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/5ad2c6a4c85d...22971c37bb8d|2 new commits> by Jeong Woon Choi",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/5f791a03404bb674f8c689980f5d6ff43a2343af|5f791a0>`  Partial implementation of exporting timetables (#120) - Jeong Woon Choi\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/22971c37bb8d7e301728301a6d7c1cfb090c949f|22971c3>`  Merge branch 'iss120' into develop - Jeong Woon Choi",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/develop|[otlplus:develop]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/5ad2c6a4c85d...22971c37bb8d|2 new commits> by Jeong Woon Choi:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475079856.000049"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"iss120\" was deleted by isyangban",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"iss120\" was deleted by isyangban",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475079869.000050"
+    }
+]

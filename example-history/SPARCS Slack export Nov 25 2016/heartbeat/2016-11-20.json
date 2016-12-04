@@ -1,0 +1,41 @@
+[
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/heartbeat-server] Issue closed: <https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/issues\/1|#1 save errors to file when update fail; send errors next time> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/heartbeat-server] Issue closed: <https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/issues\/1|#1 save errors to file when update fail; send errors next time> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1479629496.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/heartbeat-server] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/issues\/1#issuecomment-261765061|#1: save errors to file when update fail; send errors next time> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "move to heartbeat-client",
+                "pretext": "[sparcs-kaist\/heartbeat-server] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/issues\/1#issuecomment-261765061|#1: save errors to file when update fail; send errors next time> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1479629496.000031"
+    }
+]

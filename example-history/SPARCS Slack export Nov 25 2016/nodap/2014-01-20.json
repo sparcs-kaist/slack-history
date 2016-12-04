@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNE2E|kuss> has joined the channel",
+        "ts": "1390270276.000002"
+    },
+    {
+        "user": "U024SNE2E",
+        "purpose": "\ub178\ub2f5\uc778 \ub178\ub2f5 \ud504\ub85c\uc81d\ud2b8\ub97c \uc704\ud55c \ucc44\ub110",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SNE2E|kuss> set the channel purpose: \ub178\ub2f5\uc778 \ub178\ub2f5 \ud504\ub85c\uc81d\ud2b8\ub97c \uc704\ud55c \ucc44\ub110",
+        "ts": "1390270277.000003"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1390270492.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc5ec\uae34 \uc2ec\uc9c0\uc5b4 \ucc44\ub110 \uc778\uae30\ub3c4 \ub178\ub2f5..",
+        "ts": "1390270502.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1390270606.000006"
+    },
+    {
+        "user": "U024SN150",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN150|bbashong> has joined the channel",
+        "ts": "1390276734.000007"
+    },
+    {
+        "user": "U024SKNH9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SKNH9|whitegold> has joined the channel",
+        "ts": "1390286689.000008"
+    }
+]

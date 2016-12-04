@@ -1,0 +1,248 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6da39b7|1 new commit> by Shavakan",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6da39b7|6da39b7>: created model UserProfile and Message - Shavakan",
+                "pretext": "[araplus:apps\/session] 1 new commit by Shavakan:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435754864.000024"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DRGMV",
+        "attachments": [
+            {
+                "fallback": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6da39b7|1 new commit> by Shavakan",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6da39b7|6da39b7>: created model UserProfile and Message - Shavakan",
+                "pretext": "[araplus:apps\/session] 1 new commit by Shavakan:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435754864.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc77c\ub2e8 \uc720\uc800\ud504\ub85c\ud30c\uc77c \ub0b4\ub193\uc73c\ub77c\uace0 \uadf8\ub798\uc11c \ud478\uc2dc\ub97c \ud558\uae34 \ud588\ub294\ub370",
+        "ts": "1435754899.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc804\ubc18\uc801\uc73c\ub85c \ubaa8\ub378\uc744 \ub2e4\uc2dc \uc190\ubcf4\uace0\uc788\uc5b4\uc5ec",
+        "ts": "1435754903.000027"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/2669b8a88b55...8c39c9d6c1bf|5 new commits> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/32d43c4|32d43c4>: display grill's information on each grill's webpage - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b41e7bb|b41e7bb>: recognize tags in each comments with some problems - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c5a945a|c5a945a>: change tag recognization - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96638c6|96638c6>: PEP coding convention - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8c39c9d|8c39c9d>: add comment with ajax - storykim",
+                "pretext": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/2669b8a88b55...8c39c9d6c1bf|5 new commits> by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435761638.000028"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DRGMV",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/2669b8a88b55...8c39c9d6c1bf|5 new commits> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/32d43c4|32d43c4>: display grill's information on each grill's webpage - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b41e7bb|b41e7bb>: recognize tags in each comments with some problems - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c5a945a|c5a945a>: change tag recognization - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96638c6|96638c6>: PEP coding convention - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8c39c9d|8c39c9d>: add comment with ajax - storykim",
+                "pretext": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/2669b8a88b55...8c39c9d6c1bf|5 new commits> by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435761639.000029"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc624\uc624 \uc2a4\ud1a0\ub9ac\ud0b4",
+        "ts": "1435765217.000030"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uac13 \uc2a4\ud1a0\ub9ac\ud0b9!",
+        "ts": "1435765228.000031"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] Branch \"apps\/session\" was force-pushed to <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dc219068268dd406452d3ad8e901d65aea90ed4e|dc21906> by Shavakan. <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6da39b7db5db...dc219068268d|Compare changes>",
+                "text": "[araplus] Branch \"apps\/session\" was force-pushed to <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dc219068268dd406452d3ad8e901d65aea90ed4e|dc21906> by Shavakan. <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6da39b7db5db...dc219068268d|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435773581.000032"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dc21906|1 new commit> by Chang Won Lee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dc21906|dc21906>: created model UserProfile and Message - Chang Won Lee",
+                "pretext": "[araplus:apps\/session] 1 new commit by Chang Won Lee:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435773581.000033"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub9ac\ubca0\uc774\uc2a4\uac00 \ud574\ubcf4\uace0 \uc2f6\uc5c8\uc2b5\ub2c8\ub2e4",
+        "ts": "1435773650.000034"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/1|Pull request submitted> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "UserProfile \ud074\ub808\uc2a4\ub97c \uc0ac\uc6a9\ud558\uc5ec registration\uc744 \uad6c\ud604\ud558\uc600\uace0\nlogin, logout \uae30\ub2a5\uc744 \uad6c\ud604\ud558\uc600\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] Pull request submitted by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "title": "#1 Apps\/Session register, login, logout \uae30\ub2a5 \uad6c\ud604",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/1",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435776480.000035"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "PR\uc744 \ud574\ubcf4\uace0 \uc2f6\uc5c8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1435776498.000036"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/2|Issue created> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "\uc81c\uac00 \uad6c\ud604\ud55c Registration\uc5d0\uc11c email \ub4f1 validation check\ub97c \ud558\uc9c0 \uc54a\ub294\ub370\uc694,\n\uc774\uac78 \ud574\uc8fc\ub294 django\uc758 form \uc774\ub780 \uac83\uc774 \uc788\ub294\ub370 \n\uc774\uac78 \uc0ac\uc6a9\ud574\uc11c \ub2e4\uc2dc \ucf54\ub4dc\ub97c \uc9dc\ubcf4\uaca0\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "title": "#2 Django form \uae30\ub2a5 \uc801\uc6a9",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/2",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435776591.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "good",
+        "ts": "1435776660.000038"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/2#issuecomment-117794611|#2: Django form \uae30\ub2a5 \uc801\uc6a9>",
+                "text": "\uad00\ub828 \uc790\ub8cc\n<https:\/\/docs.djangoproject.com\/en\/1.8\/topics\/forms\/>",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/2#issuecomment-117794611|#2: Django form \uae30\ub2a5 \uc801\uc6a9>",
+                "title": "Comment by mightydeveloper\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435776843.000039"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ud760.. \ucf54\ub9e8\ud2b8 \uc4f0\ub294\uac83\uae4c\uc9c0 \ub2e4 \uc2ac\ub799\uc5d0 \uc62c\ub77c\uac00\ub124\uc694... \u3147\u3145\u3147",
+        "ts": "1435776869.000040"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubd07 \uad00\ub9ac\uc790\uac00 \ucc3d\uc6d0\uc774\ud615\ud55c\ud14c \uc788\uc5b4\uc11c",
+        "ts": "1435801507.000041"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc124\uc815\ud574\ub2ec\ub77c\uace0 \ud558\uba74\ub420\uac70\uc5d0\uc694!",
+        "ts": "1435801519.000042"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub098\ub294 \ub098\uc058\uc9c0 \uc54a\uc740\uac83\uac19\uc740\ub385 \u314e\u314e",
+        "ts": "1435814142.000043"
+    }
+]

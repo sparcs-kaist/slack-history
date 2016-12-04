@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1394623732.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc774\ub7f0 \ucc44\ub110\uc774 \uc788\uc5c8\ub124",
+        "ts": "1394623743.000003"
+    }
+]

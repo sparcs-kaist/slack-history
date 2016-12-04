@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U041VNW3G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U041VNW3G|mandu> has joined the channel",
+        "ts": "1426509715.000004"
+    },
+    {
+        "user": "U041VNW3G",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U041VNW3G|mandu> has left the channel",
+        "ts": "1426535991.000005"
+    }
+]

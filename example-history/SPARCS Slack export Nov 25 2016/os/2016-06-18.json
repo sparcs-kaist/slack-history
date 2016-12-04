@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": ":smiley:",
+        "ts": "1466316257.000002"
+    },
+    {
+        "user": "U045EMA87",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U045EMA87|george> has left the channel",
+        "ts": "1466316269.000003"
+    }
+]

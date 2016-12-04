@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024U2P7Y|suckzo_o> uploaded a file: <https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0BR726HZ\/easy_example_mod.o|easy_example_mod.o>",
+        "file": {
+            "id": "F0BR726HZ",
+            "created": 1443982981,
+            "timestamp": 1443982981,
+            "name": "easy_example_mod.o",
+            "title": "easy_example_mod.o",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U024U2P7Y",
+            "editable": true,
+            "size": 1467,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0BR726HZ\/easy_example_mod.o?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0BR726HZ\/download\/easy_example_mod.o?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0BR726HZ\/easy_example_mod.o",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0BR726HZ-b8831f1aa4",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0BR726HZ\/easy_example_mod.o\/edit",
+            "preview": "00000000000000000000000001011000 \/\/text section size (88)\n00000000000000000000000000001100 \/\/data section size (12)\n00000010001000001000100000100100 \/\/ and $17 $17 $0\n00000010010000001001000000100100 \/\/ and $18 $18 $0\n00111100000010000001000000000000 \/\/ lui $8 0x1000 -> $8 = 0x10000000",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>00000000000000000000000001011000 \/\/text section size (88)<\/pre><\/div>\n<div><pre>00000000000000000000000000001100 \/\/data section size (12)<\/pre><\/div>\n<div><pre>00000010001000001000100000100100 \/\/ and $17 $17 $0<\/pre><\/div>\n<div><pre>00000010010000001001000000100100 \/\/ and $18 $18 $0<\/pre><\/div>\n<div><pre>00111100000010000001000000000000 \/\/ lui $8 0x1000 -&gt; $8 = 0x10000000<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 28,
+            "lines_more": 23,
+            "preview_is_truncated": true,
+            "channels": [
+                "C0BQ8MPH9"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024U2P7Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024U2P7Y|suckzo_o>",
+        "bot_id": null,
+        "ts": "1443982982.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ucc38\uace0\ud558\uc2ed\uc2dc\uc624",
+        "ts": "1443982992.000003"
+    }
+]

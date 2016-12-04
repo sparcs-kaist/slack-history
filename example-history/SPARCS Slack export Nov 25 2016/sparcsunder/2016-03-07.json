@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1457359518.000002"
+    },
+    {
+        "user": "U024WGSD3",
+        "topic": "-- \ud559\ubd80\uc0dd\ub9cc \ub4e4\uc5b4\uc62c \uc218 \uc788\ub294 \ucc44\ub110\uc740 \uc544\ub2d9\ub2c8\ub2e4 --",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024WGSD3|undead> set the channel topic: -- \ud559\ubd80\uc0dd\ub9cc \ub4e4\uc5b4\uc62c \uc218 \uc788\ub294 \ucc44\ub110\uc740 \uc544\ub2d9\ub2c8\ub2e4 --",
+        "ts": "1457359559.000003"
+    },
+    {
+        "user": "U0FK63YR2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0FK63YR2|sanxiyn> has joined the channel",
+        "ts": "1457360865.000002"
+    },
+    {
+        "user": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "ts": "1457367798.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub0e5\ub0e5?",
+        "ts": "1457367805.000003"
+    },
+    {
+        "user": "U04HUN944",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUN944|kyeome> has joined the channel",
+        "ts": "1457367936.000004"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub0e5\ub0e5",
+        "ts": "1457367942.000005"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uafb8\ub0e5&gt;&lt;",
+        "ts": "1457369808.000002"
+    },
+    {
+        "user": "U02L44HTT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02L44HTT|coearth> has joined the channel",
+        "ts": "1457370577.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "\ub0e5\ub0e5\ub028\ub0e5:cat2: ",
+        "ts": "1457370631.000003"
+    },
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1457398903.000002"
+    },
+    {
+        "user": "U02KS7NU5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02KS7NU5|serialx> has joined the channel",
+        "ts": "1457399843.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc624\uc624",
+        "ts": "1457399846.000003"
+    },
+    {
+        "user": "U02CPPE8C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02CPPE8C|pipoket> has joined the channel",
+        "ts": "1457401980.000004"
+    },
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "\u3147\u3145\u3147)~",
+        "ts": "1457402006.000005"
+    },
+    {
+        "user": "U026A6BEJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U026A6BEJ|yumgyun> has joined the channel",
+        "ts": "1457410450.000006"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1457412549.000007"
+    },
+    {
+        "user": "U024SKNH9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SKNH9|whitegold> has joined the channel",
+        "ts": "1457412837.000008"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1457415696.000009"
+    },
+    {
+        "user": "U043V6ACW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U043V6ACW|pcpenpal> has joined the channel",
+        "ts": "1457417051.000010"
+    },
+    {
+        "user": "U024U4U5G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U4U5G|sven> has joined the channel",
+        "ts": "1457417183.000011"
+    },
+    {
+        "user": "U04J6LN3W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04J6LN3W|potato> has joined the channel",
+        "ts": "1457417230.000012"
+    },
+    {
+        "user": "U025WHXBR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025WHXBR|boolgom> has joined the channel",
+        "ts": "1457417745.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":cat:",
+        "ts": "1457420813.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "(\uc5b8\ub354\ub97c \ub9cc\ub4e4\uc5c8\uc9c0\ub9cc \uc5ec\uc804\ud788 \uc2ac\ub799\uc774 \uc870\uc6a9\ud558\ub2e4\u2026)",
+        "ts": "1457420882.000015"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc2dc\ub04c\uc2dc\ub04c",
+        "ts": "1457421573.000016"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "(\uc18c\uc74c)",
+        "ts": "1457421587.000017"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ucf85\ucf85\ucf85",
+        "ts": "1457421590.000018"
+    }
+]

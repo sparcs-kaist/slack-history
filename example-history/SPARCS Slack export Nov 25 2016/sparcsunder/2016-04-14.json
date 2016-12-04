@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc870\ub9bd\uc598\uae30\uac00 \ub098\uc640\uc11c",
+        "ts": "1460684857.000071"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<http:\/\/clien.net\/cs2\/bbs\/board.php?bo_table=news&amp;wr_id=2153954>",
+        "attachments": [
+            {
+                "service_name": "Clien",
+                "title": "\ud074\ub9ac\uc559 &gt; \uc0c8\ub85c\uc6b4\uc18c\uc2dd &gt; \uc870\ub9bdPC\uc5c5\uccb4 'iPC(\uc544\uc774\ud53c\uc528)' \ub300\ud45c \uc7a0\uc801",
+                "title_link": "http:\/\/clien.net\/cs2\/bbs\/board.php?bo_table=news&wr_id=2153954",
+                "text": "4\uc6d4\ucd08 \uc5c5\uccb4 \uc704\uce35\uc5d0 \uc704\uce58\ud55c \uc74c\uc2dd\uc9d1 \ubb3c\ud0f1\ud06c\uac00 \ud30c\uc190\ub41c \ubb38\uc81c\ub85c \ucd9c\uace0 \uc9c0\uc5f0 \uc911\uc774\ub77c\uace0 \uc124\uba85\ud588\uc73c\ub098 \u00a0 4\uc6d4 14\uc77c \uc544\uc774\ud53c\uc528\uac00 \uc785\uc810\ud574\uc788\ub294 \uc778\ud130\ub137 \uc1fc\ud551\ubab0 \ud589\ubcf5\uc1fc\ud551 \uce21\uc5d0\uc11c \uc544\uc774\ud53c\uc528 \ub300\ud45c\uac00 \uc7a0\uc801\ud588\uc74c\uc744 \ud655\uc778\ud588\uc2b5\ub2c8\ub2e4. \u00a0 \ud55c\ud3b8 \uc9c1\uc6d0\ub4e4\uc740 \ub300\ud45c\uac00 \ubb3c\ud0f1\ud06c\uac00 \ud130\uc84c\uc73c\ub2c8 \ucd9c\uadfc\ud558\uc9c0 \ub9d0\ub77c\ub294 \ud1b5\ubcf4\ub97c \ubc1b\uc558\uc73c\uba70, \u00a0 \uc774 \ubb38\uc81c\uc5d0 \ub300\ud574 \ub300\ud45c\uac00 \uc9c1\uc811 \ud574\uba85\ud560\ud14c\ub2c8 \uc9c1\uc6d0\uc774 \uce74\ud398\ub098 \ud589\ubcf5\uc1fc\ud551 \ub4f1\uc744 \ud1b5\ud574 \ubc1c\uc124\ud558",
+                "fallback": "Clien: \ud074\ub9ac\uc559 &gt; \uc0c8\ub85c\uc6b4\uc18c\uc2dd &gt; \uc870\ub9bdPC\uc5c5\uccb4 'iPC(\uc544\uc774\ud53c\uc528)' \ub300\ud45c \uc7a0\uc801",
+                "from_url": "http:\/\/clien.net\/cs2\/bbs\/board.php?bo_table=news&wr_id=2153954",
+                "id": 1
+            }
+        ],
+        "ts": "1460684858.000072"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc694\uc998\ub3c4 \uc774\ub7f0\uc77c\uc774 \uc885\uc885 \uc0dd\uae30\ub294\uad70 \u3160\u3160",
+        "ts": "1460686070.000074"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "IMF \uc0dd\uac01\ub098\ub124...",
+        "ts": "1460686078.000075"
+    }
+]

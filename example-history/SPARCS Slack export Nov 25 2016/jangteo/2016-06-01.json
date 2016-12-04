@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<http:\/\/programmers.stackexchange.com\/questions\/225400\/pros-and-cons-of-facebooks-react-vs-web-components-polymer>",
+        "attachments": [
+            {
+                "title": "Pros and Cons of Facebook's React vs. Web Components (Polymer)",
+                "title_link": "http:\/\/programmers.stackexchange.com\/questions\/225400\/pros-and-cons-of-facebooks-react-vs-web-components-polymer",
+                "text": "What are the main benefits of Facebook's React over the upcoming Web Components spec and vice versa (or perhaps a more apples-to-apples comparison would be to Google's Polymer library)?According to",
+                "fallback": "Pros and Cons of Facebook's React vs. Web Components (Polymer)",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/programmers\/img\/apple-touch-icon@2.png?v=8a6d048f3c78&a",
+                "from_url": "http:\/\/programmers.stackexchange.com\/questions\/225400\/pros-and-cons-of-facebooks-react-vs-web-components-polymer",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/programmers\/img\/favicon.ico?v=28d2686ad0b9",
+                "service_name": "programmers.stackexchange.com",
+                "id": 1
+            }
+        ],
+        "ts": "1464843145.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub098\uc911\uc5d0 \uc77d\uc5b4\ubd10\uc57c\uc9c0 React vs Polymer 2\ub144 \uc804 \uae00\uc774\uae34 \ud568",
+        "ts": "1464843164.000042"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc601\uc5b4 \uc5b4\ub835\ub2f9...",
+        "ts": "1464843304.000043"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "2 years ago~",
+        "ts": "1464844143.000044"
+    }
+]

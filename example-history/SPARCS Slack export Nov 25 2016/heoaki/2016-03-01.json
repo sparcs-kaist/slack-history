@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":tada:",
+        "ts": "1456843368.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024U2P7Y|suckzo_o> has left the channel",
+        "ts": "1456843382.000003"
+    },
+    {
+        "user": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02PEJCVA|samjo> has left the channel",
+        "ts": "1456843834.000004"
+    }
+]

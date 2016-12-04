@@ -1,0 +1,631 @@
+[
+    {
+        "user": "U02F86M4W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F86M4W|chocho> has joined the channel",
+        "ts": "1454424829.000002"
+    },
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1454424893.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/320bdb3006ff80070d24d425de870e68f637b666|1 new commit> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/320bdb3006ff80070d24d425de870e68f637b666|320bdb3>: Connect with MariaDB - Seokju Hong",
+                "pretext": "[jangteo-api:master] 1 new commit by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434483.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card moved: \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\" from list \"DOING\" to list \"DONE\"",
+                "text": "Card moved: \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\" from list \"DOING\" to list \"DONE\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434538.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "*Description:* user id: jangteo",
+                "text": "*Description:* user id: jangteo",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434549.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "*Description:* user id: jangteo\npassword: tnfqkrtm",
+                "text": "*Description:* user id: jangteo\npassword: tnfqkrtm",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/NRFPhFvN|MariaDB integration>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434556.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card moved: \"<https:\/\/trello.com\/c\/vjcC40r9|\uc138\ud305 \uad00\ub828 README.md \uc791\uc131>\" from list \"ISSUES\" to list \"DOING\"",
+                "text": "Card moved: \"<https:\/\/trello.com\/c\/vjcC40r9|\uc138\ud305 \uad00\ub828 README.md \uc791\uc131>\" from list \"ISSUES\" to list \"DOING\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434564.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "@a1sams1a do it",
+                "text": "@a1sams1a do it",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uad6c\ud604>\" by suckzoo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434576.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card renamed from \"SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uad6c\ud604\" to \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c login success \ub530\uc624\ub294 \ud568\uc218 \uad6c\ud604>\"",
+                "text": "Card renamed from \"SPARCS SSO\ub85c \ub85c\uadf8\uc778 \uad6c\ud604\" to \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c login success \ub530\uc624\ub294 \ud568\uc218 \uad6c\ud604>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434602.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/nI07iS3y|User \ubaa8\ub378 \ud655\uc7a5>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/nI07iS3y|User \ubaa8\ub378 \ud655\uc7a5>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434611.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/1q7lIh5U|\ub85c\uadf8\uc778 \uad6c\ud604>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/1q7lIh5U|\ub85c\uadf8\uc778 \uad6c\ud604>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434623.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/a1sams1a|Sam Jo> added to card \"<https:\/\/trello.com\/c\/1q7lIh5U|\ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "text": "New member <https:\/\/trello.com\/a1sams1a|Sam Jo> added to card \"<https:\/\/trello.com\/c\/1q7lIh5U|\ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434630.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/1q7lIh5U|\ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "text": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/1q7lIh5U|\ub85c\uadf8\uc778 \uad6c\ud604>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434630.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/nI07iS3y|User \ubaa8\ub378 \ud655\uc7a5>\"",
+                "text": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/nI07iS3y|User \ubaa8\ub378 \ud655\uc7a5>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434635.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "give me a guide",
+                "text": "give me a guide",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c login success \ub530\uc624\ub294 \ud568\uc218 \uad6c\ud604>\" by suckzoo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434928.000016"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "*Description:* \ud14c\uc2a4\ud2b8\uc6a9 \ud558\ub098 \/ \ubc30\ud3ec\uc6a9 \ud558\ub098 \uc694\ub85c\ucf00 \ub450 \uac1c",
+                "text": "*Description:* \ud14c\uc2a4\ud2b8\uc6a9 \ud558\ub098 \/ \ubc30\ud3ec\uc6a9 \ud558\ub098 \uc694\ub85c\ucf00 \ub450 \uac1c",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/tUAUO2EI|Dockerfile \uc791\uc131>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434940.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434970.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454434993.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New checklist \"<https:\/\/trello.com\/c\/qa7Hk4hw|\uad6c\ud604\ud560 \ubaa8\ub378>\" added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "text": "New checklist \"<https:\/\/trello.com\/c\/qa7Hk4hw|\uad6c\ud604\ud560 \ubaa8\ub378>\" added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435002.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New checklist item \"<https:\/\/trello.com\/c\/qa7Hk4hw|https:\/\/trello.com\/c\/2BoMxfUa\/10-nickname-history>\" added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "text": "New checklist item \"<https:\/\/trello.com\/c\/qa7Hk4hw|https:\/\/trello.com\/c\/2BoMxfUa\/10-nickname-history>\" added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435012.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "\uccb4\ud06c\ub9ac\uc2a4\ud2b8+\uc11c\ube0c\uce74\ub4dc \ud615\uc2dd\uc73c\ub85c \ub4f1\ub85d\ud574\uc8fc\uc138\uc591",
+                "text": "\uccb4\ud06c\ub9ac\uc2a4\ud2b8+\uc11c\ube0c\uce74\ub4dc \ud615\uc2dd\uc73c\ub85c \ub4f1\ub85d\ud574\uc8fc\uc138\uc591",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\" by suckzoo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435024.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\"",
+                "text": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435032.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "text": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435036.000024"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/a1sams1a|Sam Jo> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "text": "New member <https:\/\/trello.com\/a1sams1a|Sam Jo> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435037.000025"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "text": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435039.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "text": "New member <https:\/\/trello.com\/suckzoo|suckzoo> added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435039.000027"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "\ub9cc\ub4e4 \ubaa8\ub378\ub3c4 \uc880 \ucd94\uac00\ud574\uc8fc\uc2dc\uace0...",
+                "text": "\ub9cc\ub4e4 \ubaa8\ub378\ub3c4 \uc880 \ucd94\uac00\ud574\uc8fc\uc2dc\uace0...",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\" by suckzoo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435048.000028"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card moved: \"<https:\/\/trello.com\/c\/nI07iS3y|User \ubaa8\ub378 \ud655\uc7a5>\" from list \"ISSUES\" to list \"DOING\"",
+                "text": "Card moved: \"<https:\/\/trello.com\/c\/nI07iS3y|User \ubaa8\ub378 \ud655\uc7a5>\" from list \"ISSUES\" to list \"DOING\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435056.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/SkUKZxnv|\ud68c\uc758\ud588\ub358 \uac70>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|NOTE>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/SkUKZxnv|\ud68c\uc758\ud588\ub358 \uac70>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|NOTE>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435075.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "<https:\/\/docs.google.com\/document\/d\/14iFA69vxhMafQm8_VzdQwPKbsVQpuEd4TTTiEFxYGmA\/>",
+                "text": "<https:\/\/docs.google.com\/document\/d\/14iFA69vxhMafQm8_VzdQwPKbsVQpuEd4TTTiEFxYGmA\/>",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/SkUKZxnv|\ud68c\uc758\ud588\ub358 \uac70>\" by suckzoo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435078.000031"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "*Description:* \ub9c1\ud06c\ub97c\ub0a8\uae40\u3134\ubbf8\ub2e4",
+                "text": "*Description:* \ub9c1\ud06c\ub97c\ub0a8\uae40\u3134\ubbf8\ub2e4",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/SkUKZxnv|\ud68c\uc758\ud588\ub358 \uac70>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435084.000032"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "\uae30\ubcf8 \uc138\ud305\uc740 \uc801\uc5c8\uace0 DB integration \ud558\ub294 \ubd80\ubd84\uc744 \uc801\uc5b4\ub4dc\ub824\uc57c \ud558\ub294\ub370 \uc74c\uc624\uc544\uc608",
+                "text": "\uae30\ubcf8 \uc138\ud305\uc740 \uc801\uc5c8\uace0 DB integration \ud558\ub294 \ubd80\ubd84\uc744 \uc801\uc5b4\ub4dc\ub824\uc57c \ud558\ub294\ub370 \uc74c\uc624\uc544\uc608",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/vjcC40r9|\uc138\ud305 \uad00\ub828 README.md \uc791\uc131>\" by suckzoo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435111.000033"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/x4Ry8tXt|[\ubaa8\ub378] product>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/x4Ry8tXt|[\ubaa8\ub378] product>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435144.000034"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New checklist item \"<https:\/\/trello.com\/c\/qa7Hk4hw|https:\/\/trello.com\/c\/x4Ry8tXt\/12-product>\" added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "text": "New checklist item \"<https:\/\/trello.com\/c\/qa7Hk4hw|https:\/\/trello.com\/c\/x4Ry8tXt\/12-product>\" added to card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435156.000035"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/x4Ry8tXt|[\ubaa8\ub378] product>\"",
+                "text": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/x4Ry8tXt|[\ubaa8\ub378] product>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435160.000036"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\"",
+                "text": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435163.000037"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/x4Ry8tXt|[\ubaa8\ub378] product>\"",
+                "text": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/x4Ry8tXt|[\ubaa8\ub378] product>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454435166.000038"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "@suckzoo \nLibrary: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/blob\/master\/client\/sparcssso.py> (Python)\nDocs: <https:\/\/sparcssso.kaist.ac.kr\/doc\/dev\/>",
+                "text": "@suckzoo \nLibrary: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/blob\/master\/client\/sparcssso.py> (Python)\nDocs: <https:\/\/sparcssso.kaist.ac.kr\/doc\/dev\/>",
+                "pretext": "New comment on card \"<https:\/\/trello.com\/c\/LtX1yPQC|SPARCS SSO\ub85c login success \ub530\uc624\ub294 \ud568\uc218 \uad6c\ud604>\" by Sam Jo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454464043.000039"
+    }
+]

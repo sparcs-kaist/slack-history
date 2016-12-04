@@ -1,0 +1,345 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "<http:\/\/programmers.stackexchange.com\/questions\/114156\/why-there-are-no-put-and-delete-methods-in-html-forms>",
+        "attachments": [
+            {
+                "title": "Why there are no PUT and DELETE methods in HTML forms?",
+                "title_link": "http:\/\/programmers.stackexchange.com\/questions\/114156\/why-there-are-no-put-and-delete-methods-in-html-forms",
+                "text": "HTML4 \/ XHTML1 allows only GET and POST in forms, now it seems like HTML5 will do the same. There is a proposal to add these two but it doesn't seem to be gaining traction. What were the technical or ",
+                "fallback": "Why there are no PUT and DELETE methods in HTML forms?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/programmers\/img\/apple-touch-icon@2.png?v=8a6d048f3c78",
+                "from_url": "http:\/\/programmers.stackexchange.com\/questions\/114156\/why-there-are-no-put-and-delete-methods-in-html-forms",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1
+            }
+        ],
+        "ts": "1392883542.000070"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\uc694\uac78 \ubcf4\ub294\uac8c \uc81c\uc77c \ub098\uc744 \uac70 \uac19\ub2e4",
+        "ts": "1392883550.000072"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "2\ud638\uc120",
+        "ts": "1392889708.000073"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc9c0\ubbfc\uc774 \uc9d1\uae4c\uc9c0 \uc5f0\uc7a5\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1392889718.000074"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ub9ce\uc740 \uc774\uc6a9 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4.",
+        "ts": "1392889722.000075"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b",
+        "ts": "1392889723.000076"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc624... \uc774\ub530 \ubc29\uc5d0 \uac00\uba74 \ud655\uc778\ud574\ubcf4\uaca0\uc74c!",
+        "ts": "1392892020.000077"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uadf8\ub098\uc800\ub098 \ub9c8\ud06c \ubd07\uc744 \uc774 \ucc44\ub110\ub85c \uc62e\uaca8\uc57c \ud560 \ud150\ub370 ...",
+        "ts": "1392892031.000078"
+    },
+    {
+        "user": "U025A5H26",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025A5H26|mcsparcs> has joined the channel",
+        "ts": "1392892267.000079"
+    },
+    {
+        "type": "message",
+        "user": "U025A5H26",
+        "text": "\uc77c\ub2e8 \ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uacc4\uc815 \ub530\ub85c \ub9cc\ub4e4\uc5c8\uace0;",
+        "ts": "1392892292.000080"
+    },
+    {
+        "type": "message",
+        "user": "U025A5H26",
+        "text": "\uc774\uc81c IRC \uac8c\uc774\ud2b8\uc6e8\uc774\uc5d0 \uc811\uc18d\ud558\ub3c4\ub85d \ubd07\uc744 \ub2e4\uc2dc \uc124\uc815\ud558\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1392892314.000081"
+    },
+    {
+        "type": "message",
+        "user": "U025A5H26",
+        "text": "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8 \uacc4\uc815 \ube44\ubc88\uc740 \ub450\ubc8c\uc2dd \uc601\ud0c0\ub85c \"\uc220\ubc15\uc2a4\ud06c\ub798\ud504\ud2b8\"\uc774\ub2c8 \ucc38\uace0\ud558\uc2dc\uace0 ...",
+        "ts": "1392892335.000082"
+    },
+    {
+        "type": "message",
+        "user": "U025A5H26",
+        "text": "aaa",
+        "ts": "1392892900.000083"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud750\uc74c ...",
+        "ts": "1392893334.000084"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc65c \uac8c\uc774\ud2b8\uc6e8\uc774 \uc18c\ucf13 \uc811\uc18d\uc774 hang\ub418\uc9c0...",
+        "ts": "1392893344.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud638\uc2a4\ud305 \ubc29\ud654\ubcbd \uc138\ud305\ub3c4 \ud655\uc778\ud588\ub294\ub370...",
+        "ts": "1392893369.000086"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc77c\ub2e8 \ud638\uc2a4\ud305 \uc5c5\uccb4\uc5d0 \ubb38\uc758 \ub123\uc5c8\uace0...",
+        "ts": "1392895000.000087"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud559\uad50\ub9dd\uc740 \uba85\uc2dc\uc801\uc73c\ub85c 6667\ud3ec\ud2b8 \uc811\uc18d\uc744 \ub9c9\uace0 \uc788\uae30 \ub54c\ubb38\uc5d0 \ud14c\uc2a4\ud2b8\uac00 \ubd88\uac00\ub2a5\ud558\ub2c8",
+        "ts": "1392895012.000088"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc77c\ubc18 KT ISP \uc0ac\uc6a9\ud558\ub294 \uc9d1\uc5d0 \uac00\uc11c \ub530\ub85c \ud14c\uc2a4\ud2b8\ud574\ubcf4\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1392895028.000089"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uadf8 \ub3d9\uc548\uc740 \uc7a0\uc2dc \ubd07\uc744 \ub0b4\ub9ac\ub2c8 \ucc38\uace0\ud558\uc2dc\uae38.",
+        "ts": "1392895046.000090"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub9c8\ud06c \ubd07\uc744 \uc5ec\uae30\ub85c \uc62e\uae30\ub294\uac83\ubcf4\ub2e4",
+        "ts": "1392896800.000091"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "--; \uc774\ub807\uac8c \ud558\uba74 IRC\ub85c \uc548\uac00\uace0 \ub9c8\ud06c\ucc44\ud305 \uc73c\ub85c \ub418\uac8c\ud558\ub294\uac74 \uc5b4\ub54c\uc694",
+        "ts": "1392896813.000092"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uadf8\ub798\ub3c4 \ubd84\ub9ac\ud574\ub193\ub294 \uac8c \ud3b8\ud558\uc9c0 \uc54a\uc744\uae4c",
+        "ts": "1392897974.000093"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc811\uc18d \ubb38\uc81c\ub9cc \ud574\uacb0\ub418\uba74 \ub418\ub294\ub370...",
+        "ts": "1392897982.000094"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub9c8\ud06c\uc5d0\uc11c IRC\ub418\ub294\uac83\ub3c4 \ud3b8\ud558\uae34 \ud574\uc11c\uc694 \u314b\u314b\u314b",
+        "ts": "1392898834.000095"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544 \ubb50 \ub2e4\ub4e4 \uc694\uc998 slack\uc73c\ub85c \uc654\uc73c\ub2c8 \uc0c1\uad00 \uc5c6\uae34 \ud558\uac8c\uc388\uc694",
+        "ts": "1392898843.000096"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "<http:\/\/img.wonderhowto.com\/img\/04\/18\/63484704264442\/0\/show-off-your-favorite-sport-weeks-minecraft-building-competition.w654.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/img.wonderhowto.com\/img\/04\/18\/63484704264442\/0\/show-off-your-favorite-sport-weeks-minecraft-building-competition.w654.jpg",
+                "fallback": "654x449px image",
+                "image_url": "http:\/\/img.wonderhowto.com\/img\/04\/18\/63484704264442\/0\/show-off-your-favorite-sport-weeks-minecraft-building-competition.w654.jpg",
+                "image_width": 654,
+                "image_height": 449,
+                "image_bytes": 98811,
+                "id": 1
+            }
+        ],
+        "ts": "1392906290.000097"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ud5d0\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1392907547.000099"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "I don't like night",
+        "ts": "1392910776.000100"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544 \uc5ec\uae30\ub294 \ud55c\uae00\ub418\uc9c0",
+        "ts": "1392910778.000101"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ubc24\uc774 \uc2eb\uc5b4\uc694",
+        "ts": "1392910781.000102"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b",
+        "ts": "1392912089.000103"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "i love night with weapon",
+        "ts": "1392912099.000104"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\u3160\u3160",
+        "ts": "1392919181.000105"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc65c 6667\ubc88 \ud3ec\ud2b8 \uc678\ubd80 \uc811\uc18d\uc774 \uc548 \ub418\ub294 \uac78\uae4c ",
+        "ts": "1392919194.000106"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "tcptraceroute\uc774\ub780 \uac8c \uc788\uc5b4\uc11c \uc2e4\ud589\ud574\ubcf4\ub2c8",
+        "ts": "1392919833.000107"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "6667\ubc88 \ud3ec\ud2b8\ub9cc \uc2a4\uc704\uce58 \ub808\ubca8\uc5d0\uc11c \ubc14\ub85c \ub9c9\ud788\ub294 \uac83 \uac19\uace0",
+        "ts": "1392919839.000108"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ub2e4\ub978 \ud3ec\ud2b8\ub294 \ud638\uc2a4\ud305\ud68c\uc0ac \ubc29\ud654\ubcbd \ucc28\ub2e8\ub418\uc5b4 \uc788\ub354\ub77c\ub3c4 \uc77c\ub2e8 first hop\uc740 \uac00\ub294\ub370",
+        "ts": "1392919864.000109"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc774\uac74 \ub3c4\ub300\uccb4 \ubb50\uc9c0...",
+        "ts": "1392919869.000110"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud558 \ud68c\uc0ac\uc5d0\uc11c \ub9c8\ud06c\ud558\uace0 \uc2f6\uc5b4\uc694",
+        "ts": "1392949685.000111"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b\u314b\u314b\ub9c8\ud06c \uc911\ub3c5 \ud604\uc0c1",
+        "ts": "1392953731.000112"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc544 \uc694\uc998 \ub3c4\ub85c\ub9cc \ubcf4\uba74",
+        "ts": "1392953738.000113"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ub9c8\ud06c\ud558\uace0 \uc2f6\uc74c",
+        "ts": "1392953742.000114"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc660\uc9c0 \uc9c4\uc9dc \uc9c0\ud558\ucca0\ucc98\ub7fc \uc7a0\uae50\ub9cc \uc130\ub2e4\uac00 \uc9c0\ub098\uac00\ub294 \uac78 \ub9cc\ub4e4\uace0 \uc2f6\uae30\ub3c4 \ud558\uace0 \u314b\u314b",
+        "ts": "1392953772.000115"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1392953831.000116"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ud750\uc5c9 \ud070 \ubc30 \ub9cc\ub4e4\uc5b4\uc11c \uadf8\uac70 \uc2e4\uc81c\ub85c \uc6c0\uc9c1\uc774\uba74 \uc9c4\uc9dc \uc7ac\ubbf8\uc788\uaca0\ub294\ub370",
+        "ts": "1392953876.000117"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc544\ub194 \ud638\uc2a4\ud305 \ud68c\uc0ac\uc5d0 \ubd84\uba85\ud788 \uc678\ubd80\ub85c 6667 \ud3ec\ud2b8 \uc811\uc18d\ud558\ub294 \uac70 \uc5f4\uc5b4\ub2ec\ub7ac\ub354\ub2c8",
+        "ts": "1392954103.000118"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ub0b4 \uc11c\ubc84\uc5d0\uc11c listen\ud558\ub294 \uacbd\uc6b0\ub97c \uc5f4\uc5b4\uc92c\ub124",
+        "ts": "1392954112.000119"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "-_-",
+        "ts": "1392954113.000120"
+    },
+    {
+        "type": "message",
+        "user": "U024SN37L",
+        "text": "\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1392954277.000121"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1392955399.000122"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud638\uc2a4\ud305 \uc5c5\uccb4\uc5d0 \uc804\ud654\ud588\uc73c\ub2c8 \uae30\ub2e4\ub824\ubd05\uc2dc\ub2e4",
+        "ts": "1392963409.000123"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "...",
+        "ts": "1392963410.000124"
+    }
+]

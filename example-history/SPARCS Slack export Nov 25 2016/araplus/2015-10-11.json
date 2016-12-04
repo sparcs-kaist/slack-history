@@ -1,0 +1,503 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board3|board3>\" was pushed by sparcsJara",
+                "text": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board3|board3>\" was pushed by sparcsJara",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1444565823.000080"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ec1dc60a3bce34a6461025b2207720d00cd88582|1 new commit> by jara",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ec1dc60a3bce34a6461025b2207720d00cd88582|ec1dc60>: implement comment pagination &amp; signiture - jara",
+                "pretext": "[araplus:board] 1 new commit by jara:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1444565939.000081"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] The branch \"board3\" was deleted by Shavakan",
+                "text": "[araplus] The branch \"board3\" was deleted by Shavakan",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1444566032.000082"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5629f497658dd503741a238393f37e4da6b687b0|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5629f497658dd503741a238393f37e4da6b687b0|5629f49>: add log settings; add notice - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1444566510.000083"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "Q. \ud68c\uc6d0 \ud0c8\ud1f4 \uae30\ub2a5\uc744 SPARCS SSO\uc5d0\uc11c \uc9c0\uc6d0\ud574\uc57c \ud560\uae4c\uc694?",
+        "ts": "1444567003.000084"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5b4\ub824\uc6b4 \uc9c8\ubb38\uc744...",
+        "ts": "1444569270.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc544\ub77c \ud68c\uc6d0 \ud0c8\ud1f4\uc640 SPARCS SSO \ud68c\uc6d0 \ud0c8\ud1f4\uac00 \ubcc4\ub3c4\uc758 \uae30\ub2a5\uc774\uc5b4\uc57c\ud558\uc9c0 \uc54a\uc744\uae4c\uc694?",
+        "ts": "1444573319.000086"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc77c\ub2e8",
+        "ts": "1444574610.000087"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub0b4 sso\uacc4\uc815\uacfc \uc544\ub77c\uc758 \uc5f0\ub3d9\uc744 \ub04a\ub294\uac74",
+        "ts": "1444574618.000088"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc788\uc5b4\uc57c\uaca0\uc8e0?",
+        "ts": "1444574620.000089"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\u3147\u3147 \uadf8\uac8c \uc544\ub77c\ud68c\uc6d0\ud0c8\ud1f4\ub77c\uace0 \uc0dd\uac01\ud558\uace0\uc694",
+        "ts": "1444574666.000090"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "SSO \ud0c8\ud1f4\ub3c4 \ubd84\uba85 \ud574\uc8fc\uc138\uc694 \ube7c\uc560\uc561\ud558\ub294 \uacbd\uc6b0\uac00 \uc0dd\uae38\uac83\ub9cc \uac19\uc740\ub370",
+        "ts": "1444574690.000091"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "delete from user where\u2026",
+        "ts": "1444576285.000092"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "SSO \ud0c8\ud1f4\ub97c \uc694\uccad\ud558\uba74",
+        "ts": "1444577381.000093"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "ARA, OTL, ZABO \ub4f1\ub4f1 \ubaa8\ub4e0 \uc11c\ube44\uc2a4\uc5d0\uc11c \ud0c8\ud1f4\ud55c \ud6c4 \ud0c8\ud1f4\uc2dc\ucf1c\uc8fc\ub294\uac8c \ub9de\uc9c0 \uc54a\uc744\uae4c?",
+        "ts": "1444577396.000094"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uad00\ub828 \uc720\uc800\ud504\ub85c\ud544\uc744 \ub0a0\ub9ac\uace0 sso\uacc4\uc815\uc744 \ub0a0\ub824\uc57c\uaca0\uc8e0?",
+        "ts": "1444578429.000095"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc74c \ub0b4\ub9d0\uc740",
+        "ts": "1444579451.000096"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "sso \ud0c8\ud1f4\ub97c \ud558\ub824\uba74 \uc774\ubbf8 \ub2e4\ub978 \uacc4\uc815\uc815\ubcf4\ub4e4\uc744 \ub0a0\ub824\ubc84\ub9b0 \uc0c1\ud0dc\uc5ec\uc57c \ud558\uc9c0 \uc54a\uc744\uae4c\ud558\ub294",
+        "ts": "1444579474.000097"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "sso \uacc4\uc815\uc744 \ub0a0\ub9b4\ub798\uc694! \ub77c\uace0 \uadf8\ub7f0\ub2e4\uace0 \uadf8\ub798! \uadf8\ub7ec\uace0 \uc790\ub3d9\uc73c\ub85c \ub2e4 \ub0a0\ub824\uc8fc\ub294\uac8c \uc544\ub2c8\ub77c",
+        "ts": "1444579491.000098"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc0ac\uc6a9\uc790 \ud3b8\uc758\ub97c \uc0dd\uac01\ud558\uba74",
+        "ts": "1444581072.000099"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub0a0\ub9b4\ub798\uc694! -&gt; \ub2e4 \ub0a0\uc544\uac00\ub294\ub370 \uad1c\ucc2e\uaca0\uc5b4\uc694? -&gt; \ub124! -&gt; \ud391!",
+        "ts": "1444581083.000100"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc774 \ub0ab\uc9c0\uc54a\ub098\uc694",
+        "ts": "1444581086.000101"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubd84\uba85 \uc5b4\ub5a4 \uba4d\uccad\uc774\uac00",
+        "ts": "1444614682.000102"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc544\ub77c \ud0c8\ud1f4\ud588\ub294\ub370 OTL \uc2dc\uac04\ud45c\uac00 \ub0a0\uc544\uac14\uc5b4\uc694!",
+        "ts": "1444614690.000103"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ud558\ub294 \uba4d\uccad\uc774\uac00 \ub4f1\uc7a5\ud560\uac70\uc57c",
+        "ts": "1444614695.000104"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "SSO\uc7bc",
+        "ts": "1444614703.000105"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "OTL \ub4f1 \ub2e4\ub978 SPARCS \uc11c\ube44\uc2a4\uc758 \uc790\ub8cc\ub3c4 \uc0ad\uc81c\ub429\ub2c8\ub2e4. \uacc4\uc18d \uc9c4\ud589\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c? (Y\/N)",
+        "edited": {
+            "user": "U026NDWJW",
+            "ts": "1444614776.000000"
+        },
+        "ts": "1444614739.000106"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ubb38\uc81c\uc810\n1. SSO\uc5d0\uc11c \ub2e4\ub978 \uc0ac\uc774\ud2b8 \uc0ac\uc6a9 \uc5ec\ubd80\ub97c \uc54c \uc218 \uc5c6\uc74c\n2. SSO\uc5d0\uc11c \ud68c\uc6d0\ud0c8\ud1f4\ub97c \ud588\uc744 \ub54c \ub2e4\ub978 \uc11c\ube44\uc2a4 \ud68c\uc6d0\ud0c8\ud1f4 \ubc0f \uc790\ub8cc \uc0ad\uc81c\ub97c \uc790\ub3d9\uc73c\ub85c \uc9c4\ud589\ud558\ub824\uba74 API \uac19\uc740\uac70\ub97c \ub9cc\ub4e4\uc5b4\uc57c \ud558\ub294\ub370 \ubcf4\uc548\uc774 \uac71\uc815\ub428",
+        "ts": "1444621814.000110"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "+ KAIST SSO \uc9c1\uc6d0\uc774 \ub2f5\uc774 \uc5c6\uc2b5\ub2c8\ub2e4... \u315c\u315c",
+        "ts": "1444621840.000111"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/7587793dc66d0726ef99610d7aa678ec10668e6f|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/7587793dc66d0726ef99610d7aa678ec10668e6f|7587793>: change directory of production log - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1444622569.000112"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc789 \uc0ac\uc6a9\uc5ec\ubd80\ub97c \uc54c\uc218\uc5c6\ub098?",
+        "ts": "1444624291.000113"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U02KZSK9L|story> uploaded a file: <https:\/\/sparcs.slack.com\/files\/story\/F0C8Z52NQ\/_____________2015-10-12________1.32.18.png|\uc2a4\ud06c\ub9b0\uc0f7 2015-10-12 \uc624\ud6c4 1.32.18.png>",
+        "file": {
+            "id": "F0C8Z52NQ",
+            "created": 1444624358,
+            "timestamp": 1444624358,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2015-10-12 \uc624\ud6c4 1.32.18.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2015-10-12 \uc624\ud6c4 1.32.18.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U02KZSK9L",
+            "editable": false,
+            "size": 60671,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0C8Z52NQ\/_____________2015-10-12________1.32.18.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0C8Z52NQ\/download\/_____________2015-10-12________1.32.18.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0C8Z52NQ-8155b84f49\/_____________2015-10-12________1.32.18_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0C8Z52NQ-8155b84f49\/_____________2015-10-12________1.32.18_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0C8Z52NQ-8155b84f49\/_____________2015-10-12________1.32.18_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 196,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0C8Z52NQ-8155b84f49\/_____________2015-10-12________1.32.18_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 261,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0C8Z52NQ-8155b84f49\/_____________2015-10-12________1.32.18_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 378,
+            "original_h": 694,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/story\/F0C8Z52NQ\/_____________2015-10-12________1.32.18.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0C8Z52NQ-2df1fe0356",
+            "channels": [
+                "C071D362F"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U02KZSK9L",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U02KZSK9L|story>",
+        "bot_id": null,
+        "ts": "1444624359.000114"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5ec\uae30\uc788\ub294 \uc571 = sso \uad00\uc810\uc5d0\uc11c \uc544\ub77c, otl, ...",
+        "ts": "1444624371.000115"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc774\ub7f0 \uac1c\ub150 \uc544\ub2cc\uac00 \uc9c0\uae08",
+        "ts": "1444624374.000116"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub9de\uc544\uc5ec",
+        "ts": "1444626414.000117"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uadfc\ub370 \ud398\ubd81 sso\uc640\ub294 \ub2e4\ub974\uac8c \ub3d9\uc791\ud574\uc11c",
+        "ts": "1444626423.000118"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "sparcs sso\uc5d0\uc11c\ub294 \ubab0\ub77c\uc694...",
+        "ts": "1444626438.000119"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uadf8\ub7fc",
+        "ts": "1444626470.000120"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uac1c\ubcc4\uc801\uc778 \uc11c\ube44\uc2a4\uc5d0 \ub300\ud55c \ud0c8\ud1f4\ub294",
+        "ts": "1444626474.000121"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5b4\ub5bb\uac8c \uad6c\ud604\uc774 \ub418\ub294\uac70?",
+        "ts": "1444626476.000122"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5f0\ub3d9\uc744 \ub04a\ub294\ub2e4\uace0 \ud574\uc57c\ud558\ub098",
+        "ts": "1444626480.000123"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uae30\ubcf8\uc801\uc73c\ub85c sso \uc11c\ube44\uc2a4\ub97c \uac00\uc785\ud574\uc57c \uc2a4\ud31f\uc2a4 \ubaa8\ub4e0 \uc11c\ube44\uc2a4 \uc774\uc6a9 \uac00\ub2a5\ud558\uace0",
+        "ts": "1444627083.000124"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544\ub77c \uc624\ud2f0\uc5d8\uc740 \uadf8 \ud655\uc7a5\uae30\ub2a5\uc73c\ub85c?",
+        "ts": "1444627102.000125"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc11c\ube44\uc2a4 \uac00\uc785\ud560 \ub54c &lt;sso id, araplus id, \uc5b4\uca4c\uad6c\uc800\uca4c\uad6c&gt;\ub97c \uc800\uc7a5\ud558\ub294\ub370 \ud0c8\ud1f4\uc2dc\uc5d0\ub294 \uc800 \ub370\uc774\ud130 row\ub97c \uc9c0\uc6b0\uac70\ub098 sso id \ubd80\ubd84\uc744 \uacf5\ubc31\ucc98\ub9ac\ud558\ub294 \ubc29\ubc95\uc744 \uc368\uc57c \ud560\uac70 \uac19\uc544\uc694",
+        "ts": "1444628265.000126"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc800\uac74 \uc11c\ube44\uc2a4\ucc28\uc6d0\uc5d0\uc11c",
+        "ts": "1444628284.000127"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc800\uc7a5\ub418\ub294\uac70?",
+        "ts": "1444628286.000128"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uae30\ubcf8\uc801\uc73c\ub85c sso\uc5d0 \uac00\uc785\ud574\uc57c\uc9c0\ub9cc \ub098\uba38\uc9c0 \uc2a4\ud30d\uc2a4 \uc11c\ube44\uc2a4\ub97c \uc0ac\uc6a9\uac00\ub2a5\ud558\ub3c4\ub85d \uc124\uacc4\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1444628301.000129"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<@U02KZSK9L> \ub124",
+        "edited": {
+            "user": "U02PEJCVA",
+            "ts": "1444628318.000000"
+        },
+        "ts": "1444628304.000130"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "sso\uc5d0\uc11c\ub294 \uc0ac\uc6a9\uc790\uac00 \uc5b4\ub290 app\uc744 \uc0ac\uc6a9\ud558\ub294\uc9c0 \ud604\uc7ac\ub85c\uc368\ub294 \uc800\uc7a5\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4",
+        "ts": "1444628344.000132"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud760 \uadfc\ub370",
+        "ts": "1444628957.000133"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc800\uc7a5\uc744 \ud558\ub294\uac8c \ub9de\uc9c0\uc54a\uc744\uae4c?",
+        "ts": "1444628962.000134"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5b4\ub824\uc6b4 \uc77c\uc740",
+        "ts": "1444628964.000135"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc544\ub2c8\ub77c\uace0\uc0dd\uac01\ud558\ub294\ub370",
+        "ts": "1444628968.000136"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uadf8\ub0e5 &lt;sso id, araplus id&gt; \ud398\uc5b4\ub9cc \uc800\uc7a5\ud574\ub46c\ub3c4",
+        "ts": "1444628978.000137"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ucda9\ubd84\ud788 \ud3b8\ub9ac\ud560\uac70\uac19\uace0",
+        "ts": "1444628986.000138"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc800\uc7a5\uc744 \ud558\ub294\uac8c",
+        "ts": "1444629123.000139"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub9de\uc744\uac70\uac19\uace0",
+        "ts": "1444629125.000140"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc11c\ube44\uc2a4 unlink \uae30\ub2a5\ub3c4",
+        "ts": "1444629135.000141"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "sso\uc5d0\uc11c \uc9c0\uc6d0\ud558\ub294\uac8c \uc77c\ubc18\uc801\uc778\ub4ef",
+        "ts": "1444629139.000142"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544 \uc9c0\uae08 \ubcf4\ub2c8\uae4c araplus id\ub294 \ub530\ub85c \uc5c6\uc5b4\uc694",
+        "ts": "1444631325.000143"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "sso id\ub97c \uadf8\ub300\ub85c \uc4f0\uace0 \uc788\uc5b4\uc694",
+        "ts": "1444631336.000144"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "ara\uac00\uc785\uc2dc\uc5d0",
+        "ts": "1444633182.000145"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "sso cookie\ub97c \ud560\ub2f9\ubc1b\uace0",
+        "ts": "1444633190.000146"
+    }
+]

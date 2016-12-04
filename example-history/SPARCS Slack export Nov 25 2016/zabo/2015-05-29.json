@@ -1,0 +1,453 @@
+[
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106713696|#49: REST API \uad6c\ud604>",
+                "text": "\ubc29\ubc95\uc744 \uc0dd\uac01\ud574\ubcf4\uba74,\n  1. \ud604\uc7ac Django \uc548\uc5d0 url\uc744 \ubd84\ub9ac\ud558\uae30\n  2. Python\uc73c\ub85c Django \ud658\uacbd\ub9cc \uacf5\uc720\ud574\uc11c \uc0c8\ub85c\uc6b4 WebApp\uc744 \ub9cc\ub4e4\uae30\n  3. DB\ub9cc \uacf5\uc720\ud574\uc11c SQL\uc774\ub098 \ub2e4\ub978 ORM\uc73c\ub85c \uc811\uadfc\ud558\uae30\n\n@leeopop 3\ubc88\uc744 \uc758\ubbf8\ud558\uc2e0\uac74\uc9c0? \uc544\ub2c8\uba74 \uc880 \ub354 \ud78c\ud2b8\ub97c;;; \uadfc\ub370 html\uc774\ub791 api\ub97c \uc798 \ubc30\ubd84\ud558\ub294 \ud328\ud134\uc774 \uc788\ub294\uc9c0 \uad81\uae08\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106713696|#49: REST API \uad6c\ud604>",
+                "title": "Comment by horknox\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432882851.000432"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/50|#50 google analytics \ubd99\uc774\uae30> by <https:\/\/github.com\/horknox|horknox>",
+                "text": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/50|#50 google analytics \ubd99\uc774\uae30> by <https:\/\/github.com\/horknox|horknox>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432882861.000433"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/38|#38 \uae00 \uc4f0\ub2e4\uac00 \uc784\uc2dc \uc800\uc7a5\ub418\uba74 \ub0b4\uc6a9 \ubd80\ubd84\uc758 \ucee4\uc11c \uc704\uce58\uac00 \uc774\ub3d9> by <https:\/\/github.com\/horknox|horknox>",
+                "text": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/38|#38 \uae00 \uc4f0\ub2e4\uac00 \uc784\uc2dc \uc800\uc7a5\ub418\uba74 \ub0b4\uc6a9 \ubd80\ubd84\uc758 \ucee4\uc11c \uc704\uce58\uac00 \uc774\ub3d9> by <https:\/\/github.com\/horknox|horknox>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432882886.000434"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/36|#36 \uba54\uc778\ud398\uc774\uc9c0 UI \uc218\uc815> by <https:\/\/github.com\/horknox|horknox>",
+                "text": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/36|#36 \uba54\uc778\ud398\uc774\uc9c0 UI \uc218\uc815> by <https:\/\/github.com\/horknox|horknox>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432882909.000435"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106717876|#49: REST API \uad6c\ud604>",
+                "text": "Url \ubd84\ub9ac\ub85c \uc2dc\uc791\ud558\uace0 \ub098\uc911\uc5d0 \uc11c\ube0c\ub3c4\uba54\uc778\uc73c\ub85c \ube7c\ub294\uac8c \uc88b\uc744 \uac83 \uac19\ub124\uc694. \ucf54\ub4dc\ubca0\uc774\uc2a4\ub294 \uacf5\uc720\ud558\ub294\uac78\ub85c \ud558\uad6c\uc694. Model\uc774\ub098 \uc774\ub7f0\uac83 \uc815\uc758\ud558\ub294\uac8c\n\uacb9\uce60\uac70\ub77c\uc11c \ucf54\ub4dc\ubca0\uc774\uc2a4 \ub098\ub204\ub294\uac74 \ubcc4\ub85c\uc77c \ub4ef \ud558\ub124\uc694.\n\n2015\ub144 5\uc6d4 29\uc77c \uae08\uc694\uc77c, horknox<mailto:notifications@github.com|notifications@github.com>\ub2d8\uc774 \uc791\uc131\ud55c \uba54\uc2dc\uc9c0:\n\n&gt; \ubc29\ubc95\uc744 \uc0dd\uac01\ud574\ubcf4\uba74,\n&gt;   1. \ud604\uc7ac Django \uc548\uc5d0 url\uc744 \ubd84\ub9ac\ud558\uae30\n&gt;   2. Python\uc73c\ub85c Django \ud658\uacbd\ub9cc \uacf5\uc720\ud574\uc11c \uc0c8\ub85c\uc6b4 WebApp\uc744 \ub9cc\ub4e4\uae30\n&gt;   3. DB\ub9cc \uacf5\uc720\ud574\uc11c SQL\uc774\ub098 \ub2e4\ub978 ORM\uc73c\ub85c \uc811\uadfc\ud558\uae30\n&gt; \n&gt; @leeopop <https:\/\/github.com\/leeopop> 3\ubc88\uc744 \uc758\ubbf8\ud558\uc2e0\uac74\uc9c0? \uc544\ub2c8\uba74 \uc880 \ub354 \ud78c\ud2b8\ub97c;;; \uadfc\ub370\n&gt; html\uc774\ub791 api\ub97c \uc798 \ubc30\ubd84\ud558\ub294 \ud328\ud134\uc774 \uc788\ub294\uc9c0 \uad81\uae08\ud569\ub2c8\ub2e4.\n&gt; \n&gt; \u2014\n&gt; Reply to this email directly or view it on GitHub\n&gt; <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106713696>.\n*--*\n\n\uc774\uc900\uc131 Joonsung Lee (<mailto:hodduc@sparcs.org|hodduc@sparcs.org>)\nKorea Advanced Institute of Science and Technology",
+                "pretext": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106717876|#49: REST API \uad6c\ud604>",
+                "title": "Comment by hodduc\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432883248.000436"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106719613|#49: REST API \uad6c\ud604>",
+                "text": "\uc544 \uc774\uac70 DB \uc7a5\uace0 \uc790\ub3d9\uc0dd\uc131\uc774\uc8e0...\n\uadf8\ub7ec\uba74 3\ubc88\uc740 \ud798\ub4e4\uaca0\ub124\uc694.\n\n2\ubc88\uc5d0 \uac00\uae4c\uc6b4 \uc0dd\uac01\uc744 \ud558\uace0 \uc788\uc5c8\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106719613|#49: REST API \uad6c\ud604>",
+                "title": "Comment by leeopop\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432883749.000437"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106735895|#49: REST API \uad6c\ud604>",
+                "text": "\ub9ac\ud3ec\uc9c0\ud1a0\ub9ac\ub97c \ubd84\ub9ac\ud558\uba74 API\ub9cc \ub77c\uc774\ube0c\ub7ec\ub9ac\ub85c \ub2e4\uc6b4\ubc1b\uace0 \uc0c8\ub85c\uc6b4 \ud504\ub860\ud2b8 \uac1c\ubc1c\uc744 \ud560 \uc218 \uc788\ub3c4\ub85d \ud558\ub294.. \uc774\ub7f0\uac78 \uafc8\uafb8\uc5b4\ubd24\ub294\ub370 \uc0dd\uac01\ud574\ubcf4\ub2c8 \ubcc4\ub85c \ud6a8\uc728\uc801\uc77c \uac83 \uac19\uc9c0\ub294 \uc54a\ub124\uc694.",
+                "pretext": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106735895|#49: REST API \uad6c\ud604>",
+                "title": "Comment by leeopop\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432886502.000438"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/0c5f15e27d57...1720948be4b7|2 new commits> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/a8f0009|a8f0009>: Show thumbnail image in admin page for fast page loading. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/1720948|1720948>: Resize host_image and profile_image to 320x320 to avoid saving high resolution image. - Horknox",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/0c5f15e27d57...1720948be4b7|2 new commits> by Horknox:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432887005.000439"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/12|#12 \ud3ec\uc2a4\ud130 \uc378\ub124\uc77c\uc744 \uc704\ud55c \uc774\ubbf8\uc9c0 \ubcc0\ud658> by <https:\/\/github.com\/horknox|horknox>",
+                "text": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/12|#12 \ud3ec\uc2a4\ud130 \uc378\ub124\uc77c\uc744 \uc704\ud55c \uc774\ubbf8\uc9c0 \ubcc0\ud658> by <https:\/\/github.com\/horknox|horknox>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432887541.000440"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/51#issuecomment-106742250|#51: \ud398\uc774\uc2a4\ubd81 \ud504\ub85c\ud544\uc0ac\uc9c4 \ubcc0\uacbd\uc2dc \uc720\uc800 \ud504\ub85c\ud544 \uc0ac\uc9c4 \ubcc0\uacbd>",
+                "text": "\uadf8\uac8c \ub354 \uc790\uc5f0\uc2a4\ub7ec\uc6b4\uac74\uac00\uc694? \uc815\ub9d0\ub85c? \ub098\ub294 \uc65c \uc774\uac8c \ubc1b\uc544\ub4e4\uc5ec\uc9c0\uc9c0\uac00 \uc54a\uc9c0...\n\ub9cc\uc77c \ud504\ub85c\ud544 \uc0ac\uc9c4\uc744 \ud560\uac70\ub77c\uba74 \uc774\ub984\ub3c4 \ud574\uc57c\ub418\ub294\uac8c \ub9de\ub294\uac70\uaca0\uc8e0?",
+                "pretext": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/51#issuecomment-106742250|#51: \ud398\uc774\uc2a4\ubd81 \ud504\ub85c\ud544\uc0ac\uc9c4 \ubcc0\uacbd\uc2dc \uc720\uc800 \ud504\ub85c\ud544 \uc0ac\uc9c4 \ubcc0\uacbd>",
+                "title": "Comment by horknox\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432887707.000441"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U024WGSD3> \ucda9\ub300\ub3d9\uc5f0 <@U03H8L275> \uc124\uba85\uc11c \uadf8\ub9bc \ud398\ubd81\ud3ec\uc2a4\ud305",
+        "ts": "1432888378.000442"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U03H8L275>",
+        "ts": "1432900826.000443"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uae30\uac04 \ubcf4\uc5ec\uc8fc\ub294UI \ub108\ubb34 \uae61\ud328\uac19\uc9c0 \uc54a\uc544\uc694?",
+        "ts": "1432900837.000444"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc544 \ub9de\ub2e4",
+        "ts": "1432900854.000445"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uce74\ud14c\uace0\ub9ac \ud398\uc774\uc9c0\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac \uc120\ud0dd\ud558\ub294 \ubc84\ud2bc\uc774 \ucc28\uc9c0\ud558\ub294 \uacf5\uac04\uc774 \ub108\ubb34 \ub113\ub2e4\ub294 \uc758\uacac\uc744 \ubc1b\uc558\ub294\ub370 \uc5b4\ub5bb\uac8c \uc0dd\uac01\ud558\uc2dc\ub098\uc694?",
+        "ts": "1432900870.000446"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ubc30\ub108\ub3c4;;",
+        "ts": "1432900882.000447"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc608\uc804\ubd80\ud130 \ub54c\ub54c\ub85c \uc774\uc57c\uae30\ud588\uc9c0\ub9cc \uc0ac\uc774\ud2b8\uac00 \ub108\ubb34 \ud07c\uc9c1\ud07c\uc9c1\ud568",
+        "ts": "1432900902.000448"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc591\ub0a0\uc758 \uac80\uc778\ub4ef",
+        "ts": "1432900906.000449"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ud07c\uc9c1\ud07c\uc9c1",
+        "ts": "1432900921.000450"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U03H8L275> \uc194\uc9c1\ud788 \ub9d0\ud574\ubd10\uc5ec \ub178\uc548\uc774\uc8e0",
+        "ts": "1432900960.000451"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub9ac\uace0 \uc194\uc9c1\ud788 \ub9d0\ud574\ubd10\uc694, \uae30\uac04 \ubcf4\uc5ec\uc8fc\ub294\uac70 \ub300\ucda9\ud55c\uac70\uc8e0",
+        "ts": "1432900976.000452"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub108\ubb34 \ubcf5\uc7a1\ud55c\uac70 \uac19\uc544\uc694, \uae30\uac04\uc774 \ub4e4\uc5b4\uac00\ub2c8\uae4c",
+        "ts": "1432900994.000453"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uae30\uac04\uc744",
+        "ts": "1432901006.000454"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ub123\uae34 \ub123\uc8e0?",
+        "ts": "1432901009.000455"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "sp",
+        "ts": "1432901016.000456"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub124 \ub123\uc744\uac81\ub2c8\ub2e4.",
+        "ts": "1432901019.000457"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc77c\ub2e8 \ub178\uc548\uc740 \uc544\ub2d9\ub2c8\ub2e4",
+        "ts": "1432901040.000458"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uae30\uac04\uc774 \ub4e4\uc5b4\uac00\uace0 \uc2dc\/\ubd84\ub3c4 \ud3ec\ud568\uc774 \ub418\uc5b4\uc57c\ud558\ub294\ub370 \uc800\uac70\uc774\uc0c1\uc73c\ub85c \ub2e8\uc21c\ud558\ub824\uba74 \uc5b4\ub5bb\uac8c \ud574\uc57c\ud560\uae4c\uc694 \u3160\u3160",
+        "ts": "1432901080.000459"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ub514\ud3f4\ud2b8\ub97c \uc14b\ub2e4 \uccb4\ud06c \uc548\ub41c\uc0c1\ud0dc\ub85c \uc8fc\uba74 \uc2ec\ud50c\ud558\ub2e4\uac00",
+        "ts": "1432901104.000460"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc0ac\uc6a9\uc790\uac00 \ud544\uc694\ud55c\ub9cc\ud07c \ud655\uc7a5\uc774 \ub41c\ub2e4\uba74",
+        "ts": "1432901112.000461"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc774\ud574\ud558\uc9c0\uc54a\uc744\uae4c\uc694",
+        "ts": "1432901120.000462"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc774\ud574\ud558\ub294\uac83\uacfc \ub514\uc790\uc778\uc740 \ub2e4\ub978 \uc774\uc57c\uae30 \uac19\uc740\ub370...",
+        "ts": "1432901145.000463"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc644\uc804\ud788 \uc0c8\ub86d\uac8c \ud45c\uc2dc\ud558\ub294 \ubc29\ubc95\uc774 \uc5c6\uc744\uae4c\uc694? list\uc5d0 \uc0dd\uac01\uc774 \uac07\ud600\ubc84\ub9b0\uac70 \uac19\uc740\ub370",
+        "ts": "1432901180.000464"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub0a0\uc9dc\uc640 \uc2dc\uac04 \ud45c\ud604 \ubc29\ubc95\uc774 \uc815\ub9d0 0\uc6d4 0\uc77c 00\uc2dc 00\ubd84 \uc774\ub807\uac8c \ud574\uc57c\ud558\ub098;;;",
+        "ts": "1432901205.000465"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "todoist \ub77c\ub294 \uc571\uc5d0\uc11c\ub294 \uc790\uc5f0\uc5b4\ub97c..",
+        "edited": {
+            "user": "U03H8L275",
+            "ts": "1432902268.000000"
+        },
+        "ts": "1432901230.000466"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc77c\ub2e8 \ub2f9\uc7a5 \uc0dd\uac01\ub098\ub294\uac74 \ub2ec\ub825\uc744 \uc798 \ubd99\uc774\ub294\uac70\uc815\ub3c4",
+        "ts": "1432901274.000467"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ub144\ub3c4\ub97c \uc9c0\uc6cc\ubc84\ub824\ub3c4 \ub420\uac70\uac19\uad6c\uc694",
+        "ts": "1432901285.000468"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ubb50 \ud130\ubb34\ub2c8\uc5c6\uc774 \uba3c \uae30\uac04\uc744 \uc4f0\uc9c4 \uc54a\uc744\ud14c\ub2c8",
+        "ts": "1432901294.000469"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\ub2c8 \uc0c1\uc138\ubcf4\uae30\ub3c4 \ubb54\uac00",
+        "ts": "1432901297.000470"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uae30\uac04\uc774 \ub4e4\uc5b4\uac00\ub2c8\uae4c \uc774\uc0c1\ud574\uc694",
+        "ts": "1432901304.000471"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc785\ub825\uc740 \uc624\ud788\ub824 \u3147\u314b\ud558\uaca0\ub294\ub370,",
+        "ts": "1432901313.000472"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc74c \uc548\uadf8\ub798\ub3c4 \ub9cc\ub4e4\uba74\uc11c",
+        "ts": "1432901402.000473"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uae30\uac04\uc744 \ud45c\ud604\ud558\ub294\uac70 \uc790\uccb4\uac00 \ubb34\ub9ac\ub77c\uace0 \uc0dd\uac01\uc774 \ub4dc\ub294\ub370",
+        "ts": "1432901409.000474"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ucd5c\uc545\uc758 \uacbd\uc6b0\ub97c \ub2f4\uc544\ubcf8\uac74\ub370",
+        "ts": "1432901437.000475"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106953671|#49: REST API \uad6c\ud604>",
+                "text": "@hodduc ARA Integeration\uc5d0 \uc880 \ub354 \uc124\uba85\ud574 \uc904 \uc218 \uc788\uc5b4\uc694? API\ud558\ub098\ub9cc \uc788\uc73c\uba74 \ub418\ub294\uac74\uc9c0, \uac12\uc740 \ud558\ub098\uc758 \uc790\ubcf4\ub9cc \uc8fc\uba74 \ub418\ub294\uac74\uc9c0 \uc5ec\ub7ec\uac1c\ub97c \uc918\uc57c\ud558\ub294\uac74\uc9c0 \ub4f1\ub4f1",
+                "pretext": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106953671|#49: REST API \uad6c\ud604>",
+                "title": "Comment by horknox\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432939761.000477"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106980227|#49: REST API \uad6c\ud604>",
+                "text": "API\ub294\n   \u2022 \ud604\uc7ac Active\ud55c \uc790\ubcf4\uc758 \ubaa8\ub4e0 \ub9ac\uc2a4\ud2b8\n   \u2022 \ud604\uc7ac Active\ud55c \uc790\ubcf4 \uc911 (\uc6b0\uc120 \uc21c\uc704 \uac00\uc911\uce58\ub97c \ubc18\uc601\ud574\uc11c?) \ub79c\ub364\ud558\uac8c \ud55c \uac1c \n\n\ub458 \uc911\uc5d0 \ud558\ub098\uac00 \uc788\uc73c\uba74 \ub429\ub2c8\ub2e4. \ucd94\ud6c4 \ub2e4\ub978\uacf3\uae4c\uc9c0 Integration \ud55c\ub2e4\uace0 \ud558\uba74 \ub458 \ub2e4 \uc788\ub294\uac83\ub3c4 \ub098\uc058\uc9c0 \uc54a\uc744 \uac83 \uac19\uad6c\uc694. (\uc804\uc790\ub294 REST API, \ud6c4\uc790\ub294 Google Adsense\uac19\uc740 \ub290\ub08c\uc73c\ub85c) \n\n\uac01 \uc790\ubcf4\uc5d0 \ub300\ud574\uc11c\ub294\n   \u2022 \uc790\ubcf4 Image URL\n   \u2022 \ud074\ub9ad\ud588\uc744\ub54c \ub118\uc5b4\uac00\ub294 Link\n\n\uac00 \uc788\uc73c\uba74 \ub418\uaca0\ub124\uc694.",
+                "pretext": "[sparcs-kaist\/dejavo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/49#issuecomment-106980227|#49: REST API \uad6c\ud604>",
+                "title": "Comment by hodduc\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432955879.000478"
+    }
+]

@@ -1,0 +1,680 @@
+[
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ucd9c\uc2dc\uc784\ubc15!",
+        "ts": "1430042534.000074"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ubc25\uba39\uc5c8\uc73c\ub2c8\uae4c \ub610 \ub2ec\ub824\uc720",
+        "ts": "1430042623.000075"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/1442ee4|1 new commit> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/1442ee4|1442ee4>: Modified category page alignment - coffee",
+                "pretext": "[dejavo:develop] 1 new commit by coffee:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430046507.000076"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/10|#10 \uac8c\uc2dc\ud310 \ub458\ub7ec\ubcf4\uae30 \uc904 \uac04\uaca9 \uc870\uc815> by <https:\/\/github.com\/poap|poap>",
+                "text": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/10|#10 \uac8c\uc2dc\ud310 \ub458\ub7ec\ubcf4\uae30 \uc904 \uac04\uaca9 \uc870\uc815> by <https:\/\/github.com\/poap|poap>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430046526.000077"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/1442ee4f41c5...1dc50a997761|3 new commits> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/792e933|792e933>: Fix bugs on auth_user_change by using custom user model. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/6f239a9|6f239a9>: Alow user profile attribute to have blank (phone, bio) - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/1dc50a9|1dc50a9>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:sparcs-kaist\/dejavo> into develop - Horknox",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/1442ee4f41c5...1dc50a997761|3 new commits> by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430047028.000078"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/1dc50a997761...9136fc7c95e7|2 new commits> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/277d26b|277d26b>: Add link in main page - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/9136fc7|9136fc7>: Allow only article owner to add answer - coffee",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/1dc50a997761...9136fc7c95e7|2 new commits> by coffee:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430050008.000079"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:master] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/4a67a06563df...9136fc7c95e7|189 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/b58c76b|b58c76b>: Add created_date field on Complain model. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/960aee0|960aee0>: Change function mapping of \/aritcle\/{article_id}\/qna\/create\/ from create_qna to create_question. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/e090bd7|e090bd7>: Create view-functions which were not created but exist in - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/a159f91|a159f91>: Create zabo\/Contact, zabo\/Timeslot, and zabo\/Attachment model. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/0b1cc4b|0b1cc4b>: Add Contact admin into Article modeladmin. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/9312a3e|9312a3e>: Set end_time of Timeslot to accept null value. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/7598a76|7598a76>: Set MEDIA_ROOT and MEDIA_URL in settings.py - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/a506289|a506289>: Create test data generating script. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/5e40e4b|5e40e4b>: Add question\/answer test data generation. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/2c785a1|2c785a1>: Add as_json class bound methods for entities. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/dd8bf76|dd8bf76>: Change \"Fake name\" value to real file name. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/c391ca6|c391ca6>: Update Django admin page for better management. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/67ae397|67ae397>: Remove 'updated_date' field from Question and Answer model. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/f10da42|f10da42>: Remove verbose output - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/2cfed15|2cfed15>: Add *unicode* methods on some models to identicate objects much easier. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/48a5ce9|48a5ce9>: Set TimeZone to Asia\/Seoul. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/2351dec|2351dec>: Remove useless zabo app url patterns and view functions. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/7778020|7778020>: Create manage main page template. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/72c0519|72c0519>: Add custom css style - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/b18c6c9|b18c6c9>: Add more manage pages.(claim, log, block) - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/9b09075|9b09075>: Fix bugs on generate_test.py to save user profile. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/b4eb780|b4eb780>: Add BooleanField cols to save delete, block, private status on serveral - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/c574134|c574134>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:sparcs-kaist\/dejavo> into develop - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/90a82ea|90a82ea>: Create ContentNegotiator middleware class for Accept header - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/7e9801d|7e9801d>: Rendering article and loading qna function. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/50dfc1f|50dfc1f>: Move middleware to accept_checker module. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/06ea53b|06ea53b>: Merge remote-tracking branch 'origin\/develop' into develop - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/d85b1aa|d85b1aa>: Update setting options of accept_checker module. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/adc25b4|adc25b4>: Implement create_question view function. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/a49ae99|a49ae99>: Implement create_answer func. Update minor typo on code. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/355fdf3|355fdf3>: Change to use only require_accept_formats. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/2917dc3|2917dc3>: Update zabo models and urls. Update dependent codes. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/6c96f3b|6c96f3b>: Remove poster related urls and functions. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/ff3ddd8|ff3ddd8>: Implement article create view function. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/8611b8d|8611b8d>: Implement edit article function. Update some Article model's attibutes to allow blanks. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/5106323|5106323>: Add GET method to edit article func. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/39db687|39db687>: Change article creation to create with is_published as false. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/967b825|967b825>: Change urls.py little bit for \"\/\" - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/620dd85|620dd85>: Implemented the functions for timeslots, questions and answers - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/6a83aff|6a83aff>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:sparcs-kaist\/dejavo> into develop - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/5c7c7de|5c7c7de>: Change view function 'login' and 'logout' to avoid same names of - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/7c659d9|7c659d9>: Fix bugs on user creating logic. GET -&gt; POST - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/f5ca066|f5ca066>: Implement decorator for checking user authentication. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/f64a55a|f64a55a>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:sparcs-kaist\/dejavo> into develop - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/17c84c2|17c84c2>: Implemented functions blocking articles and accounts. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/3878f32|3878f32>: Update view_article functino to allow wildcard Accept header. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/ea699e3|ea699e3>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:sparcs-kaist\/dejavo> into develop - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/d3e3eee|d3e3eee>: Add meta tags for twitter card. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/5cf7e58|5cf7e58>: Remove old auth checker and create auth_required decorator to fit with - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/63c61f1|63c61f1>: Made page layout. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/c284520|c284520>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:sparcs-kaist\/dejavo> into develop - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/14f08dd|14f08dd>: Apply changed decorator name. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/b0b4e8d|b0b4e8d>: Create jwt_auth module to generate Json Web Token. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/e0fb5b8|e0fb5b8>: Create view article sample page. Add more specific blocks in layout.html. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/148a655|148a655>: Add webkit-option and article.css. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/b2bb59f|b2bb59f>: Update requirements.txt (add PyJWT) - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/f923e0e|f923e0e>: Changed font file with woff format. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/f2bc58b|f2bc58b>: Updating font size to fit into designed template. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/384a4fe|384a4fe>: Update article view page. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/63b7cbd|63b7cbd>: Update article.html to handle article ID. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/a85c33e|a85c33e>: Applied new font. - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/55acfcf|55acfcf>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:spa\u2026",
+                "pretext": "[dejavo:master] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/4a67a06563df...9136fc7c95e7|189 new commits>:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430051058.000080"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo] New tag <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/v0.1-alpha|v0.1-alpha> was pushed by poap",
+                "text": "[dejavo] New tag <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/v0.1-alpha|v0.1-alpha> was pushed by poap",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430051767.000081"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ucc28\ub204\uae30",
+        "ts": "1430060789.000082"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ud64d\ubcf4\ubb3c \ub9cc\ub4e4\uac74\uac00\uc694?",
+        "ts": "1430060797.000083"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub9cc\ub4e4\uae30 \uc2eb\uc73c\uba74 \uc548\ub9cc\ub4e4\uc5b4\ub3c4 \ub428 \uc0ac\uc2e4 \ub098\ub3c4 \ubd80\ub2f4\uc2a4\ub7ec\uc6cc \u314e\u314e",
+        "ts": "1430060822.000084"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc790\uace0 \uc77c\uc5b4\ub098\uc11c \ub9cc\ub4e4\uac8c\uc694 \u314b\u314b",
+        "ts": "1430072926.000085"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "<http:\/\/bit.sparcs.org:14999\/|http:\/\/bit.sparcs.org:14999\/> \ub85c \uc624\ud508\ud560 \uc608\uc815\uc778\ub370\uc694",
+        "ts": "1430098935.000086"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8 host_image \uac19\uc774 \ube44\uc5b4\uc788\uc73c\uba74 \uc624\ub958\ub97c \ubfdc\uc5b4\ub0b4\ub294 \ud544\ub4dc\ub4e4\uc740 \uadf8\ub0e5 \uc801\ub2f9\ud788 \ucc44\uc6b8\uae4c\uc694 \u315c",
+        "ts": "1430098956.000087"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c... \ubaa8\ub378\uc5d0\uc11c \uadf8\ub0e5 default \uac12 \ub123\uc5b4\uc8fc\uc138\uc694",
+        "ts": "1430099030.000088"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "accounf profile image \ucc98\ub7fc \ucc98\ub9ac\ud558\uc8e0",
+        "ts": "1430099048.000089"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc8fc\ucd5c\uc790\uba85 \uac19\uc740 \ud14d\uc2a4\ud2b8\ub4e4\uc740 \ubb54\uac00 default\ub97c \uc4f0\uae30\ub294 \uc560\ub9e4\ud55c\ub370",
+        "ts": "1430099293.000090"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uac54\ub124\ub4e4\uc740 \uc81c\uac00 \uc77c\ub2e8 \uc368\ubcfc\uac8c\uc694",
+        "ts": "1430099301.000091"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc774\ubbf8\uc9c0\ub9cc \uadf8\ub877\uac8c \ud558\uace0",
+        "ts": "1430099365.000092"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uae30\ubcf8\uc801\uc73c\ub85c \uc790\uae30 \uc774\ub984 \ub123\uc74d\uc2dc\ub2e4 \uc0c8\ub85c \uc0dd\uc131\ud560\ub54c template \uc5d0 \ucc0d\uc5b4\ub0c5\uc2dc\ub2e4 \uadf8\ub7fc",
+        "ts": "1430099411.000093"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub135",
+        "ts": "1430099550.000094"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud638\uc2a4\ud2b8 \uc774\ubbf8\uc9c0\uac00 \uc880 \uc560\ub9e4\ud55c\ub370",
+        "ts": "1430099584.000095"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ucd5c\ucd08 \uc0dd\uc131\uc790 \uc815\ubcf4\uac00 \uc788\uc73c\uba74 \uadf8\ub098\ub9c8 \uc880 \ub300\uc751\ud558\uae30 \uc2c0\uc6b4\ub370",
+        "ts": "1430099606.000096"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ubcf4\ud1b5 \uc790\uae30 \uc774\ubbf8\uc9c0\ub97c \uac78\uc218 \uc788\uc73c\ub2c8\uae4c?",
+        "ts": "1430099625.000097"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub7fc \ub514\ud3f4\ud2b8 \ud638\uc2a4\ud2b8 \uc774\ubbf8\uc9c0\ub97c",
+        "ts": "1430099637.000098"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc0dd\uc131\ud558\ub294 \uc0ac\ub78c\uc758 \ud504\ub85c\ud544 \uc0ac\uc9c4\uc73c\ub85c \ud558\ub294\uac74 \uc5b4\ub5a4\uac00\uc694",
+        "ts": "1430099647.000099"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud478\ub85c\ud544 \uc0ac\uc9c4\uc744 \ubc14\uafb8\uba74 \uc5b4\ub5bb\uac8c \ud574?",
+        "ts": "1430099724.000100"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ubcf4\ud1b5 \uac19\uc774 \ubcc0\ud560\uaebc\ub77c \uc0dd\uac01\ud558\uc9c0 \uc54a\ub098?",
+        "ts": "1430099736.000101"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc557 \uc74c...",
+        "ts": "1430099755.000102"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadfc\ub370 \ubcf4\ud1b5 \uae00\uc744 \uc4f8\ub54c \ub4f1\ub85d\ud558\ub294 \ud638\uc2a4\ud2b8 \uc774\ubbf8\uc9c0\ub294 \uc6d0\ub798 \ub2e4\ub978 \uac70\ub791 \uc644\uc804 \ub3c5\ub9bd\uc801\uc778 \uc774\ubbf8\uc9c0\uc778\uac70\uc8e0?",
+        "ts": "1430099778.000103"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub807\uac8c \ub418\uc5b4\uc788\uc9c0",
+        "ts": "1430099787.000104"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\ub2c8\uba74 \ucc28\ub77c\ub9ac \uc774\ubbf8\uc9c0 \uad00\ub9ac\ud558\ub294 \ubaa8\ub378\uc774 \ub530\ub85c \uc78c\u3145\uc5b4\uc57c\ud568",
+        "ts": "1430099818.000105"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub798\uc11c \ub514\ud3f4\ud2b8 \uc774\ubbf8\uc9c0\ub97c \ub9cc\ub4e4\uc5b4\ubc84\ub9b4\uae4c \ud558\ub294\ub370 \uadf8\uac83\ub3c4 \uc0dd\uc131\uc790 \uc785\uc7a5\uc5d0\uc11c \uc790\uc5f0\uc2a4\ub7fd\uc9c0\ubbc4 \uc54a\uc544",
+        "ts": "1430099863.000106"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub0e5 \uc6b0\ub9ac\uac00 \ud3b8\ud55c\uace0\uc9c0",
+        "ts": "1430099869.000107"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub807\uc8e0....",
+        "ts": "1430099878.000108"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc74c... \uadf8\ub0e5 \ubb34\uc870\uac74 \ud558\ub098 \ubc1b\uc544\uc57c\uaca0\ub124\uc694 \uacb0\uad6d\uc740",
+        "ts": "1430099885.000109"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uacb0\uad6d \uc9c0\uae08 \ubaa8\ub378\uc744 \ub9cc\ub4e4\uc9c0 \uc54a\uc73c\uba74 \uc5b4\ub290\ucabd\uc774\ub4e0 \uc88b\uc740\uac74 \uc544\ub2cc\uac70 \uac19\uc544",
+        "ts": "1430099949.000110"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub124\uac00 \uacb0\uc815\ud574",
+        "ts": "1430099970.000111"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadfc\ub370 \ud638\uc2a4\ud2b8 \uc774\ubbf8\uc9c0\uac00 \ub530\ub85c \uc788\ub294 \uc774\uc720\uac00",
+        "ts": "1430099977.000112"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uae00\uc4f4\uc774\uc758 \ud504\ub85c\ud544 \uc774\ubbf8\uc9c0\uc640 \uc0c1\uad00\uc5c6\ub294 \ubb54\uac00 \uc8fc\ucd5c\ud558\ub294 \ub2e8\uccb4? \uc758 \uc774\ubbf8\uc9c0\ub97c \ud45c\uc2dc\ud558\ub824\ub294 \ubaa9\uc801\uc5d0 \uc880\ub354 \uc911\uc810\uc744 \ub454\ub2e4\uace0 \ud558\uba74",
+        "ts": "1430100001.000113"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub0e5 \uc774\ub300\ub85c \uac00\uba74\uc11c \ub514\ud3f4\ud2b8 \uc774\ubbf8\uc9c0 \uc5c6\uc774 \ubb34\uc870\uaec0 \uae00\uc4f0\ub294 \uc0ac\ub78c\uc5d0\uac8c \ud638\uc2a4\ud2b8 \uc774\ubbf8\uc9c0\ub97c \ud558\ub098 \uc62c\ub824\ub77c",
+        "ts": "1430100022.000114"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud558\uace0 \uc54c\ub824\uc8fc\ub294\uac8c \uad1c\ucc2e\uc744\uac83\uac19\uc544\uc694",
+        "ts": "1430100029.000115"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uae00\uc384... \uc9c0\uae08 \uadf8\uac78 \uac15\uc694\ud558\ub294 \uc785\uc7a5\uc774 \uc544\ub2cc\uac70 \uac19\uae34\ud55c\ub370",
+        "ts": "1430100060.000116"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc73c \uadfc\ub370 \ub2e4\uc2dc \uc0dd\uac01\ud574\ubcf4\ub2c8",
+        "ts": "1430100089.000117"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uae00\uc4f8\ub54c\ub9c8\ub2e4 \ud638\uc2a4\ud2b8 \uc774\ubbf8\uc9c0\ub97c \uc62c\ub824\uc57c\ud558\ub294\uac8c \uc660\uc9c0 \ubc88\uac70\ub85c\uc6b8\uaebc \uac19\uae30\ub3c4 \ud558\uace0",
+        "ts": "1430100100.000118"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub0e5 \uc800\ubd80\ubd84\uc744 \uae00\uc4f4\uc774\uc758 \uc815\ubcf4\ub85c \ub2e4 \uc368\ub3c4 \ub420\uac83\uac19\uae34\ud574\uc694",
+        "ts": "1430100111.000119"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub798\uc11c \ubaa8\ub378\uc744 \ub530\ub85c \ub9cc\ub4e4\uc5b4\uc11c... ",
+        "ts": "1430100111.000120"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ubaa8\ub378\uc744 \ub530\ub85c \ub9cc\ub4e0\ub2e4\ub294\uac8c \uad6c\uccb4\uc801\uc73c\ub85c \uc5b4\ub5a4\uac74\uc9c0 \uc124\uba85\ud574\uc8fc\uc2e4\uc218 \uc788\ub098\uc694",
+        "ts": "1430100137.000121"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc798 \uba38\ub9ac\uc18d\uc73c\ub85c \uc548\uadf8\ub824\uc838\uc11c \u315c",
+        "ts": "1430100141.000122"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uacc4\uc815 \uc124\uc815\uc5d0 \uc5ec\ub7ec \uc774\ubbf8\uc9c0\ub97c \uad00\ub9ac\ud574\uc11c \ud638\uc2a4\ud2b8 \uc774\ubbf8\uc9c0\uc5d0 \ud30c\uc77c\ub3c4 \uc788\uc9c0\ub9cc \ubbf8\ub9ac \uc800\uc7a5\ud55c \ud30c\uc77c\uc744 \ub4f1\ub85d\ud558\uac8c \ud558\ub294 \uae30\ub2a5\ub3c4 \ub123\ub294\uac70\uc9c0",
+        "ts": "1430100181.000123"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub7ec\uba74 \uc6b0\ub9ac \uc785\uc7a5\uc5d0\uc11c \ub9c1\ud06c\ub85c \uad00\ub9ac\ub418\uace0 \uc5ec\ub7ec\ubaa8\ub85c \ud3b8\ud560\uc218 \uc788\uc9c0",
+        "ts": "1430100217.000124"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc73c\ud760...\uadf8\ub7fc \ubbf8\ub9ac \uc800\uc7a5\ud55c \ud30c\uc77c\ub4e4\ub3c4 \ud55c\ubc88\uc740 \uc5c5\ub85c\ub4dc\ub97c \ud574\uc57c\ud558\ub294\uac70\uad70\uc694",
+        "ts": "1430100240.000125"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub807\uc9c0 \uadfc\ub370 \uadf8\uac74 \ucd5c\ucd08\uc5d0 \ud30c\uc77c\ub85c \uc62c\ub9b4\ub54c \uc6b0\ub9ac\uac00 \uc800\uc7a5\ud558\uac8c \ub9cc\ub4e4\uba74 \ub418\ub2c8\uae4c",
+        "ts": "1430100272.000126"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc720\uc838\ub294 \ucc98\uc74c\uc5d0\ub294 \ud30c\uc77c\ub85c \uc62c\ub9ac\ub2e4\uac00 \ub098\uc911\uc5d0 \ud638\uc2a4\ud2b8 \uc62c\ub9b4\ub54c \uc5b4? \ud558\uba74\uc11c \uc800\uc9d5\ub418\ub124? \ud558\uace0 \ub2e4\uc2dc \uc4f0\ub294 \ub290\ub08c\uc73c\ub85c \uac00\uc790\uc784",
+        "ts": "1430100304.000127"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud615\uc774 \ub9d0\ud558\uc2e0 \ubc29\ubc95\uc774 \uad1c\ucc2e\uc744\uaebc \uac19\ub124\uc694",
+        "ts": "1430100608.000128"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uacc4\uc815 \ud504\ub85c\ud544 \uc0ac\uc9c4\uc744 \ub530\ub77c\uac00\uba74 \uc544\ubb34\ub798\ub3c4 \uc5ec\ub7ec \ub3d9\uc544\ub9ac\ub97c \ud55c\ub2e4\ub358\uac00 \ud558\uba74 \uc5ec\ub7ec\ubaa8\ub85c \ubb38\uc81c\uac00...",
+        "ts": "1430100632.000129"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud615 \uadfc\ub370 \uc9c0\uae08",
+        "ts": "1430100841.000130"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud68c\uc6d0\uac00\uc785\uc744 \ud14c\uc2a4\ud2b8\ud574\ubcf4\uace0 \uc788\ub294\ub370",
+        "ts": "1430100852.000131"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud68c\uc6d0\uac00\uc785 \ucc3d\uc5d0\uc11c \uc774\uba54\uc77c\uc744 \uc785\ub825\ud558\uace0 \ub2e4\ub978 \uce78\uc73c\ub85c \uc774\ub3d9\ud558\uba74",
+        "ts": "1430100872.000132"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "406 error\uac00 \ub728\ub294\ub370 \ubb34\uc2a8\ubb38\uc81c\uc77c\uae4c\uc694 \u315c",
+        "ts": "1430100882.000133"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "Unsupported data type\uc778\ub370...",
+        "ts": "1430100896.000134"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc774\uba54\uc77c \uc785\ub825\ud558\uc790\ub9c8\uc790 Email validation check\ub97c \ud558\ub098\uc694?",
+        "ts": "1430100909.000135"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\u3147\u3147 \uadf8\ub807\uac8c \ud558\ub824\uace0 \ud588\ub294\ub370",
+        "ts": "1430100924.000136"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub0e5 req\ub9cc \ub9cc\ub4e4\uace0 \uae30\ub2a5\uc744 \uc548 \ub9cc\ub4e4\uc5b4\uc11c \uc0dd\uae30\ub294 \ubc84\uadf8\uc784",
+        "ts": "1430100943.000137"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc544\ud56d...",
+        "ts": "1430100964.000138"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub9ac\uace0 \ud68c\uc6d0\uac00\uc785 \uc644\ub8cc\ub3c4 error\uac00 \ub5a0\uc694...",
+        "ts": "1430100980.000139"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc660\uc9c0 \ubaa8\ub974\uaca0\uc9c0\ub9cc connection refused\ub77c\uace0 500\uc774 \ub728\ub294\ub370",
+        "ts": "1430100987.000140"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc815\uc791 admin\uc73c\ub85c \ud655\uc778\ud574\ubcf4\ub2c8 \ud68c\uc6d0\uac00\uc785\uc740 \ub418\ub354\ub77c\uad6c\uc694",
+        "ts": "1430101001.000141"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c \ubb34\uc2a8 \uc77c\uc778\uc9c0 \ubaa8\ub974\uaca0\ub294\uac78?",
+        "ts": "1430101033.000142"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud398\ubd81\uc774\ub77c\uc11c \uadf8\ub7f0\uac74\uae30?",
+        "ts": "1430101040.000143"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\uac70 \ub3c4\uba54\uc778 \ubc14\uafd4\uc57c\ud558\ub294\ub370",
+        "ts": "1430101051.000144"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc790\ubcf4 \ud398\ubd81 \uc571\uc744 \uc548\ub9cc\ub4e4\uc5c8\uc9c0 \uc544\uc9c1? \uc5b4\uc5ec \ub204\uac00 \ub9cc\ub4dc\uc2dc\uc8e0",
+        "ts": "1430101080.000145"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uce74\uc774\uc2a4\ud2b8 \ub3c4\ub9e4\uc778\ub3c4 \ube68\ub9ac \ub9cc\ub4dc\uc2dc\uc8e0",
+        "ts": "1430101094.000146"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc544 \ud68c\uc6d0\uac00\uc785 \ucc98\ub9ac\ub3c4 \ub3c4\uba54\uc778 \ubb38\uc81c\uc5d0 \ubb36\uc5ec\uc788\ub098\uc694",
+        "ts": "1430101115.000147"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "A\u314f\u314f\u314f\u314f\u314f...",
+        "ts": "1430101119.000148"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud53c\ubd81\uc740 \uadf8\ub7f0\ub370 \uc774\uba54\uc77c\ub3c4 \uadf8\ub7f4\uac70 \uac19\uc74c",
+        "ts": "1430101134.000149"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc65c\ub0d0\ud558\uba74 \ube5b\uc740 smtp\uac00 \uc5c6\uac70\ub4e0",
+        "ts": "1430101151.000150"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "!!",
+        "ts": "1430101160.000151"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc5c7 \uadf8\ub7fc \ub77c\uc774\ube0c\ub85c \ub744\uc6b0\ub294 \uacf3\uc744 \ubc14\uafd4\uc57c\ud558\ub294\uac74\uac00\uc694...",
+        "ts": "1430101183.000152"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "smtp\uac00 \uc788\ub294\uacf3\uc73c\ub85c...",
+        "ts": "1430101187.000153"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uae00\uc384\u314d\uac1c\ubc1c\uc744 \uc704\ud574 \ube5b\uc5d0 smtp\uac1a\uc788\ub294\uac8c \ub354 \ub098\uc740\uac00 \uac19\uc740\ub370",
+        "ts": "1430101204.000154"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub7ec\uba74 \ube5b\uc5d0 \uc11c\ubc84 \uc774\uc0c1\uc774 \uc788\uc5b4\ub3c4 \uba54\uc77c\uc774 \uc678\ubd80\ub85c \uc548\uac04\ub2e4\ub294 \ub73b\uc774\uad70",
+        "ts": "1430101249.000155"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub807\uc2b4\ub2e4",
+        "ts": "1430101277.000156"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ube5b\uc740 \ud56d\uc0c1 \ub204\uad70\uac00\uac00 \ub4e4\uc5ec\ub2e4\ubcf4\ub2e4\uac00",
+        "ts": "1430101286.000157"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc73c\uc5b4 \uc548\ub418\uc694 \ub85c \uc2dc\uc791\ud574\uc11c...",
+        "ts": "1430101291.000158"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\ubb34\ud2bc \ucd94\uc9c4\ud574 \ubb50\ub4e0",
+        "ts": "1430101315.000159"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc62e\uae30\ub4e0 \uae54\ub4e0 \uc678\ubd80 smtp\ub85c \ubcf4\ub0b4\ub4e0",
+        "ts": "1430101340.000160"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc678\ubd80 smtp\ub85c \ud558\uba74 \uadf8 \uc11c\ubc84\uc5d0\uc11c listen\ud558\ub3c4\ub85d \ud5c8\uc6a9\ud574\uc57c\ud568",
+        "ts": "1430101368.000161"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc73c\uc74c...\uadf8\ub7fc \uc77c\ub2e8 \ud720\uc7a5\ub2d8\uaed8 \ud55c\ubc88 \uc724\ud5c8\ub97c \uad6c\ud574\ubcf4\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1430101438.000162"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub294 \uadf8\ub7fc \uc880 \ub2a6\uc73c\ub824\ub098....\ud760",
+        "ts": "1430101447.000163"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\ub2c8 \uc9c0\uae08 \ub2f9\uc7a5",
+        "ts": "1430101480.000164"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud720\uc7a5\uc774 \uc5b4\uce90\ud558\ub294\uc9c0 \uc880 \ubd05\uc2dc\ub2e4",
+        "ts": "1430101505.000165"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc6b0\uc120\uc740 \uadf8\ucabd\uc740 \uc7a0\uae50 \ub9d8\ucda5\uc2dc\ub2e4",
+        "ts": "1430101529.000166"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc548\ud574\uc8fc\uba74 \ub0b4 \uc11c\ubc84 \ud1b5\ud574\uc11c \ud558\ub3c4\ub85d \ud574\uc870\uc9c0",
+        "ts": "1430101554.000167"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc778\uc2a4\ud134\uc2a4 \uc694\uccad \uba54\uc77c \ubcf4\ub0b4 <@U0251JXSR> ",
+        "ts": "1430107117.000168"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc557 \ub135",
+        "ts": "1430107510.000169"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/9136fc7c95e7...6db70548116b|6 new commits> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/80c2763|80c2763>: Fix bugs on activation function. Create activation fail html page. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/4534603|4534603>: CSRF Exempt from creating post. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/c1664ab|c1664ab>: Make profile dialog not to over positioned to right. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/73bf1b1|73bf1b1>: Show dialog when there is draft article. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/d99ff3d|d99ff3d>: Update minor css and javascript issues. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/6db7054|6db7054>: Merge branch 'develop' of <http:\/\/github.com:sparcs-kaist\/dejavo|github.com:sparcs-kaist\/dejavo> into develop - Horknox",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/9136fc7c95e7...6db70548116b|6 new commits> by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430116751.000170"
+    }
+]

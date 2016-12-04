@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U2D4V3E8Y",
+        "text": "<@U2D4V3E8Y|yujingaya> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474374490.000002"
+    },
+    {
+        "user": "U2D4SMLDA",
+        "text": "<@U2D4SMLDA|rongrong> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474398674.000003"
+    }
+]

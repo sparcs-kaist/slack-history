@@ -1,0 +1,171 @@
+[
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc774\uac8c \uc6d0\ub798 \ub514\uc790\uc778",
+        "ts": "1432202830.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SJ7R9|sunguard> uploaded a file: <https:\/\/sparcs.slack.com\/files\/sunguard\/F04V198UL\/pasted_image_at_2015_05_21_07_06_pm.png|Pasted image at 2015-05-21, 7:06 PM>",
+        "file": {
+            "id": "F04V198UL",
+            "created": 1432202826,
+            "timestamp": 1432202826,
+            "name": "Pasted image at 2015_05_21 07_06 PM.png",
+            "title": "Pasted image at 2015-05-21, 7:06 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SJ7R9",
+            "editable": false,
+            "size": 107256,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F04V198UL\/pasted_image_at_2015_05_21_07_06_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F04V198UL\/download\/pasted_image_at_2015_05_21_07_06_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 225,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 300,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 450,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 600,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F04V198UL-d87a71f3e6\/pasted_image_at_2015_05_21_07_06_pm_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 640,
+            "image_exif_rotation": 1,
+            "original_w": 1600,
+            "original_h": 1000,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/sunguard\/F04V198UL\/pasted_image_at_2015_05_21_07_06_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F04V198UL-110af39422",
+            "channels": [
+                "C02LYRLUA"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SJ7R9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SJ7R9|sunguard>",
+        "bot_id": null,
+        "ts": "1432202834.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B050A0JVD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/shopand] <https:\/\/github.com\/sparcs-kaist\/shopand\/issues\/1|Issue created> by <https:\/\/github.com\/sunguard|sunguard>",
+                "pretext": "[sparcs-kaist\/shopand] Issue created by <https:\/\/github.com\/sunguard|sunguard>",
+                "title": "#1 Github and #shopand slack channel connection test",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/shopand\/issues\/1",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432206949.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc694\uc2dc",
+        "ts": "1432206958.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B050A0JVD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/shopand] Issue closed: <https:\/\/github.com\/sparcs-kaist\/shopand\/issues\/1|#1 Github and #shopand slack channel connection test> by <https:\/\/github.com\/sunguard|sunguard>",
+                "text": "[sparcs-kaist\/shopand] Issue closed: <https:\/\/github.com\/sparcs-kaist\/shopand\/issues\/1|#1 Github and #shopand slack channel connection test> by <https:\/\/github.com\/sunguard|sunguard>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432206973.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B050A0JVD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/shopand] New comment on issue <https:\/\/github.com\/sparcs-kaist\/shopand\/issues\/1#issuecomment-104233001|#1: Github and #shopand slack channel connection test>",
+                "text": "completed",
+                "pretext": "[sparcs-kaist\/shopand] New comment on issue <https:\/\/github.com\/sparcs-kaist\/shopand\/issues\/1#issuecomment-104233001|#1: Github and #shopand slack channel connection test>",
+                "title": "Comment by sunguard\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1432206973.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc694\uc2dc\uc694\uc2dc",
+        "ts": "1432207052.000008"
+    },
+    {
+        "user": "U024U2P7Y",
+        "topic": "Express + Mongo",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024U2P7Y|suckzo_o> set the channel topic: Express + Mongo",
+        "ts": "1432207062.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "<https:\/\/github.com\/UYEONG\/NotoSans-subset>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "UYEONG\/NotoSans-subset",
+                "title_link": "https:\/\/github.com\/UYEONG\/NotoSans-subset",
+                "text": "NotoSans-subset - \uacbd\ub7c9\ud654\ud55c \ud55c\uae00 \uc6f9\ud3f0\ud2b8",
+                "fallback": "GitHub: UYEONG\/NotoSans-subset",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/1321707?v=3&s=400",
+                "from_url": "https:\/\/github.com\/UYEONG\/NotoSans-subset",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1432266133.000010"
+    }
+]

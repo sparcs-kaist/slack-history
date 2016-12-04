@@ -1,0 +1,218 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc5e0\ud2f0\uc5d0 \uc624\uc2dc\ub294 \ub2e4\uc774\uc13c\ube60\uc774\ub2e4\uce58",
+        "ts": "1407570814.001049"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\ub2e4\uc774\uc13c\ube60\uc774\ub2e4\uce58\uac00 \ubb54\uac00\uc694",
+        "ts": "1407571152.001050"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub300\uc120\ubc30\ub4e4",
+        "ts": "1407572857.001051"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc2a4\uace0\uc774\uc774!",
+        "ts": "1407573435.001052"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc548\ubc45\ub3c4 \uac00\ub124 \u314b\u314b\u314b",
+        "ts": "1407585038.001053"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc74c",
+        "ts": "1407604210.001054"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "anybody  awake?",
+        "ts": "1407604233.001055"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "ttl&lt;1ms",
+        "ts": "1407604414.001056"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc5cc\uc5cc\uc5cc",
+        "ts": "1407606243.001057"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "find . -type f  -exec grep '[0-9]+' {} \\; | xargs rm -f",
+        "ts": "1407606265.001058"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc774\uac8c \ubb50\uac00\uc798\ubabb\ub41c\uac70\uc9c0",
+        "ts": "1407606269.001059"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud30c\uc774\uc36c\uc73c\ub85c",
+        "ts": "1407650301.001060"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc4f0\ub808\ub4dc 600\uac1c \ub118\uac8c \ub3cc\ub9ac\ub294\uac70  \ub098\uc05c \uc9d3\uc778\uac00\uc694",
+        "ts": "1407650319.001061"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub135!",
+        "ts": "1407651696.001062"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadfc\ub370 \uc5b4\uca4c\ub2e4\uac00 \uadf8 \uac1c\uc218\uc758 \uc2a4\ub808\ub4dc\ub97c...",
+        "ts": "1407651709.001063"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<@U026JLU7V>:",
+        "ts": "1407651849.001064"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uad73\uc774 \ud30c\uc774\uc36c\uc774 \uc544\ub2c8\uc5b4\ub3c4 600\uac1c\ucbe4 \ub418\uba74 \uc880........",
+        "ts": "1407651899.001065"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "thread_pool\uc744 \uc0ac\uc6a9\ud558\uc2dc\uac70\ub098 microthread\ub97c \uc0ac\uc6a9\ud558\uc2dc\ub294\uac8c \uc88b\uc744\uac70\uac19\ub124\uc694",
+        "ts": "1407651913.001066"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<https:\/\/docs.python.org\/dev\/library\/concurrent.futures.html>",
+        "ts": "1407651925.001067"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<http:\/\/greenlet.readthedocs.org\/en\/latest\/>",
+        "ts": "1407651947.001068"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "thread_pool \ucd94\ucc9c\ub4dc\ub9ac\uace0\uc694",
+        "ts": "1407652027.001069"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud639 connection \uc774 \ub108\ubb34 \ub9ce\ub2e4 \uc2f6\uc73c\uba74",
+        "ts": "1407652033.001070"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "selector based\ub85c \uac00\ub294\uac78 \ucd94\ucc9c\ub4dc\ub9bd\ub2c8\ub2e4",
+        "ts": "1407652038.001071"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud30c\uc774\uc36c 3\ubd80\ud130 \ucd94\uac00\ub41c\uac8c \uc788\ub2e4\ub358\ub370 \uadf8 \ubb50\uc600\ub4dc\ub77c",
+        "ts": "1407652057.001072"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "async io?",
+        "ts": "1407652060.001073"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ube44\uc2a4\ubb34\ub9ac\ud55c\uac8c \uc788\uc744\uac70\uc5d0\uc694",
+        "ts": "1407652066.001074"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\u3147\u3147 \uadf8\uac8c microthread",
+        "ts": "1407652212.001075"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "3\uc774\uba74 async IO 2\uba74 gevent\ub098 greenlet \uae30\ubc18\uc73c\ub85c",
+        "ts": "1407652220.001076"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub2e8 \uc774\uac74 I\/O\ub098 Network bottleneck job\uc774 \uc544\ub2cc \uacbd\uc6b0\uc5d0\ub294 \uc2f1\uae00\uc2a4\ub808\ub4dc\ub791 \ud070 \ucc28\uc774\uac00 \uc5c6\uc73c\ub2c8 \uc8fc\uc758\ud558\uc154\uc57c....",
+        "ts": "1407652396.001077"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc2e4\uc81c \uc2a4\ub808\ub4dc\ub97c \ucf54\uc5b4 \uc218 \ub9cc\ud07c \ub9cc\ub4e4\uace0",
+        "ts": "1407652719.001078"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac01 \uc2a4\ub808\ub4dc\uac00 micrethread\ub97c \uc0dd\uc131\ud558\ub294 \ubc29\ubc95\uc73c\ub85c \ud558\uba74",
+        "ts": "1407652732.001079"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc2a4\ub808\ub4dc \uac1c\uc218\ub3c4 \ucee4\ubc84\uce58\uace0",
+        "ts": "1407652735.001080"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc5f0\uc0b0\ub7c9\ub3c4 \ub2e4 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc744\uac81\ub2c8\ub2e4",
+        "ts": "1407652745.001081"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc74c \uadfc\ub370 \uadf8\ucbe4\ub418\uba74",
+        "ts": "1407652874.001082"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "mq\uac19\uc740 task queue\uc5d0 \uc678\ubd80 \ud504\ub85c\uc138\uc2a4 \uc4f0\ub294\uac8c \ub098\uc744\uaec4?",
+        "ts": "1407652886.001083"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ubed0\ub091 GIL",
+        "ts": "1407652890.001084"
+    }
+]

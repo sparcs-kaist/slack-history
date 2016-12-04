@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U025WHXBR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025WHXBR|boolgom> has joined the channel",
+        "ts": "1416803992.000013"
+    },
+    {
+        "user": "U025WHXBR",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U025WHXBR|boolgom> has left the channel",
+        "ts": "1416804006.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub354\ub7ec\uc6b4",
+        "ts": "1416805655.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub355\ud6c4\uc0c8\ub07c\ub4e4",
+        "ts": "1416805659.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "2D \uadf8\ub9cc\ud558\uace0 \ub85c\ub80c\ub204\ub098\ub098 \ubcf4\uc2dc\uc838 ^^",
+        "ts": "1416805716.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "<http:\/\/www.youtube.com\/watch?v=wdcdFZ0irTk>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "Chvrches - Lollapalooza - Full Set - 2014 - 1080p",
+                "title_link": "http:\/\/www.youtube.com\/watch?v=wdcdFZ0irTk",
+                "author_name": "Edouard Boumendil",
+                "author_link": "http:\/\/www.youtube.com\/user\/orangecub",
+                "thumb_url": "http:\/\/i.ytimg.com\/vi\/wdcdFZ0irTk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Chvrches - Lollapalooza - Full Set - 2014 - 1080p",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"http:\/\/www.youtube.com\/embed\/wdcdFZ0irTk?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "http:\/\/www.youtube.com\/watch?v=wdcdFZ0irTk",
+                "id": 1
+            }
+        ],
+        "ts": "1416805717.000018"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1403226923.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<https:\/\/developers.google.com\/web\/fundamentals\/> \uc6f9 \uac1c\ubc1c Best Practices",
+        "edited": {
+            "user": "U024SHLFH",
+            "ts": "1403226960.000000"
+        },
+        "ts": "1403226937.000003"
+    }
+]

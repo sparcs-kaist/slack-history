@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1460783042.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<http:\/\/store.steampowered.com>",
+        "ts": "1460783058.000003"
+    },
+    {
+        "user": "U0690Q7TR",
+        "inviter": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0690Q7TR|ssaljalu> has joined the channel",
+        "ts": "1460783074.000004"
+    },
+    {
+        "user": "U046N9CV2",
+        "inviter": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046N9CV2|hood> has joined the channel",
+        "ts": "1460783074.000005"
+    },
+    {
+        "user": "U024SNC3Y",
+        "inviter": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNC3Y|iterator> has joined the channel",
+        "ts": "1460783074.000006"
+    },
+    {
+        "user": "U024U2P7Y",
+        "inviter": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1460783074.000007"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U024SN0K6>",
+        "ts": "1423049829.000022"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3147\u3147 \uc9d5\ubcd1\uac80\uc0ac ...",
+        "ts": "1423049832.000023"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc9c0\ub09c\ub2ec\uc5d0 \ud6c8\ub828\u3145 \ub04c\ub824\uac14\ub2e4\uac00 \uadc0\uac00\uc870\uce58\ub41c \uac70 \ub54c\ubb38\uc5d0 \u315c\u315c",
+        "ts": "1423049842.000024"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc544 \uadf8\ub098\uc800\ub098 <@U024WGSD3> 10\uc6d4 \uc774\ud6c4\ub85c \ub3d9\uc544\ub9ac\uc5d0\uc11c \uc138\ubbf8\ub098\uac00 \uc9c4\ud589\ub41c \uac83\uc774 \uc5c6\uc5c8\ub098\uc694?",
+        "ts": "1423049856.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc624\ub79c\ub9cc\uc5d0 <http:\/\/sparcs.kaist.ac.kr\/seminar\/|http:\/\/sparcs.kaist.ac.kr\/seminar\/> \uc5d0 \ub4e4\uc5b4\uac14\ub294\ub370 10\uc6d4\uc774 \ub05d\uc774\ub124..",
+        "attachments": [
+            {
+                "text": "KAIST \uc804\uc0b0 \ub3d9\uc544\ub9ac SPARCS",
+                "fallback": "KAIST \uc804\uc0b0 \ub3d9\uc544\ub9ac SPARCS",
+                "from_url": "http:\/\/sparcs.kaist.ac.kr\/seminar\/",
+                "id": 1
+            }
+        ],
+        "ts": "1423049870.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud639\uc2dc \uc544\uc9c1 \uc548 \uc62c\ub77c\uc628 \uc138\ubbf8\ub098\uac00 \uc788\uc73c\uba74 \uc62c\ub824\uc8fc\uc2dc\uba74 \u3133 \u3133",
+        "ts": "1423049880.000028"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0CNHRJQJ|joonp> uploaded a file: <https:\/\/sparcs.slack.com\/files\/joonp\/F0FL0K4DT\/_____________2015-12-02________2.59.14.png|\uc2a4\ud06c\ub9b0\uc0f7 2015-12-02 \uc624\uc804 2.59.14.png>",
+        "file": {
+            "id": "F0FL0K4DT",
+            "created": 1448992784,
+            "timestamp": 1448992784,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2015-12-02 \uc624\uc804 2.59.14.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2015-12-02 \uc624\uc804 2.59.14.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U0CNHRJQJ",
+            "editable": false,
+            "size": 87677,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0FL0K4DT\/_____________2015-12-02________2.59.14.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0FL0K4DT\/download\/_____________2015-12-02________2.59.14.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 91,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 121,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 181,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 242,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FL0K4DT-802ede854a\/_____________2015-12-02________2.59.14_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 258,
+            "image_exif_rotation": 1,
+            "original_w": 1494,
+            "original_h": 376,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/joonp\/F0FL0K4DT\/_____________2015-12-02________2.59.14.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0FL0K4DT-4f00ccb927",
+            "channels": [
+                "C0BQ8MPH9"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0CNHRJQJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0CNHRJQJ|joonp>",
+        "bot_id": null,
+        "ts": "1448992786.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc774\ubc88\uac70 \u3148 \ub428;;",
+        "ts": "1448992788.000003"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uadfc\ub370 \uc800 \ub9d0 \uc774\uc0c1\ud558\uc9c0 \uc54a\ub098",
+        "ts": "1448992793.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "1) \uc5d0 always predicts a branch is \"not taken\" \uc774 \ub9de\uc744  \uac70 \uac19\uc740\ub370",
+        "ts": "1448992815.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uadf8\ub798\uc57c prediction\uc774 \ud2c0\ub824\uc11c taken\ud560 \ub54c three cycle\ub123\uc5b4\uc8fc\uc9c0 \uc54a\ub098",
+        "ts": "1448992829.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub098\uc774\ube0c\ud558\uac8c",
+        "ts": "1449035493.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud56d\uc0c1 taken\ud55c\ub2e4\uace0 \uc608\uce21\ud558\ub294 \ud504\ub808\ub515\ud130\ub97c",
+        "ts": "1449035503.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uad6c\ud604\ud558\ub77c\ub294\uac70\uc9c0",
+        "ts": "1449035505.000009"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc989 \ud56d\uc0c1 \uc810\ud504\ud55c \uc778\uc2a4\ud2b8\ub7ed\uc158\uc744 \uc77d\uace0",
+        "ts": "1449035527.000010"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub9cc\uc57d\uc5d0 \uc544\ub2cc\uac8c \ub098\uc911\uc5d0 \ub4e4\ud1b5\ub098\uba74",
+        "edited": {
+            "user": "U02KZSK9L",
+            "ts": "1449035544.000000"
+        },
+        "ts": "1449035532.000011"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "flush",
+        "ts": "1449035535.000012"
+    }
+]

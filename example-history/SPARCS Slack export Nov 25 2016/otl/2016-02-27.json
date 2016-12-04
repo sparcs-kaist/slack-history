@@ -1,0 +1,131 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/19#issuecomment-189605896|#19: \ud0a4\uc6cc\ub4dc\uac80\uc0c9 \uc790\ub3d9\uc644\uc131\uae30\ub2a5> (assigned to <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>)",
+                "text": "\uc790\ub3d9\uc644\uc131\ucc3d\uc774 \ub108\ubb34\uae38\uac8c\ub728\ub294\uac83, \ud5e4\ub354\uc5d0\uc548\ubd99\uc5b4\uc11c \ub530\ub85c\ub178\ub294\uac83 \uc815\ub9ac\ud544\uc694!",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/19#issuecomment-189605896|#19: \ud0a4\uc6cc\ub4dc\uac80\uc0c9 \uc790\ub3d9\uc644\uc131\uae30\ub2a5> (assigned to <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>)",
+                "title": "Comment by jiggum\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456562258.000072"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#47 \ud544\ud130 \uae68\uc9c4\ubd80\ubd84 \uc218\uc815' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/47 by jiggum",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#47 \ud544\ud130 \uae68\uc9c4\ubd80\ubd84 \uc218\uc815",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/47",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456562323.000073"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/14#issuecomment-189606398|#14: \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "text": "1.\ud559\uae30\uc120\ud0dd\uc5d0\uc11c \uc804\uccb4\ud56d\ubaa9 \uc5c6\uc560\uace0, \uae30\ubcf8\uc73c\ub85c \uac00\uc7a5\ucd5c\uadfc\ud559\uae30 \uc120\ud0dd\ub418\uc5b4\uc788\ub3c4\ub85d\n2.\ud559\uae30\uc120\ud0dd\ud6c4, \uacfc\ubaa9\uc815\ubcf4\uc5c6\uc744\uc2dc, \uacfc\ubaa9\uc548\ub728\uac8c\ub054",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/14#issuecomment-189606398|#14: \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "title": "Comment by jiggum\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456562482.000074"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#48 \uc810\uc218 \ud615\uc2dd \ubcc0\uacbd' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/48 by jiggum",
+                "text": "?     \/\/0\nF     \/\/1,2,3,4\nD-   \/\/5\nD0  \/\/6\nD+  \/\/7\nC-   \/\/8\nC0  \/\/9\nC+  \/\/10\nB-    \/\/11\nB0   \/\/12\nB+   \/\/13\nA-   \/\/14\nA0   \/\/15\nA+   \/\/16\n\n\uc77c\ub2e8 \ud6c4\uae30\uc791\uc131\uc5d0\ub294 FDCBA\uadf8\ub300\ub85c. ",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#48 \uc810\uc218 \ud615\uc2dd \ubcc0\uacbd",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/48",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456576604.000075"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#49 \ucf54\uc2a4\/\uad50\uc218\ubc15\uc2a4 \ud55c\uc904\ud3c9 \uc5c5\ub370\uc774\ud2b8' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/49 by jiggum",
+                "text": "<http:\/\/bulletin.kaist.ac.kr\/html\/kr\/?year=2014&amp;id=kr20141303&amp;file=E>",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#49 \ucf54\uc2a4\/\uad50\uc218\ubc15\uc2a4 \ud55c\uc904\ud3c9 \uc5c5\ub370\uc774\ud2b8",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/49",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456578225.000076"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#50 \uacfc\ubaa9 \ud6c4\uae30 \ucc3e\uc544\ubcf4\uae30 \ubcc0\uacbd(\ucd5c\uc2e0\uc21c \ucf54\ub9e8\ud2b8\ub4e4)' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/50 by jiggum",
+                "text": "\uc774\ub984\uacf5\ubaa8\n1 \ub530\ub048\ub530\ub048\ud55c \ud6c4\uae30\n2 \ub530\ub048\ub530\ub048 \uacfc\ubaa9\ud6c4\uae30\n3 \ub530\ub048\ud6c4\uae30 \n4 \ub274\uc2a4\ud53c\ub4dc\n\uc815\ub82c - \ucd5c\uc2e0\uc21c\n\ud544\ud130 - \uc804\uccb4\/ \uad00\uc2ec\ud559\uacfc\/ \uad50\uc591",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#50 \uacfc\ubaa9 \ud6c4\uae30 \ucc3e\uc544\ubcf4\uae30 \ubcc0\uacbd(\ucd5c\uc2e0\uc21c \ucf54\ub9e8\ud2b8\ub4e4)",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/50",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456578327.000077"
+    }
+]

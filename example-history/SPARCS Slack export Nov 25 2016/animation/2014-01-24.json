@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U024U04DT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U04DT|jazzinpark> has joined the channel",
+        "ts": "1390572607.000060"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\uc544\ub2c8 \uc774\ub7f0 \ucc44\ub110\uc774\uc788\uc5c8\ub124\uc694\u314b\u314b\u314b\u314b",
+        "ts": "1390572657.000061"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\ub9cc\ud654\ucc45\uc740 \ub9ce\uc774 \ubcf4\uc9c0\ub9cc \uc560\ub2c8\uba54\uc774\uc158\uc740 \uc774\uc81c \uac70\uc758 \uc548\ubd10\uc11c\u314b\u314b",
+        "ts": "1390572826.000062"
+    }
+]

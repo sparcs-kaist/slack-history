@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc0ac\ub77c\uc9c4 SPARCS2 WIFI\ub97c \ub418\uc0b4\ub9ac\uae30 \uc704\ud574 \uacf5\uc720\uae30 \ud6c4\ubcf4\ub97c \ubb3c\uc0c9\ud558\uace0 \uc788\ub294\ub370\uc694.",
+        "ts": "1461840179.000032"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "<http:\/\/prod.danawa.com\/info\/?pcode=3469039&amp;keyword=\ubb34\uc120\uacf5\uc720\uae30>",
+        "attachments": [
+            {
+                "title": "[BAD+B4\u0673BAD+AABAD+BFBAD+D] D-Link  DIR-868LW BAD+AFBAD+B9BAD+ABBAD+BCBAD+B1BAD+B0BAD+AFBAD+B1BAD+2",
+                "title_link": "http:\/\/prod.danawa.com\/info\/?pcode=3469039&keyword=\ubb34\uc120\uacf5\uc720\uae30",
+                "text": "BAD+3\u05b0BAD+A1 132,000",
+                "fallback": "[BAD+B4\u0673BAD+AABAD+BFBAD+D] D-Link  DIR-868LW BAD+AFBAD+B9BAD+ABBAD+BCBAD+B1BAD+B0BAD+AFBAD+B1BAD+2",
+                "from_url": "http:\/\/prod.danawa.com\/info\/?pcode=3469039&keyword=\ubb34\uc120\uacf5\uc720\uae30",
+                "thumb_url": "http:\/\/timg.danawa.com\/prod_img\/500000\/039\/469\/img\/3469039_1_160.jpg",
+                "thumb_width": 160,
+                "thumb_height": 160,
+                "id": 1
+            }
+        ],
+        "ts": "1461840179.000033"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc774 \ubaa8\ub378 \uc815\ub3c4\uba74 \uc5b4\ub5a8\uae4c\uc694?",
+        "ts": "1461840185.000035"
+    }
+]

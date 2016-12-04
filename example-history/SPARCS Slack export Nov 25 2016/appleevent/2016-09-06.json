@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U026NDWJW",
+        "text": "<@U026NDWJW|apple> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473180559.000002"
+    },
+    {
+        "user": "U026NDWJW",
+        "purpose": "apple event",
+        "text": "<@U026NDWJW|apple> set the channel purpose: apple event",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1473180561.000003"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "24\uc2dc\uac04 \ub0a8\uc558\ub124\uc694!",
+        "ts": "1473180714.000004"
+    },
+    {
+        "user": "U02PEJCVA",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473207171.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473211278.000003"
+    },
+    {
+        "user": "U02LR1E9G",
+        "text": "<@U02LR1E9G|lurker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473211480.000004"
+    },
+    {
+        "user": "U0B6GQJ3F",
+        "text": "<@U0B6GQJ3F|adobecs5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473212768.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0B6GQJ3F",
+        "text": "\uc774\uc5b4\ud3f0\uc758 \ubbf8\ub798\ub294 \uc5b4\ub5bb\uac8c \ub420 \uac83\uc778\uac00!",
+        "ts": "1473212782.000006"
+    },
+    {
+        "user": "U024SPDHG",
+        "text": "<@U024SPDHG|daybreaker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473214955.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624\ub298\ub3c4 apple fucks me everyday\uac19\uc740 \uacb0\ub860\uc774 \ub098\uc624\ub824\ub098...",
+        "ts": "1473223413.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "...",
+        "ts": "1473227070.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc544\uc774\ub9e5",
+        "ts": "1473227072.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ub9e5\ud504\ub808",
+        "ts": "1473227078.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc2e0\uc81c\ud488 \uc81c\ubc1c \ub098\uc640\ub77c \u3160\u3160",
+        "ts": "1473227081.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02LR1E9G",
+        "text": "\uc571\ub4f1\uc774 \ubaa8\uc784\uc778\uac00\uc694",
+        "ts": "1473228110.000013"
+    },
+    {
+        "type": "message",
+        "user": "U02LR1E9G",
+        "text": "\u314b\u314b\u314b",
+        "ts": "1473228111.000014"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U024SL8FK",
+        "text": "\ud5c8\ud5c8",
+        "ts": "1411465719.000456"
+    },
+    {
+        "user": "U02LR1E9G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02LR1E9G|lurker> has joined the channel",
+        "ts": "1411524302.000457"
+    }
+]

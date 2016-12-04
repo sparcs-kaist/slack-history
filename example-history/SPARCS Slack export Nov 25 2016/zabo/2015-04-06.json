@@ -1,0 +1,21 @@
+[
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/28|#28 [\ub514\uc790\uc778] \ub313\uae00\uc5d0 \ub313\uae00 \uc785\ub825\ud558\ub294 \uce78> by <https:\/\/github.com\/poap|poap>",
+                "text": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/28|#28 [\ub514\uc790\uc778] \ub313\uae00\uc5d0 \ub313\uae00 \uc785\ub825\ud558\ub294 \uce78> by <https:\/\/github.com\/poap|poap>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1428320052.000067"
+    }
+]

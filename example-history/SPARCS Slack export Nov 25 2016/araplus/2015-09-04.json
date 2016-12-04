@@ -1,0 +1,24 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/17|Issue created> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "\ud398\uc774\uc2a4\ubd81\uc740 \uc5d0\ub7ec\ub54c\ubb38\uc5d0 \ud655\uc778\uc744 \ubabb\ud574\ubd24\ub294\ub370,\n\ud2b8\uc704\ud130\uc758 \uacbd\uc6b0 \ud544\uc694\ub3c4 \uc5c6\ub294 \uad8c\ud55c\uc744 \uc694\uad6c\ud558\uace0 \uc788\uc74c\n( \ud0c0\uc784\ub77c\uc778\uc758 \ud2b8\uc717\ubcf4\uae30, \ub204\uad6c\ub97c \ud314\ub85c\uc6b0\ud558\ub294\uc9c0 \ubcf4\uae30 )",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "title": "#17 OAuth \uad8c\ud55c \uc218\uc815",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/17",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1441429547.000069"
+    }
+]

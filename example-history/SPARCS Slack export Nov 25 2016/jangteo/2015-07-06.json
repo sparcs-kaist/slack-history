@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B050A0JVD",
+        "attachments": [
+            {
+                "fallback": "[jangteo:master] <https:\/\/github.com\/sparcs-kaist\/jangteo\/commit\/a287606|1 new commit> by Jonghyuk Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo\/commit\/a287606|a287606>: Created basic layout view for overall pages. - Jonghyuk Jung",
+                "pretext": "[jangteo:master] 1 new commit by Jonghyuk Jung:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436168860.000002"
+    }
+]

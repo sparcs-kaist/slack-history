@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U024SL0G3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SL0G3|odongtong> has joined the channel",
+        "ts": "1390292366.000045"
+    },
+    {
+        "user": "U024SR3BA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SR3BA|dinggul> has joined the channel",
+        "ts": "1390304381.000046"
+    },
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1390362004.000047"
+    }
+]

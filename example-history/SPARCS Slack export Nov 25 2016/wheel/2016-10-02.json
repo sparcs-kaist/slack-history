@@ -1,0 +1,126 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "ssal \uc11c\ubc84 readme.txt \uac19\uc740\uac70 \ub9cc\ub4e4\uc5b4\uc57c \ud560\uac70 \uac19\uc740\ub370",
+        "ts": "1475405246.002415"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "==SSAL\uc744 \uc5ec\ud589\ud558\ub294 SPARCS\uc778\ub4e4\uc744 \uc704\ud55c \uc548\ub0b4==\nSSAL\uc740 docker\uc744 \uc0ac\uc6a9\ud558\ub294 SPARCS \uac1c\ubc1c \uc11c\ubc84\uc785\ub2c8\ub2e4.\n\n= \uae30\ucd08 \uc548\ub0b4 \ubc0f \uc8fc\uc758 \uc0ac\ud56d = \n1. Docker\uc744 \uc2e4\ud589\ud558\uae30 \uc704\ud574\uc11c\ub294 sudo \uad8c\ud55c\uc774 \ud544\uc694\ud569\ub2c8\ub2e4. \ub530\ub77c\uc11c, \uc774 \uc11c\ubc84 \ud55c\uc815\uc73c\ub85c \ubaa8\ub4e0 SPARCS \ud68c\uc6d0\uc5d0\uac8c docker \uba85\ub839\uc5b4\ub9cc \uc2e4\ud589\ud560 \uc218 \uc788\ub294 sudo \uad8c\ud55c\uc774 \ubd80\uc5ec\ub418\uc600\uc2b5\ub2c8\ub2e4.\n2. sudo \uad8c\ud55c\uc744 \uc545\uc6a9\ud558\uc5ec \ub0a8\uc758 docker container\ub97c \ubcc0\uacbd\ud558\uac70\ub098 \uc0ad\uc81c\ud558\uba74 \uc548\ub429\ub2c8\ub2e4.  \n3. wheel\uc774\ub77c \ud560\uc9c0\ub77c\ub3c4 host\uc5d0 apt-get\uc744 \uc0ac\uc6a9\ud558\uc5ec \ub2e4\ub978 \ud328\ud0a4\uc9c0\ub97c \uc124\uce58\ud558\uba74 \uc548\ub429\ub2c8\ub2e4.\n4. \ud63c\ub780\uc744 \ud53c\ud558\uae30 \uc704\ud574 docker\uc758 \uc774\ub984\uc744 &lt;sparcs-id&gt;-&lt;name&gt;\uc73c\ub85c \uc124\uc815\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.\n5. port forwarding\uc2dc 1024\ubc88 \uc774\ud558\uc758 \ud3ec\ud2b8\ub97c public port\ub85c \uc124\uc815\ud558\uba74 \uc548\ub429\ub2c8\ub2e4.\n\n\n= \uac04\ub77d\ud55c Docker \uc0ac\uc6a9\ubc95 =\n1. Docker Container \uc0dd\uc131\ud558\uae30\n- docker run -v &lt;host-dir&gt;:&lt;guest-dir&gt; -p &lt;public-port&gt;:&lt;private-port&gt; -i -t --name=&lt;sparcs-id&gt;-&lt;name&gt; &lt;image-name&gt; &lt;command&gt;\n* \ud574\uc11d\na. &lt;image-name&gt;\uc744 \uc0ac\uc6a9\ud558\uc5ec docker\ub97c \uc0dd\uc131\ud558\uace0 command\ub97c \uc2e4\ud589\ud569\ub2c8\ub2e4.\nb. (-v) &lt;host-dir&gt;\uc744 &lt;guest-dir&gt;\uc5d0 mount\ud558\uc5ec \uacf5\uc720\ub418\ub3c4\ub85d \ud569\ub2c8\ub2e4.\nc. (-p) &lt;private-port&gt;\ub97c &lt;public-port&gt;\ub85c \ud3ec\uc6cc\ub529\ud569\ub2c8\ub2e4.\nd. (--name) docker\uc758 \uc774\ub984\uc744 &lt;sparcs-id&gt;-&lt;name&gt;\uc73c\ub85c \ub744\uc6c1\ub2c8\ub2e4. \uc608: samjo-ssotest\ne. (-i, -t) &lt;command&gt;\ub97c interactive\ud558\uac8c \uc2e4\ud589\uc2dc\ud0a4\uace0 \uac00\uc0c1 tty\ub97c \ud560\ub2f9\ud569\ub2c8\ub2e4.\n* \uc608\uc2dc: otlplus \uac1c\ubc1c\n- docker run -v ~\/otlplus:\/data -p 22222:22222 -i -t --name=samjo-otlplus ubuntu \/bin\/bash\n\n2. Docker Container\uc5d0\uc11c \ube60\uc838\ub098\uc624\uae30\n- Ctrl+P Crtl+Q (\uc885\ub8cc\ud558\uc9c0 \uc54a\uace0 \ube60\uc838\ub098\uc634)\n- exit (\uc885\ub8cc\ud558\uace0 \ube60\uc838\ub098\uc634)\n\n3. Docker Container\uc5d0 \ub2e4\uc2dc \ub4e4\uc5b4\uac00\uae30\n- docker attach &lt;name&gt;\n\n4. Docker Container\ub97c \uc2dc\uc791\/\uc815\uc9c0\/\uc0ad\uc81c\ud558\uae30\n- docker start\/stop\/rm &lt;name&gt;\n\n\n= \uc0c1\uc138\ud55c Docker \uc0ac\uc6a9\ubc95 =\n<https:\/\/github.com\/wsargent\/docker-cheat-sheet>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "wsargent\/docker-cheat-sheet",
+                "title_link": "https:\/\/github.com\/wsargent\/docker-cheat-sheet",
+                "text": "docker-cheat-sheet - Docker Cheat Sheet",
+                "fallback": "GitHub: wsargent\/docker-cheat-sheet",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/71236?v=3&s=400",
+                "from_url": "https:\/\/github.com\/wsargent\/docker-cheat-sheet",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475405248.002416"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<@U046N9CV2>, <@U0V6MLCAH>",
+        "ts": "1475405270.002418"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc74c",
+        "ts": "1475405584.002419"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "docker group add\ub97c \ud574\uc8fc\ub294\uac8c \ucc28\ub77c\ub9ac \ub0ab\uc9c0 \uc54a\ub098\uc694!",
+        "ts": "1475405617.002420"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc218\ub3c4\ub77c\ub2c8 \uc0b4\uc9dd \uc704\ud5d8",
+        "ts": "1475405628.002421"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc74c \uc7ac\ubc0c\ub294 \uc0dd\uac01\uc774 \ub0ac\ub294\ub370",
+        "ts": "1475423901.002422"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<https:\/\/github.com\/coreos\/toolbox> \uc5d0 \uc788\ub294 useradd \uc608\uc81c\ub97c \ubcf4\uace0 \uc0dd\uac01\ub09c\uac74\ub370",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "coreos\/toolbox",
+                "title_link": "https:\/\/github.com\/coreos\/toolbox",
+                "text": "toolbox - bring your tools with you",
+                "fallback": "GitHub: coreos\/toolbox",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/3730757?v=3&s=400",
+                "from_url": "https:\/\/github.com\/coreos\/toolbox",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475423916.002423"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc11c\ubc84 \ub85c\uadf8\uc778 user shell\uc744 \uc544\uc608 docker run -it -v \ud648\ub514\ub809 \/bin\/bash \uac19\uc740\uac78\ub85c \ub300\uccb4\ud574\ubc84\ub9ac\uba74",
+        "ts": "1475423949.002425"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub3c5\ub9bd\uc801\uc778 \uac1c\ubc1c\uc11c\ubc84 \ube44\uc2b7\ud558\uac8c \uc0ac\uc6a9\ud560\uc218 \uc788\uc9c0 \uc54a\uc744\uae4c? \ud558\ub294 \uc0dd\uac01\uc774 \ub4dc\ub124\uc694...",
+        "edited": {
+            "user": "U024SHLFH",
+            "ts": "1475424197.000000"
+        },
+        "ts": "1475423961.002426"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "--net=host \uc635\uc158 \uc8fc\uba74 \ud3ec\ud2b8\ub3c4 \ub3c5\ub9bd\uc11c\ubc84\ucc98\ub7fc \uc4f8\uc218 \uc788\uace0 (\uacb9\uce58\uc9c0\ub9cc \uc54a\uc73c\uba74)",
+        "ts": "1475424101.002427"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ubb54\uac00 \uc124\uce58\ud560\ub9cc\ud55c \ub514\ub809\ud1a0\ub9ac (\/usr \uac19\uc740\uac83) \ub2e4 \uc678\ubd80\ubcfc\ub968\uc73c\ub85c \uc5ee\uc5b4\uc8fc\uba74 \ud658\uacbd\ub3c4 \uc720\uc9c0\uc2dc\ud0ac\uc218 \uc788\uad6c",
+        "ts": "1475424148.002428"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc544\ub2c8\uba74 detach\uc2dc\ud0a4\uace0 \uc2a4\ud06c\ub9bd\ud2b8\ub97c \uc798\uc9dc\uc11c detach session\uc774 \uc788\uc73c\uba74 docker attach\ub97c \ud558\uac8c \ud55c\ub2e4\ub358\uac00....",
+        "ts": "1475424183.002429"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "~_~",
+        "ts": "1475424186.002430"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc624\ud638",
+        "ts": "1475427326.002432"
+    }
+]

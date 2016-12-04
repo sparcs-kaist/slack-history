@@ -1,0 +1,129 @@
+[
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "<@U024SHSMT> \uc624\ub298 \uc800\ub141\ucbe4 \uc2e0\uccad\uc11c \uc4f0\uc790",
+        "ts": "1413524014.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\ube45\ube0c\ub77c\ub354\ud300\ub3c4 \ucc38\uac00\ud560\uc608\uc815?",
+        "ts": "1413524038.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc800 \uc800\ub141\uc5d0\ub294 \ub098\uac00\uc11c \uba39\uc744\uac70\uac19\uace0\uc694..",
+        "ts": "1413524122.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc9c0\uae08 \uc9d1\uac00\ubbc4 \uae30\ucc28\uc5d0\uc694",
+        "ts": "1413524129.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud639\uc2dc \ub124\uc2dc\ubd80\ud130 \uac00\ub2a5\ud558\uc2e0\uac00\uc694?",
+        "ts": "1413524137.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\ub098\ub3c4 \uc9d1\uac00\ub294\uc911\uc774\ub77c... \uadf8\ub7fc \ubc24\uc774\ub098 \ub0b4\uc77c\ud560\uae4c?",
+        "ts": "1413524238.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\ud639\uc2dc \ub300\ucda9 \uc368\ub193\uc740\uac70 \uc788\uc73c\uba74 \uc5ec\uae30\uc5d0 \uacf5\uc720\ud574\uc8fc\uace0",
+        "ts": "1413524266.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\uc5c6\uc73c\uba74 \ub0b4\uac00 \ub300\ucda9 \uc368\ubcfc\uaed8",
+        "ts": "1413524278.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544\uc9c1\uc740 \uc5c6\uc5b4\uc694",
+        "ts": "1413524305.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub0b4\uc77c \uc624\ud6c4 \uad1c\ucc2e\uc744\uac70\uac19\uc544\uc694",
+        "ts": "1413524313.000011"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\u3147\u314b \uadf8\ub7fc \uc624\ub298\uc740 \uac01\uc790 \ub300\ucda9 \uc368\ubcf4\uace0 \ub0b4\uc77c \ud569\uce58\uc790\u314b\u314b",
+        "ts": "1413524384.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\uadf8\ub9ac\uace0 \uc5b4\ub290 \ud55c\ucabd\ud300\ub9cc \ub418\uace0 \uc591\ucabd \ud300 \uac19\uc774 \ud560\uc218\uc788\uac8c \uc608\uc0b0\uc5d0\ub294 \uc544\ub450\uc774\ub178\ub791 \ub77c\uc988\ubca0\ub9ac\ucea0 \uac19\uc740\uac70 \ud3ec\ud568\ud574\uc11c \ud558\uba74 \uad1c\ucc2e\uc744\ub4ef",
+        "ts": "1413524508.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ud300\uc778\uc6d0 \ubd84\ubc30\uac00 \uc5b4\ub5bb\uac8c\ub418\uc5c8\ub098\uc694?",
+        "ts": "1413527085.000014"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\uc544\ud558 \uc7a0\uc2dc\ub9cc\uc694",
+        "ts": "1413527140.000015"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U02HV8AGZ|feelblu> shared a file: <https:\/\/sparcs.slack.com\/files\/feelblu\/F02Q75E2W\/_______________-_______1|\ub77c\uc988\ubca0\ub9ac\ud30c\uc774 \ud504\ub85c\uc81d\ud2b8 \ud300 \uc120\ud0dd \uacb0\uacfc>",
+        "file": {
+            "id": "F02Q75E2W",
+            "created": 1413527181,
+            "timestamp": 1413527181,
+            "name": "???????????????-???????1",
+            "title": "\ub77c\uc988\ubca0\ub9ac\ud30c\uc774 \ud504\ub85c\uc81d\ud2b8 \ud300 \uc120\ud0dd \uacb0\uacfc",
+            "mimetype": "application\/vnd.google-apps.spreadsheet",
+            "filetype": "gsheet",
+            "pretty_type": "GDocs Spreadsheet",
+            "user": "U02HV8AGZ",
+            "editable": false,
+            "size": 623,
+            "mode": "external",
+            "is_external": true,
+            "external_type": "gdrive",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1uWUPdF9E00OJvvVsIWB75BQqZheL25yQddm3mBS2HiU\/edit?usp=drivesdk",
+            "thumb_64": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gsheet_64.png",
+            "thumb_360": "https:\/\/a.slack-edge.com\/66f9\/img\/files\/gsheet_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 167,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/feelblu\/F02Q75E2W\/_______________-_______1",
+            "channels": [
+                "C02KLSMGV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U02HV8AGZ",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U02HV8AGZ|feelblu>",
+        "bot_id": null,
+        "ts": "1413527181.000017"
+    }
+]

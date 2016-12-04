@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<https:\/\/www.youtube.com\/watch?v=XTVbQ5DDw5M>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "[\ucd78\ub85c\uc774] \uc544\uc57c\ub124 \uca29\uc740 \ud398\uc774\uc2a4\ubd81 \ud574??",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=XTVbQ5DDw5M",
+                "author_name": "\uae40\ud0dc\ud6c8",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCewJksrBCEUwRRKfkVw3dSw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XTVbQ5DDw5M\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: [\ucd78\ub85c\uc774] \uc544\uc57c\ub124 \uca29\uc740 \ud398\uc774\uc2a4\ubd81 \ud574??",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XTVbQ5DDw5M?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=XTVbQ5DDw5M",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465226767.000002"
+    }
+]

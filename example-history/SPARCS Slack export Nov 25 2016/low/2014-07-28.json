@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1406574353.000002"
+    },
+    {
+        "user": "U024SHSMT",
+        "purpose": "\uc800\uc218\uc900 \ud504\ub85c\uadf8\ub798\ubc0d\uc774\ub77c\uace0 \uc218\uc900\uc774 \ub0ae\uc740\uac74 \uc544\ub2d9\ub2c8\ub2e4",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SHSMT|leeopop> set the channel purpose: \uc800\uc218\uc900 \ud504\ub85c\uadf8\ub798\ubc0d\uc774\ub77c\uace0 \uc218\uc900\uc774 \ub0ae\uc740\uac74 \uc544\ub2d9\ub2c8\ub2e4",
+        "ts": "1406574354.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc720\uc6a9\ud55c \ub9e4\ud06c\ub85c \uc2dc\ub9ac\uc988 1",
+        "ts": "1406600700.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "__builtin_constant \ub9e4\ud06c\ub85c\ub294 \uc785\ub825\uc73c\ub85c \ub4e4\uc5b4\uc628 \uc22b\uc790\uac00 \ucef4\ud30c\uc77c \ud0c0\uc784\uc5d0 \uacb0\uc815\ub418\ub294 \uc22b\uc790\uc778\uc9c0\ub97c \ub9d0\ud574\uc900\ub2e4",
+        "ts": "1406600749.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "1*1 \uc774\ub7f0\uac70 \uad6c\uad6c\ub2e8 \ucd9c\ub825\uc2dc\uc5d0 \uc5f0\uc0b0\uc744 \ud558\uc9c0 \uc54a\uace0 \ube60\ub974\uac8c \ub3cc\ub9b4 \uc218 \uc788\ub2e4.",
+        "ts": "1406600775.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc608\uc81c 1.\n#define gugu_macro(a,b) \\\n( \\\n(__builtin_constant_p(a) &amp; __builtin_constant_p(b)) ? ( \\\n!(((a) - 1) | ((b) - 1)) ? (1) : \\\n!(((a) - 1) | ((b) - 2)) ? (2) : \\\n!(((a) - 1) | ((b) - 3)) ? (3) : \\\n!(((a) - 1) | ((b) - 4)) ? (4) : \\\n!(((a) - 1) | ((b) - 5)) ? (5) : \\\n!(((a) - 1) | ((b) - 6)) ? (6) : \\\n!(((a) - 1) | ((b) - 7)) ? (7) : \\\n!(((a) - 1) | ((b) - 8)) ? (8) : \\\n!(((a) - 1) | ((b) - 9)) ? (9) : \\\n!(((a) - 2) | ((b) - 1)) ? (2) : \\\n!(((a) - 2) | ((b) - 2)) ? (4) : \\\n!(((a) - 2) | ((b) - 3)) ? (6) : \\\n!(((a) - 2) | ((b) - 4)) ? (8) : \\\n!(((a) - 2) | ((b) - 5)) ? (10) : \\\n!(((a) - 2) | ((b) - 6)) ? (12) : \\\n!(((a) - 2) | ((b) - 7)) ? (14) : \\\n!(((a) - 2) | ((b) - 8)) ? (16) : \\\n!(((a) - 2) | ((b) - 9)) ? (18) : \\\n!(((a) - 3) | ((b) - 1)) ? (3) : \\\n!(((a) - 3) | ((b) - 2)) ? (6) : \\\n!(((a) - 3) | ((b) - 3)) ? (9) : \\\n!(((a) - 3) | ((b) - 4)) ? (12) : \\\n!(((a) - 3) | ((b) - 5)) ? (15) : \\\n!(((a) - 3) | ((b) - 6)) ? (18) : \\\n!(((a) - 3) | ((b) - 7)) ? (21) : \\\n!(((a) - 3) | ((b) - 8)) ? (24) : \\\n!(((a) - 3) | ((b) - 9)) ? (27) : \\\n!(((a) - 4) | ((b) - 1)) ? (4) : \\\n!(((a) - 4) | ((b) - 2)) ? (8) : \\\n!(((a) - 4) | ((b) - 3)) ? (12) : \\\n!(((a) - 4) | ((b) - 4)) ? (16) : \\\n!(((a) - 4) | ((b) - 5)) ? (20) : \\\n!(((a) - 4) | ((b) - 6)) ? (24) : \\\n!(((a) - 4) | ((b) - 7)) ? (28) : \\\n!(((a) - 4) | ((b) - 8)) ? (32) : \\\n!(((a) - 4) | ((b) - 9)) ? (36) : \\\n!(((a) - 5) | ((b) - 1)) ? (5) : \\\n!(((a) - 5) | ((b) - 2)) ? (10) : \\\n!(((a) - 5) | ((b) - 3)) ? (15) : \\\n!(((a) - 5) | ((b) - 4)) ? (20) : \\\n!(((a) - 5) | ((b) - 5)) ? (25) : \\\n!(((a) - 5) | ((b) - 6)) ? (30) : \\\n!(((a) - 5) | ((b) - 7)) ? (35) : \\\n!(((a) - 5) | ((b) - 8)) ? (40) : \\\n!(((a) - 5) | ((b) - 9)) ? (45) : \\\n!(((a) - 6) | ((b) - 1)) ? (6) : \\\n!(((a) - 6) | ((b) - 2)) ? (12) : \\\n!(((a) - 6) | ((b) - 3)) ? (18) : \\\n!(((a) - 6) | ((b) - 4)) ? (24) : \\\n!(((a) - 6) | ((b) - 5)) ? (30) : \\\n!(((a) - 6) | ((b) - 6)) ? (36) : \\\n!(((a) - 6) | ((b) - 7)) ? (42) : \\\n!(((a) - 6) | ((b) - 8)) ? (48) : \\\n!(((a) - 6) | ((b) - 9)) ? (54) : \\\n!(((a) - 7) | ((b) - 1)) ? (7) : \\\n!(((a) - 7) | ((b) - 2)) ? (14) : \\\n!(((a) - 7) | ((b) - 3)) ? (21) : \\\n!(((a) - 7) | ((b) - 4)) ? (28) : \\\n!(((a) - 7) | ((b) - 5)) ? (35) : \\\n!(((a) - 7) | ((b) - 6)) ? (42) : \\\n!(((a) - 7) | ((b) - 7)) ? (49) : \\\n!(((a) - 7) | ((b) - 8)) ? (56) : \\\n!(((a) - 7) | ((b) - 9)) ? (63) : \\\n!(((a) - :sunglasses: | ((b) - 1)) ? (8) : \\\n!(((a) - :sunglasses: | ((b) - 2)) ? (16) : \\\n!(((a) - :sunglasses: | ((b) - 3)) ? (24) : \\\n!(((a) - :sunglasses: | ((b) - 4)) ? (32) : \\\n!(((a) - :sunglasses: | ((b) - 5)) ? (40) : \\\n!(((a) - :sunglasses: | ((b) - 6)) ? (48) : \\\n!(((a) - :sunglasses: | ((b) - 7)) ? (56) : \\\n!(((a) - :sunglasses: | ((b) - 8)) ? (64) : \\\n!(((a) - :sunglasses: | ((b) - 9)) ? (72) : \\\n!(((a) - 9) | ((b) - 1)) ? (9) : \\\n!(((a) - 9) | ((b) - 2)) ? (18) : \\\n!(((a) - 9) | ((b) - 3)) ? (27) : \\\n!(((a) - 9) | ((b) - 4)) ? (36) : \\\n!(((a) - 9) | ((b) - 5)) ? (45) : \\\n!(((a) - 9) | ((b) - 6)) ? (54) : \\\n!(((a) - 9) | ((b) - 7)) ? (63) : \\\n!(((a) - 9) | ((b) - 8)) ? (72) : \\\n!(((a) - 9) | ((b) - 9)) ? (81) : 0 \\\n\t\t) : ((a)*(b)) \\\n\t\t)",
+        "ts": "1406602241.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc608\uc81c 2.\n#define ilog2(n)\t\t\t\t\\\n(\t\t\t\t\t\t\\\n\t__builtin_constant_p(n) ? (\t\t\\\n\t\t(n) &lt; 1 ? ____ilog2_NaN() :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 63) ? 63 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 62) ? 62 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 61) ? 61 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 60) ? 60 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 59) ? 59 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 58) ? 58 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 57) ? 57 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 56) ? 56 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 55) ? 55 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 54) ? 54 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 53) ? 53 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 52) ? 52 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 51) ? 51 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 50) ? 50 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 49) ? 49 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 48) ? 48 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 47) ? 47 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 46) ? 46 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 45) ? 45 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 44) ? 44 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 43) ? 43 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 42) ? 42 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 41) ? 41 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 40) ? 40 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 39) ? 39 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 38) ? 38 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 37) ? 37 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 36) ? 36 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 35) ? 35 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 34) ? 34 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 33) ? 33 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 32) ? 32 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 31) ? 31 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 30) ? 30 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 29) ? 29 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 28) ? 28 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 27) ? 27 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 26) ? 26 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 25) ? 25 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 24) ? 24 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 23) ? 23 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 22) ? 22 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 21) ? 21 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 20) ? 20 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 19) ? 19 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 18) ? 18 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 17) ? 17 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 16) ? 16 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 15) ? 15 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 14) ? 14 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 13) ? 13 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 12) ? 12 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 11) ? 11 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt; 10) ? 10 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  9) ?  9 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  :sunglasses: ?  8 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  7) ?  7 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  6) ?  6 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  5) ?  5 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  4) ?  4 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  3) ?  3 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  2) ?  2 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  1) ?  1 :\t\\\n\t\t(n) &amp; (1ULL &lt;&lt;  0) ?  0 :\t\\\n\t\t____ilog2_NaN()\t\t\t\\\n\t\t\t\t   ) :\t\t\\\n\t(sizeof(n) &lt;= 4) ?\t\t\t\\\n\t__ilog2_u32(n) :\t\t\t\\\n\t__ilog2_u64(n)\t\t\t\t\\\n )\n\n\n\/\/from linux headers",
+        "ts": "1406602282.000006"
+    },
+    {
+        "user": "U025XHGF3",
+        "inviter": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025XHGF3|aon> has joined the channel",
+        "ts": "1406606517.000002"
+    },
+    {
+        "user": "U024SNAD0",
+        "inviter": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNAD0|elaborate> has joined the channel",
+        "ts": "1406606517.000003"
+    },
+    {
+        "user": "U024U2P7Y",
+        "inviter": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1406606517.000004"
+    },
+    {
+        "user": "U024SN0MG",
+        "inviter": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0MG|overmania> has joined the channel",
+        "ts": "1406606549.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc800\uc218\uc900 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc5d0 \uad00\uc2ec\uc788\ub294\ubd84 \ubaa8\uc2ed\ub2c8\ub2e4",
+        "ts": "1406606579.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc73c\uc5b4",
+        "ts": "1406608577.000002"
+    }
+]

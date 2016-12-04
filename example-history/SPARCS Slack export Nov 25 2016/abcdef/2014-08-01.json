@@ -1,0 +1,19 @@
+[
+    {
+        "user": "U024SNC3Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNC3Y|iterator> has joined the channel",
+        "ts": "1406880211.000002"
+    },
+    {
+        "user": "U024SNC3Y",
+        "members": [
+            "U024SNC3Y"
+        ],
+        "type": "message",
+        "subtype": "channel_archive",
+        "text": "<@U024SNC3Y|iterator> archived the channel (w\/ 1 member)",
+        "ts": "1406880236.000003"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "life",
+        "ts": "1479468290.000093"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc800\uae30 \ub2d8\ub4e4",
+        "ts": "1479476144.000094"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<http:\/\/stackoverflow.com\/questions\/18220519\/how-to-disable-djangos-invalid-http-host-error>",
+        "attachments": [
+            {
+                "title": "How to disable Django's invalid HTTP_HOST error?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/18220519\/how-to-disable-djangos-invalid-http-host-error",
+                "text": "Ever since I deployed a site running Django 1.7 alpha (checked out from Git), I've been occasionally receiving error messages with titles like: \"Invalid HTTP_HOST header: '<http:\/\/xxx.xxx.com|xxx.xxx.com>'\" I realize",
+                "fallback": "How to disable Django's invalid HTTP_HOST error?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/18220519\/how-to-disable-djangos-invalid-http-host-error",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1479476146.000095"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc774\uac70 \ubcf4\uc2dc\uace0",
+        "ts": "1479476148.000097"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024WGSD3|undead> uploaded a file: <https:\/\/sparcs.slack.com\/files\/undead\/F353V1F54\/pasted_image_at_2016_11_18_10_35_pm.png|Pasted image at 2016-11-18, 10:35 PM>",
+        "file": {
+            "id": "F353V1F54",
+            "created": 1479476162,
+            "timestamp": 1479476162,
+            "name": "Pasted image at 2016_11_18 10_35 PM.png",
+            "title": "Pasted image at 2016-11-18, 10:35 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024WGSD3",
+            "editable": false,
+            "size": 66048,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F353V1F54\/pasted_image_at_2016_11_18_10_35_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F353V1F54\/download\/pasted_image_at_2016_11_18_10_35_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 95,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 127,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 190,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 253,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F353V1F54-387a6609cd\/pasted_image_at_2016_11_18_10_35_pm_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 270,
+            "image_exif_rotation": 1,
+            "original_w": 1327,
+            "original_h": 350,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/undead\/F353V1F54\/pasted_image_at_2016_11_18_10_35_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F353V1F54-2ed3a5f222",
+            "channels": [
+                "C029U6HTV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024WGSD3",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024WGSD3|undead>",
+        "bot_id": null,
+        "ts": "1479476164.000098"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc880 \ud574\uacb0\ud574\uc8fc\uc2ed\uc0ac \uac04\uc808\ud788 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4...",
+        "ts": "1479476170.000099"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "+ \uba54\uc77c\ub9c1 \ubd84\ub9ac\uc880 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4",
+        "ts": "1479476177.000100"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc2e4\uc11c\ubc84 \uc5d0\ub7ec\ub85c\uadf8\ub294 sysop \uba54\uc77c\ub85c, \ud68c\uc758\ub85d \ub4f1\uc740 otl \uba54\uc77c\ub85c!",
+        "ts": "1479476197.000101"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc74c (\uc2dc\uc0bd \ubb38\uc758)\ub791 (\uc5d0\ub7ec\ub85c\uadf8), (\ud68c\uc758\ub85d \ubc0f \uac1c\ubc1c\uc790 \ub0b4\ubd80) \uc774\ub807\uac8c \ud569\uccd0\ubc84\ub9ac\ub294\uac8c \ub098\uc744\uc9c0\ub3c4",
+        "ts": "1479476275.000102"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc624\ud2f0\uc5d8\uc774\ub791 \ud569\uccd0\uc11c...",
+        "ts": "1479476281.000103"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub367\ubd99\uc5ec Internal Server Error\ub3c4 \uc9c0\uc18d\uc801\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294\ub370 \ud53d\uc2a4 \uc880 \ud574\uc8fc\uc138\uc5ec...",
+        "ts": "1479476633.000104"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub0e5 \ucffc\ub9ac \uc608\uc678\ucc98\ub9ac \uc548\ub418\uc5b4\uc788\ub294 \uacbd\uc6b0\uac00 \ub300\ubd80\ubd84\uc778 \uac83 \uac19\uc740\ub370",
+        "ts": "1479476634.000105"
+    },
+    {
+        "type": "message",
+        "user": "U04HUNH5L",
+        "text": "LiFe",
+        "ts": "1479481177.000106"
+    },
+    {
+        "type": "message",
+        "user": "U04HUNH5L",
+        "text": "!",
+        "ts": "1479481178.000107"
+    },
+    {
+        "type": "message",
+        "user": "U04HUNH5L",
+        "text": "\uc788\uae30\ub294 \ud55c\uac00 \u314b\u314b",
+        "ts": "1479481184.000108"
+    }
+]

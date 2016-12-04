@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U04HUN944",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U04HUN944|kyeome> has left the channel",
+        "ts": "1459244397.000028"
+    },
+    {
+        "user": "U04HUN944",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUN944|kyeome> has joined the channel",
+        "ts": "1459244405.000029"
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/110#issuecomment-238067444|#110: upgrade to python3> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\ud30c\uc774\ucf58 \uc624\ub294\uc0ac\ub78c\ub4e4 \ub300\ubd80\ubd84 2.7\uc4f0\uc9c0\uc54a\uc744\uae4c \ud604\uc2e4\uc801\uc73c\ub85c",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/110#issuecomment-238067444|#110: upgrade to python3> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470553292.744135"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#111 change default log location (fix #108)' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/111 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#111 change default log location (fix #108)",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/111",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470577600.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/111|#111 change default log location (fix #108)> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/111|#111 change default log location (fix #108)> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470577603.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/9b48f07671f0...05921ca5cae7|2 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a554d72edfd0c37a2cd861649bfc1b480727a53c|a554d72>`  change default log location (fix #108) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/05921ca5cae71961d676fbfe5040b053b2a53d92|05921ca>`  Merge pull request #111 from sparcs-kaist\/dev-samjo - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/9b48f07671f0...05921ca5cae7|2 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470577603.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470577605.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/108|#108 SPARCS SSO \ub85c\uadf8 \uc704\uce58 \uc218\uc815> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/108|#108 SPARCS SSO \ub85c\uadf8 \uc704\uce58 \uc218\uc815> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470577610.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#112 SPARCS SSO v2' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/112 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#112 SPARCS SSO v2",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/112",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470579294.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/112|#112 SPARCS SSO v2> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/112|#112 SPARCS SSO v2> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470582034.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/197501aeb65a...8c64fc592d6d|23 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8d845698400f0c266346eafe02073c89dc299151|8d84569>`  add comment to models; done #87 - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/cea878c192ed39a086a61eb34d78dbc2684bad55|cea878c>`  model change (done #86); startapp dev (done #93, ref #92) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/6c0ff88a3f71f4fe5f21e3acef662d08c51139a0|6c0ff88>`  CRUD test services (done #94); complete dev app (done #92) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/12d8b2bce3daff2b9eb0eb3cef00c0a17e95900a|12d8b2b>`  add beta server url to sparcssso client - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/417364711ad8c1ac7df4473d33c2887e2851eb5d|4173647>`  implement v2 token, logout, point, notices, email api (ref #95) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5d11326c1ff54be90310a8f7ee1cdd0824ec2b67|5d11326>`  implement v2 api - \/stats\/ (done #95) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b2a7736bfbc2691e11ca4d698e0d409b67a7659a|b2a7736>`  add point_mod_time to userprofile (done #86) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/aaefe1393b1d9386ccb4f849536c6c31b78a218b|aaefe13>`  fix bugs on sso api v2, add api auto testing(done #97) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/2a874e47144b27465820a3464101f7f73fad4503|2a874e4>`  add members to README.md, modify dev and depoly manual (done #91) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/e058424326e8cc7d7117bb55833aab8249eafa8f|e058424>`  disable logout by get-method (fix #96) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/94f0cf4690e5b21b1b1e29713686c1745301fee3|94f0cf4>`  fix statistics bug - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/acffa178db188d9a3915691832ae5acfb9b3b1ed|acffa17>`  pep8 fix - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/0dca8ae41075c1d582175ad7adc193d077739353|0dca8ae>`  Merge pull request #99 from sparcs-kaist\/dev-samjo - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b45cdbe6b5ef8a3f5852ec380d5f35d6fcd2a863|b45cdbe>`  modify statistics module (done #101); change absolute path of db (done #100); minor api spec change - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/fb1d7b3b4610a6871755e5a95cd300731ac5b98d|fb1d7b3>`  move unregister features to client (done #103) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/395ad60f7a8e8f53ef8b26ffa5beccc061d76e6f|395ad60>`  minor fixed on point api - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/22f5ebd957b487f980eaa67a8f35acccf68cdb51|22f5ebd>`  prevent user modifying secret key (done #104) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/d86c4fefbcab8991b9e373f3b1cd0c82f18e1de6|d86c4fe>`  Merge pull request #105 from sparcs-kaist\/dev-samjo - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5391c6c76b2179ab6d4c30e79baed36f99996718|5391c6c>`  minor bug fix on dev apps; remove dev doc - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/9b48f07671f0622876f63cd249c9dd61d1394c04|9b48f07>`  Merge pull request #107 from sparcs-kaist\/dev-samjo - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a554d72edfd0c37a2cd861649bfc1b480727a53c|a554d72>`  change default log location (fix #108) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/05921ca5cae71961d676fbfe5040b053b2a53d92|05921ca>`  Merge pull request #111 from sparcs-kaist\/dev-samjo - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8c64fc592d6d987559bdf86d5b289db48f962317|8c64fc5>`  Merge pull request #112 from sparcs-kaist\/develop - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/197501aeb65a...8c64fc592d6d|23 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470582035.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/76|#76 SSO v2 \uac1c\ubc1c> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/76|#76 SSO v2 \uac1c\ubc1c> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470582689.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/76#issuecomment-238087873|#76: SSO v2 \uac1c\ubc1c> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\u2022 deploy \ub418\uc5c8\uc2b5\ub2c8\ub2e4. API v2\ub294 \ub0b4\ubd80\uc801\uc73c\ub85c\ub9cc \ud14c\uc2a4\ud2b8\ud558\uc600\uace0, API v1\uc740 \uc798 \uc791\ub3d9\ud558\ub294 \uac83\uc744 \ud655\uc778\ud558\uc600\uc2b5\ub2c8\ub2e4.\n\u2022 \ubcf8 issue\ub97c \ub2eb\ub3c4\ub85d \ud558\uace0, \uc55e\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294 API v2 \ubb38\uc81c\ub294 bug\uc73c\ub85c \ucc98\ub9ac\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.\n\u2022 API v1\uc774 \uc0ad\uc81c\ub420 \ub54c API v2 library \ubc84\uc804 \uc815\ubcf4\ub97c \uc5c5\ub370\uc774\ud2b8\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/76#issuecomment-238087873|#76: SSO v2 \uac1c\ubc1c> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470582689.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#113 README.md \uc218\uc815' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/113 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#113 README.md \uc218\uc815",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/113",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470629809.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#114 release client library' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/114 by a1sams1a",
+                "text": "client library \ubc84\uc804\uc744 \uc815\uc2dd \ubc84\uc804\uc73c\ub85c \uc62c\ub9b0\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#114 release client library",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/114",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470629875.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#115 Add logging to developer menu' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/115 by a1sams1a",
+                "text": "sso.dev.\n\u2022 apps.\n\u2022 \u2022 create: show, supp=name, args=\n\u2022 \u2022 modify: show, supp=name, args=\n\u2022 \u2022 delete: show, supp=name, args=\n\u2022 profile.\n\u2022 \u2022 modify: show, supp=, args=,",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#115 Add logging to developer menu",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/115",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470636229.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#116 add fake kaist info feature' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/116 by a1sams1a",
+                "text": "add options to fake following info on develop menu\n\u2022 kaist_id\n\u2022 kaist_info",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#116 add fake kaist info feature",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/116",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470636584.000005"
+    }
+]

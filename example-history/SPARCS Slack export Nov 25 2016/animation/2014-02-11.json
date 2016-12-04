@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U024SHLFH",
+        "topic": "\uc560\ub2c8\uba54\uc774\uc158\uc740 \uc88b\uc544\ud558\uc9c0\ub9cc \uc624\ud0c0\ucfe0\ub294 \uc544\ub2c8\ub77c\uad6c\uc694",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024SHLFH|hodduc> set the channel topic: \uc560\ub2c8\uba54\uc774\uc158\uc740 \uc88b\uc544\ud558\uc9c0\ub9cc \uc624\ud0c0\ucfe0\ub294 \uc544\ub2c8\ub77c\uad6c\uc694",
+        "ts": "1392180052.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b\u314b\ud1a0\ud53d \u314b\u314b",
+        "ts": "1392187441.000003"
+    }
+]

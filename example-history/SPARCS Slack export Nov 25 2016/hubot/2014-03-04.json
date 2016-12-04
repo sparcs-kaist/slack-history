@@ -1,0 +1,611 @@
+[
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please quiz start",
+        "ts": "1393963690.004812"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1105\u1105\u110f\u1109\u1110]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393963691.004813"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please quiz hint",
+        "ts": "1393963696.004814"
+    },
+    {
+        "text": "\ub744\uc5b4\uc4f0\uae30 \ud78c\ud2b8",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393963696.004815"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1105\u1105\u110f\u1109\u1110]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393963696.004816"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please quiz hint",
+        "ts": "1393963712.004817"
+    },
+    {
+        "text": "\uad6d\uac00 : \ud55c\uad6d",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393963712.004818"
+    },
+    {
+        "text": "\uc7a5\ub974 : \ucf54\ubbf8\ub514",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393963712.004819"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please quiz hint",
+        "ts": "1393963720.004820"
+    },
+    {
+        "text": "<http:\/\/movie.phinf.naver.net\/20130822_193\/1377153676316boC1q_JPEG\/movie_image.jpg?type=m427_320_2>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "from_url": "http:\/\/movie.phinf.naver.net\/20130822_193\/1377153676316boC1q_JPEG\/movie_image.jpg?type=m427_320_2",
+                "fallback": "427x284px image",
+                "image_url": "http:\/\/movie.phinf.naver.net\/20130822_193\/1377153676316boC1q_JPEG\/movie_image.jpg?type=m427_320_2",
+                "image_width": 427,
+                "image_height": 284,
+                "image_bytes": 48456,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393963720.004821"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz \ub864\ub7ec\ucf54\uc2a4\ud130",
+        "ts": "1393978272.004823"
+    },
+    {
+        "text": "\uc9c4\ud589\uc911\uc778 \uac8c\uc784\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393978272.004824"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz start",
+        "ts": "1393978276.004825"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1106\u1102\u1107]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393978276.004826"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz \ub9c8\ub098\ubc14",
+        "ts": "1393978281.004827"
+    },
+    {
+        "text": "bbashong\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393978281.004828"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz \ubbf8\ub2c8\ubcfc",
+        "ts": "1393978284.004829"
+    },
+    {
+        "text": "bbashong\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393978284.004830"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please quiz remind",
+        "ts": "1393979233.004831"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1106\u1102\u1107]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393979233.004832"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please quiz \uba38\ub2c8\ubcfc",
+        "ts": "1393979239.004833"
+    },
+    {
+        "text": "'''\n\uc9dd\uc9dd\uc9dd\nrodumani\ub2d8 \uc815\ub2f5\uc785\ub2c8\ub2e4!\n\uc815\ub2f5 : \uba38\ub2c8\ubcfc(\uba38\ub2c8\ubcfc)\n\uc7a5\ub974 : \ub4dc\ub77c\ub9c8\n\uad6d\uac00 : \ubbf8\uad6d\n'''",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393979239.004834"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please quiz start",
+        "ts": "1393979242.004835"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u110f\u110f\u110b\u1103\u1103]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393979242.004836"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uce74\uce74\uc624 \u3137\u3137",
+        "ts": "1393980041.004837"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please bb start",
+        "ts": "1393984206.004838"
+    },
+    {
+        "text": "\uc22b\uc790 \uc57c\uad6c \uc900\ube44 \uc644\ub8cc!",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984207.004839"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please bb 012",
+        "ts": "1393984215.004840"
+    },
+    {
+        "text": "(1\ud68c) \uc2a4\ud2b8\ub77c\uc774\ud06c 0\uac1c, \ubcfc 0\uac1c",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984215.004841"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please bb 345",
+        "ts": "1393984224.004842"
+    },
+    {
+        "text": "(2\ud68c) \uc2a4\ud2b8\ub77c\uc774\ud06c 2\uac1c, \ubcfc 0\uac1c",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984224.004843"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please bb 346",
+        "ts": "1393984234.004844"
+    },
+    {
+        "text": "(3\ud68c) \uc2a4\ud2b8\ub77c\uc774\ud06c 1\uac1c, \ubcfc 1\uac1c",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984234.004845"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please bb 365",
+        "ts": "1393984256.004846"
+    },
+    {
+        "text": "coffee\ub2d8 \ucd95\ud558\ud569\ub2c8\ub2e4, \uc2b9\ub9ac\ud558\uc168\uc2b5\ub2c8\ub2e4! (\ucd1d \uc2dc\ub3c4 \ud69f\uc218 : 4\ud68c, \uac78\ub9b0 \uc2dc\uac04 : 49.928\ucd08)",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984256.004847"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz hint",
+        "ts": "1393984465.004848"
+    },
+    {
+        "text": "\ub744\uc5b4\uc4f0\uae30 \ud78c\ud2b8",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984465.004849"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u110f\u110f\u110b \u1103\u1103]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984465.004850"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please \uce74\uce74\uc624 \ub3c4\ub451",
+        "ts": "1393984472.004851"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz \ucf54\ucf54\uc544 \ub370\ub4dc",
+        "ts": "1393984472.004852"
+    },
+    {
+        "text": "bbashong\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984473.004853"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz hint",
+        "ts": "1393984475.004854"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please quiz \uce74\uce74\uc624 \ub3c4\ub451",
+        "ts": "1393984475.004855"
+    },
+    {
+        "text": "\uad6d\uac00 : \ud55c\uad6d",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984475.004856"
+    },
+    {
+        "text": "\uc7a5\ub974 : \ub4dc\ub77c\ub9c8",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984475.004857"
+    },
+    {
+        "text": "rodumani\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984475.004858"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz \ucf69\ucf69\uc774\ub3c4\ub451",
+        "ts": "1393984490.004859"
+    },
+    {
+        "text": "bbashong\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984490.004860"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz hint",
+        "ts": "1393984496.004861"
+    },
+    {
+        "text": "<http:\/\/movie.phinf.naver.net\/20111223_231\/1324587044797N7CMM_JPEG\/movie_image.jpg?type=m427_320_2>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "from_url": "http:\/\/movie.phinf.naver.net\/20111223_231\/1324587044797N7CMM_JPEG\/movie_image.jpg?type=m427_320_2",
+                "fallback": "246x320px image",
+                "image_url": "http:\/\/movie.phinf.naver.net\/20111223_231\/1324587044797N7CMM_JPEG\/movie_image.jpg?type=m427_320_2",
+                "image_width": 246,
+                "image_height": 320,
+                "image_bytes": 22738,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984496.004862"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please quiz \ud0b9\ucf69\uc744\ub4e4\ub2e4",
+        "ts": "1393984501.004864"
+    },
+    {
+        "text": "'''\n\uc9dd\uc9dd\uc9dd\nrodumani\ub2d8 \uc815\ub2f5\uc785\ub2c8\ub2e4!\n\uc815\ub2f5 : \ud0b9\ucf69\uc744 \ub4e4\ub2e4(\ud0b9\ucf69\uc744\ub4e4\ub2e4)\n\uc7a5\ub974 : \ub4dc\ub77c\ub9c8\n\uad6d\uac00 : \ud55c\uad6d\n'''",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984502.004865"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please quiz start",
+        "ts": "1393984505.004866"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1107\u1102\u110b\u110b\u1105\u1112]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984505.004867"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz hint",
+        "ts": "1393984532.004868"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1107\u1102\u110b \u110b\u1105\u1112]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984532.004869"
+    },
+    {
+        "text": "\ub744\uc5b4\uc4f0\uae30 \ud78c\ud2b8",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984533.004870"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz \ubd84\ub178\uc758",
+        "ts": "1393984538.004871"
+    },
+    {
+        "text": "bbashong\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984538.004872"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz \ubd84\ub178\uc758 \uc544\ub77c\ud55c",
+        "ts": "1393984547.004873"
+    },
+    {
+        "text": "bbashong\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984547.004874"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "please quiz \ubd84\ub178\uc758 \uc544\ub9ac \ud561",
+        "ts": "1393984801.004875"
+    },
+    {
+        "text": "coffee\ub2d8 \uc624\ub2f5\uc785\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393984802.004876"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "please quiz \ubd84\ub178\uc758 \uc724\ub9ac\ud559",
+        "ts": "1393985245.004877"
+    },
+    {
+        "text": "'''\n\uc9dd\uc9dd\uc9dd\nkuss\ub2d8 \uc815\ub2f5\uc785\ub2c8\ub2e4!\n\uc815\ub2f5 : \ubd84\ub178\uc758 \uc724\ub9ac\ud559(\ubd84\ub178\uc758\uc724\ub9ac\ud559)\n\uc7a5\ub974 : \ubc94\uc8c4, \ub4dc\ub77c\ub9c8\n\uad6d\uac00 : \ud55c\uad6d\n'''",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393985245.004878"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "!",
+        "ts": "1393985246.004879"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "please quiz start",
+        "ts": "1393985250.004880"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1109\u1103\u1105\u1105\u1106]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393985251.004881"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "please quiz hint",
+        "ts": "1393995103.004882"
+    },
+    {
+        "text": "\uc9c4\ud589\uc911\uc778 \uac8c\uc784\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393995103.004883"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "!?",
+        "ts": "1393995106.004884"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "please quiz start",
+        "ts": "1393995111.004885"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1106\u110b\u1100\u1100\u110b\u1109\u1109\u1100\u1109\u1100]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393995112.004886"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz hint",
+        "ts": "1394005488.004887"
+    },
+    {
+        "text": "\ub744\uc5b4\uc4f0\uae30 \ud78c\ud2b8",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394005488.004888"
+    },
+    {
+        "text": "\ubb38\uc81c : [\u1106\u110b\u1100\u1100\u110b\u1109\u1109\u1100\u1109\u1100]",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394005488.004889"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud5d0;",
+        "ts": "1394005493.004890"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz hint",
+        "ts": "1394005501.004891"
+    },
+    {
+        "text": "\uc7a5\ub974 : \ucf54\ubbf8\ub514",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394005501.004892"
+    },
+    {
+        "text": "\uad6d\uac00 : \ud55c\uad6d",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394005502.004893"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "please quiz hint",
+        "ts": "1394005508.004894"
+    },
+    {
+        "text": "<http:\/\/movie.phinf.naver.net\/20111223_255\/1324566841650BJ9G6_JPEG\/movie_image.jpg?type=m427_320_2>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "from_url": "http:\/\/movie.phinf.naver.net\/20111223_255\/1324566841650BJ9G6_JPEG\/movie_image.jpg?type=m427_320_2",
+                "fallback": "427x284px image",
+                "image_url": "http:\/\/movie.phinf.naver.net\/20111223_255\/1324566841650BJ9G6_JPEG\/movie_image.jpg?type=m427_320_2",
+                "image_width": 427,
+                "image_height": 284,
+                "image_bytes": 38950,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394005508.004895"
+    }
+]

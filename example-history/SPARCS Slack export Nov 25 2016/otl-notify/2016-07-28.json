@@ -1,0 +1,104 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/135#issuecomment-235815678|#135: Search Autocomplete, not finished>",
+                "text": "\ud55c\uae00\uc774 \uc870\ud569\ud615 \uad6c\uc870\ub77c \uadf8\uac74 \uc5b4\uca54 \uc218 \uc5c6\ub294\ub4ef \ud569\ub2c8\ub2e4 \u3160\u3160\n\uc77c\ub2e8 \uc601\uc5b4\ub294 \uadf8\ub798\ub3c4 \uad1c\ucc2e\ub124\uc694",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/135#issuecomment-235815678|#135: Search Autocomplete, not finished>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469689296.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#153 \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153 by ashe-sparcs",
+                "text": "\ubaa8\ub378\uc774 \uc801\uc6a9\uc774 \uc548\ub3fc\uc11c \uc6b0\uc120 \ub370\uc774\ud130\ub97c \ud558\ub4dc\ucf54\ub529\uc73c\ub85c \ub2e4 \ub54c\ub824\ubc15\uc544\uc11c \uac80\uc0c9 \uad6c\ud604\ud588\uc2b5\ub2c8\ub2e4.\n\n\ub108\ubb34 \uac04\ub2e8\ud574\uc11c \ud55c\uac8c \ubcc4\ub85c \uc5c6\ub124\uc694 \u315c\u315c\n\n\ucf64\ubcf4\ubc15\uc2a4\ub294 \ud55c\ub369\uc5b4\ub9ac\ub85c \ub098\uc628 element\uac00 \uc5c6\uc5b4\uc11c \ub4dc\ub86d\ub2e4\uc6b4 \uc704\uc5d0 input\uc744 \ub36e\uc5b4\uc4f4 \ud615\uc2dd\uc73c\ub85c \ud588\uc2b5\ub2c8\ub2e4.\n\n\uadf8 \ub355\uc5d0 input \ubc11\uc5d0 \ub4dc\ub86d\ub2e4\uc6b4\uc5d0 \uc758\ud55c \uae00\uc528\uac00 \uacb9\uccd0\ubcf4\uc774\ub294 \ubb38\uc81c\uac00 \uc788\uc2b5\ub2c8\ub2e4(\uc0ac\uc9c4\ucc38\uc870).\n\n\uc784\uc2dc\ub85c url: timetable\/filter\ub85c \ub9cc\ub4e4\uc5b4\uc11c \uc9f0\uc2b5\ub2c8\ub2e4. ",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#153 \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469768023.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153#issuecomment-236097496|#153: \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.> (assigned to <https:\/\/github.com\/jo1996jo|jo1996jo>)",
+                "text": "@jo1996jo \ucf54\ub4dc\ub9ac\ubdf0\ud574\uc8fc\uc138\uc694 ",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153#issuecomment-236097496|#153: \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.> (assigned to <https:\/\/github.com\/jo1996jo|jo1996jo>)",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469769993.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jo1996jo on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153#issuecomment-236100292|#153: \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.> (assigned to <https:\/\/github.com\/jo1996jo|jo1996jo>)",
+                "text": "UnicodeDecodeError at \/timetable\/filter \ub5a0\uc694",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jo1996jo on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153#issuecomment-236100292|#153: \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.> (assigned to <https:\/\/github.com\/jo1996jo|jo1996jo>)",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469771516.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jo1996jo on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153#issuecomment-236100481|#153: \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.> (assigned to <https:\/\/github.com\/jo1996jo|jo1996jo>)",
+                "text": "\uadf8\ub9ac\uace0 button\uc740 ajax\ub85c \ubc14\uafb8\ub294\uac8c \uc88b\uc744 \uac83 \uac19\uc544\uc694",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jo1996jo on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153#issuecomment-236100481|#153: \ucf64\ubcf4\ubc15\uc2a4 \uc774\uc6a9\ud55c \ud544\ud130 \uac80\uc0c9 \uad6c\ud604.> (assigned to <https:\/\/github.com\/jo1996jo|jo1996jo>)",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469771616.000005"
+    }
+]

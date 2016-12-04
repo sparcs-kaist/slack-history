@@ -1,0 +1,44 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#47 400, 401, 403, 404, 500 \ud398\uc774\uc9c0\uc758 status code\uac00 200' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/47 by a1sams1a",
+                "text": "\uc11c\ubc84\uc5d0\ub294 commit \uc5c6\uc774 \uc784\uc2dc\ub85c \uc218\uc815\ud574\ub193\uc740 \uc0c1\ud0dc",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#47 400, 401, 403, 404, 500 \ud398\uc774\uc9c0\uc758 status code\uac00 200",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/47",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454665682.000058"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/e8791bbddd75c2c5bbc8be9e1721a2b864364364|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/e8791bbddd75c2c5bbc8be9e1721a2b864364364|e8791bb>: bug fix #47 - Sam Jo",
+                "pretext": "[sparcssso:develop] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454741738.000059"
+    }
+]

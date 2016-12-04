@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U024SJ4KZ",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SJ4KZ|pillip.youn> has left the channel",
+        "ts": "1410864138.000009"
+    },
+    {
+        "user": "U02KS7NU5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02KS7NU5|serialx> has joined the channel",
+        "ts": "1410931174.000010"
+    }
+]

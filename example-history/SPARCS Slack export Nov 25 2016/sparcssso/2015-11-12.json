@@ -1,0 +1,28 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/2cc227ab7b66f3d541a7959c37fab5ad5d47a245|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/2cc227ab7b66f3d541a7959c37fab5ad5d47a245|2cc227a>: add remove user script - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447337718.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uba54\uc77c \ubcf4\ub0c8\uc2b5\ub2c8\ub2e4",
+        "ts": "1447339052.000003"
+    }
+]

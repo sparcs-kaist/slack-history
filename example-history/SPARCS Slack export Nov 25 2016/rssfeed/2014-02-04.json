@@ -1,0 +1,462 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "<http:\/\/www.cmu.edu\/career\/salaries-and-destinations\/2013-survey\/pdfs-one-pagers\/SCS%20Post%20Grad%20Handout%202013.pdf>",
+        "ts": "1391501632.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "<http:\/\/www.zdnet.co.kr\/column\/column_view.asp?artice_id=20140129150151>",
+        "ts": "1391502573.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SNE2E",
+        "text": "<http:\/\/www.zamong.co.kr\/farm\/post\/1811>",
+        "attachments": [
+            {
+                "service_name": "Zamong",
+                "title": "\uc790\ubabd :: \uc6b0\ub9ac\ub098\ub77c\uc758 \ubbf8\ub798\ub294 \ud544\ub9ac\ud540\uc774\ub2e4",
+                "title_link": "http:\/\/www.zamong.co.kr\/farm\/post\/1811",
+                "text": "\uc9c0\uae08\uc774 \ub531 \uacfc\ub3c4\uae30\ub2e4. \uc9c0\uae08\ucc98\ub7fc \uc544\ubb34\ub9ac \ub3c8\uc744 \ud22c\uc790\ud574\uc11c \uacf5\ubd80\ud558\uace0, \ub178\ub825\ud574\ub3c4, \uc81c\ub300\ub85c\ub41c \uacf3\uc5d0 \ucde8\uc9c1\ud558\uae30\uac00 \uac70\uc758 \ubd88\uac00\ub2a5\uc5d0 \uac00\uae5d\ub2e4\ub294 \uac78 \uc54c\uba74\uc11c\ub3c4, \ubbf8\uce5c\ub4ef\uc774 \uc790\uae30\uacc4\ubc1c\uc744 \uc704\ud574 \ub3c8\uc744 \ud22c\uc790\ud558\ub294 \uc2dc\uae30\ub294 \uc55e\uc73c\ub85c\ub294 \ub450 \ubc88 \ub2e4\uc2dc \uc624\uc9c0 \uc54a\ub294\ub2e4. \uc9c0\uae08\uc740 \uc11c\ubbfc\uc774\ub77c\ub3c4, \ube5a\uc744 \ub0b4\uc11c\ub77c\ub3c4, \uc5b4\ub5bb\uac8c\ub4e0 \uc2a4\ud399 \uc62c\ub9ac\uaca0\ub2e4\uace0 \uc218\ubc31\ub9cc\uc6d0\uc758",
+                "fallback": "Zamong: \uc790\ubabd :: \uc6b0\ub9ac\ub098\ub77c\uc758 \ubbf8\ub798\ub294 \ud544\ub9ac\ud540\uc774\ub2e4",
+                "thumb_url": "http:\/\/www.zamong.co.kr\/images\/icon\/basic-profile-80_001.png",
+                "from_url": "http:\/\/www.zamong.co.kr\/farm\/post\/1811",
+                "thumb_width": 80,
+                "thumb_height": 80,
+                "id": 1
+            }
+        ],
+        "ts": "1391514526.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1wz96a\/framework_creators_please_continue_to_improve\/|Framework creators, please continue to improve things, create options and make world a better place>\nYAFS guys... learn that is an ingratitude to criticize a gift.  Having an option is a gift and really, but really, there is not something to whine about.  Please, don&amp;#39;t be lazy, improve your skills on judging what tools you should use, give positive feedback and be happy that other people spend weeks or years for giving you another choice. In the end there will be a few winners but just takes years. New framework come not from lazy people, but smart people that don&amp;#39;t like the complexity ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "YAFS guys... learn that is an ingratitude to criticize a gift. Having an option is a gift and really, but really, there is not something to whine...",
+                "fallback": "YAFS guys... learn that is an ingratitude to criticize a gift. Having an option is a gift and really, but really, there is not something to whine...",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1wz96a\/framework_creators_please_continue_to_improve\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391515948.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1wzd7a\/should_open_source_projects_have_copyright\/|Should open source projects have copyright statements in their code?>\nsubmitted by  jehb  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1wzd7a\/should_open_source_projects_have_copyright\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391521268.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1wzfx9\/what_are_modal_chord_progressions\/|What are modal chord progressions?>\n",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm starting to understand what modes are, and how to play scales in those modes, but i don't understand what songs or backing tracks are appropiate f...",
+                "fallback": "I'm starting to understand what modes are, and how to play scales in those modes, but i don't understand what songs or backing tracks are appropiate f...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1wzfx9\/what_are_modal_chord_progressions\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391522048.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1wzhwn\/why_is_it_hard_to_make_a_java_program_appear\/|Why is it hard to make a Java program 'appear native'?>\nsubmitted by  stymiee  to  java  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391523614.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1wzk0h\/pearlbee_new_blogging_engine_written_in_perl\/|PearlBee - New Blogging Engine Written in Perl>\nsubmitted by  davorg  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391525189.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1wzond\/stanford_researchers_create_recommendation_system\/|Stanford researchers create recommendation system that explicitly models user expertise>\nsubmitted by  rrenaud  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1wzond\/stanford_researchers_create_recommendation_system\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391529972.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1wzv2p\/i_need_some_help_finding_features_xpost_from\/|I need some help finding features (xpost from \/r\/computervision)>\nI posted this on \/r\/computervision, but thought I might get some help here also. Here are samples of my images: <http:\/\/imgur.com\/a\/FDw3A#0> All the images look like that. It is a high speed industrial packaging printer, and I&amp;#39;ve processed the raw images to get what you see above. I now need to identify the character. Just turning the images into a binary array representing the pixels and passing the data to a Random Forrest classifier is getting me about 49% recognition right now. As I unders...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I posted this on \/r\/computervision, but thought I might get some help here also. Here are samples of my images: [<http:\/\/imgur.com\/a\/FDw3A#0>](http:\/\/i...",
+                "fallback": "I posted this on \/r\/computervision, but thought I might get some help here also. Here are samples of my images: [<http:\/\/imgur.com\/a\/FDw3A#0>](http:\/\/i...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1wzv2p\/i_need_some_help_finding_features_xpost_from\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391532331.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1wzw0t\/darpa_publishes_all_its_open_source_code_in_one\/|DARPA publishes all its open source code in one place>\nsubmitted by  vindicatorten  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1wzw0t\/darpa_publishes_all_its_open_source_code_in_one\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391536212.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1x03ca\/job_title_question_what_is_the_guy_called_who\/|Job title question - what is the guy called who focuses on the *software development* compared to the guy writing new features?>\nAccording to me, In a software company there are 1) people who writes features with the tools he has given, and 2) people who decide software architecture, meaning what software areas are there, what artifacts should be created, etc. However, correct me if I am wrong, I think I am looking for a third role. Someone who actually focuses on the software development meaning (as an example); enforcing and and maintaining static code analysis, promoting and educating unit testing among developers, wor...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "According to me, In a software company there are 1) people who writes features with the tools he has given, and 2) people who decide software architec...",
+                "fallback": "According to me, In a software company there are 1) people who writes features with the tools he has given, and 2) people who decide software architec...",
+                "from_url": "http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1x03ca\/job_title_question_what_is_the_guy_called_who\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391537001.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/science\/comments\/1x068j\/bill_nye_and_ken_ham_are_set_to_debate_on_the\/|Bill Nye and Ken Ham are set to debate on the topic of creationism. The event will be streamed live tonight.>\nsubmitted by  anitasanger  to  science  [link] [\ub313\uae00 43]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/science\/comments\/1x068j\/bill_nye_and_ken_ham_are_set_to_debate_on_the\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391540927.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1x06hc\/cppcat_static_analyzer_review\/|CppCat Static Analyzer Review>\nsubmitted by  Andrey_Karpov_N  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391543285.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1x089r\/book_that_teaches_kids_to_code_raises_250k_on\/|Book That Teaches Kids to Code Raises $250K on Kickstarter>\nsubmitted by  AuntieMarla  to  compsci  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391544878.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/web_design\/comments\/1x0gbe\/responsive_webdesign_testing_bookmarklet\/|Responsive Webdesign Testing Bookmarklet>\nsubmitted by  haijax  to  web_design  [link] [\ub313\uae00 6]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391547982.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/linux\/comments\/1x0lk3\/red_star_os_the_north_korean_distro_30_becomes_a\/|Red Star OS (the North Korean distro) 3.0 becomes a Mac OS X look-alike.>\nsubmitted by  PaperPlaneFlyer123  to  linux  [link] [\ub313\uae00 6]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391551169.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/math\/comments\/1x0vnr\/a_new_paper_by_terence_tao_on_navierstokes_maybe\/|A new paper by Terence Tao on Navier-Stokes. Maybe the death of Otelbayev's proof?>\nsubmitted by  gioaogionny  to  math  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391554356.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x122q\/really_easy_question_that_is_escaping_me\/|Really easy question that is escaping me.>\nSo, what is it called when lyrics in a song switch between a \"4\" feeling for the first line, then a \"3\" feeling for the next, then proceeds to go back and forth. I know the answer, but I just can&amp;#39;t pull it!   submitted by  MrBelch  to  musictheory  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "So, what is it called when lyrics in a song switch between a \"4\" feeling for the first line, then a \"3\" feeling for the next, then proceeds to go back...",
+                "fallback": "So, what is it called when lyrics in a song switch between a \"4\" feeling for the first line, then a \"3\" feeling for the next, then proceeds to go back...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x122q\/really_easy_question_that_is_escaping_me\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391558971.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1x1722\/tim_gowers_how_to_work_out_proofs_in_analysis_i\/|Tim Gowers: How to work out proofs in Analysis I>\nsubmitted by  scied17  to  compsci  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/compsci\/comments\/1x1722\/tim_gowers_how_to_work_out_proofs_in_analysis_i\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391559743.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/engineering\/comments\/1x1gtg\/theyre_on_fans_now_too\/|They're on fans now, too!>\nsubmitted by  stilldash  to  engineering  [link] [\ub313\uae00 6]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/engineering\/comments\/1x1gtg\/theyre_on_fans_now_too\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391566704.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x1pij\/suggestions_for_interesting_problemproject_to\/|Suggestions for interesting problem\/project to apply Statistical Pattern Recognition (supervised learning) - Could be something you would find useful>\nI am really lacking a cool idea for project that can be solved by applying Statistical Pattern Recognition - supervised learning with class labels (no clustering). If you have any ideas I&amp;#39;d be happy if you could share them with me. I am looking for something that can be done within ~ 2-4 months. Right now, I am passionately studying Statistical Pattern Recognition and I am looking for some application that really excites me. Ideally, something useful of course, because I&amp;#39;d be happy to sh...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am really lacking a cool idea for project that can be solved by applying Statistical Pattern Recognition - supervised learning with class labels (no...",
+                "fallback": "I am really lacking a cool idea for project that can be solved by applying Statistical Pattern Recognition - supervised learning with class labels (no...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x1pij\/suggestions_for_interesting_problemproject_to\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391571376.000004"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1x1vfk\/the_matrix_multiplication_exponent_has_been\/|The Matrix Multiplication Exponent has been improved (slightly) again>\nsubmitted by  singlewhammy  to  compsci  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/compsci\/comments\/1x1vfk\/the_matrix_multiplication_exponent_has_been\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391575278.000006"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1x1qvz\/i_hope_to_see_you_in_june_at_yapcna_2014\/|I hope to see you in June at YAPC::NA 2014>\nsubmitted by  rblackwe  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391575278.000007"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x1uod\/method_for_learning_arpeggios_guitar\/|Method for learning arpeggios (guitar)>\nHello all, I have played guitar for roughly 12 years. I have a good feel for the fretboard (notes, chord voicings, some arpeggios), however I am interested in taking a more methodical approach to learning arpeggios everywhere on the neck. For background, I also have a minor in theory and have taken a number of theory courses, so actually building the chords isn&amp;#39;t really an issue for me if I have a little time to work it out. I have a back I bought at a master class put on by a guitar profess...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hello all, I have played guitar for roughly 12 years. I have a good feel for the fretboard (notes, chord voicings, some arpeggios), however I am int...",
+                "fallback": "Hello all, I have played guitar for roughly 12 years. I have a good feel for the fretboard (notes, chord voicings, some arpeggios), however I am int...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x1uod\/method_for_learning_arpeggios_guitar\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391575278.000008"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1x202b\/is_there_a_java_api_for_reddit\/|Is there a JAVA API for Reddit?>\nIs there a well documented Java API for Reddit?  submitted by  ionickid  to  java  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Is there a well documented Java API for Reddit?",
+                "fallback": "Is there a well documented Java API for Reddit?",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1x202b\/is_there_a_java_api_for_reddit\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391576850.000011"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x22dh\/a_circle_of_syntonic_commas\/|A circle of syntonic commas>\nI have been experimenting with microtonality for a long time, in particular with dividing the octave into 53 equal parts (instead of the usual 12). I have also been fascinated with the audio illusion of an ever rising tone. Today I put them together: <http:\/\/www.soundclick.com\/bands\/page_songInfo.cfm?bandID=784761&amp;songID=12673833>  submitted by  kukulaj  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have been experimenting with microtonality for a long time, in particular with dividing the octave into 53 equal parts (instead of the usual 12). I ...",
+                "fallback": "I have been experimenting with microtonality for a long time, in particular with dividing the octave into 53 equal parts (instead of the usual 12). I ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x22dh\/a_circle_of_syntonic_commas\/",
+                "id": 1
+            },
+            {
+                "text": "CSound synthesized, score generated algorithmically.",
+                "fallback": "CSound synthesized, score generated algorithmically.",
+                "from_url": "http:\/\/www.soundclick.com\/bands\/page_songInfo.cfm?bandID=784761&songID=12673833",
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391578416.000013"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1x2207\/why_you_should_always_use_and_other_bad_practices\/|Why You Should Always Use === and Other Bad Practices>\nsubmitted by  iends  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391578416.000014"
+    },
+    {
+        "text": "<http:\/\/www.nextree.co.kr\/jxl-java%ec%97%90%ec%84%9c-excel%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%b4%eb%b3%b4%ec%9e%90\/|JXL : Java\uc5d0\uc11c Excel\uc744 \uc0ac\uc6a9\ud574\ubcf4\uc790>\n\uc8fc\ub85c \ub2e4\uc591\ud55c \uc218\uce58 Data\ub97c \ub2e4\ub8e8\ub294 \ud1b5\uacc4Site\uc5d0\uc11c Data\ub97c Excel File\ub85c \ub0b4\ub824 \ubc1b\uc744 \uc218  [\u2026]",
+        "username": "\ub125\uc2a4\ud2b8\ub9ac | NEXTREE",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Java\uc5d0\uc11c Excel\uc744 \ucc98\ub9ac(DownLoad, UpLoad)\ud558\uae30 \uc704\ud574\uc11c JXL\uc774\ub77c\ub294 \uae30\uc220\uc744 \uc0ac\uc6a9\ud588\uc2b5\ub2c8\ub2e4. JXL\uc5d0\ub300\ud55c \uc18c\uac1c\uc640 \uc2e4\uc81c\ub85c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \uc801\uc6a9\ud55c \ubaa8\uc2b5\uc744 \uc0b4\ud3b4\ubcf4\uaca0\uc2b5\ub2c8\ub2e4.",
+                "fallback": "Java\uc5d0\uc11c Excel\uc744 \ucc98\ub9ac(DownLoad, UpLoad)\ud558\uae30 \uc704\ud574\uc11c JXL\uc774\ub77c\ub294 \uae30\uc220\uc744 \uc0ac\uc6a9\ud588\uc2b5\ub2c8\ub2e4. JXL\uc5d0\ub300\ud55c \uc18c\uac1c\uc640 \uc2e4\uc81c\ub85c \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \uc801\uc6a9\ud55c \ubaa8\uc2b5\uc744 \uc0b4\ud3b4\ubcf4\uaca0\uc2b5\ub2c8\ub2e4.",
+                "from_url": "http:\/\/www.nextree.co.kr\/jxl-java%ec%97%90%ec%84%9c-excel%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%b4%eb%b3%b4%ec%9e%90\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391578764.000016"
+    }
+]

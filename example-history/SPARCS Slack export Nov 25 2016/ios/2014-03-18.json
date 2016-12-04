@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U026NDWJW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U026NDWJW|apple> has joined the channel",
+        "ts": "1395192905.000002"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ud760",
+        "ts": "1395192925.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc5ec\uae30 \uc544\ubb34\ub3c4 \ub9d0\uc548\ud568",
+        "ts": "1395192943.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc8fd\uc740 \ucc44\ub110",
+        "ts": "1395192947.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc571\ub4f1\ub825\uc774 \ubd80\uc871\ud574\uc11c...",
+        "ts": "1395207512.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "ios \uc5c5\ub383\ud588\ub354\ub2c8 \ubc84\ud2bc\uc774 \ub108\ubb34 \uadc0\ucc99\ud574\uc11c \ubd80\ub2f4\uc2a4\ub7ec\uc6c0",
+        "ts": "1395207541.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1395209871.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc804\uc6d0\uc885\ub8cc \ub530\uc704\uac00 \uadc0\uc5ec\uc6c0",
+        "ts": "1395209877.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\ub9de\uc544....\ubd80\ub2f4\uc2a4\ub7ec\uc6cc....",
+        "ts": "1395211211.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc774\ub7f0\uc560\uac00 \uc544\ub2c8\uc5c8\ub294\ub370",
+        "ts": "1395211215.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1395211222.000012"
+    }
+]

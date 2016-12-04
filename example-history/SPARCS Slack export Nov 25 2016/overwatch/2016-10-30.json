@@ -1,0 +1,283 @@
+[
+    {
+        "user": "U024SJ7R9",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477854324.000374"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c sunguard",
+        "ts": "1477854406.000375"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "sunguard\uc758 \uc815\ubcf4\ub0e5!\n- \uc774\ub984: \uc815\uc885\ud601\n- \ud559\ubc88: 2011\n- \uc18c\uc18d: SPARCS 11 \/ ID KAIST\n- \uc774\uba54\uc77c: <mailto:heretor92@gmail.com|heretor92@gmail.com>\n- \uc804\ud654\ubc88\ud638: <tel:010-8736-2630|010-8736-2630>\n- \uc0dd\uc77c: 1992-01-20\n- \uc9d1\uc8fc\uc18c: \ucc3d\uc6d0\uc2dc\n- \ud648\ud398\uc774\uc9c0: <http:\/\/jonghyuk.info>\n- \ube14\ub85c\uadf8: <http:\/\/jonghyuk.info>\n- \uc218\uc815\uc77c: 2014-05-07T22:43:05KST",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854407.000376"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c \uc218\uc815 website <https:\/\/jonghyuk.info\/>",
+        "attachments": [
+            {
+                "title": "Jonghyuk Jung",
+                "title_link": "https:\/\/jonghyuk.info\/",
+                "text": "Jonghyuk's portfolio",
+                "fallback": "Jonghyuk Jung",
+                "from_url": "https:\/\/jonghyuk.info\/",
+                "service_name": "jonghyuk.info",
+                "id": 1
+            }
+        ],
+        "ts": "1477854463.000377"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854465.000378"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c \uc218\uc815 blog <https:\/\/jonghyuk.info\/>",
+        "ts": "1477854489.000380"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854490.000381"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c \uc218\uc815 battlenet_id \ubfcc\uc789\ub300\ub9c8\uc655#3747",
+        "ts": "1477854668.000382"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854668.000383"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c \uc218\uc815 home_add \ud55c\ube5b\uc544\ud30c\ud2b8 \uc8fc\ubbfc",
+        "ts": "1477854700.000384"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854701.000385"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c",
+        "ts": "1477854704.000386"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "!\ub204\uad6c \ubd07 v0.1 by samjo\n\t!\ub204\uad6c &lt;id&gt;: id\uac00 \uc815\ud655\ud788  text\uc778 \uc0ac\ub78c\uc758 \uc815\ubcf4\ub97c \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \uac80\uc0c9 &lt;text&gt;: \uc774\ub984 \ub610\ub294 id\uc5d0 text\uac00 \ud3ec\ud568\ub41c \uc0ac\ub78c\uc744 \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \uc218\uc815 &lt;json&gt;: \ubcf8\uc778\uc758 \uc815\ubcf4\ub97c \uc5c5\ub370\uc774\ud2b8\ud558\ub0e5!.\n\t!\ub204\uad6c \ubc30\ud2c0\ub137: \ubc30\ud2c0\ub137 \uc544\uc774\ub514\ub97c \uac00\uc9c0\uace0 \uc788\ub294 \uc0ac\ub78c\uc744 \uc544\uc774\ub514\uc640 \ud568\uaed8 \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \ub3c4\uc6c0: \uc774 \ub3c4\uc6c0\ub9d0\uc744 \ud45c\uc2dc\ud558\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854705.000387"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c sunguard",
+        "ts": "1477854710.000388"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "sunguard\uc758 \uc815\ubcf4\ub0e5!\n- \uc774\ub984: \uc815\uc885\ud601\n- \ud559\ubc88: 2011\n- \uc18c\uc18d: SPARCS 11 \/ ID KAIST\n- \uc774\uba54\uc77c: <mailto:heretor92@gmail.com|heretor92@gmail.com>\n- \uc804\ud654\ubc88\ud638: <tel:010-8736-2630|010-8736-2630>\n- \uc0dd\uc77c: 1992-01-20\n- \uc9d1\uc8fc\uc18c: \ud55c\ube5b\uc544\ud30c\ud2b8 \uc8fc\ubbfc\n- Battlenet ID: \ubfcc\uc789\ub300\ub9c8\uc655#3747\n- \ud648\ud398\uc774\uc9c0: <https:\/\/jonghyuk.info\/>\n- \ube14\ub85c\uadf8: <https:\/\/jonghyuk.info\/>\n- \uc218\uc815\uc77c: 2016-10-31T04:11:41KST",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854710.000389"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "!\ub204\uad6c \uc218\uc815",
+        "ts": "1477854737.000390"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "&lt;key&gt; &lt;value&gt; \ud615\uc2dd\uc758 \uc778\uc790\ub97c \ub123\uc5b4\uc57c \ud558\ub0e5! \uc0ac\uc6a9 \uac00\ub2a5\ud55c key\ub294 name, ent_year, org, email, phone, birth, dorm, lab, home_add, facebook_id, twitter_id, github_id, battlenet_id, website, blog\uac00 \uc788\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477854738.000391"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3134\ub204\uad6c\ub0e5 \uc644\uc804 \ub808\ub514\uc2a4...",
+        "ts": "1477879469.000392"
+    },
+    {
+        "user": "U0B6GQJ3F",
+        "text": "<@U0B6GQJ3F|adobecs5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477879848.000393"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "json\uc73c\ub85c \uc785\ub825\ubc1b\ub294\uac70\ub294 \ub108\ubb34 \uc2ec\ud55c\uac70 \uac19\uace0",
+        "ts": "1477879866.000394"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub300\ud654\ud615\uc740 \uad6c\ud604\ud558\uae30 \uadc0\ucc2e...",
+        "ts": "1477879872.000395"
+    },
+    {
+        "type": "message",
+        "user": "U0B6GQJ3F",
+        "text": "!\ub204\uad6c \uc218\uc815 battlenet_id Carillon#3452",
+        "ts": "1477879975.000396"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477879976.000397"
+    },
+    {
+        "type": "message",
+        "user": "U0B6GQJ3F",
+        "text": "!\ub204\uad6c adobecs5",
+        "ts": "1477879982.000398"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "adobecs5\uc758 \uc815\ubcf4\ub0e5!\n- \uc774\ub984: \uc804\ucca0\ud638\n- \ud559\ubc88: 2013\n- \uc774\uba54\uc77c: <mailto:adobecs5.kaist@gmail.com|adobecs5.kaist@gmail.com>\n- \uc804\ud654\ubc88\ud638: <tel:010-5682-0426|010-5682-0426>\n- \uc0dd\uc77c: 950211\n- Battlenet ID: Carillon#3452\n- \uc218\uc815\uc77c: 2016-10-31T11:12:56KST",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477879983.000399"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c\ub0e5 \ubc30\ud2c0\ub137",
+        "ts": "1477880006.000400"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\ubc30\ud2c0\ub137 \uce5c\uad6c\ub4e4\uc774\ub0e5!\nCarillon#3452 (\uc804\ucca0\ud638, 2013), Madstein#3157 (\uae40\uc7ac\uc131, 2014), \uc2a4\ubbf8\ub178\uc0ac#3249 (\uc870\ud615\uc900, 2014), KyeomE#3967, <mailto:kimtkyeom@gmail.com|kimtkyeom@gmail.com> (\uae40\ud0dc\uacb8, 2013), Panda#3718 (\uc870\ubbfc\uc9c0, 2009), SamJo#31658 (\uc870\uc131\uc6d0, 2014), \ubfcc\uc789\ub300\ub9c8\uc655#3747 (\uc815\uc885\ud601, 2011), \uba58\ud22c\ub354\ubd95\ubd95#3690 (\uc774\ud0dc\ud604, 2012)",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477880006.000401"
+    },
+    {
+        "type": "message",
+        "user": "U0B6GQJ3F",
+        "text": "!\ub204\uad6c \uc218\uc815 github_id cjeon",
+        "ts": "1477880012.000402"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477880013.000403"
+    },
+    {
+        "type": "message",
+        "user": "U0B6GQJ3F",
+        "text": "!\ub204\uad6c adobecs5",
+        "ts": "1477880017.000404"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "adobecs5\uc758 \uc815\ubcf4\ub0e5!\n- \uc774\ub984: \uc804\ucca0\ud638\n- \ud559\ubc88: 2013\n- \uc774\uba54\uc77c: <mailto:adobecs5.kaist@gmail.com|adobecs5.kaist@gmail.com>\n- \uc804\ud654\ubc88\ud638: <tel:010-5682-0426|010-5682-0426>\n- \uc0dd\uc77c: 950211\n- Github ID: cjeon\n- Battlenet ID: Carillon#3452\n- \uc218\uc815\uc77c: 2016-10-31T11:13:33KST",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477880018.000405"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "* \ucc38\uace0: \ub204\uad6c\ub0e5\uc740 DM\uc744 \uc9c0\uc6d0\ud569\ub2c8\ub2e4",
+        "ts": "1477880051.000406"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc0d8\uc870\uc758 \ubc30\ud2c0\ud0dc\uadf8\uac00 5\uc790\ub9ac?",
+        "ts": "1477880612.000407"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "!\ub204\uad6c \ub3c4\uc6c0",
+        "ts": "1477890009.000408"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "!\ub204\uad6c \ubd07 v0.1 by samjo\n\t!\ub204\uad6c &lt;id&gt;: id\uac00 \uc815\ud655\ud788  text\uc778 \uc0ac\ub78c\uc758 \uc815\ubcf4\ub97c \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \uac80\uc0c9 &lt;text&gt;: \uc774\ub984 \ub610\ub294 id\uc5d0 text\uac00 \ud3ec\ud568\ub41c \uc0ac\ub78c\uc744 \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \uc218\uc815 &lt;json&gt;: \ubcf8\uc778\uc758 \uc815\ubcf4\ub97c \uc5c5\ub370\uc774\ud2b8\ud558\ub0e5!.\n\t!\ub204\uad6c \ubc30\ud2c0\ub137: \ubc30\ud2c0\ub137 \uc544\uc774\ub514\ub97c \uac00\uc9c0\uace0 \uc788\ub294 \uc0ac\ub78c\uc744 \uc544\uc774\ub514\uc640 \ud568\uaed8 \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \ub3c4\uc6c0: \uc774 \ub3c4\uc6c0\ub9d0\uc744 \ud45c\uc2dc\ud558\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477890010.000409"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "!\ub204\uad6c \uc218\uc815",
+        "ts": "1477890017.000410"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "&lt;key&gt; &lt;value&gt; \ud615\uc2dd\uc758 \uc778\uc790\ub97c \ub123\uc5b4\uc57c \ud558\ub0e5! \uc0ac\uc6a9 \uac00\ub2a5\ud55c key\ub294 name, ent_year, org, email, phone, birth, dorm, lab, home_add, facebook_id, twitter_id, github_id, battlenet_id, website, blog\uac00 \uc788\ub0e5!",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477890020.000411"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud638\uc624 \ub204\uad6c\ub0e5\uc740 \uc2ac\ub799\uc544\uc774\ub514\ub97c \uc778\uc2dd\ud569\ub2c8\uce74",
+        "ts": "1477890270.000412"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "!\ub204\uad6c\ub0e5 \ubc30\ud2c0\ub137",
+        "ts": "1477890705.000413"
+    },
+    {
+        "type": "message",
+        "user": "U2SM07DV2",
+        "text": "\ubc30\ud2c0\ub137 \uce5c\uad6c\ub4e4\uc774\ub0e5!\nCarillon#3452 (\uc804\ucca0\ud638, 2013), Madstein#3157 (\uae40\uc7ac\uc131, 2014), \uc2a4\ubbf8\ub178\uc0ac#3249 (\uc870\ud615\uc900, 2014), KyeomE#3967, <mailto:kimtkyeom@gmail.com|kimtkyeom@gmail.com> (\uae40\ud0dc\uacb8, 2013), Panda#3718 (\uc870\ubbfc\uc9c0, 2009), SamJo#31658 (\uc870\uc131\uc6d0, 2014), Suckzoo#3290 (\ud64d\uc11d\uc8fc, 2013), \ubfcc\uc789\ub300\ub9c8\uc655#3747 (\uc815\uc885\ud601, 2011), \uba58\ud22c\ub354\ubd95\ubd95#3690 (\uc774\ud0dc\ud604, 2012)",
+        "bot_id": "B2SMG10QZ",
+        "ts": "1477890706.000414"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc624\uc789 \uc65c \ub2e4\ub4e4 \uc544\uc774\ub514\ub97c \uc62c\ub9ac\ub294\uac70\uc9c0 \u314b\u314b",
+        "ts": "1477891898.000415"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc2e0\uae30\ud558\uad70..",
+        "ts": "1477891907.000416"
+    }
+]

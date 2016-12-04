@@ -1,0 +1,289 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53818589|e4d841b>",
+                "text": "@ktk1012 \uc774 \ubd80\ubd84 \ubb50 \ud558\ub294\uac74\uc9c0 \uc124\uba85\uc880 \ud574\uc904\ub798\uc5ec?",
+                "pretext": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53818589|e4d841b>",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249544.000050"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#issuecomment-187813027|#6: Implement nicknameChange>",
+                "text": "\ub098\uba38\uc9c0\ub294 \uae54\ub054\ud558\uac8c \uc798 \uc9f0\ub124\uc694 \uad73\uad73",
+                "pretext": "[sparcs-kaist\/jangteo-api] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#issuecomment-187813027|#6: Implement nicknameChange>",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249568.000051"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53818842|e4d841b>",
+                "text": "PUT\uc73c\ub85c \ub9cc\uc57d \ub2c9\ub124\uc784\uc774 \uc81c\ucd9c \ub410\uc73c\uba74 nickname history\uc5d0 \uc788\ub294\uc9c0 \uc5c6\ub294\uc9c0\ub97c \uccb4\ud06c \ud558\ub294 \ub85c\uc9c1\uc785\ub2c8\ub2e4.\n\ub2e4\ub9cc PUT \ud560 \ub54c \ud604\uc7ac \ub2c9\ub124\uc784\uacfc \uac19\uc740 \uacbd\uc6b0\ub294 \ud328\uc2a4 \ud558\uace0 \uadf8 \uc678\uc758 \uacbd\uc6b0 nickname history\uc5d0 \uc774\ubbf8 \uc788\ub358 \ub2c9\ub124\uc784\uc778\uc9c0 validation\uc744 \uccb4\ud06c\ud558\ub294 \uac81\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53818842|e4d841b>",
+                "title": "Comment by ktk1012\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249637.000052"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53818994|e4d841b>",
+                "text": "\uae30\ud68d\uc5d0 \ub2c9\ub124\uc784 \ubc14\uafb8\uba74 \ub2e4\uc2dc\ub294 \ubabb \ub3cc\uc544\uc628\ub2e4\ub294 \uae30\ud68d\uc774 \uc788\uc5c8\ub098\uc694!?\n\uadf8\ub807\ub2e4\uba74 \uc774\uac8c \ub9de\ub294\uac70\uace0",
+                "pretext": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53818994|e4d841b>",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249695.000053"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53819199|e4d841b>",
+                "text": "\uae30\ud68d\ubb38\uc11c\uc5d0\uc11c \n\ub2e4\ub978 \uc0ac\uc6a9\uc790\uc640 \uc911\ubcf5\ub41c \ub2c9\ub124\uc784\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc74c (\uacfc\uac70\uc5d0 \uc0ac\uc6a9\ub418\uc5c8\ub358 \ub2c9\ub124\uc784 \ud3ec\ud568)\n\uc774\ub77c\uace0 \ub418\uc5b4\uc788\ub294\ub370... \uc774\uac8c \uacfc\uac70\uc5d0 \uc0ac\uc6a9\ub41c \ub2c9\ub124\uc784\uc744 \ud3ec\ud568 \ud55c \uac70\ub77c\uace0 \uc0dd\uac01\uc744 \ud574\uc11c..",
+                "pretext": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53819199|e4d841b>",
+                "title": "Comment by ktk1012\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249775.000054"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53819291|e4d841b>",
+                "text": "\uc544 \uadf8\ub7f0\uac00 \u3147\u314b\u3147\u314b",
+                "pretext": "[sparcs-kaist\/jangteo-api] New comment on commit <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6#discussion_r53819291|e4d841b>",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249816.000055"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6 Implement nicknameChange> by <https:\/\/github.com\/Suckzoo|Suckzoo>",
+                "text": "[sparcs-kaist\/jangteo-api] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6 Implement nicknameChange> by <https:\/\/github.com\/Suckzoo|Suckzoo>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249884.000056"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:develop] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/443e6210782a...aa0f851390cc|10 new commits> by ktk1012 and 1 other",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/56e306c1f5cc0b1b9e676c8c9e95da848ed1b920|56e306c>: Add nickname-history model - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/fa42f15ad62353f5109610e129e2742bb9e1beec|fa42f15>: Merge branch 'develop' into kyeome - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/056cef0d754f140ebefc7ec41c7f9b58bf367bcd|056cef0>: Implement changeNickname method. - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/dadadc953be5b104cb8b118ba1d68068f9a6cdc1|dadadc9>: Implement changeNickname method. - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/0ce0b16b1fbd570408ec01470689ff8006e6513b|0ce0b16>: Change model Nicknamehistory to NicknameHistory - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/6d0503f971dffc10a67c0b68554862a58cd2aa00|6d0503f>: Implement operation hook that check nickname validation - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/5448bf77838d2b4d6298c7a013e1a1e5efc5c0ca|5448bf7>: Attach nicknameChange functionality into updateAttributes - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/4bb3650d904557ecbdd7801a69bc241429892136|4bb3650>: Fix jshintrc - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/e4d841bb7b075ec8f9757e1cc7f676b4d94d8df7|e4d841b>: Add logic that check nickname has changed - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/aa0f851390cc1922e213e35959ba28e59b84c6b2|aa0f851>: Merge pull request #6 from sparcs-kaist\/kyeome - Seokju Hong",
+                "pretext": "[jangteo-api:develop] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/443e6210782a...aa0f851390cc|10 new commits> by ktk1012 and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249885.000057"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card moved: \"<https:\/\/trello.com\/c\/15G57XwK|\ub2c9\ub124\uc784 \ubc14\uafb8\uae30>\" from list \"DOING\" to list \"DONE\"",
+                "text": "Card moved: \"<https:\/\/trello.com\/c\/15G57XwK|\ub2c9\ub124\uc784 \ubc14\uafb8\uae30>\" from list \"DOING\" to list \"DONE\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249909.000058"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Card moved: \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\" from list \"ISSUES\" to list \"DONE\"",
+                "text": "Card moved: \"<https:\/\/trello.com\/c\/2BoMxfUa|[\ubaa8\ub378] nickname-history>\" from list \"ISSUES\" to list \"DONE\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456249925.000059"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "Checklist item \"<https:\/\/trello.com\/c\/2BoMxfUa\/10-nickname-history>\" on card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\" was completed by suckzoo",
+                "text": "Checklist item \"<https:\/\/trello.com\/c\/2BoMxfUa\/10-nickname-history>\" on card \"<https:\/\/trello.com\/c\/qa7Hk4hw|\ubaa8\ub378 \ub9cc\ub4e4\uae30>\" was completed by suckzoo",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456250014.000060"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New card \"<https:\/\/trello.com\/c\/Rdt8EUZB|[\ubaa8\ub378] image>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "text": "New card \"<https:\/\/trello.com\/c\/Rdt8EUZB|[\ubaa8\ub378] image>\" added to list \"<https:\/\/trello.com\/b\/OAbTx8Et|ISSUES>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456250022.000061"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/Rdt8EUZB|[\ubaa8\ub378] image>\"",
+                "text": "New member <https:\/\/trello.com\/taekyeomkim|Tae-kyeom, Kim> added to card \"<https:\/\/trello.com\/c\/Rdt8EUZB|[\ubaa8\ub378] image>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456250030.000062"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/Rdt8EUZB|[\ubaa8\ub378] image>\"",
+                "text": "New member <https:\/\/trello.com\/hyunsungcho|Hyun Sung Cho> added to card \"<https:\/\/trello.com\/c\/Rdt8EUZB|[\ubaa8\ub378] image>\"",
+                "id": 1,
+                "color": "8daec2"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456250030.000063"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KL4NYF7",
+        "mrkdwn": true,
+        "attachments": [
+            {
+                "fallback": "*Description:* \ub17c\uc758\ubd80\ud130:\n1. BLOB\uc744 \uadf8\ub0e5 DB\uc5d0 \uc464\uc154\ubc15\n-&gt;select \ud55c \ubc88 \ud588\ub2e4\uac04... \uc5b4\ud734...\n2. URL\uc744 \ub2f4\ub294\ub2e4\n-&gt;\uc0ac\uc9c4 \uad00\ub9ac\ub294 \uc5b4\ub5bb\uac8c?",
+                "text": "*Description:* \ub17c\uc758\ubd80\ud130:\n1. BLOB\uc744 \uadf8\ub0e5 DB\uc5d0 \uc464\uc154\ubc15\n-&gt;select \ud55c \ubc88 \ud588\ub2e4\uac04... \uc5b4\ud734...\n2. URL\uc744 \ub2f4\ub294\ub2e4\n-&gt;\uc0ac\uc9c4 \uad00\ub9ac\ub294 \uc5b4\ub5bb\uac8c?",
+                "pretext": "Card updated \"<https:\/\/trello.com\/c\/Rdt8EUZB|[\ubaa8\ub378] image>\"",
+                "id": 1,
+                "color": "8daec2",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456250790.000064"
+    }
+]

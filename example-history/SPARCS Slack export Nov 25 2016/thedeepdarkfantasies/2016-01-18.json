@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<https:\/\/youtu.be\/_jghezq1EtA>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "7\uc0b4\ucc28\uc774\ub098\ub294 \ub3d9\uc0dd\uc5d0\uac8c \uc560\uad50\ubd80\ub9ac\uae30\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+                "title_link": "https:\/\/youtu.be\/_jghezq1EtA",
+                "author_name": "\ub098\ub791\ub180\uc544",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCl5MZn9uXAgLDOJ8jOkzSig",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_jghezq1EtA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 7\uc0b4\ucc28\uc774\ub098\ub294 \ub3d9\uc0dd\uc5d0\uac8c \uc560\uad50\ubd80\ub9ac\uae30\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/_jghezq1EtA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/_jghezq1EtA",
+                "id": 1
+            }
+        ],
+        "ts": "1453166548.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ucc44\ub110 \uc815\ud654",
+        "ts": "1453166551.000009"
+    }
+]

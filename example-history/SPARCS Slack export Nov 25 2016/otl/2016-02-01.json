@@ -1,0 +1,276 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/5|#5 \uc11c\ubc84\uc5d0 \uc11c\ube44\uc2a4 \ub744\uc6b0\uae30> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/5|#5 \uc11c\ubc84\uc5d0 \uc11c\ube44\uc2a4 \ub744\uc6b0\uae30> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454320294.000075"
+    },
+    {
+        "type": "message",
+        "user": "U0B6J0HUG",
+        "text": "\uc624\uc624",
+        "ts": "1454321184.000076"
+    },
+    {
+        "type": "message",
+        "user": "U0B6J0HUG",
+        "text": "\uc11c\ubc84\uc5d0 \uc62c\ub77c\uac14\ub2e4\ub294 \uc18c\uc2dd\uc774\uad70\uc694",
+        "ts": "1454321194.000077"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d4bbd391f7938a639500f6ef4e8c304b5a281c7c|1 new commit> by zealotzealot",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d4bbd391f7938a639500f6ef4e8c304b5a281c7c|d4bbd39>: \uad50\uc218 \ud544\ud130 \uac80\uc0c9 \ucd94\uac00 - zealotzealot",
+                "pretext": "[otlplus:review] 1 new commit by zealotzealot:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454325012.000078"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/8#issuecomment-177917967|#8: \uad50\uc218\ub2d8 \ud0a4\uc6cc\ub4dc\uac80\uc0c9> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "text": "d4bbd391f7938a639500f6ef4e8c304b5a281c7c",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/8#issuecomment-177917967|#8: \uad50\uc218\ub2d8 \ud0a4\uc6cc\ub4dc\uac80\uc0c9> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "title": "Comment by zealotzealot\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454325054.000079"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/8|#8 \uad50\uc218\ub2d8 \ud0a4\uc6cc\ub4dc\uac80\uc0c9> by <https:\/\/github.com\/zealotzealot|zealotzealot>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/8|#8 \uad50\uc218\ub2d8 \ud0a4\uc6cc\ub4dc\uac80\uc0c9> by <https:\/\/github.com\/zealotzealot|zealotzealot>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454325054.000080"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/26#issuecomment-177918378|#26: \ud559\uacfc \ud0a4\uc6cc\ub4dc \uac80\uc0c9> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "text": "bf0021d6f4a3a0a1628b495c87cd221e31671a1a",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/26#issuecomment-177918378|#26: \ud559\uacfc \ud0a4\uc6cc\ub4dc \uac80\uc0c9> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "title": "Comment by zealotzealot\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454325111.000081"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/26|#26 \ud559\uacfc \ud0a4\uc6cc\ub4dc \uac80\uc0c9> by <https:\/\/github.com\/zealotzealot|zealotzealot>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/26|#26 \ud559\uacfc \ud0a4\uc6cc\ub4dc \uac80\uc0c9> by <https:\/\/github.com\/zealotzealot|zealotzealot>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454325111.000082"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/24|#24 \ud6c4\uae30\uc791\uc131 \uac00\uc774\ub4dc\ub77c\uc778 \ub9cc\ub4e4\uae30> by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/24|#24 \ud6c4\uae30\uc791\uc131 \uac00\uc774\ub4dc\ub77c\uc778 \ub9cc\ub4e4\uae30> by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454330069.000083"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/24#issuecomment-177953785|#24: \ud6c4\uae30\uc791\uc131 \uac00\uc774\ub4dc\ub77c\uc778 \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "text": "\ubc31\uc5d4\ub4dc\uc5d0 \uac00\uc774\ub4dc\ub77c\uc778\uc744 \ubc18\uc601\ud558\uc600\uc2b5\ub2c8\ub2e4.\n\uc870\uae08\uc758 \uc218\uc815\uc774 \uc788\uc744\uc9c0\ub294 \ubaa8\ub974\uaca0\uc73c\ub098 \uc77c\ub2e8 Close \ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/24#issuecomment-177953785|#24: \ud6c4\uae30\uc791\uc131 \uac00\uc774\ub4dc\ub77c\uc778 \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "title": "Comment by jihoon-ko\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454330069.000084"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#30 \ud6c4\uae30\uc791\uc131 \ud398\uc774\uc9c0 \ud504\ub860\ud2b8\uc5d4\ub4dc \uc791\uc131' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/30 by jihoon-ko",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "title": "#30 \ud6c4\uae30\uc791\uc131 \ud398\uc774\uc9c0 \ud504\ub860\ud2b8\uc5d4\ub4dc \uc791\uc131",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/30",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454330120.000085"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d12d3ac6345d4e1ee8ba6c89d10b3fa9001425cb|1 new commit> by jara",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d12d3ac6345d4e1ee8ba6c89d10b3fa9001425cb|d12d3ac>: \ud639\uc2dc \uc774\uac83\uc744? (\ubd88\uc644\uc804\ubc84\uc804) - jara",
+                "pretext": "[otlplus:review] 1 new commit by jara:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454331114.000086"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/6#issuecomment-177959091|#6: \"\uc0ac\ub791\"\uc744 \ucce4\uc744 \ub54c \ud639\uc2dc \uc774\uac78\ub85c \uac80\uc0c9\ud558\uc168\ub098\uc694?> (assigned to <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>)",
+                "text": "\ubd88\uba85\ud655\uc744 \uc815\ud655\ud788 \uc5b4\ub5bb\uac8c \uad6c\ud604\ud574\uc57c\ub418\ub294\uc9c0 \ubaa8\ub974\uaca0\uc5b4\uc11c \uc77c\ub2e8 \ud0a4\uc6cc\ub4dc \uac80\uc0c9\uc740 \uc77c\ubc18\uc801\uc73c\ub85c \uacfc\ubaa9 \uc774\ub984 \uac80\uc0c9\uc774\ub77c\uace0 \uac00\uc815\ud558\uace0 \ud639\uc2dc \uc720\uc800\uac00 \uad50\uc218 \uc774\ub984\uc744 \uc785\ub825\ud588\uc744 \ub54c\uc5d0 \ub300\ube44\ud574\uc11c \ud639\uc2dc \uc774\uac78\ub85c \uac80\uc0c9\ud558\uc168\ub098\uc694? \ub780\uc5d0\ub294 \ud0a4\uc6cc\ub4dc\ub97c \ud3ec\ud568\ud558\ub294 \uad50\uc218 \uc774\ub984\uc744 \ub744\uc6cc\uc8fc\ub3c4\ub85d \ud588\uc74c",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/6#issuecomment-177959091|#6: \"\uc0ac\ub791\"\uc744 \ucce4\uc744 \ub54c \ud639\uc2dc \uc774\uac78\ub85c \uac80\uc0c9\ud558\uc168\ub098\uc694?> (assigned to <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>)",
+                "title": "Comment by ashe-sparcs\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454331318.000087"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/6#issuecomment-177974815|#6: \"\uc0ac\ub791\"\uc744 \ucce4\uc744 \ub54c \ud639\uc2dc \uc774\uac78\ub85c \uac80\uc0c9\ud558\uc168\ub098\uc694?> (assigned to <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>)",
+                "text": "\uc774\ud574\ud588\uc5b4\uc694",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/6#issuecomment-177974815|#6: \"\uc0ac\ub791\"\uc744 \ucce4\uc744 \ub54c \ud639\uc2dc \uc774\uac78\ub85c \uac80\uc0c9\ud558\uc168\ub098\uc694?> (assigned to <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>)",
+                "title": "Comment by ashe-sparcs\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454333735.000088"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/387149c950f4677cb4594568aa1214685579d072|1 new commit> by jiggum",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/387149c950f4677cb4594568aa1214685579d072|387149c>: \ud544\ud130 \ud56d\ubaa9\uccb4\ud06c\ubc29\uc2dd \uc218\uc815 - jiggum",
+                "pretext": "[otlplus:review] 1 new commit by jiggum:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454339516.000089"
+    }
+]

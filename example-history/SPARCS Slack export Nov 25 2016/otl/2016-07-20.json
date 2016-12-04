@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<https:\/\/help.github.com\/articles\/checking-out-pull-requests-locally\/>",
+        "attachments": [
+            {
+                "title": "               Checking out pull requests locally - User Documentation           ",
+                "title_link": "https:\/\/help.github.com\/articles\/checking-out-pull-requests-locally\/",
+                "text": "When someone sends you a pull request from a fork or branch of your repository, you may want to merge it locally to resolve a merge conflict or to test and verify the changes on your local computer before merging on GitHub.\u2026",
+                "fallback": "               Checking out pull requests locally - User Documentation           ",
+                "from_url": "https:\/\/help.github.com\/articles\/checking-out-pull-requests-locally\/",
+                "service_icon": "https:\/\/help.github.com\/assets\/images\/site\/favicon.ico",
+                "service_name": "help.github.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469065944.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ud480\ub9ac\ud018\uc2a4\ud2b8 \uc9c1\uc811 \ub3cc\ub824\ubcf4\uae30 \uc704\ud574 \ub85c\uceec\ub85c \ubd88\ub7ec\uc624\ub294 \ubc29\ubc95\uc785\ub2c8\ub2e4. \ucf54\ub4dc\ub9ac\ubdf0 \uc2dc \ucc38\uc870\ud574\uc8fc\uc138\uc694",
+        "ts": "1469065994.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "html \uc18c\uc2a4 \uc5f4\uc5b4\ubcf4\ub294\ub370 \uc65c \ud55c\uae00 \ub2e4\uae68\uc9c8\uae4c\uc694 \uc778\ucf54\ub529 \ubb38\uc81c\ub294 \uc544\ub2cc\uac70 \uac19\uc740\ub370 \uc778\ucf54\ub529 \ubc14\uafd4\ubd10\ub3c4 \uc548\ub098\uc624\ub124\uc694 \u3161\u3161",
+        "ts": "1469068196.000013"
+    }
+]

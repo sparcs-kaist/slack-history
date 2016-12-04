@@ -1,0 +1,450 @@
+[
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman start",
+        "ts": "1394629690.000025"
+    },
+    {
+        "text": "\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\n\uc124\ub4dd\ub825\uc774 \uc788\ub294, \ub0a8\uc744 \uc2b9\ubcf5\uc2dc\ud0a4\ub294, \uc124\ub4dd\ub825\uc788\ub294",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629697.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman a",
+        "ts": "1394629705.000027"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 a\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 7\ubc88)\n\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629705.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman e",
+        "ts": "1394629708.000029"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 e\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3f\uff3f\uff3fe\uff3f\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629708.000030"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman i",
+        "ts": "1394629711.000031"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 i\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 6\ubc88)\n\uff3f\uff3f\uff3fe\uff3f\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629712.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman o",
+        "ts": "1394629714.000033"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 o\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3fo\uff3fe\uff3f\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629714.000034"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman r",
+        "ts": "1394629724.000035"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 r\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 5\ubc88)\n\uff3fo\uff3fe\uff3f\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629724.000036"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman t",
+        "ts": "1394629729.000037"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 t\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3fo\uff3fe\uff3ft\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629729.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman s",
+        "ts": "1394629734.000039"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 s\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 4\ubc88)\n\uff3fo\uff3fe\uff3ft\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629734.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman n",
+        "ts": "1394629742.000041"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 n\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3fo\uff3fent\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629742.000042"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman remind",
+        "ts": "1394629750.000043"
+    },
+    {
+        "text": "\uff3fo\uff3fent\n\uc124\ub4dd\ub825\uc774 \uc788\ub294, \ub0a8\uc744 \uc2b9\ubcf5\uc2dc\ud0a4\ub294, \uc124\ub4dd\ub825\uc788\ub294",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629750.000044"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman c",
+        "ts": "1394629758.000045"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\nco\uff3fent\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629758.000046"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman v",
+        "ts": "1394629764.000047"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 v\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 3\ubc88)\nco\uff3fent\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629765.000048"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman d",
+        "ts": "1394629777.000049"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 d\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 2\ubc88)\nco\uff3fent\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629777.000050"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman l",
+        "ts": "1394629796.000051"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 l\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 1\ubc88)\nco\uff3fent\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629797.000052"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman p",
+        "ts": "1394629802.000053"
+    },
+    {
+        "text": "\ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5c8\uc2b5\ub2c8\ub2e4. \uc815\ub2f5\uc740 cogent\uc785\ub2c8\ub2e4.\n.     _______\n.    |\/      |\n.    |    (x_x)\n.    |      \\|\/\n.    |        |\n.    |      \/ \\\n.    |\n.__|___\n\nco\uff3fent\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629803.000054"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman start",
+        "ts": "1394629807.000055"
+    },
+    {
+        "text": "\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\nconcerned with promoting unity among churches or religions",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629807.000056"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman a",
+        "ts": "1394629812.000057"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 a\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3fa\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629812.000058"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman i",
+        "ts": "1394629814.000059"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 i\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\n\uff3f\uff3f\uff3f\uff3f\uff3f\uff3fi\uff3fa\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629814.000060"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman e",
+        "ts": "1394629816.000061"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 e\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\ne\uff3f\uff3f\uff3fe\uff3fi\uff3fa\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629817.000062"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman o",
+        "ts": "1394629820.000063"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 o\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 7\ubc88)\ne\uff3f\uff3f\uff3fe\uff3fi\uff3fa\uff3f\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629820.000064"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman l",
+        "ts": "1394629823.000065"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 l\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\ne\uff3f\uff3f\uff3fe\uff3fi\uff3fal\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629823.000066"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman t",
+        "ts": "1394629826.000067"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 t\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 6\ubc88)\ne\uff3f\uff3f\uff3fe\uff3fi\uff3fal\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629827.000068"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman r",
+        "ts": "1394629829.000069"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 r\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 5\ubc88)\ne\uff3f\uff3f\uff3fe\uff3fi\uff3fal\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629830.000070"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman c",
+        "ts": "1394629832.000071"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\nec\uff3f\uff3fe\uff3fical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629832.000072"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman f",
+        "ts": "1394629837.000073"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 f\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 4\ubc88)\nec\uff3f\uff3fe\uff3fical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629838.000074"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman p",
+        "ts": "1394629841.000075"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 p\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 3\ubc88)\nec\uff3f\uff3fe\uff3fical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629841.000076"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman r",
+        "ts": "1394629848.000077"
+    },
+    {
+        "text": "jazzinpark\uc740(\ub294) \ubc14\ubcf4\uc778\uac00\uc694? \uc774\ubbf8 r\ub294 \ub9d0\ud55c \uc801\uc774 \uc788\uc796\uc544\uc694.\n \ud55c\ubc88 \ubd10\ub4dc\ub9b4\ud14c\ub2c8 \ub2e4\uc2dc\ud558\uc138\uc694.\nec\uff3f\uff3fe\uff3fical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629848.000078"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman d",
+        "ts": "1394629853.000079"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 d\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 2\ubc88)\nec\uff3f\uff3fe\uff3fical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629853.000080"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman n",
+        "ts": "1394629858.000081"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 n\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\nec\uff3f\uff3fenical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629859.000082"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman u",
+        "ts": "1394629873.000083"
+    },
+    {
+        "text": "\ub124! \uc774 \ub2e8\uc5b4\ub294 u\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\necu\uff3fenical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629873.000084"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman g",
+        "ts": "1394629884.000085"
+    },
+    {
+        "text": "\uc774 \ub2e8\uc5b4\ub294 g\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc758 \uce5c\uad6c\uac00 \uc8fd\uc5b4\uac11\ub2c8\ub2e4.(\ub0a8\uc740 \uae30\ud68c 1\ubc88)\necu\uff3fenical\n",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629884.000086"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "please hangman m",
+        "ts": "1394629922.000087"
+    },
+    {
+        "text": "jazzinpark\ub2d8 \ucd95\ud558\ud569\ub2c8\ub2e4. \ub9c8\uc9c0\ub9c9 \uae00\uc790\ub97c \ub9de\ucd94\uc168\uc2b5\ub2c8\ub2e4!\necumenical\nconcerned with promoting unity among churches or religions",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394629922.000088"
+    }
+]

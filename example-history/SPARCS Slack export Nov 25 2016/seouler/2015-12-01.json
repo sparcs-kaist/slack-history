@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U043V6ACW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U043V6ACW|pcpenpal> has joined the channel",
+        "ts": "1448971543.000002"
+    },
+    {
+        "user": "U043V6ACW",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U043V6ACW|pcpenpal> has left the channel",
+        "ts": "1448971564.000003"
+    }
+]

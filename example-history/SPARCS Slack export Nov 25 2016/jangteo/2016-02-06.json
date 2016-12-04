@@ -1,0 +1,41 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/107450903|#24> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/71860dbe8c3c|71860db>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo passed in 7 min 57 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/107450903|#24> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/71860dbe8c3c|71860db>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo passed in 7 min 57 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454772217.002674"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud2b8\ub798\ube44\uc2a4\uac00",
+        "ts": "1454823760.002675"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ucee4\ubc0b\ud560\ub54c\ub9c8\ub2e4",
+        "ts": "1454823763.002676"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud14c\uc2a4\ud2b8\ub3cc\ub824\uc8fc\ub294\uac74\uac00\uc694",
+        "ts": "1454823771.002677"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub807\ub2e4\uace0 \ubcf4\uc2dc\ubbc4 \ub429\ub2c8\ub2e4\uc544",
+        "ts": "1454826820.002678"
+    }
+]

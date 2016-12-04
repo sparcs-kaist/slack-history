@@ -1,0 +1,937 @@
+[
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "<@U024WGSD3>: \ub124 \ub9de\uc2b5\ub2c8\ub2e4",
+        "ts": "1463990189.002638"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\/giphy defense",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/cheezburger-soccer-penguin-defense-yoJC2yYtWVHwCOTA9q>",
+                "image_url": "https:\/\/media.giphy.com\/media\/yoJC2yYtWVHwCOTA9q\/giphy-tumblr.gif",
+                "image_width": 316,
+                "image_height": 178,
+                "image_bytes": 1799707,
+                "is_animated": true,
+                "title": "defense",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/cheezburger-soccer-penguin-defense-yoJC2yYtWVHwCOTA9q"
+            }
+        ],
+        "ts": "1463990958.002639"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "...",
+        "ts": "1463990963.002640"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\/giphy Ph.D",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/op-luffy-monkey-d-ubEieNPjyQZvG>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/ubEieNPjyQZvG\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1017296,
+                "is_animated": true,
+                "title": "Ph.D",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/op-luffy-monkey-d-ubEieNPjyQZvG"
+            }
+        ],
+        "ts": "1463991440.002641"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "...",
+        "ts": "1463991447.002642"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\/giphy Ph.D defense",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/defense-HyFjsln0YVEBO>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/HyFjsln0YVEBO\/giphy.gif",
+                "image_width": 284,
+                "image_height": 216,
+                "image_bytes": 1851331,
+                "is_animated": true,
+                "title": "Ph.D defense",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/defense-HyFjsln0YVEBO"
+            }
+        ],
+        "ts": "1463991481.002643"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1463991499.002644"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "zzzzzzzz",
+        "ts": "1463991504.002645"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "giphy \ud50c\ub7ec\uadf8\uc778? \uc740 \uc5b8\uc81c \uc5f0\ub3d9\ud574\ub193\uc740\uac74\uac00\uc694",
+        "ts": "1463991532.002646"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\/giphy giphy",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/hoppip-logo-WhxTBL2kHG8co>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/WhxTBL2kHG8co\/giphy.gif",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 32391,
+                "is_animated": true,
+                "title": "giphy",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/hoppip-logo-WhxTBL2kHG8co"
+            }
+        ],
+        "ts": "1463991589.002647"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc800 \uc0ac\uc774\ud2b8\ub294 \uc790\uccb4\uc801\uc73c\ub85c \ud544\ud130\ub9c1\uc744 \ud558\ub824\ub098..? \uc544\ubb34\uac70\ub098 \ucce4\ub294\ub370 \ubbfc\ub9dd\ud55c\uac70 \ub098\uc624\ub294 \uc77c\uc740 \uc5c6\uaca0\uc9c0",
+        "ts": "1463991625.002648"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc788\ub294 \uac78\ub85c",
+        "ts": "1463991643.002649"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\/giphy paper thesis",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/paper-thesis-13Qktosgtqi7Li>",
+                "image_url": "http:\/\/media.giphy.com\/media\/13Qktosgtqi7Li\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 102,
+                "image_bytes": 722323,
+                "is_animated": true,
+                "title": "paper thesis",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/paper-thesis-13Qktosgtqi7Li"
+            }
+        ],
+        "ts": "1463992061.002650"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\/giphy PhD candidate",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/candid-1FEpUC9suDjKE>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/1FEpUC9suDjKE\/giphy.gif",
+                "image_width": 300,
+                "image_height": 360,
+                "image_bytes": 624518,
+                "is_animated": true,
+                "title": "PhD candidate",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/candid-1FEpUC9suDjKE"
+            }
+        ],
+        "ts": "1463992169.002653"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\/giphy paper rejected",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/hoppip-art-animation-film-r3vDPo6KSw4jS>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/r3vDPo6KSw4jS\/giphy.gif",
+                "image_width": 500,
+                "image_height": 372,
+                "image_bytes": 423401,
+                "is_animated": true,
+                "title": "paper rejected",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/hoppip-art-animation-film-r3vDPo6KSw4jS"
+            }
+        ],
+        "ts": "1464002328.002654"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "<@U025XHGF3>: \u3160\u3160 \ubb50 \ub5a8\uc5b4\uc84c\ub2c8",
+        "ts": "1464003007.002655"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "<@U024SPDHG>: \uc544\ub2c8\uc694 \ubb50 \ub5a8\uc5b4\uc9c4\uac74 \uc544\ub2cc\ub370 \uadf8\ub0e5 \uc5b4\ub5a4 \uadf8\ub9bc\uc774 \ub098\uc62c\uc9c0 \uad81\uae08\ud574\uc11c \uccd0\ubd24\uc5b4\uc694 \u314b\u314b",
+        "ts": "1464003668.002656"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\u314b\u314b\u314b",
+        "ts": "1464003681.002657"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "6\uc6d418\uc77c\uae4c\uc9c0 CoNEXT \ub370\ub4dc\ub77c\uc778\uc778\ub370 \uc798 \ub0bc \uc218 \uc788\uc744\uc9c0 \ubaa8\ub974\uaca0\ub124\uc694 \u3160\u3160",
+        "ts": "1464003683.002658"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ucf54\ub125\uc2a4\ud2b8!",
+        "ts": "1464003687.002659"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\uc8fc\uc81c\ub97c \ub4c0 4\uc6d4\ub9d0\uc5d0 \uae09\uc791\uc2a4\ub7fd\uac8c \ubc14\uafd4\uc11c \uc9c4\ud589\uc911\uc774\ub77c \u314b\u314b\u314b \uc798 \ub420\uc9c0 \ubaa8\ub974\uaca0\ub124\uc694 \u314b\u314b",
+        "ts": "1464003734.002660"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud750\ud750 \uc798 \ub418\uaca0\uc9c0",
+        "ts": "1464004170.002661"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ub098\ucc98\ub7fc NSDI \ub370\ub4dc\ub77c\uc778 \uc804\ub0a0\uc774\ub098 \ubc15\uc0ac\ub514\ud39c\uc2a4 \uc804\uc804\ub0a0\uae4c\uc9c0 \ub514\ubc84\uae45\ud558\uace0 \uc788\uc9c0\ub9cc \ub9c8\ub834...",
+        "ts": "1464004187.002662"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<http:\/\/www.pokedraw.net\/>",
+        "attachments": [
+            {
+                "service_name": "Pok\u00e9draw",
+                "title": "Pok\u00e9draw - Draw a Pok\u00e9mon in 45 seconds!",
+                "title_link": "http:\/\/www.pokedraw.net\/",
+                "text": "Think you can draw a Pok\u00e9mon? Click here to try it out. It only takes 45 seconds.",
+                "fallback": "Pok\u00e9draw: Pok\u00e9draw - Draw a Pok\u00e9mon in 45 seconds!",
+                "from_url": "http:\/\/www.pokedraw.net\/",
+                "id": 1
+            }
+        ],
+        "ts": "1464016481.002663"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc11d\uc8fc \ubcc0\ud0dc",
+        "ts": "1464058144.002665"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uae69",
+        "ts": "1464059449.002666"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "paper rejected \uaf2d at field \uac19\ub2e4",
+        "ts": "1464063357.002667"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\/giphy at field",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/oscars-sally-field-you-like-me-xmQh8NQ78y8QU>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/xmQh8NQ78y8QU\/giphy.gif",
+                "image_width": 350,
+                "image_height": 252,
+                "image_bytes": 907107,
+                "is_animated": true,
+                "title": "at field",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/oscars-sally-field-you-like-me-xmQh8NQ78y8QU"
+            }
+        ],
+        "ts": "1464063866.002668"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "A\u314f...",
+        "ts": "1464063877.002669"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\/giphy Evangelion at field",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/evangelion-NNK3tM20vvIo8>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/NNK3tM20vvIo8\/giphy.gif",
+                "image_width": 500,
+                "image_height": 284,
+                "image_bytes": 1047740,
+                "is_animated": true,
+                "title": "Evangelion at field",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/evangelion-NNK3tM20vvIo8"
+            }
+        ],
+        "ts": "1464063910.002670"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "???",
+        "ts": "1464063920.002671"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub355\ud6c4",
+        "ts": "1464063936.002672"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\/giphy sven",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/frozen-olaf-sven-VECTSz9Kc7aCs>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/VECTSz9Kc7aCs\/giphy.gif",
+                "image_width": 160,
+                "image_height": 200,
+                "image_bytes": 1150758,
+                "is_animated": true,
+                "title": "sven",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/frozen-olaf-sven-VECTSz9Kc7aCs"
+            }
+        ],
+        "ts": "1464064198.002673"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc2a4\ubca4\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1464064222.002674"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\ub108\ubb34 \uadc0\uc5fd\ub2e4",
+        "ts": "1464064261.002675"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\/giphy undead",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/cootiesmovie-movie-kids-cooties-3o85xmiKBWHR6UYm4g>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/3o85xmiKBWHR6UYm4g\/giphy.gif",
+                "image_width": 480,
+                "image_height": 200,
+                "image_bytes": 341426,
+                "is_animated": true,
+                "title": "undead",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/cootiesmovie-movie-kids-cooties-3o85xmiKBWHR6UYm4g"
+            }
+        ],
+        "ts": "1464064267.002676"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\/giphy apple",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/apple-steve-jobs-CTkWFZ1IDvsfS>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/CTkWFZ1IDvsfS\/giphy.gif",
+                "image_width": 351,
+                "image_height": 478,
+                "image_bytes": 85696,
+                "is_animated": true,
+                "title": "apple",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/apple-steve-jobs-CTkWFZ1IDvsfS"
+            }
+        ],
+        "ts": "1464064291.002677"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc7a1\uc2a4\ud615 \u3137\u3137",
+        "ts": "1464064302.002678"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\/giphy dota sven",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/3d-animation-dota-2-bluespace-eHKM1zH4JBMk>",
+                "image_url": "http:\/\/media.giphy.com\/media\/eHKM1zH4JBMk\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 187,
+                "image_bytes": 876747,
+                "is_animated": true,
+                "title": "dota sven",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/3d-animation-dota-2-bluespace-eHKM1zH4JBMk"
+            }
+        ],
+        "ts": "1464064317.002679"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc73c\uc789",
+        "ts": "1464064322.002680"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\/giphy donghwa kim",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/remix-lil-z52aqPh2ewUrS>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/z52aqPh2ewUrS\/giphy.gif",
+                "image_width": 400,
+                "image_height": 295,
+                "image_bytes": 293036,
+                "is_animated": true,
+                "title": "donghwa kim",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/remix-lil-z52aqPh2ewUrS"
+            }
+        ],
+        "ts": "1464064447.002681"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u2026.",
+        "ts": "1464064452.002682"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\/giphy story kim",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/design-blog-FzpNPTpiDpsmk>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/FzpNPTpiDpsmk\/giphy.gif",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 311059,
+                "is_animated": true,
+                "title": "story kim",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/design-blog-FzpNPTpiDpsmk"
+            }
+        ],
+        "ts": "1464064462.002683"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "good",
+        "ts": "1464064470.002684"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\/giphy coffee kim",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/realitytvgifs-coffee-sad-A0y7kK9I1FEEE>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/A0y7kK9I1FEEE\/giphy.gif",
+                "image_width": 500,
+                "image_height": 275,
+                "image_bytes": 858551,
+                "is_animated": true,
+                "title": "coffee kim",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/realitytvgifs-coffee-sad-A0y7kK9I1FEEE"
+            }
+        ],
+        "ts": "1464064479.002685"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "?!",
+        "ts": "1464064479.002686"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uaea2",
+        "ts": "1464064491.002687"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\/giphy story",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/story-puig-D9o8YHsN4jjYA>",
+                "image_url": "http:\/\/media.giphy.com\/media\/D9o8YHsN4jjYA\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 997475,
+                "is_animated": true,
+                "title": "story",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/story-puig-D9o8YHsN4jjYA"
+            }
+        ],
+        "ts": "1464064495.002688"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "<@U024U2P7Y>:",
+        "ts": "1464064505.002689"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN150|bbashong> uploaded a file: <https:\/\/sparcs.slack.com\/files\/bbashong\/F1B7NGQ01\/_____________2016-05-24________1.34.14.png|\uc2a4\ud06c\ub9b0\uc0f7 2016-05-24 \uc624\ud6c4 1.34.14.png>",
+        "file": {
+            "id": "F1B7NGQ01",
+            "created": 1464064511,
+            "timestamp": 1464064511,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2016-05-24 \uc624\ud6c4 1.34.14.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2016-05-24 \uc624\ud6c4 1.34.14.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SN150",
+            "editable": false,
+            "size": 131717,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7NGQ01\/_____________2016-05-24________1.34.14.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7NGQ01\/download\/_____________2016-05-24________1.34.14.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7NGQ01-290c753aa3\/_____________2016-05-24________1.34.14_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7NGQ01-290c753aa3\/_____________2016-05-24________1.34.14_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7NGQ01-290c753aa3\/_____________2016-05-24________1.34.14_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 180,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7NGQ01-290c753aa3\/_____________2016-05-24________1.34.14_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 240,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7NGQ01-290c753aa3\/_____________2016-05-24________1.34.14_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7NGQ01-290c753aa3\/_____________2016-05-24________1.34.14_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 359,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7NGQ01-290c753aa3\/_____________2016-05-24________1.34.14_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 479,
+            "image_exif_rotation": 1,
+            "original_w": 972,
+            "original_h": 485,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/bbashong\/F1B7NGQ01\/_____________2016-05-24________1.34.14.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1B7NGQ01-0d5399b7bf",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U024U2P7Y"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U024SN150",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN150|bbashong>",
+        "bot_id": null,
+        "ts": "1464064514.002690"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uac1c\uc5b4\ub824\uc6b4\ub4ef",
+        "ts": "1464064517.002691"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "zzzz",
+        "ts": "1464064520.002692"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc800\uac70",
+        "ts": "1464064522.002693"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1464064523.002694"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc7ac\ubc0c\uc5b4\uc5ec",
+        "ts": "1464064523.002695"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0K6|rodumani> uploaded a file: <https:\/\/sparcs.slack.com\/files\/rodumani\/F1B7UGJ3C\/pasted_image_at_2016_05_24_01_36_pm.png|Pasted image at 2016-05-24, 1:36 PM>",
+        "file": {
+            "id": "F1B7UGJ3C",
+            "created": 1464064594,
+            "timestamp": 1464064594,
+            "name": "Pasted image at 2016_05_24 01_36 PM.png",
+            "title": "Pasted image at 2016-05-24, 1:36 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SN0K6",
+            "editable": false,
+            "size": 696024,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7UGJ3C\/pasted_image_at_2016_05_24_01_36_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7UGJ3C\/download\/pasted_image_at_2016_05_24_01_36_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 199,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 265,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 398,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 530,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7UGJ3C-7b0bda0920\/pasted_image_at_2016_05_24_01_36_pm_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 565,
+            "image_exif_rotation": 1,
+            "original_w": 1938,
+            "original_h": 1070,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/rodumani\/F1B7UGJ3C\/pasted_image_at_2016_05_24_01_36_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1B7UGJ3C-c9d8cb78e1",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0K6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0K6|rodumani>",
+        "bot_id": null,
+        "ts": "1464064599.002697"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN150|bbashong> uploaded a file: <https:\/\/sparcs.slack.com\/files\/bbashong\/F1B76V67N\/_____________2016-05-24________1.36.49.png|\uc2a4\ud06c\ub9b0\uc0f7 2016-05-24 \uc624\ud6c4 1.36.49.png>",
+        "file": {
+            "id": "F1B76V67N",
+            "created": 1464064619,
+            "timestamp": 1464064619,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2016-05-24 \uc624\ud6c4 1.36.49.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2016-05-24 \uc624\ud6c4 1.36.49.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SN150",
+            "editable": false,
+            "size": 105631,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B76V67N\/_____________2016-05-24________1.36.49.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B76V67N\/download\/_____________2016-05-24________1.36.49.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B76V67N-e3b15430b3\/_____________2016-05-24________1.36.49_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B76V67N-e3b15430b3\/_____________2016-05-24________1.36.49_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B76V67N-e3b15430b3\/_____________2016-05-24________1.36.49_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 177,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B76V67N-e3b15430b3\/_____________2016-05-24________1.36.49_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 236,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B76V67N-e3b15430b3\/_____________2016-05-24________1.36.49_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B76V67N-e3b15430b3\/_____________2016-05-24________1.36.49_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 354,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B76V67N-e3b15430b3\/_____________2016-05-24________1.36.49_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 472,
+            "image_exif_rotation": 1,
+            "original_w": 977,
+            "original_h": 480,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/bbashong\/F1B76V67N\/_____________2016-05-24________1.36.49.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1B76V67N-582a183363",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN150",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN150|bbashong>",
+        "bot_id": null,
+        "ts": "1464064621.002698"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b \ub531\uad6c\ub9ac \uadf8\ub9b0\uac70 \uadc0\uc5fd\ub2e4",
+        "ts": "1464064667.002699"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\"\uc6a9\uc774\uc0b0\ub2e4\" \ub9cc\ud654\uc5d0\uc11c \uadf8\ub9bc\uccb4 \uc77c\ubd80\ub7ec \uc774\uc0c1\ud558\uac8c \uadf8\ub9b0 \uadf8\ub9bc\uac19\ub2e4",
+        "ts": "1464064684.002700"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0K6|rodumani> uploaded a file: <https:\/\/sparcs.slack.com\/files\/rodumani\/F1B7HEKDK\/apple___________________________________________.png|Apple \ud32c\uc2ac\ub85c \uadf8\ub9b0\uac70\uc9c0\ub9cc \ub9dd\ud55c \ud53c\uce74\uce04>",
+        "file": {
+            "id": "F1B7HEKDK",
+            "created": 1464064823,
+            "timestamp": 1464064823,
+            "name": "Apple \ud32c\uc2ac\ub85c \uadf8\ub9b0\uac70\uc9c0\ub9cc \ub9dd\ud55c \ud53c\uce74\uce04.png",
+            "title": "Apple \ud32c\uc2ac\ub85c \uadf8\ub9b0\uac70\uc9c0\ub9cc \ub9dd\ud55c \ud53c\uce74\uce04",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U024SN0K6",
+            "editable": false,
+            "size": 223321,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7HEKDK\/apple___________________________________________.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7HEKDK\/download\/apple___________________________________________.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 194,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 259,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 388,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________960.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 518,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7HEKDK-ef33e31c8a\/apple____________________________________________1024.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 552,
+            "image_exif_rotation": 1,
+            "original_w": 1991,
+            "original_h": 1074,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/rodumani\/F1B7HEKDK\/apple___________________________________________.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1B7HEKDK-ad7b27aaab",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0K6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0K6|rodumani>",
+        "bot_id": null,
+        "ts": "1464064826.002701"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN0K6|rodumani> uploaded a file: <https:\/\/sparcs.slack.com\/files\/rodumani\/F1B7P91CH\/_____________________________________.png|\ub3d9\ud654\ub2d8\uc774 \ud32c\uc2ac\ub85c \uadf8\ub9b0  \ub9dd\uc791>",
+        "file": {
+            "id": "F1B7P91CH",
+            "created": 1464064933,
+            "timestamp": 1464064933,
+            "name": "\ub3d9\ud654\ub2d8\uc774 \ud32c\uc2ac\ub85c \uadf8\ub9b0  \ub9dd\uc791.png",
+            "title": "\ub3d9\ud654\ub2d8\uc774 \ud32c\uc2ac\ub85c \uadf8\ub9b0  \ub9dd\uc791",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U024SN0K6",
+            "editable": false,
+            "size": 383796,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7P91CH\/_____________________________________.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1B7P91CH\/download\/_____________________________________.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________960.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1B7P91CH-2f5b6eb2bb\/______________________________________1024.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 2048,
+            "original_h": 1536,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/rodumani\/F1B7P91CH\/_____________________________________.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1B7P91CH-7f1752f49b",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN0K6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN0K6|rodumani>",
+        "bot_id": null,
+        "ts": "1464064937.002702"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubc1c\ub85c \uadf8\ub838\uc2b5\ub2c8\ub2e4 ^^",
+        "ts": "1464064941.002703"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\ub370\ube0c\ud615\ub4e4",
+        "ts": "1464065036.002704"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\ubcf5\ud559\uc5b8\uc81c\ud574\uc694",
+        "ts": "1464065038.002705"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "3\uc6d4",
+        "ts": "1464065044.002706"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ubc25\uba39\uc790\uc885\uc6b1\uc544",
+        "ts": "1464065046.002707"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc2ac\ub799\uc5d0",
+        "ts": "1464065055.002708"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\uc6b0\uc640\uc544\uc544",
+        "ts": "1464065056.002709"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uce90\uce58\ub9c8\uc778\ub4dc \uc571 \uc788\uc73c\uba74 \uc88b\uaca0\ub2e4",
+        "ts": "1464065058.002710"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\ub9ac\ub294\uac74 \uc801\ub2f9\ud788 \uc6f9\uc5d0\uc11c \ud558\uace0 \ubc1b\uc544\uc624\uace0",
+        "ts": "1464065088.002711"
+    }
+]

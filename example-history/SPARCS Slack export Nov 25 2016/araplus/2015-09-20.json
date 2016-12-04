@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/13dde9ca85e78ddb1835ccfe579ac5d5c7f2df70|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/13dde9ca85e78ddb1835ccfe579ac5d5c7f2df70|13dde9c>: board \uae00\uc4f0\uae30 attachment, error \uad00\ub828 \uc81c\uc678\ud558\uace0 \ud504\ub860\ud2b8 \uc791\uc5c5 - TaeHyun",
+                "pretext": "[araplus:board] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1442752624.000064"
+    }
+]

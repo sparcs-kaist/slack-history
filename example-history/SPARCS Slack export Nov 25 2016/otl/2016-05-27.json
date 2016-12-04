@@ -1,0 +1,1032 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/86edc820cdfe...34db0965b7d9|2 new commits> by root",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/4811dcb8cc961bdb570b351c0ce04da13cfba435|4811dcb>`  minor bug fixed - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/34db0965b7d9dbe8e6f4d19f270a1b5caa558a54|34db096>`  minor bug fixed - root",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/86edc820cdfe...34db0965b7d9|2 new commits> by root:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464352269.000057"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/cd5f900527eb245f1a402bf25deb38b4e2a60859|1 new commit> by root",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/cd5f900527eb245f1a402bf25deb38b4e2a60859|cd5f900>`  to rebase - root",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by root:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464356099.000058"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/62|#62 \ud398\uc774\uc9c0 \uc0ac\uc774\uc988 \ucee4\uc9c0\uba74, \uba54\uc778\ud398\uc774\uc9c0 \ud544\ud130 \ub113\uc774 \uae68\uc9d0> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/62|#62 \ud398\uc774\uc9c0 \uc0ac\uc774\uc988 \ucee4\uc9c0\uba74, \uba54\uc778\ud398\uc774\uc9c0 \ud544\ud130 \ub113\uc774 \uae68\uc9d0> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464358128.000059"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/bdf0c2fc7bb3f18b2690109e3785112988f7495b|bdf0c2f>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/cd5f900527eb...bdf0c2fc7bb3|Compare changes>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/bdf0c2fc7bb3f18b2690109e3785112988f7495b|bdf0c2f>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/cd5f900527eb...bdf0c2fc7bb3|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464358691.000060"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/cd5f900527eb...bdf0c2fc7bb3|18 new commits> by jara and 6 others",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/1d7bbf757fdc78ec6ace3724b9a5be36adbc40d7|1d7bbf7>`  testtesttest - jara\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/fb002c0f811fc67f14f8f78b09f20d6b08f5546b|fb002c0>`  ( Issue #14 ) \ubc84\uadf8 \uc218\uc815! - jihoon-ko\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/bd48111df51e85a59f92ce833caa0764bf37b9da|bd48111>`  pretty autocomplete - ashe-sparcs\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/407f58d1d8c526329d74946537bb375bb4e7a959|407f58d>`  \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0 \ud504\ub860\ud2b8\uc5d4\ub4dc \uc791\uc131 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0f38344c4250c32771b4aa7300ce1c119fd1d50e|0f38344>`  \uad50\uc218\ubc15\uc2a4 \uc18c\uc18d\ud559\uacfc \uc5c5\ub370\uc774\ud2b8 #54 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/edf966dff32c51968d91446c7983258c477cb7cf|edf966d>`  \ud55c\uc904\uc694\uc57d \ub4f1\ub85d - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/a8b9947d8164b289f94636c1bd3a333a3105e7c8|a8b9947>`  userprofile \ubbf8\ub9ac\uc0dd\uc131 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/988daec742dc8e51d691e78051a3d10c0101e47c|988daec>`  merge session to review - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/cf5079d7939741c5b7344c3d5589d1acd563cb04|cf5079d>`  \ud504\ub860\ud2b8 \uc77c\ubd80\uc218\uc815 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/35b65eb1b14e343dd468f313adde1aa0832695d2|35b65eb>`  \ud559\uacfc \uc124\uc815\uc774 \uc548 \ub418\ub294 \uc624\ub958 \ud574\uacb0 - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/151a2a10424a920f2c893c7636e96aeeeb04ee60|151a2a1>`  \ub9c8\uc774\ud398\uc774\uc9c0 \uad00\uc2ec\ud559\uacfc\uc124\uc815\uae30\ub2a5 \uc624\ub958 \uc218\uc815 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/8b78f2a47b74d61d52b5f4fb29d4f885f0a496a4|8b78f2a>`  delete commit - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/2277350bdf4bd1144285795a0547d35d58242baf|2277350>`  change summury maxlength 400-&gt;4000 - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/88a6c250ea3d0b787b8f708275d2eb7ba422bbf1|88a6c25>`  implement infinite scroll - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/77fd25357e68afd3e319b1b00203a4405a66b589|77fd253>`  change get semester_now -&gt; semester_next in import-scholardb.py - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/4e3b883597f9d4f2772ea2d4b74fa89efb62e954|4e3b883>`  handling error - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/f52f20a29cfbb6a64ab238e2f3d02be37ae3200f|f52f20a>`  minor bug fixed - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/bdf0c2fc7bb3f18b2690109e3785112988f7495b|bdf0c2f>`  Issue #61 \ud574\uacb0 - jiggum",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/cd5f900527eb...bdf0c2fc7bb3|18 new commits> by jara and 6 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464358691.000061"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/953805ff1660c5875fe53fd8ac4d29d5cf6c17c9|953805f>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/bdf0c2fc7bb3...953805ff1660|Compare changes>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/953805ff1660c5875fe53fd8ac4d29d5cf6c17c9|953805f>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/bdf0c2fc7bb3...953805ff1660|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464359096.000062"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/bdf0c2fc7bb3...953805ff1660|6 new commits> by jiggum and 2 others",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0f58ebda20be7a7474dc66d63b354cb7a8958acb|0f58ebd>`  delete commit - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/a77892bd51f5b37c97bf125dc70ca1ec37fe2781|a77892b>`  change summury maxlength 400-&gt;4000 - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/5260b9d10016f27cc8549b06799a95a276e313db|5260b9d>`  implement infinite scroll - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/bdbf0157770807259be674e6385b1da22f61ad0e|bdbf015>`  change get semester_now -&gt; semester_next in import-scholardb.py - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/34db3e984d6e5ab533d490bf17836d633030181f|34db3e9>`  handling error - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/953805ff1660c5875fe53fd8ac4d29d5cf6c17c9|953805f>`  minor bug fixed - root",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/bdf0c2fc7bb3...953805ff1660|6 new commits> by jiggum and 2 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464359096.000063"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c1aceaf1a69e91e42e23cfbe54e9922fe225583f|c1aceaf>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/953805ff1660...c1aceaf1a69e|Compare changes>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c1aceaf1a69e91e42e23cfbe54e9922fe225583f|c1aceaf>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/953805ff1660...c1aceaf1a69e|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464359192.000064"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/953805ff1660...c1aceaf1a69e|5 new commits> by kangwon and 2 others",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/597a28e0e1828e533adc71d05a46878c0709de2e|597a28e>`  delete commit - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/056417ee0ccea8749e9e146f5da0e9ede829e692|056417e>`  change summury maxlength 400-&gt;4000 - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b89e5c4f80a0469a28c7d4d98e2734dfaf4f4582|b89e5c4>`  implement infinite scroll - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/9f181fb30677698a1389b6cd391ac63114b8a184|9f181fb>`  change get semester_now -&gt; semester_next in import-scholardb.py - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c1aceaf1a69e91e42e23cfbe54e9922fe225583f|c1aceaf>`  minor bug fixed - root",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/953805ff1660...c1aceaf1a69e|5 new commits> by kangwon and 2 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464359192.000065"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b197ea36745e6f49a1be480f3a4b555234dbd896|b197ea3>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/c1aceaf1a69e...b197ea36745e|Compare changes>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> Branch \"review\" was force-pushed to `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b197ea36745e6f49a1be480f3a4b555234dbd896|b197ea3>` by kangwon. <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/c1aceaf1a69e...b197ea36745e|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464359244.000066"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b197ea36745e6f49a1be480f3a4b555234dbd896|1 new commit> by jiggum",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b197ea36745e6f49a1be480f3a4b555234dbd896|b197ea3>`  \ud504\ub860\ud2b8 \uc77c\ubd80\uc218\uc815 - jiggum",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by jiggum:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464359245.000067"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/a5a2fe858e2943bdc094fd5b178b27badfc4e557|1 new commit> by jihoon-ko",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/a5a2fe858e2943bdc094fd5b178b27badfc4e557|a5a2fe8>`  urls.py\uc5d0 refresh method \ub4f1\ub85d - jihoon-ko",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by jihoon-ko:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464360733.000068"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/de652f6f5a1fdc7b9c86934c88b8b099e4d963d0|1 new commit> by jihoon-ko",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/de652f6f5a1fdc7b9c86934c88b8b099e4d963d0|de652f6>`  views.py\uc5d0 ReviewRefresh \ub4f1\ub85d - jihoon-ko",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by jihoon-ko:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464360837.000069"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/705e9705a7fc1327b8599ccafaea2d5ab43adcc2|1 new commit> by jihoon-ko",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/705e9705a7fc1327b8599ccafaea2d5ab43adcc2|705e970>`  \uac04\ub2e8\ud55c \uc624\ub958 \uc218\uc815 - jihoon-ko",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by jihoon-ko:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464360955.000070"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65 by jihoon-ko",
+                "text": "<http:\/\/bit.sparcs.org:50045\/review\/result\/comment\/>?????\n\n\uc5d0\uc11c \ub9ac\ubdf0\uac00 \ucd94\ucc9c \uae30\ub2a5\uc774 \uc791\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "title": "#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464362079.000071"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b1fbc30b23e6c16957ee77a7a8deb802390026aa|1 new commit> by ashe-sparcs",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b1fbc30b23e6c16957ee77a7a8deb802390026aa|b1fbc30>`  \uac04\ub2e8\ud55c \uc5d0\ub7ec \ud398\uc774\uc9c0(\ub9ac\ub2e4\uc774\ub809\ud2b8 \uac00\ub2a5) - ashe-sparcs",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by ashe-sparcs:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464363488.000072"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/719dc3cc4934545ef2aa2ba8d452950539135171|1 new commit> by kangwon",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/719dc3cc4934545ef2aa2ba8d452950539135171|719dc3c>`  .DS-Store banished! - kangwon",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by kangwon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464369256.000073"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/session|[otlplus:session]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/6f2abf77d464...54df24fd5084|2 new commits> by kangwon",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/79cae3c44804a9af153cbb257a2e793adfc0bcd7|79cae3c>`  .DS_Store banished - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/54df24fd50840633fc0f552f99dafd9da2bfae13|54df24f>`  issue #64 solved - kangwon",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/session|[otlplus:session]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/6f2abf77d464...54df24fd5084|2 new commits> by kangwon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464369550.000074"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/64|#64 logout implement> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/64|#64 logout implement> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464369565.000075"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/64#issuecomment-222203908|#64: logout implement>",
+                "text": "closed",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/64#issuecomment-222203908|#64: logout implement>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464369565.000076"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/736fa39a018385e48072b25ce35d6a50bc6c1cee|1 new commit> by jihoon-ko",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/736fa39a018385e48072b25ce35d6a50bc6c1cee|736fa39>`  header\uc5d0\uc11c \uad8c\ud55c \uc801\uc6a9(\ube44\ub85c\uadf8\uc778 \ud68c\uc6d0\uc758 \uacfc\ubaa9 \ud6c4\uae30 \uc791\uc131 \ube44\ud65c\uc131\ud654) - jihoon-ko",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by jihoon-ko:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464371479.000077"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/736fa39a0183...dc71bb1ee038|28 new commits> by jara and 7 others",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/71ae627d730ada2e7f01adc57c614776a5a883c6|71ae627>`  testtesttest - jara\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/470f8e19213b6a8415538f6edc4333d9a0c07120|470f8e1>`  ( Issue #14 ) \ubc84\uadf8 \uc218\uc815! - jihoon-ko\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e75e73b19e7f9b7537f3e5ee0dd59642c0962b44|e75e73b>`  Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/bbda7934cdb15278a669a5a08c3a9638c8829c82|bbda793>`  pretty autocomplete - ashe-sparcs\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/962b273d4f79619340a85bde753ba139777f1d60|962b273>`  Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/7a483a7b100d5b3456ad95f5ee343e07bcd8122b|7a483a7>`  \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0 \ud504\ub860\ud2b8\uc5d4\ub4dc \uc791\uc131 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/38d16a94a86ea5734abb07d9d3b6124758a3e51c|38d16a9>`  \uad50\uc218\ubc15\uc2a4 \uc18c\uc18d\ud559\uacfc \uc5c5\ub370\uc774\ud2b8 #54 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/cd94522e9609d045882fd2299d184fd144b83dd9|cd94522>`  \ud55c\uc904\uc694\uc57d \ub4f1\ub85d - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/72663f2ae59808aac7dd02b463d08d466bfcee02|72663f2>`  userprofile \ubbf8\ub9ac\uc0dd\uc131 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c25bdc067edda280214398980093f49609e0bcad|c25bdc0>`  merge session to review - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0f07b5940a558f10c006d27a531d9b4d87a048c4|0f07b59>`  \ud559\uacfc \uc124\uc815\uc774 \uc548 \ub418\ub294 \uc624\ub958 \ud574\uacb0 - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/5442466ad0415da51489b573c1c1a90a7c5c8933|5442466>`  \ud504\ub860\ud2b8 \uc77c\ubd80\uc218\uc815 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0728ac1afd85db59ed19f13783f4b6493149c81b|0728ac1>`  Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e16ac3b05b12e7db12651ce218a373a9c1faadc4|e16ac3b>`  \ub9c8\uc774\ud398\uc774\uc9c0 \uad00\uc2ec\ud559\uacfc\uc124\uc815\uae30\ub2a5 \uc624\ub958 \uc218\uc815 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/46f4f9cddbac0bbbfef304eccaa21e60cd346a9b|46f4f9c>`  set db update date automatically - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c76dbfb7130718f4d33db0d4ecf7a7aea0af57aa|c76dbfb>`  implement get taken_lecture speed - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/8b2575de2b474b84415204eadb782494ef4f99f6|8b2575d>`  implement get taken_lecture speed - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/f9d1bd2e6ffde4e9da7940fec968135cb68b2119|f9d1bd2>`  implement infinite scroll - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/15875d1cd463536d3dfd652dc27b73b3488ae148|15875d1>`  change get semester_now -&gt; semester_next in import-scholardb.py - hood\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/8f9d2b2955e1f6bb4f60d996ef3ebb59a715b4d5|8f9d2b2>`  change summury maxlength 400-&gt;4000 - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/90fd0c7bcbaa2d41973a5bc768ebe81f1f17245f|90fd0c7>`  Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/9bee4433c54aedd4ebcc8f20a590a98089d08660|9bee443>`  handling error - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/86edc820cdfe13f9c15dc1aaf35796f1e3355837|86edc82>`  #61 \ud574\uacb0 - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/4811dcb8cc961bdb570b351c0ce04da13cfba435|4811dcb>`  minor bug fixed - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/34db0965b7d9dbe8e6f4d19f270a1b5caa558a54|34db096>`  minor bug fixed - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/cd5f900527eb245f1a402bf25deb38b4e2a60859|cd5f900>`  to rebase - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b1c6cb5cdb86b5c57c8291eadf38ad1c4ecc762d|b1c6cb5>`  Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - min\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/dc71bb1ee038237e124e25956a168745317592cf|dc71bb1>`  Mypage front &amp; backend (#22 #53) - min",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/736fa39a0183...dc71bb1ee038|28 new commits> by jara and 7 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464372063.000078"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/53|#53 Mypage \ub514\uc790\uc778> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/53|#53 Mypage \ub514\uc790\uc778> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464372097.000079"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/22|#22 Mypage \ud504\ub860\ud2b8\uc5d4\ub4dc> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/22|#22 Mypage \ud504\ub860\ud2b8\uc5d4\ub4dc> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464372105.000080"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jiggum on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/63#issuecomment-222215054|#63: \ub110\ub110, \uac15\uc758, \ub4f1\ub4f1 \ub9c8\uc6b0\uc2a4\uc624\ubc84\uc2dc info\ucc3d \ucd94\uac00> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "text": "\uc74c... \uba87\uba85\uc740\ud544\uc694\ud558\ub2e4\uace0\ud558\ub098, \ub300\ubd80\ubd84\uc758\ub514\uc790\uc774\ub108\ubd84\ub4e4\uc774 \ud544\uc694\uc5c6\ub2e4\uace0 \ud558\uc154\uc11c \ubcf4\ub958\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jiggum on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/63#issuecomment-222215054|#63: \ub110\ub110, \uac15\uc758, \ub4f1\ub4f1 \ub9c8\uc6b0\uc2a4\uc624\ubc84\uc2dc info\ucc3d \ucd94\uac00> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464372380.000081"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/63|#63 \ub110\ub110, \uac15\uc758, \ub4f1\ub4f1 \ub9c8\uc6b0\uc2a4\uc624\ubc84\uc2dc info\ucc3d \ucd94\uac00> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/63|#63 \ub110\ub110, \uac15\uc758, \ub4f1\ub4f1 \ub9c8\uc6b0\uc2a4\uc624\ubc84\uc2dc info\ucc3d \ucd94\uac00> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464372384.000082"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/1a2cf88756c67ead26e4bfbb76cebe62b44f93d5|1 new commit> by jihoon-ko",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/1a2cf88756c67ead26e4bfbb76cebe62b44f93d5|1a2cf88>`  Indentation \uad50\uc815 \ubc0f \ube44\ub85c\uadf8\uc778 \uc0ac\uc6a9\uc790 \uad8c\ud55c \uc81c\uc57d \uc124\uc815 - jihoon-ko",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by jihoon-ko:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464373599.000083"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/52#issuecomment-222221061|#52: \ube44\ub85c\uadf8\uc778\uc2dc \uc88b\uc544\uc694\ubc84\ud2bc \ube44\ud65c\uc131\ud654> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "text": "\ub057!",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/52#issuecomment-222221061|#52: \ube44\ub85c\uadf8\uc778\uc2dc \uc88b\uc544\uc694\ubc84\ud2bc \ube44\ud65c\uc131\ud654> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464373925.000084"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/52|#52 \ube44\ub85c\uadf8\uc778\uc2dc \uc88b\uc544\uc694\ubc84\ud2bc \ube44\ud65c\uc131\ud654> by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/52|#52 \ube44\ub85c\uadf8\uc778\uc2dc \uc88b\uc544\uc694\ubc84\ud2bc \ube44\ud65c\uc131\ud654> by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464373925.000085"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/1a2cf88756c6...77037dd85aca|2 new commits> by min",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/52baac435e1ace7c5b305b308aa3f8fd0e985408|52baac4>`  #58 \ub9c8\uc6b0\uc2a4\uc624\ubc84\ud6a8\uacfc \ucd94\uac00\/\uc81c\uac70 - min\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/77037dd85acab129cb1f48e14f9afb256c3efdf3|77037dd>`  #54 \ub9c8\uc6b0\uc2a4\uc624\ubc84\uc2dc \ud6a8\uacfc \ucd94\uac00\/\uc81c\uac70 - min",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/1a2cf88756c6...77037dd85aca|2 new commits> by min:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464376415.000086"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/58|#58 \ud074\ub9ad\uac00\ub2a5\ud55c\uac83 \ub9c8\uc6b0\uc2a4\uc624\ubc84\uc2dc \ud6a8\uacfc\ubcc0\uacbd> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/58|#58 \ud074\ub9ad\uac00\ub2a5\ud55c\uac83 \ub9c8\uc6b0\uc2a4\uc624\ubc84\uc2dc \ud6a8\uacfc\ubcc0\uacbd> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464376560.000087"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/837d23896949e852bb256f11e590df3aaa3df462|1 new commit> by min",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/837d23896949e852bb256f11e590df3aaa3df462|837d238>`  #4 \uba54\uc778\ud398\uc774\uc9c0 \uad00\uc2ec\ud559\uacfc \ucd94\ucc9c\ucf54\uba58\ud2b8 \ub744\uc6b0\uae30 - min",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by min:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464380013.000088"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/4|#4 BestComment\uc5d0 \uc5c5\ub370\uc774\ud2b8 \uae30\ub2a5 \uc218\uc815> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/4|#4 BestComment\uc5d0 \uc5c5\ub370\uc774\ud2b8 \uae30\ub2a5 \uc218\uc815> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464380022.000089"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#66 \ub514\ube44\uc5c5\ub370\uc774\ud2b8 \ucee4\ub9e8\ub4dc\ud30c\uc77c\ub4e4 \uc124\uc815\uc2dc\uac04 \ud604\uc7ac\uc2dc\uac01 \uae30\uc900\uc73c\ub85c \uc124\uc815' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/66 by jiggum",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#66 \ub514\ube44\uc5c5\ub370\uc774\ud2b8 \ucee4\ub9e8\ub4dc\ud30c\uc77c\ub4e4 \uc124\uc815\uc2dc\uac04 \ud604\uc7ac\uc2dc\uac01 \uae30\uc900\uc73c\ub85c \uc124\uc815",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/66",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464380098.000090"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#67 \uba54\uc778\ud398\uc774\uc9c0 \ucd94\ucc9c\ucee4\uba58\ud2b8\uac00 \ubd80\uc871\ud560\uacbd\uc6b0 \ube48\ucee4\uba58\ud2b8 \ucd9c\ub825' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/67 by jiggum",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#67 \uba54\uc778\ud398\uc774\uc9c0 \ucd94\ucc9c\ucee4\uba58\ud2b8\uac00 \ubd80\uc871\ud560\uacbd\uc6b0 \ube48\ucee4\uba58\ud2b8 \ucd9c\ub825",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/67",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464380307.000091"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/837d23896949...51b24e18e4fe|2 new commits> by jihoon-ko",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e41e352d459bdeceddddc9fd749eb21f383a8140|e41e352>`  error message \uac1c\uc120 - jihoon-ko\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/51b24e18e4fea0b7aaf6d966e2cf89095656ec2a|51b24e1>`  Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - jihoon-ko",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/837d23896949...51b24e18e4fe|2 new commits> by jihoon-ko:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464381105.000092"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d1042731350c85aa80495c9acba53f7dbeec2765|1 new commit> by jihoon-ko",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d1042731350c85aa80495c9acba53f7dbeec2765|d104273>`  \uc5d0\ub7ec \ud398\uc774\uc9c0 \uc218\uc815 - jihoon-ko",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by jihoon-ko:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464381539.000093"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/d1042731350c...0c0d373cb626|2 new commits> by min",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/7e315ec4cfdd5ae09d131df96b9dff7d053e784d|7e315ec>`  #65 \ub530\ub048\ub530\ub048\uacfc\ubaa9\ud6c4\uae30 \uad00\uc2ec\ud559\uacfc \uc815\ub82c\uae30\ub2a5 \uc791\uc131 - min\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0c0d373cb6269f31c7b507582950faafe3707ffe|0c0d373>`  Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - min",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/d1042731350c...0c0d373cb626|2 new commits> by min:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464382137.000094"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65|#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65|#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464382147.000095"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue re-opened: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65|#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue re-opened: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65|#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464382153.000096"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jiggum on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/60#issuecomment-222250004|#60: \ub530\ub048\ub530\uadfc\uacfc\ubaa9\ud6c4\uae30 \uc815\ub82c\uae30\ub2a5(\uad50\uc591, \uad00\uc2ec) \uc624\ub958>",
+                "text": "0c0d373cb6269f31c7b507582950faafe3707ffe",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jiggum on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/60#issuecomment-222250004|#60: \ub530\ub048\ub530\uadfc\uacfc\ubaa9\ud6c4\uae30 \uc815\ub82c\uae30\ub2a5(\uad50\uc591, \uad00\uc2ec) \uc624\ub958>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464382188.000097"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/60|#60 \ub530\ub048\ub530\uadfc\uacfc\ubaa9\ud6c4\uae30 \uc815\ub82c\uae30\ub2a5(\uad50\uc591, \uad00\uc2ec) \uc624\ub958> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/60|#60 \ub530\ub048\ub530\uadfc\uacfc\ubaa9\ud6c4\uae30 \uc815\ub82c\uae30\ub2a5(\uad50\uc591, \uad00\uc2ec) \uc624\ub958> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464382194.000098"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/3902d740627f658906b3df7aa908e4d2eed0930e|1 new commit> by min",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/3902d740627f658906b3df7aa908e4d2eed0930e|3902d74>`  #65 \ub9ac\ubdf0 \ucd94\ucc9c \ubc84\uadf8\ud53d\uc2a4 - min",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by min:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464382596.000099"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65|#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/65|#65 \ub9ac\ubdf0 \ucd94\ucc9c \uad00\ub828 \ubc84\uadf8> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464382610.000100"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e25c7af6778b845d011960b2ab7769d479809685|1 new commit> by min",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e25c7af6778b845d011960b2ab7769d479809685|e25c7af>`  #66 \uc5c5\ub370\uc774\ud2b8 \ud604\uc7ac\uc2dc\uac04\uae30\uc900\uc73c\ub85c \uc124\uc815 - min",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by min:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464383945.000101"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/66|#66 \ub514\ube44\uc5c5\ub370\uc774\ud2b8 \ucee4\ub9e8\ub4dc\ud30c\uc77c\ub4e4 \uc124\uc815\uc2dc\uac04 \ud604\uc7ac\uc2dc\uac01 \uae30\uc900\uc73c\ub85c \uc124\uc815> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/66|#66 \ub514\ube44\uc5c5\ub370\uc774\ud2b8 \ucee4\ub9e8\ub4dc\ud30c\uc77c\ub4e4 \uc124\uc815\uc2dc\uac04 \ud604\uc7ac\uc2dc\uac01 \uae30\uc900\uc73c\ub85c \uc124\uc815> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464383951.000102"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/46|#46 \uc798\ubabb\ub41c url \ub85c \uc811\uadfc\uc2dc \uc5d0\ub7ec or \u00a0\uac80\uc0c9\uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4 \ud398\uc774\uc9c0 \ub728\uac8c\ub054> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/46|#46 \uc798\ubabb\ub41c url \ub85c \uc811\uadfc\uc2dc \uc5d0\ub7ec or \u00a0\uac80\uc0c9\uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4 \ud398\uc774\uc9c0 \ub728\uac8c\ub054> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464383985.000103"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/14|#14 \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0> by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/14|#14 \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0> by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464384058.000104"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/14#issuecomment-222255758|#14: \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "text": "\uc5d0\ub7ec \uba54\uc2dc\uc9c0\uc640 \ud568\uaed8 \uc791\uc5c5 \uc644\ub8cc\ud558\uc600\uc2b5\ub2c8\ub2e4.\n\ub610\ud55c \/review\/refresh \ub97c \uc774\uc6a9\ud558\uc5ec \uc218\uac15\ud55c \uac15\uc758 \ubaa9\ub85d\uc744 update\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/14#issuecomment-222255758|#14: \ud6c4\uae30\uc791\uc131\ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464384058.000105"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#68 Session views.py \uc5d0\uc11c \ub3d9\uba85\uc774\uc778 \ucc98\ub9ac \uad00\ub828 \ubb38\uc81c' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/68 by jihoon-ko",
+                "text": "\uc18c\uc2a4\ub97c \uc77d\uc5b4\ubcf8 \uacb0\uacfc \ub3d9\uba85\uc774\uc778 \ucc98\ub9ac\uac00 \ub418\uc9c0 \uc54a\ub294 \uac83\uc73c\ub85c \ud655\uc778\ub429\ub2c8\ub2e4.\nusername\uc73c\ub85c \uc0ac\ub78c\uc744 \uccb4\ud06c\ud558\uc9c0 \uc54a\uace0, sid(\uc0ac\ub78c\ub9c8\ub2e4 \uace0\uc720\ud55c \uac12)\uc744 \uc774\uc6a9\ud558\uc5ec \uccb4\ud06c\ub97c \ud558\ub294 \uac83\uc774 \ud544\uc694\ud560 \uac83 \uac19\uc2b5\ub2c8\ub2e4",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "title": "#68 Session views.py \uc5d0\uc11c \ub3d9\uba85\uc774\uc778 \ucc98\ub9ac \uad00\ub828 \ubb38\uc81c",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/68",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464384532.000106"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/49e614f749a187f64da729ee9ac452681445f7fa|1 new commit> by min",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/49e614f749a187f64da729ee9ac452681445f7fa|49e614f>`  session \ubc84\uadf8 \uc218\uc815 - min",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> 1 new commit by min:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464386890.000107"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/68|#68 Session views.py \uc5d0\uc11c \ub3d9\uba85\uc774\uc778 \ucc98\ub9ac \uad00\ub828 \ubb38\uc81c> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/68|#68 Session views.py \uc5d0\uc11c \ub3d9\uba85\uc774\uc778 \ucc98\ub9ac \uad00\ub828 \ubb38\uc81c> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464386903.000108"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jiggum on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/68#issuecomment-222263883|#68: Session views.py \uc5d0\uc11c \ub3d9\uba85\uc774\uc778 \ucc98\ub9ac \uad00\ub828 \ubb38\uc81c> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "text": "49e614f749a187f64da729ee9ac452681445f7fa",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jiggum on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/68#issuecomment-222263883|#68: Session views.py \uc5d0\uc11c \ub3d9\uba85\uc774\uc778 \ucc98\ub9ac \uad00\ub828 \ubb38\uc81c> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464386927.000109"
+    }
+]

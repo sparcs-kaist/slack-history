@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U02PEJCVA",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474203109.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<https:\/\/github.com\/giampaolo\/psutil>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "giampaolo\/psutil",
+                "title_link": "https:\/\/github.com\/giampaolo\/psutil",
+                "text": "psutil - A cross-platform process and system utilities module for Python",
+                "fallback": "GitHub: giampaolo\/psutil",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/681260?v=3&s=400",
+                "from_url": "https:\/\/github.com\/giampaolo\/psutil",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1474203115.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc774\uc815\ub3c4\uba74 \ucda9\ubd84\ud558\uc9c0 \uc54a\ub098\uc694?",
+        "ts": "1474203122.000005"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "server:\n    - web: django (or flask, whatever)\n    - provide api endpoint:\n        ex: POST \/api\/update\/\n    \nclient:\n    - lang: python 3.x\n    - executed by crond (every 1 or 5 min?)\n    - get data (using psutil) and post to server (https)\n\ntarget:\n    - cpu usages (avg 3? 5? sec)\n    - memory usages\n    - disk usages\n    - network io counter?\n    - network connections?\n    - boot time?\n    - processes?",
+        "edited": {
+            "user": "U02PEJCVA",
+            "ts": "1474203429.000000"
+        },
+        "ts": "1474203405.000006"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/sparcs.slack.com\/services\/B2CUEGH98|github>",
+        "bot_id": "B2CUEGH98",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U02PEJCVA",
+        "ts": "1474204941.000009"
+    },
+    {
+        "text": "disabled an integration in this channel: <https:\/\/sparcs.slack.com\/services\/B2CUEGH98|github>",
+        "bot_id": "B2CUEGH98",
+        "type": "message",
+        "subtype": "bot_disable",
+        "user": "U02PEJCVA",
+        "ts": "1474205090.000010"
+    },
+    {
+        "text": "enabled an integration in this channel: <https:\/\/sparcs.slack.com\/services\/B2CUEGH98|github>",
+        "bot_id": "B2CUEGH98",
+        "type": "message",
+        "subtype": "bot_enable",
+        "user": "U02PEJCVA",
+        "ts": "1474206001.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/master|[heartbeat:master]> <https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/a7789130e41d44c9566f71de2861f8e6e1ca7dbe|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/a7789130e41d44c9566f71de2861f8e6e1ca7dbe|a778913>`  init client script - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/master|[heartbeat:master]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474206039.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uae84&gt;&lt;",
+        "ts": "1474206057.000013"
+    }
+]

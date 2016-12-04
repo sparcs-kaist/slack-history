@@ -1,0 +1,138 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "text": "[olim\/feature\/filesys] 3 new commits:\n[olim\/feature\/filesys] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/0b92d731b6f3f765eb25546c6b6c65fe094deac8|0b92d731b6f3>: Update README.md - changjej\n[olim\/feature\/filesys] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/adcd2f4fe443c87862e8c12c69f6427335fb8115|adcd2f4fe443>: Refs #15: Changed FONT \"Raleway -&gt; KoPubDotum\". Modified models.py for\nunicode. Added \"\/files\" url and directory with settings.py. - Jong-Hyuk, Jung\n[olim\/feature\/filesys] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/04e9b5b1c13d6fe1bc4f2b27eac11655d4f7654b|04e9b5b1c13d>: Merge branch 'develop' into feature\/filesys - Jong-Hyuk, Jung",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395522703.000116"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "59A452",
+                "title": "Change FONT for supporting Korean language well.",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/15",
+                "author_link": "https:\/\/github.com\/sunguard",
+                "author_icon": "https:\/\/avatars.githubusercontent.com\/u\/6940553?",
+                "author_subname": "sunguard",
+                "pretext": "Issue #15 CLOSED \u2022 <https:\/\/github.com\/sparcs-kaist\/olim|sparcs-kaist\/olim> repo",
+                "fallback": "[olim] Issue #15 CLOSED: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/15|Change FONT for supporting Korean language well.>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395523494.000117"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "f7edd3",
+                "title": "Sorting function for Filesys.",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/16",
+                "author_link": "https:\/\/github.com\/sunguard",
+                "author_icon": "https:\/\/avatars.githubusercontent.com\/u\/6940553?",
+                "author_subname": "sunguard",
+                "pretext": "New Issue created (#16) \u2022 <https:\/\/github.com\/sparcs-kaist\/olim|sparcs-kaist\/olim> repo",
+                "fallback": "[olim] New Issue created (#16): <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/16|Sorting function for Filesys.>\n"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395523588.000118"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "text": "[olim\/develop] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/0b92d731b6f3f765eb25546c6b6c65fe094deac8|0b92d731b6f3>: Update README.md - changjej",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395523676.000119"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc544 ajax\ub85c \ubc14\uafe8\ub2e4\ud574 \uc774\uc81c \ud30c\uc77c \ub9ac\uc2a4\ud2b8 \uc544\uc7c9\uc774\ub2e4 \ud574",
+        "ts": "1395545721.000120"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ub85c\uadf8\uc778\ub3c4 \uc544\uc7c9\uc544\uc7c9\ud55c\ub2e4\ud574",
+        "ts": "1395545797.000121"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "f7edd3",
+                "title": "Use Ajax for scalability of this service.",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/17",
+                "author_link": "https:\/\/github.com\/sunguard",
+                "author_icon": "https:\/\/avatars.githubusercontent.com\/u\/6940553?",
+                "author_subname": "sunguard",
+                "pretext": "New Issue created (#17) \u2022 <https:\/\/github.com\/sparcs-kaist\/olim|sparcs-kaist\/olim> repo",
+                "fallback": "[olim] New Issue created (#17): <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/17|Use Ajax for scalability of this service.>\n"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395546478.000122"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "text": "[olim\/develop] 3 new commits:\n[olim\/develop] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/adcd2f4fe443c87862e8c12c69f6427335fb8115|adcd2f4fe443>: Refs #15: Changed FONT \"Raleway -&gt; KoPubDotum\". Modified models.py for\nunicode. Added \"\/files\" url and directory with settings.py. - Jong-Hyuk, Jung\n[olim\/develop] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/04e9b5b1c13d6fe1bc4f2b27eac11655d4f7654b|04e9b5b1c13d>: Merge branch 'develop' into feature\/filesys - Jong-Hyuk, Jung\n[olim\/develop] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/4b432ba118d5f2c336f6a299243d45932f1917f1|4b432ba118d5>: Refs #17: Modified views for using ajax and added filesys.js. And\nmodified some front-end. Deleted google fonts. Changed Logo image. - Jong-Hyuk, Jung",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395546711.000123"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "text": "[olim\/feature\/filesys] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/4b432ba118d5f2c336f6a299243d45932f1917f1|4b432ba118d5>: Refs #17: Modified views for using ajax and added filesys.js. And\nmodified some front-end. Deleted google fonts. Changed Logo image. - Jong-Hyuk, Jung",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395546711.000124"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "text": "[olim\/feature\/ldap_account] 4 new commits:\n[olim\/feature\/ldap_account] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/0b92d731b6f3f765eb25546c6b6c65fe094deac8|0b92d731b6f3>: Update README.md - changjej\n[olim\/feature\/ldap_account] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/adcd2f4fe443c87862e8c12c69f6427335fb8115|adcd2f4fe443>: Refs #15: Changed FONT \"Raleway -&gt; KoPubDotum\". Modified models.py for\nunicode. Added \"\/files\" url and directory with settings.py. - Jong-Hyuk, Jung\n[olim\/feature\/ldap_account] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/04e9b5b1c13d6fe1bc4f2b27eac11655d4f7654b|04e9b5b1c13d>: Merge branch 'develop' into feature\/filesys - Jong-Hyuk, Jung\n[olim\/feature\/ldap_account] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/4b432ba118d5f2c336f6a299243d45932f1917f1|4b432ba118d5>: Refs #17: Modified views for using ajax and added filesys.js. And\nmodified some front-end. Deleted google fonts. Changed Logo image. - Jong-Hyuk, Jung",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395546711.000125"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "text": "[olim\/master] 3 new commits:\n[olim\/master] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/adcd2f4fe443c87862e8c12c69f6427335fb8115|adcd2f4fe443>: Refs #15: Changed FONT \"Raleway -&gt; KoPubDotum\". Modified models.py for\nunicode. Added \"\/files\" url and directory with settings.py. - Jong-Hyuk, Jung\n[olim\/master] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/04e9b5b1c13d6fe1bc4f2b27eac11655d4f7654b|04e9b5b1c13d>: Merge branch 'develop' into feature\/filesys - Jong-Hyuk, Jung\n[olim\/master] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/4b432ba118d5f2c336f6a299243d45932f1917f1|4b432ba118d5>: Refs #17: Modified views for using ajax and added filesys.js. And\nmodified some front-end. Deleted google fonts. Changed Logo image. - Jong-Hyuk, Jung",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395546711.000126"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "59A452",
+                "title": "Use Ajax for scalability of this service.",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/17",
+                "author_link": "https:\/\/github.com\/sunguard",
+                "author_icon": "https:\/\/avatars.githubusercontent.com\/u\/6940553?",
+                "author_subname": "sunguard",
+                "pretext": "Issue #17 CLOSED \u2022 <https:\/\/github.com\/sparcs-kaist\/olim|sparcs-kaist\/olim> repo",
+                "fallback": "[olim] Issue #17 CLOSED: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/17|Use Ajax for scalability of this service.>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395546731.000127"
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U024SHSMT> \ud639\uc2dc \uc544\uc774\ub3cc \ub9c8\uc2a4\ud130 \uc2e0\ub370\ub810\ub77c \uac78\uc988 \ubcf4\uc168\ub098\uc694?",
+        "ts": "1423400991.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544\ub1e8",
+        "ts": "1423401041.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub807\uad70",
+        "ts": "1423401096.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub0e5 \uc5b4\uca4c\ub2e4 \uc54c\uac8c \ub418\uc5c8\ub294\ub370, \ud639\uc2dc \uc7ac\ubc0c\ub098 \ud574\uc11c?",
+        "ts": "1423401120.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc544\uc774\ub9c8\uc2a4 \uc2e0\ub370\ub9c8\uc2a4",
+        "ts": "1423404298.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub9d0\ub9cc \ub9ce\uc774 \ub4e4\uc5b4\ubd24\uc2b4\ub2e4",
+        "ts": "1423404303.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub807\uad70",
+        "ts": "1423404340.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uce90\ub9ad\ud130\uac00 \uc774\uc05c\uac8c \ub9ce\ub354\ub77c\uace0 \u314b",
+        "ts": "1423404349.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544\uc544",
+        "ts": "1423409249.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc7a0\uc2dc \uc815\uc8fc\ud589\uc911\uc774\uc5c8\uc2b5\ub2c8\ub2e4",
+        "ts": "1423409253.000020"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDQuh\/9115440e09.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDQuh\/9115440e09.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDQuh\/9115440e09.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 2914771,
+                "id": 1
+            }
+        ],
+        "ts": "1423409255.000021"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fD0Sv\/ecbcacf8a8.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fD0Sv\/ecbcacf8a8.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fD0Sv\/ecbcacf8a8.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 2849667,
+                "id": 1
+            }
+        ],
+        "ts": "1423409305.000023"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc5d1\uc140 \uc6d4\ub4dc \uc7ac\ubc0c\ub124\uc694",
+        "ts": "1423409382.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud2b8\ub860 \uac19\uc740 \ubd84\uc704\uae30\uac00 \uc880 \ub098\ub294\ub370",
+        "ts": "1423409394.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc624\ub978\ucabd\uc5d0 C60\uc774 \ubcf4\uc774\ub124\uc694",
+        "ts": "1423409442.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub9e4\ub825\uc801\uc774\uad70",
+        "ts": "1423409448.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDR6N\/2f2f84b7a0.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDR6N\/2f2f84b7a0.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDR6N\/2f2f84b7a0.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 1020046,
+                "id": 1
+            }
+        ],
+        "ts": "1423409548.000029"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc190\uc774 \ubc1c\ud004\uc774\uad70",
+        "ts": "1423409606.000031"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDR8V\/0043160151.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDR8V\/0043160151.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDR8V\/0043160151.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 2421711,
+                "id": 1
+            }
+        ],
+        "ts": "1423409626.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc5ec\uce90\ub294 \uc548 \ubc1c\ud004\uc694",
+        "ts": "1423409631.000034"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDRf9\/e897d1f49b.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDRf9\/e897d1f49b.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDRf9\/e897d1f49b.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 2138789,
+                "id": 1
+            }
+        ],
+        "ts": "1423409660.000035"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDRgv\/cee71e7216.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDRgv\/cee71e7216.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDRgv\/cee71e7216.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 3043101,
+                "id": 1
+            }
+        ],
+        "ts": "1423409672.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uce58\uc720\uca29...",
+        "ts": "1423409690.000039"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "Wired Connection? \ubb34\uc5c7\uc774 \uc5f0\uacb0\ub418\uc5c8\ub294\uac00",
+        "ts": "1423409765.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc754 \ud751\ud654\ud55c\ub2e4!",
+        "ts": "1423409771.000041"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubaa9\uc5d0\ub2e4 \uc804\uc120\uc73c\ub85c \uc774\uc73c\uba74 \uc758\uc2dd\uc73c\ub85c \ub300\ud654\uac00 \uac00\ub2a5\ud55c \uac83 \uac19\uc2b5\ub2c8\ub2e4",
+        "ts": "1423409879.000042"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc791\uc911 \ubd84\uc704\uae30\ub85c\ub294 \uc560\uc778\uc774 \uc544\ub2c8\uba74 \ud558\uc9c0 \uc54a\ub294 \ud589\uc704\ub77c\uace0 \ud558\ub124\uc694",
+        "ts": "1423409895.000043"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1423409979.000044"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc124\uc815 \uc88b\ub124 \u314b",
+        "ts": "1423409984.000045"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDROt\/f7b0ff8d04.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDROt\/f7b0ff8d04.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDROt\/f7b0ff8d04.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 3124206,
+                "id": 1
+            }
+        ],
+        "ts": "1423410001.000046"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDRPX\/5033a94fbc.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDRPX\/5033a94fbc.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDRPX\/5033a94fbc.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 1290107,
+                "id": 1
+            }
+        ],
+        "ts": "1423410013.000048"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDSgH\/b74d731b90.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDSgH\/b74d731b90.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDSgH\/b74d731b90.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 1217656,
+                "id": 1
+            }
+        ],
+        "ts": "1423410138.000050"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDShV\/b53d89fae0.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDShV\/b53d89fae0.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDShV\/b53d89fae0.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 2114155,
+                "id": 1
+            }
+        ],
+        "ts": "1423410156.000052"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDSjz\/6bcc7e1203.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDSjz\/6bcc7e1203.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDSjz\/6bcc7e1203.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 1901437,
+                "id": 1
+            }
+        ],
+        "ts": "1423410170.000054"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubb50 \uc774\ub807\uac8c \ub41c \uac81\ub2c8\ub2e4",
+        "ts": "1423410178.000056"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc6b0\uc5f0\ud788 \uce68\ub300\uc5d0 \ub118\uc5b4\uc9c0\uace0 \ucf00\uc774\ube14\uc774 30cm\ub77c\ub294 \uc124\uc815\uc740 \ub364",
+        "ts": "1423410201.000057"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\\",
+        "ts": "1423410210.000058"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/fDSyb\/a8838245e9.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/fDSyb\/a8838245e9.png",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/fDSyb\/a8838245e9.png",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 1346202,
+                "id": 1
+            }
+        ],
+        "ts": "1423410244.000059"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\u314b\u314b\u314b \ud3ec\uc778\ud2b8\uac00 \uc801\uc808\ud558\uad70",
+        "ts": "1423410366.000061"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadfc\ub370 \uc774\uac83\ubcf4\ub2e4 \uc804\ub1cc\ucf54\uc77c\uc774 \ub354 \uc798 \ub9cc\ub4e0\uac83\uac19\uc544\uc694",
+        "ts": "1423410634.000062"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c.. \uc7a5\ub974\uac00 \ub2e4\ub978\uac70 \uc544\ub2d8?",
+        "ts": "1423411457.000063"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub458\ub2e4 \uc560\ub4e4\uc774 vr\uc7a5\ube44 \uc4f0\uace0 \ub3cc\uc544\ub315\uae30\uace0",
+        "ts": "1423412101.000064"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc5b4\ub978\ub4e4\uc740 \ubaa8\ub974\ub294 vr \uc18c\ud504\ud2b8\uc758 \uc815\uccb4\ub97c \ud30c\ud5e4\uce5c\ub2e4\ub294\uc810\uc5d0\uc11c \ube44\uc2b7\ud558\ub2ec\uae4c\uc694",
+        "ts": "1423412117.000065"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub2e8\uc9c0 \uc804\ub1cc\ucf54\uc77c\uc740 2\ucc28 \uc131\uc9d5\uc774 \ub098\ud0c0\ub098\uae30 \uc804\uc758 \uc560\ub4e4\uc774\uace0 \uc774\uac74 \uadf8 \uc774\ud6c4\ub77c\ub294 \ucc28\uc774 \uc815\ub3c4..",
+        "ts": "1423412141.000066"
+    }
+]

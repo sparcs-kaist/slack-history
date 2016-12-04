@@ -1,0 +1,62 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/ot8844|ot8844> (assigned to <https:\/\/github.com\/ot8844|ot8844>)",
+                "title": "#4 \ub85c\uadf8\uc544\uc6c3 \uae30\ub2a5 \uad6c\ud604",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/4",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/4|Issue created> by <https:\/\/github.com\/ot8844|ot8844> (assigned to <https:\/\/github.com\/ot8844|ot8844>)",
+                "text": "\ub85c\uadf8\uc544\uc6c3 \uae30\ub2a5 \uad6c\ud604"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396862763.000044"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/branches\/feat\/logout|feat\/logout>\" was pushed by ot8844",
+                "text": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/branches\/feat\/logout|feat\/logout>\" was pushed by ot8844",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396864208.000045"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/account] 1 new commit by yumgyun:",
+                "fallback": "[zabo:dev\/account] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8768432ce6e1|1 new commit> by yumgyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8768432ce6e1|8768432ce6e1>:  #4 logout \uae30\ub2a5\uad6c\ud604 - yumgyun",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396864226.000046"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/branches\/feat\/view|feat\/view>\" was pushed by zoonoo",
+                "text": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/branches\/feat\/view|feat\/view>\" was pushed by zoonoo",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396870429.000047"
+    }
+]

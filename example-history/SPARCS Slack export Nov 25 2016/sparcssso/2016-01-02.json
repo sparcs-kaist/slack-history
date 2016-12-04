@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/2a6895dcc474...ad2542fb9c72|2 new commits> by ashe-sparcs",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/238e85f6e107a1f2716b66f4c8c95a1c8d778337|238e85f>: add almost korean translations - ashe-sparcs\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/ad2542fb9c729b27940eaa685d9f8841831b26f4|ad2542f>: fix merge conflict - ashe-sparcs",
+                "pretext": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/2a6895dcc474...ad2542fb9c72|2 new commits> by ashe-sparcs:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1451746309.000022"
+    }
+]

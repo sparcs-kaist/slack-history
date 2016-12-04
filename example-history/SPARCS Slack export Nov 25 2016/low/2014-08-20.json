@@ -1,0 +1,8 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "# Increase the shmmax and shmall parameters so that a process can \n\n# map more memory via shmget (default is 32 MB)\n\n\nsudo sysctl -w kernel.shmmax=2147483648\t\t# Bytes\n\nsudo sysctl -w kernel.shmall=2147483648\t\t# Pages\n\n\nsudo sysctl -p \/etc\/sysctl.conf\n\n\n# If you want to generate the zipf workloads at the client machines, uncomment:\n\n## for i in `seq 2 30`; do\n\n## \tssh node-$<http:\/\/i.RDMA.fawn.apt.emulab.net|i.RDMA.fawn.apt.emulab.net> \"cd ~\/HERD\/YCSB\/src; .\/gen-zipf.sh\" &amp;\n\n## done\n\n",
+        "ts": "1408562424.000009"
+    }
+]

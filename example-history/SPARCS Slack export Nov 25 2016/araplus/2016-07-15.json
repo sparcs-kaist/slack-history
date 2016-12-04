@@ -1,0 +1,61 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/develop|[araplus:develop]> <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c2a82b788308d0dc5dfd03a16174fd4d3e1be522|1 new commit> by ktk1012",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c2a82b788308d0dc5dfd03a16174fd4d3e1be522|c2a82b7>`  Remove print in apps\/session\/views.py - ktk1012",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/develop|[araplus:develop]> 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468652157.000025"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment by ktk1012 on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/136#issuecomment-233115222|#136: apps\/session\/views.py\uc758 validate_nickname \ud568\uc218\uc5d0 print\ubb38 \ub0a8\uc544\uc788\uc74c> (assigned to <https:\/\/github.com\/ktk1012|ktk1012>)",
+                "text": "c2a82b788308d0dc5dfd03a16174fd4d3e1be522",
+                "pretext": "[sparcs-kaist\/araplus] New comment by ktk1012 on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/136#issuecomment-233115222|#136: apps\/session\/views.py\uc758 validate_nickname \ud568\uc218\uc5d0 print\ubb38 \ub0a8\uc544\uc788\uc74c> (assigned to <https:\/\/github.com\/ktk1012|ktk1012>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468652187.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/136|#136 apps\/session\/views.py\uc758 validate_nickname \ud568\uc218\uc5d0 print\ubb38 \ub0a8\uc544\uc788\uc74c> by <https:\/\/github.com\/ktk1012|ktk1012>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/136|#136 apps\/session\/views.py\uc758 validate_nickname \ud568\uc218\uc5d0 print\ubb38 \ub0a8\uc544\uc788\uc74c> by <https:\/\/github.com\/ktk1012|ktk1012>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468652187.000027"
+    }
+]

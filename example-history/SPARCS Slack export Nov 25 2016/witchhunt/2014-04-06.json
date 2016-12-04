@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U024SL8FK",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SL8FK|rohjoon> has left the channel",
+        "ts": "1396808478.000059"
+    },
+    {
+        "user": "U02793XJQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02793XJQ|jjus> has joined the channel",
+        "ts": "1396845812.000060"
+    },
+    {
+        "user": "U02793XJQ",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02793XJQ|jjus> has left the channel",
+        "ts": "1396845942.000061"
+    }
+]

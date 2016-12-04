@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc624\ub79c\ub9cc\uc5d0 \ud720 \ud2f0\ucf13\uc744 \uc880 \uc815\ub9ac\ud574\ubcf4\uaca0\uc2b5\ub2c8\ub2e4.",
+        "ts": "1477899269.002597"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub7a8 \uc0ac\uc11c(\uc815\ud1b5\ud300\uc740 8GB*4) \uaf42\uae30 (<@U0VDGPAHW>)\n\uac1c\ubc1c \uc11c\ubc84(\uc300) \uc138\ud305 (\ube5b \ud3ed\ud30c) (<@U046N9CV2>, <@U0V6MLCAH>)\n\ud1b5 \uc138\ud305\ud558\uae30 (<@U0VBXNPNF>, <@U04JG832D>)\n\ub2e4\ub798 \uc0b4\ub9ac\uae30(\ub370\uc774\ud130 \uc0b4\ub9ac\ub294 \uac83\uc744 \ubaa9\ud45c\ub85c \ud558\ub418, \ubd88\uac00\ud53c\ud560 \uacbd\uc6b0 \ub370\uc774\ud130 \uc5c6\uc774 FTP \uc11c\ubc84 \uc138\ud305) (<@U04HUNH5L>, <@U0XCYC6KD>, <@U0VDGJDNZ>)\n\ud558\ud2b8\ube44\ud2b8 (<@U02LDHPL1>, <@U02L44HTT> , <@U02PEJCVA>)",
+        "ts": "1477899286.002598"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc9c4\ud589 \uc0c1\ud669 \uc54c\ub824\uc8fc\uc138\uc694",
+        "ts": "1477899292.002599"
+    },
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "\uc300\uc138\ud305\ud588\uc5b4\uc694",
+        "ts": "1477899326.002600"
+    },
+    {
+        "type": "message",
+        "user": "U0VDGPAHW",
+        "text": "\ub7a8 \uc5f0\ub9d0\uc5d0 \ud574\uc900\ub31c\uc694",
+        "ts": "1477899340.002601"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "<https:\/\/newrelic.com\/server-monitoring>",
+        "attachments": [
+            {
+                "service_name": "New Relic",
+                "title": "New Relic: New Relic: Server Monitoring",
+                "title_link": "https:\/\/newrelic.com\/server-monitoring",
+                "text": "Server monitoring. Monitor server resources that impact application performance with New Relic Servers. Runs on Linux and Windows.",
+                "fallback": "New Relic: New Relic: New Relic: Server Monitoring",
+                "thumb_url": "https:\/\/newrelic.com\/assets\/newrelic\/logo_NR-fb.png",
+                "from_url": "https:\/\/newrelic.com\/server-monitoring",
+                "thumb_width": 300,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/newrelic.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1477899340.002602"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc774\ub7f0 \uac83\ub3c4 \uc788\uace0",
+        "ts": "1477899353.002604"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624\ud638! \ub274\ub810\ub9ad\uc744 \ub2e4\ub294\uad70",
+        "ts": "1477899523.002605"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud571\ube44\ud2b8 \ub300\uc2e0 \uc800\uac70 \ud560\uaebc\uc5d0\uc5ec?",
+        "ts": "1477899539.002606"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uac00\uaca9\uc774...?",
+        "ts": "1477899543.002607"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ud720 \uc804\uc6a9 \ud6c4\uc6d0\uc744 \ub530\ub85c \ud558\uba74 \uc88b\uc73c\ub824\ub098",
+        "ts": "1477900108.002608"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\u314b\u314b\u314b",
+        "ts": "1477900109.002609"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\uc655 \ub9cc\ub4e0\uac70 \ud565\ube5d \ud558\ub294\uac8c \ub0ab\uc9c0 \uc54a\uc73c\ub824\ub098 \u315c\u315c",
+        "ts": "1477900681.002610"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<@U024U2P7Y>: \uc751 \uadf8\uac70 \ub9dd\ud574\uc11c \ub2e4\uc2dc \ub9cc\ub4e4\uae30\ub85c \ud588\uc5b4 \u314e\u314e",
+        "ts": "1477908766.002611"
+    }
+]

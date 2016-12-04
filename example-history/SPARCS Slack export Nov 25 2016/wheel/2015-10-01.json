@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uc801\uc6a9\ud558\uae30\ub85c \uacb0\uc815\ud574\uc11c \ud574\ub450\uc5c8\uc5b4\uc694!",
+        "ts": "1443695253.000080"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "$ telnet <http:\/\/sparcs.org|sparcs.org> 587\nTrying 143.248.234.102...\ntelnet: connect to address 143.248.234.102: Connection refused\ntelnet: Unable to connect to remote host",
+        "ts": "1443695282.000081"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc544\uc9c1 \uc548\ub418\ub294\ub4ef?..",
+        "ts": "1443695286.000082"
+    }
+]

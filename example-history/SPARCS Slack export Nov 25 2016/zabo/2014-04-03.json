@@ -1,0 +1,53 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] 3 new commits:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/8b3b2861fbd4...0b7b0db332dd|3 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/60ec654676c8|60ec654676c8>: manage.py \uc704\uce58 \uc218\uc815\uc5d0 \ub530\ub978 settings.py\uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8fd0cb0c0769|8fd0cb0c0769>: manage.py \uc704\uce58\uc218\uc815\uc5d0 \ub530\ub978 wsgi.py \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/0b7b0db332dd|0b7b0db332dd>: Merge branch 'develop' into dev\/board - zoonoo",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396529532.000039"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/zoonoo|zoonoo>",
+                "title": "#3 \uc790\ubcf4\ub97c \ub9ac\uc2a4\ud2b8\ub85c \ubcf4\uc5ec\uc8fc\ub294 \uae30\ub2a5",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/3",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/3|Issue created> by <https:\/\/github.com\/zoonoo|zoonoo>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396529726.000040"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/2|#2 Board\uc5d0 \ubaa8\ub378 \uc0dd\uc131> by <https:\/\/github.com\/zoonoo|zoonoo>",
+                "fallback": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/2|#2 Board\uc5d0 \ubaa8\ub378 \uc0dd\uc131> by <https:\/\/github.com\/zoonoo|zoonoo>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396529753.000041"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc900\uc6b0\uac00 \ud558\uace0\uc788\uad6c\ub098 \u314b\u314b",
+        "ts": "1396572476.000042"
+    }
+]

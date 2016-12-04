@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc0c8\ub85c \uc62e\uae30\ub294 \uc11c\ubc84\ub294 \uc6b0\ubd84\ud22c \ud2b8\ub7ec\uc2a4\ud2f0 \uc4f0\ub294\uac78\ub85c \uae30\uc5b5\ud574\uc6a9",
+        "ts": "1435539430.000005"
+    },
+    {
+        "user": "U02L44HTT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02L44HTT|coearth> has joined the channel",
+        "ts": "1435554479.000006"
+    },
+    {
+        "user": "U02L44HTT",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02L44HTT|coearth> has left the channel",
+        "ts": "1435554550.000007"
+    }
+]

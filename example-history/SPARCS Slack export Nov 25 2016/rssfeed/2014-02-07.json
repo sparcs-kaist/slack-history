@@ -1,0 +1,466 @@
+[
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x9bbk\/can_you_audiate_chords\/|can you audiate chords>\nI use solfege when audiating, and cant seem to do it, is it possible  submitted by  DaveCouture  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I use solfege when audiating, and cant seem to do it, is it possible",
+                "fallback": "I use solfege when audiating, and cant seem to do it, is it possible",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1x9bbk\/can_you_audiate_chords\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391762318.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1x9gym\/jooq_facts_sql_functions_made_easy\/|JOOQ Facts: SQL functions made easy>\nsubmitted by  vlad_mihalcea  to  java  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1x9gym\/jooq_facts_sql_functions_made_easy\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391769040.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1x9p05\/aggregated_some_concepts_discussed_on_reddit_into\/|Aggregated some concepts discussed on reddit into CL21's github issues threads>\n<https:\/\/github.com\/fukamachi\/cl21\/issues> I, personally, don&amp;#39;t want to end this not-so-growing tide. Seems like an advertisement? Yes it is.  submitted by  guicho271828  to  lisp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "<https:\/\/github.com\/fukamachi\/cl21\/issues> I, personally, don't want to end this not-so-growing tide. Seems like an advertisement? Yes it is.",
+                "fallback": "<https:\/\/github.com\/fukamachi\/cl21\/issues> I, personally, don't want to end this not-so-growing tide. Seems like an advertisement? Yes it is.",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1x9p05\/aggregated_some_concepts_discussed_on_reddit_into\/",
+                "id": 1
+            },
+            {
+                "service_name": "GitHub",
+                "title": "fukamachi\/cl21",
+                "title_link": "https:\/\/github.com\/fukamachi\/cl21\/issues",
+                "text": "cl21 - Common Lisp in the 21st Century.",
+                "fallback": "GitHub: fukamachi\/cl21",
+                "thumb_url": "https:\/\/1.gravatar.com\/avatar\/0744d0589b0b9f50236be3f12d960e7a?d=https%3A%2F%2Fidenticons.github.com%2F02f96fa2f6f69904dbd27930c596651f.png&r=x&s=400",
+                "from_url": "https:\/\/github.com\/fukamachi\/cl21\/issues",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391778762.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1x9pzr\/pseudo_lisp_assembly_to_c_toy_example\/|pseudo lisp assembly to c toy example>\nSuppose, I want to generate C code which is limited to some rules (call it &amp;#39;coding conventions&amp;#39;), for example that functions never return values and that every function has a status variable for tracking the condition of its operations. These rules would be sane and help avoiding C traps, like ignoring return values of malloc, not checking input parameters, etc. Furthermore, since the generated C code is a subset of all C language features and I don&amp;#39;t want to write a generic C genera...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Suppose, I want to generate C code which is limited to some rules (call it 'coding conventions'), for example that functions never return values and t...",
+                "fallback": "Suppose, I want to generate C code which is limited to some rules (call it 'coding conventions'), for example that functions never return values and t...",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1x9pzr\/pseudo_lisp_assembly_to_c_toy_example\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391779800.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1x9q5i\/a_few_questions_on_some_general_concepts\/|A few questions on some general concepts>\nI&amp;#39;m about 200 pages into the C Primer Plus, and I just have a few kind of simple questions. I already have some small programming experience in Python and Bash, so I already knew the basics.  I don&amp;#39;t quite understand what a \"literal\" or \"integer literal\" is. I see sometimes in the book where variables are declared like long i; i = 5L;. Why is the L included? I looked it up, so I know that it is a suffix you can add to long ints, but doesn&amp;#39;t C do this already? Is there a point to _Boo...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm about 200 pages into the C Primer Plus, and I just have a few kind of simple questions. I already have some small programming experience in Python...",
+                "fallback": "I'm about 200 pages into the C Primer Plus, and I just have a few kind of simple questions. I already have some small programming experience in Python...",
+                "from_url": "http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1x9q5i\/a_few_questions_on_some_general_concepts\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391780883.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1x9ruw\/3_ways_to_include_data_with_your_perl_distribution\/|3 ways to include data with your Perl distribution>\nsubmitted by  sillymoos  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1x9ruw\/3_ways_to_include_data_with_your_perl_distribution\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391781422.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1x9rxn\/todomvc_benchmark_for_popular_mv_libraries\/|TodoMVC benchmark for popular MV* libraries>\nsubmitted by  yyx990803  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1x9rxn\/todomvc_benchmark_for_popular_mv_libraries\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391785194.000004"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1x9vhe\/visualising_faster_web_applications_with\/|Visualising faster web applications with streaming JSON>\nsubmitted by  joombar  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1x9vhe\/visualising_faster_web_applications_with\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391785194.000005"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/FoodPorn\/comments\/1x9w5d\/cheesesteak_potato_skins_made_these_for_the_super\/|Cheesesteak Potato Skins. Made these for the Super Bowl and will definitely make them again! [OC] [670 x 1012]>\nsubmitted by  morganeisenberg  to  FoodPorn  [link] [\ub313\uae00 6]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391786275.000008"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1x9w8f\/brothers_use_data_mining_to_predict_the_final\/|Brothers use data mining to predict the final Olympic medal counts at Sochi>\nsubmitted by  rhiever  to  MachineLearning  [link] [\ub313\uae00 3]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391786825.000009"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1x9yqq\/why_some_open_source_projects_die\/|Why some Open Source Projects Die.>\nsubmitted by  koolhead17  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391786825.000010"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1x9z97\/applicability_of_churchturing_thesis_to\/|Applicability of Church-Turing thesis to interactive models of computation, and Aaronson's Toaster-Enhanced Turing Machine.>\nsubmitted by  DevFRus  to  compsci  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391787363.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1x9zjc\/the_essence_of_reynolds_pdf\/|The Essence of Reynolds [PDF]>\nsubmitted by  letrec  to  compsci  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391789530.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xa3qy\/could_some_of_the_i7s_or_even_iv7s_in_the_blues\/|Could some of the I7s, or even IV7s, in the blues changes be considered \"secondary dominants?\">\nWhile reading some threads about Secondary dominants, it made me wonder--are some of the all-dominant blues chords &amp;#39;secondary doms&amp;#39;, or should they perhaps not be referred to in this context for some reason? If we look at a common 12 bar blues change: I7 IV7 I7 I7 IV7 IV7 I7 I7 V7 IV7 I7 V7 We see that, technically, two of those I7s function as secondary doms...so, are they really though? Or should we just not bother, as the term \"secondary dom\" wasn&amp;#39;t originally used to describe the...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "While reading some threads about Secondary dominants, it made me wonder--are some of the all-dominant blues chords 'secondary doms', or should they pe...",
+                "fallback": "While reading some threads about Secondary dominants, it made me wonder--are some of the all-dominant blues chords 'secondary doms', or should they pe...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xa3qy\/could_some_of_the_i7s_or_even_iv7s_in_the_blues\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391790595.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1xafsk\/breaking_down_geek_stereotypes_in_open_source\/|Breaking down geek stereotypes in open source>\nsubmitted by  jehb  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1xafsk\/breaking_down_geek_stereotypes_in_open_source\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391797491.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/web_design\/comments\/1xagh2\/my_simple_trick_for_finding_usable_nonstock\/|My simple trick for finding usable non-stock images. (originated in a thread on \/r\/web_design)>\nsubmitted by  0hi  to  web_design  [link] [\ub313\uae00 16]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/web_design\/comments\/1xagh2\/my_simple_trick_for_finding_usable_nonstock\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391808363.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/linux\/comments\/1xavtj\/nvidia_33416_brings_64_bit_egl_opengl_es\/|NVIDIA 334.16 brings 64 bit EGL, OpenGL ES>\nsubmitted by  ouyawei  to  linux  [link] [\ub313\uae00 4]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391811056.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1xb4bm\/why_must_jaxb_ruin_my_oo\/|Why must JAXB ruin my OO?>\nNo support for abstract classes, read-only properties. GRR! Anyone else feeling this pain? Oh sweet encapsulation...  submitted by  be_civil_please  to  softwaredevelopment  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "No support for abstract classes, read-only properties. GRR! Anyone else feeling this pain? Oh sweet encapsulation...",
+                "fallback": "No support for abstract classes, read-only properties. GRR! Anyone else feeling this pain? Oh sweet encapsulation...",
+                "from_url": "http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1xb4bm\/why_must_jaxb_ruin_my_oo\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391812117.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xb56x\/how_shoud_i_implement_graphics_in_c\/|(How) shoud I implement graphics in C?>\nI&amp;#39;m a CS student and am just playing around with C. On whim, I&amp;#39;m trying to make an implementation of Conway&amp;#39;s Game of Life in C. Do I use graphics libraries? Which ones? Thanks for your help!  submitted by  JKobyP  to  C_Programming  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm a CS student and am just playing around with C. On whim, I'm trying to make an implementation of Conway's Game of Life in C. Do I use graphics lib...",
+                "fallback": "I'm a CS student and am just playing around with C. On whim, I'm trying to make an implementation of Conway's Game of Life in C. Do I use graphics lib...",
+                "from_url": "http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xb56x\/how_shoud_i_implement_graphics_in_c\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391812606.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1xbexe\/freecad\/|FreeCAD>\nsubmitted by  based2  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1xbexe\/freecad\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391820082.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/gamedev\/comments\/1xbgsd\/microsoft_what_information_do_you_need_to_hear\/|Microsoft: What information do you need to hear before deciding what platform to build for?>\nAfter a local startup with a great app on android and iOS told an MS evangelist they weren&amp;#39;t planning on building for Windows, the evangelist asked reddit if they felt there was demand for the app on Windows (<http:\/\/redd.it\/1wlawn>) and got a really positive response. This got me wondering: what information would you need to make sure building for Windows was part of your roadmap? Thanks in advance for the insight and opinion!  submitted by  MSFT_Developer  to  gamedev  [link] [\ub313\uae00 5]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "After a local startup with a great app on android and iOS told an MS evangelist they weren't planning on building for Windows, the evangelist asked re...",
+                "fallback": "After a local startup with a great app on android and iOS told an MS evangelist they weren't planning on building for Windows, the evangelist asked re...",
+                "from_url": "http:\/\/www.reddit.com\/r\/gamedev\/comments\/1xbgsd\/microsoft_what_information_do_you_need_to_hear\/",
+                "id": 1
+            },
+            {
+                "text": "I'm David from Microsoft and I've been talking to a local startup in Minneapolis called SmartThings (<http:\/\/smartthings.com>). They have some simple ha...",
+                "fallback": "I'm David from Microsoft and I've been talking to a local startup in Minneapolis called SmartThings (<http:\/\/smartthings.com>). They have some simple ha...",
+                "from_url": "http:\/\/redd.it\/1wlawn",
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391825257.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xbls9\/calvin_harris_school_chord_analysis_help\/|Calvin Harris \"School\" chord analysis - help!>\nI&amp;#39;ve dug this song (interlude, really) for a while, and always assumed that the structure under the hood was some garden variety funky-pentatonic-scale noodling. But I went to transcribe it, and now it&amp;#39;s got me really puzzled. (Song links and midi files below) My questions: - What key is this in \/ what is tonal center? Key signature is definitely Ebm \/ Gb, but both 4 bar loops that make up the two sections start and end on B chords, (by my transcription, anyway) and the progression doesn...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I've dug this song (interlude, really) for a while, and always assumed that the structure under the hood was some garden variety funky-pentatonic-scal...",
+                "fallback": "I've dug this song (interlude, really) for a while, and always assumed that the structure under the hood was some garden variety funky-pentatonic-scal...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xbls9\/calvin_harris_school_chord_analysis_help\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391826210.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xbw11\/parallels_between_machine_learning_statistical\/|Parallels between machine learning \/ statistical learning theory and traditional learning theories?>\nIn reading through machine learning \/ statistical learning theory literature the emphasis seems to be on minimal development of the philosophical justification and maximal focus on the mathematical machinery. Similarly in traditional learning (Behaviorism, Cognitivism, Constructivism, Humanism) literature there&amp;#39;s is plenty of focus on the philosophical justification and case studies. Is there any well know literature drawing parallels between these two camps or for example, extending traditi...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "In reading through machine learning \/ statistical learning theory literature the emphasis seems to be on minimal development of the philosophical just...",
+                "fallback": "In reading through machine learning \/ statistical learning theory literature the emphasis seems to be on minimal development of the philosophical just...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xbw11\/parallels_between_machine_learning_statistical\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391831820.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/gamedev\/comments\/1xc0qh\/screenshot_saturday_157_untitled\/|Screenshot Saturday 157: Untitled>\nIt&amp;#39;s Saturday. You have screenshots, you have this thread. Combine these items in your inventory to win. Previous week: Screenshot Saturday 156 - Back to Basics Bonus question: Describe your game in one word.  submitted by  send_a_sign  to  gamedev  [link] [\ub313\uae00 23]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "It's Saturday. You have screenshots, you have this thread. Combine these items in your inventory to win. **Previous week:** [Screenshot Saturday 156...",
+                "fallback": "It's Saturday. You have screenshots, you have this thread. Combine these items in your inventory to win. **Previous week:** [Screenshot Saturday 156...",
+                "from_url": "http:\/\/www.reddit.com\/r\/gamedev\/comments\/1xc0qh\/screenshot_saturday_157_untitled\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391836074.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xc224\/about_music_theory\/|About music theory?>\nHey guys I&amp;#39;m actually learning to learn music such as chords, major, minor, playing by ear using the midi keyboard controller through the daw ableton live 9 suite. I heard that if I want to make a song mixing instruments with ones such as guitar, violin, and drums, learning music theory will help alot. But what do they really mean by music theory? Is learning just how the chords, major, minor, melody, pitch.. etc sound and playing them to be creative be enough for learning music theory inste...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hey guys I'm actually learning to learn music such as chords, major, minor, playing by ear using the midi keyboard controller through the daw ableton ...",
+                "fallback": "Hey guys I'm actually learning to learn music such as chords, major, minor, playing by ear using the midi keyboard controller through the daw ableton ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xc224\/about_music_theory\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391839667.000000"
+    },
+    {
+        "text": "<http:\/\/www.nextree.co.kr\/p4850\/|AngularJS: \uc0ac\uc6a9\uc790\uc815\uc758 \ub514\ub809\ud2f0\ube0c(directive) \uc774\uc57c\uae30>\nAngularJS\uc5d0\uc11c\ub294 \uc774\ubbf8 ngBind, ngModel\ub4f1 built-in\ub41c \ub2e4\uc591\ud55c \ub514\ub809\ud2f0\ube0c\ub97c \ub2e4\ub8e8 [\u2026]",
+        "username": "\ub125\uc2a4\ud2b8\ub9ac | NEXTREE",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "AngularJS\uc5d0\uc11c\ub294 \uc774\ubbf8 ngBind, ngModel\ub4f1 built-in\ub41c \ub2e4\uc591\ud55c \ub514\ub809\ud2f0\ube0c\ub97c \ub2e4\ub8e8\uace0 \uc788\uc73c\uba70, \uc0ac\uc6a9\uc790\uac00 AngularJS\uc758 controller\ub098 service\ub97c \uc0c8\ub86d\uac8c \uc0dd\uc131\ud558\ub294 \uac83\ucc98\ub7fc \uc0ac\uc6a9\uc790\uc815\uc758 \ub514\ub809\ud2f0\ube0c\ub97c \ub9c8\uc74c\uaecf \uc0dd\uc131\ud558\uace0 \ud655\uc7a5 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. Angular",
+                "fallback": "AngularJS\uc5d0\uc11c\ub294 \uc774\ubbf8 ngBind, ngModel\ub4f1 built-in\ub41c \ub2e4\uc591\ud55c \ub514\ub809\ud2f0\ube0c\ub97c \ub2e4\ub8e8\uace0 \uc788\uc73c\uba70, \uc0ac\uc6a9\uc790\uac00 AngularJS\uc758 controller\ub098 service\ub97c \uc0c8\ub86d\uac8c \uc0dd\uc131\ud558\ub294 \uac83\ucc98\ub7fc \uc0ac\uc6a9\uc790\uc815\uc758 \ub514\ub809\ud2f0\ube0c\ub97c \ub9c8\uc74c\uaecf \uc0dd\uc131\ud558\uace0 \ud655\uc7a5 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. Angular",
+                "from_url": "http:\/\/www.nextree.co.kr\/p4850\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391840954.000000"
+    }
+]

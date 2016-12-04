@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U02C7ERBV",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02C7ERBV|mania> has left the channel",
+        "ts": "1435046091.000002"
+    }
+]

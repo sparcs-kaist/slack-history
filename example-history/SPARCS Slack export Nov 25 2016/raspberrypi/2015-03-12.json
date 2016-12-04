@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub77c\uc988\ubca0\ub9ac\ud30c\uc774 \uc9c0\uae08 \uc18c\uc7ac\uac00 \uc5b4\ub514\uc778\uac00\uc694",
+        "ts": "1426165552.000002"
+    },
+    {
+        "user": "U024WGSD3",
+        "topic": "\uae30\uae30\ub098 \ubd80\ud488 \ub3d9\uc544\ub9ac\ubc29\uc5d0\uc11c \uac00\uc9c0\uace0 \ub098\uac08 \ub54c\ub294 \uaf2d \ub204\uac00 \uc5b8\uc81c \uc5b4\ub514\ub85c \uac00\uc9c0\uace0 \ub098\uac00\ub294\uc9c0 \uae30\ub85d\ud574\uc8fc\uc138\uc694",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024WGSD3|undead> set the channel topic: \uae30\uae30\ub098 \ubd80\ud488 \ub3d9\uc544\ub9ac\ubc29\uc5d0\uc11c \uac00\uc9c0\uace0 \ub098\uac08 \ub54c\ub294 \uaf2d \ub204\uac00 \uc5b8\uc81c \uc5b4\ub514\ub85c \uac00\uc9c0\uace0 \ub098\uac00\ub294\uc9c0 \uae30\ub85d\ud574\uc8fc\uc138\uc694",
+        "ts": "1426165627.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\uc81c\uaebc \ud558\ub09c \uc81c\uac00 \uac00\uc9c0\uace0 \uc788\uc5b4\uc694\u314e",
+        "ts": "1426166954.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SKR87|zoonoo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/zoonoo\/F040WJ1CF\/img_20150372_121917.jpg|Slack for Android Upload>",
+        "file": {
+            "id": "F040WJ1CF",
+            "created": 1426216771,
+            "timestamp": 1426216771,
+            "name": "IMG_20150372_121917.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U024SKR87",
+            "editable": false,
+            "size": 4314155,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F040WJ1CF\/img_20150372_121917.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F040WJ1CF\/download\/img_20150372_121917.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F040WJ1CF-9bc3d6c3ea\/img_20150372_121917_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F040WJ1CF-9bc3d6c3ea\/img_20150372_121917_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F040WJ1CF-9bc3d6c3ea\/img_20150372_121917_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F040WJ1CF-9bc3d6c3ea\/img_20150372_121917_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F040WJ1CF-9bc3d6c3ea\/img_20150372_121917_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F040WJ1CF-9bc3d6c3ea\/img_20150372_121917_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 6,
+            "original_w": 5312,
+            "original_h": 2988,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/zoonoo\/F040WJ1CF\/img_20150372_121917.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F040WJ1CF-89f65075cb",
+            "channels": [
+                "C02KLSMGV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SKR87",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SKR87|zoonoo>",
+        "bot_id": null,
+        "ts": "1426216782.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SKR87",
+        "text": "\uc8fc\ubb38\ud55c\uac70 \uc654\uc2b4\ub2e4",
+        "ts": "1426216814.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SKR87",
+        "text": "\uc624\ud6c4\uc5d0 \ucc59\uaca8\uac08\uaed8\uc694",
+        "ts": "1426216913.000004"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc624 \ube60\ub974\ub2e4",
+        "ts": "1426220956.000005"
+    }
+]

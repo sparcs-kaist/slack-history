@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\uadf8\ub7ec\uac8c \uc6b0\uc120 \uc800 \ubc84\uadf8\ub97c \uc218\uc815\uc774\ub791 github integration\ub3c4 \uc218\uc815\ud574 \uc8fc\uc138\uc694",
+        "ts": "1446711673.000038"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\ub0b4\uc77c \ubaa8\ub808 \ud574\ucee4\ud1a4\uc5d0\uc11c \uc790\ubcf4 \uac1c\uc120 \uc791\uc5c5\uc744 \uc57d\uac04 \ud55c\ub2e4\uace0 \ud558\ub2c8",
+        "ts": "1446711688.000039"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\ub418\ub294\ub300\ub85c \ube68\ub9ac \ud574\uc8fc\uc2dc\uba74 \u3133\u3133",
+        "ts": "1446711700.000040"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "- \uc548\ubcd1\uc6b1",
+        "ts": "1446711702.000041"
+    },
+    {
+        "text": "removed an integration from this channel: <https:\/\/sparcs.slack.com\/services\/B0A1DMKS9|github>",
+        "bot_id": "B0A1DMKS9",
+        "type": "message",
+        "subtype": "bot_remove",
+        "user": "U0251JXSR",
+        "ts": "1446711756.000042"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub028",
+        "ts": "1446711764.000043"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ucef4\ud30c\uc77c \uc548\ub418\ub294 \ucf54\ub4dc \ucee4\ubc0b\ud574\uc11c \uc8c4\uc1a1\ud569\ub2c8\ub2e4...",
+        "ts": "1446711781.000044"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo] New branch \"<https:\/\/github.com\/sparcs-kaist\/dejavo\/tree\/hotfix|hotfix>\" was pushed by poap",
+                "text": "[dejavo] New branch \"<https:\/\/github.com\/sparcs-kaist\/dejavo\/tree\/hotfix|hotfix>\" was pushed by poap",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446712014.000045"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc544",
+        "ts": "1446712022.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc544\u314f\u314f",
+        "ts": "1446712023.000047"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub3cc\uaca0\ub2e4.... \uc21c\uc11c \ubc14\uafd4\uc11c \uc37c\ub124.....",
+        "ts": "1446712036.000048"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo] The branch \"hotfix\" was deleted by poap",
+                "text": "[dejavo] The branch \"hotfix\" was deleted by poap",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446712063.000049"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/bdd6e609f3973384983b10f4ca58ec9dbd154832|1 new commit> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/bdd6e609f3973384983b10f4ca58ec9dbd154832|bdd6e60>: serious typo on urls.py fixed - coffee",
+                "pretext": "[dejavo:develop] 1 new commit by coffee:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446712081.000050"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc751? \uadf8\ub798\uc694? \uc804 \ubab0\ub790\ub294\ub370",
+        "ts": "1446717937.000051"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub7f0\uac00\ubcf4\ub2e4",
+        "ts": "1446717943.000052"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#3 \ud398\uc774\uc9c0, url\uc815\ub9ac' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/3 by jiggum",
+                "text": "\ud604\uc81c \uc788\ub294 \ud398\uc774\uc9c0 \ubaa9\ub85d\uc815\ub9ac,\nurl (review\/review\/insert) \uba85\ub8cc\ud558\uac8c \ubcc0\uacbd",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/jiggum|jiggum>",
+                "title": "#3 \ud398\uc774\uc9c0, url\uc815\ub9ac",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/3",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452519064.000066"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/3|#3 \ud398\uc774\uc9c0, url\uc815\ub9ac> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/3|#3 \ud398\uc774\uc9c0, url\uc815\ub9ac> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452519224.000067"
+    }
+]

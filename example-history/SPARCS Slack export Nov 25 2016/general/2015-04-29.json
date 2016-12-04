@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/channel9.msdn.com\/?wt.mc_id=build_hp>",
+        "attachments": [
+            {
+                "title": "Channel 9: Videos about the people building Microsoft Products and Services",
+                "title_link": "http:\/\/channel9.msdn.com\/?wt.mc_id=build_hp",
+                "text": "Channel 9 keeps you up to date with videos from people behind the scenes building products at Microsoft.",
+                "fallback": "Channel 9: Videos about the people building Microsoft Products and Services",
+                "from_url": "http:\/\/channel9.msdn.com\/?wt.mc_id=build_hp",
+                "id": 1
+            }
+        ],
+        "ts": "1430324409.000218"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "1. \uc708\ub3c4\uc6b0\uc5d0 Docker \uc0dd\uae40",
+        "ts": "1430324418.000220"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "2. \ub9ac\ub205\uc2a4\uc5d0\uc11c \uc708\ub3c4\uc6b0 \uc571\uc744 Docker\ub85c \ub3cc\ub9b4 \uc218 \uc788\uc74c",
+        "ts": "1430324427.000221"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "3. \ub9e5\uc5d0\uc11c VS \ub3cc\uc544\uac10",
+        "ts": "1430324431.000222"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "4. \ub9ac\ub205\uc2a4\uc5d0\uc11c VS \ub3cc\uc544\uac10",
+        "ts": "1430324441.000223"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc9dd\uc9dd\uc9dd!",
+        "ts": "1430324511.000224"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac8c\ub2e4\uac00 VS 2015\ub294 \ubb34\ub8cc",
+        "ts": "1430324560.000225"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\u3141\u3134\u3147\u313b\u3134\u3147\u3139",
+        "ts": "1430324561.000226"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "eclipse \uc5d0\uc11c \uac08\uc544\ud0c8 \ub54c\uac00 \ub418\uc5c8\ub098..",
+        "ts": "1430324569.000227"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "user": "U02F6AK3D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F6AK3D|magic> has joined the channel",
+        "ts": "1425023121.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02F6AK3D",
+        "text": "\uc548\ub155\ud558\uc138\uc694...",
+        "ts": "1425023132.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02F6AK3D",
+        "text": "\ud639\uc2dc \uc5ec\uae30\uc5d0 wheel\uc774 \uc788\ub098\uc694?",
+        "ts": "1425023144.000004"
+    },
+    {
+        "type": "message",
+        "user": "U02F6AK3D",
+        "text": "96\ud559\ubc88 \ud64d\uc6a9\uc8fc\ub77c\uace0 \ud569\ub2c8\ub2e4. \uc81c\uac00 \uc9c0\uae08 \uc2a4\ud30d\uc2a4 \uc11c\ubc84\uc5d0 \uc811\uc18d\uc774 \uc548\ub418\ub294\ub370 \ud639\uc2dc wheel\uc774 \uacc4\uc2dc\uba74 \uc800\ud55c\ud14c DM\uc744 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4.",
+        "ts": "1425023221.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ubaa8\ub450 \ud720\uc774\uae34 \ud55c\ub370, \ud604\uc7ac \ub300\ud45c\uc790\ub294 <@U02F86M4W> \uc785\ub2c8\ub2e4",
+        "ts": "1425023716.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02F6AK3D",
+        "text": "\uc544..\ub135! \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+        "ts": "1425023853.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02F6AK3D",
+        "text": "\uc81c\uac00 DM\uc744 \ubcf4\ub0b4\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+        "ts": "1425023861.000008"
+    }
+]

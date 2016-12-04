@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "please img \uc218\uc9c0\uc218\ud604",
+        "ts": "1394940998.000263"
+    },
+    {
+        "text": "<http:\/\/fimg2.pann.com\/new\/download.jsp?FileID=25780706#.png>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "from_url": "http:\/\/fimg2.pann.com\/new\/download.jsp?FileID=25780706#.png",
+                "fallback": "550x827px image",
+                "image_url": "http:\/\/fimg2.pann.com\/new\/download.jsp?FileID=25780706#.png",
+                "image_width": 550,
+                "image_height": 827,
+                "image_bytes": 105632,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1394941008.000264"
+    }
+]

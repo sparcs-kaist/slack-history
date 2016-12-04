@@ -1,0 +1,23 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/46#issuecomment-188195164|#46: \uc798\ubabb\ub41c url \ub85c \uc811\uadfc\uc2dc \uc5d0\ub7ec or \u00a0\uac80\uc0c9\uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4 \ud398\uc774\uc9c0 \ub728\uac8c\ub054> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "text": "404\ubfd0\ub9cc \uc544\ub2c8\ub77c 400, 403, 500\uc5d0 \ub300\ud574\uc11c\ub3c4 \ub9cc\ub4e4\uba74 \uc88b\uc744\uac70 \uac19\uc544\uc694!",
+                "pretext": "[sparcs-kaist\/otlplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/46#issuecomment-188195164|#46: \uc798\ubabb\ub41c url \ub85c \uc811\uadfc\uc2dc \uc5d0\ub7ec or \u00a0\uac80\uc0c9\uacb0\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4 \ud398\uc774\uc9c0 \ub728\uac8c\ub054> (assigned to <https:\/\/github.com\/jihoon-ko|jihoon-ko>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1456311911.000071"
+    }
+]

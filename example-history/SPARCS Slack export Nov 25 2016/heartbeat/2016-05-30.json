@@ -1,0 +1,216 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from ojh3636",
+                "text": "heartbeaterror\ub294 \ud558\ud2b8\ube44\ud2b8 \uc11c\ube44\uc2a4\uc758 \uc5d0\ub7ec\ub97c \ub9d0\ud558\ub294\uac83 \uc544\ub2c8\uc5c8\ub098\uc694??",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#4: Test Grpc client python code",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/4\/_\/diff#comment-19073141",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464592198.000102"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request updated by ojh3636",
+                "text": "\u2022 The code that need to run HeartbeatServer\n\u2022 Implement grpc-client-python code for checking grpc_method really work. GetCpu, GetDiskUsage and GetMem Methods are working properly, rest Methods will work properly when server grpc code is completed",
+                "pretext": "[anyt-huh\/heartbeat] Pull request updated by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#4: Test Grpc client python code",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/4",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464636589.000103"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/grpc-client] 5 new commits force pushed by ojh3636",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/528a46abbd0f5abe615bf744e1c9994cfb58a41f|528a46a>`  modify .gitignore to ignore *.pyc(python binary code) and delete heartbeat_pb2.pyc - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/ef2b086e10b6c0815fd31b78c1c71a87db38cb04|ef2b086>`  modify some form of code - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/1ff554bc9b9af489371fff0a24cb72f53196dd0d|1ff554b>`  modify some typos - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/c23224a940f019a9f403c9033e6039e0540dabe1|c23224a>`  Implement grpc-client-python code for checking grpc_method really work. GetCpu, GetDiskUsage and GetMem Methods are working propery, rest Methods will work propery when server grpc code is completed - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9accfa411027da600f4a30a83fc6090988e29cce|9accfa4>`  Initial commit - Chang Won LEE ",
+                "pretext": "[heartbeat\/grpc-client] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/grpc-client|5 new commits> force pushed by ojh3636",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464636590.000104"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/grpc-client] 5 new commits force pushed by ojh3636",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/ea54e4bba0c8694ea3c6c045e2b4ae454cbf2d89|ea54e4b>`  modify .gitignore to ignore *.pyc(python binary code) and delete heartbeat_pb2.pyc - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/b6eed2575c26a76ad0363b03f6fc93ad02cca0d9|b6eed25>`  modify some python code style - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/1ff554bc9b9af489371fff0a24cb72f53196dd0d|1ff554b>`  modify some typos - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/c23224a940f019a9f403c9033e6039e0540dabe1|c23224a>`  Implement grpc-client-python code for checking grpc_method really work. GetCpu, GetDiskUsage and GetMem Methods are working propery, rest Methods will work propery when server grpc code is completed - Jong Hun Oh \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9accfa411027da600f4a30a83fc6090988e29cce|9accfa4>`  Initial commit - Chang Won LEE ",
+                "pretext": "[heartbeat\/grpc-client] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/grpc-client|5 new commits> force pushed by ojh3636",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464636793.000105"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request updated by ojh3636",
+                "text": "\u2022 The code that need to run HeartbeatServer\n\u2022 Implement grpc-client-python code for checking grpc_method really work. GetCpu, GetDiskUsage and GetMem Methods are working properly, rest Methods will work properly when server grpc code is completed",
+                "pretext": "[anyt-huh\/heartbeat] Pull request updated by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#4: Test Grpc client python code",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/4",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464636794.000106"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Comment from ojh3636",
+                "text": "\ucc98\ub9ac\uc644\ub8cc \ud588\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#4: Test Grpc client python code",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/4\/_\/diff#comment-19100450",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464636866.000107"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/grpc-client] 1 new commit pushed by ojh3636",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/c3a47de0940baef2af76f9a7cc37db7f81374cbf|c3a47de>`  change the grpc-client python code that can get information from multiple server(servers that are written in server.txt) - Jong Hun Oh ",
+                "pretext": "[heartbeat\/grpc-client] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branches\/compare\/c3a47de0940baef2af76f9a7cc37db7f81374cbf..ea54e4bba0c8694ea3c6c045e2b4ae454cbf2d89|1 new commit> pushed by ojh3636",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464641276.000108"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request updated by ojh3636",
+                "text": "\u2022 The code that need to run HeartbeatServer\n\u2022 Implement grpc-client-python code for checking grpc_method really work. GetCpu, GetDiskUsage and GetMem Methods are working properly, rest Methods will work properly when server grpc code is completed",
+                "pretext": "[anyt-huh\/heartbeat] Pull request updated by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#4: Test Grpc client python code",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/4",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464641277.000109"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Pull request approved by re-l",
+                "text": "\u2022 Basic Django and MariaDB configuration for gRPC client server\n\u2022 Added a README.md file under `client` directory to provide a Django and MariaDB local setup guide.",
+                "pretext": "[anyt-huh\/heartbeat] Pull request approved by <https:\/\/bitbucket.org\/re-l\/|re-l>",
+                "title": "#2: Basic Django and Maria DB configuration for gRPC client server",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/pull-requests\/2",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464668479.000110"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #12: \uc5ec\ub7ec grpc-server\uc5d0\uc11c grpc-client\ub85c \ubc1b\uc544\uc628 \uac01 \uc11c\ubc84\uc758 \uc815\ubcf4\ub4e4\uc744 DB\uc5d0 \ub123\uae30. https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/12\/grpc-server-grpc-client-db commented on by re-l",
+                "text": "\ud558\ub098\uc758 \ud30c\uc774\uc36c \ucf54\ub4dc\ub85c \uc5ec\ub7ec \uc11c\ubc84\uc5d0 \ub370\uc774\ud130\ub97c \ubc1b\uc544\uc624\uba74 \uc88b\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/re-l\/|re-l>",
+                "title": "#12: \uc5ec\ub7ec grpc-server\uc5d0\uc11c grpc-client\ub85c \ubc1b\uc544\uc628 \uac01 \uc11c\ubc84\uc758 \uc815\ubcf4\ub4e4\uc744 DB\uc5d0 \ub123\uae30.",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/12\/grpc-server-grpc-client-db",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464672554.000111"
+    }
+]

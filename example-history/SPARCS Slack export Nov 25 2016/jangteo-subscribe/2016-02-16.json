@@ -1,0 +1,81 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api] New branch \"<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/tree\/error-handler|error-handler>\" was pushed by Suckzoo",
+                "text": "[jangteo-api] New branch \"<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/tree\/error-handler|error-handler>\" was pushed by Suckzoo",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455637375.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] Pull request submitted: '#2 Custom error implemented' https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/2 by Suckzoo",
+                "pretext": "[sparcs-kaist\/jangteo-api] Pull request submitted by <https:\/\/github.com\/Suckzoo|Suckzoo>",
+                "title": "#2 Custom error implemented",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/2",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455637399.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/jangteo-api] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/2|#2 Custom error implemented> by <https:\/\/github.com\/Suckzoo|Suckzoo>",
+                "text": "[sparcs-kaist\/jangteo-api] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/2|#2 Custom error implemented> by <https:\/\/github.com\/Suckzoo|Suckzoo>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455637598.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:develop] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/336d70991b47...282e763a63b4|2 new commits> by Seokju Hong",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/256ff528f9af94740f46b4a7ed30f2fd13b6e3c7|256ff52>: Custom error implemented - Seokju Hong\n <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/282e763a63b4ae90418899621ff701018a37ee38|282e763>: Merge pull request #2 from sparcs-kaist\/error-handler - Seokju Hong",
+                "pretext": "[jangteo-api:develop] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/336d70991b47...282e763a63b4|2 new commits> by Seokju Hong:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455637598.000005"
+    }
+]

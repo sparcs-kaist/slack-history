@@ -1,0 +1,141 @@
+[
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "```\n\uc774\ub807\uac8c \ud558\uba74\n\uc608\uc05c \ud68c\uc0c9 \uc0c1\uc790\uc5d0\n\ub098\uc624\ub294\uc9c0 \ud14c\uc2a4\ud2b8\n```",
+        "edited": {
+            "user": "U02CPPE8C",
+            "ts": "1462863857.000000"
+        },
+        "ts": "1462863782.000207"
+    },
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "\uc544\ub2c8\ub124 \u3160",
+        "ts": "1462863784.000208"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "```",
+        "ts": "1462863855.000210"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc77c\uac70\uc5d0\uc5ec",
+        "ts": "1462863862.000212"
+    },
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "\ub410\ub2e4 \u314b\u314b \uace0\ub9c8\uc6cc\uc694",
+        "ts": "1462863871.000213"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "good",
+        "ts": "1462863873.000214"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc624\uc624 \uc774\ub7f0 Slack syntax \uc815\ub9ac\ub418\uc788\ub294 \uacf3 \uc788\ub098\uc694",
+        "ts": "1462863878.000215"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ucc3e\uc544\ubd10\uc57c\uaca0\ub530",
+        "ts": "1462863883.000216"
+    },
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "Help \ub4e4\uc5b4\uac00\ubcf4\ub2c8\uae4c \uc0ac\uc2e4 \ub2e4 \uc788\ub354\ub77c\uace0\uc694 \u314b\u314b",
+        "ts": "1462863903.000217"
+    },
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "\ub3c4\uc6c0!",
+        "ts": "1462863911.000218"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc624! \uac10\uc0ac\ud569\ub2c8\ub2e4!",
+        "ts": "1462863960.000219"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc88c\ud45c\ub294 <https:\/\/get.slack.help\/hc\/en-us\/articles\/202288908> \uc774\uac70\uad70\uc694",
+        "attachments": [
+            {
+                "service_name": "Slack Help Center",
+                "title": "Formatting your messages",
+                "title_link": "https:\/\/get.slack.help\/hc\/en-us\/articles\/202288908",
+                "text": "Adding text formatting to your Slack messages is easy! Here's\u00a0a handy selection of formatting options: Emphasis To emphasize words or phrases, surround your text with\u00a0*asterisks* to create bold t...",
+                "fallback": "Slack Help Center: Formatting your messages",
+                "from_url": "https:\/\/get.slack.help\/hc\/en-us\/articles\/202288908",
+                "thumb_url": "http:\/\/p6.zdassets.com\/hc\/settings_assets\/138842\/200037786\/xQLiROEzL6NgPbnjmfqIxg-slackbot_192.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "id": 1
+            }
+        ],
+        "ts": "1462863965.000220"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc5f0\uc2b5\ud574\ubd10\uc57c\uc9c0 `asdfasdfasdf`",
+        "ts": "1462864127.000222"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc624\uc624\uc624\uc624 ``` \uc608\uc05c \ud68c\uc0c9 \uc0c1\uc790 ```",
+        "ts": "1462864164.000223"
+    },
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "```\n<#C15C6G1BP> Meetup 2016\/05\/09\n\n\uc2a4\ud130\ub514\uadf8\ub8f9 \uccab \ubc88\uc9f8 \ubaa8\uc784\uc744 \uac00\uc84c\uc2b5\ub2c8\ub2e4. \uc2a4\ud130\ub514 \uc9c4\ud589\uc740 \uc5c6\uc774 \uc55e\uc73c\ub85c \uc5b4\ub5bb\uac8c \uc2a4\ud130\ub514 \ubaa8\uc784\uc744 \uac00\uc9c8 \uac83\uc778\uc9c0 \uc704\uc8fc\ub85c \uc774\uc57c\uae30\ub97c \ub098\ub204\uc5c8\uc2b5\ub2c8\ub2e4.\n\n\n1. \ucc38\uac00\uc790 \uba85\ubd80\ub97c \uc791\uc131\ud558\uc600\uc2b5\ub2c8\ub2e4.\n[\uc77d\uae30\uc804\uc6a9] <https:\/\/docs.google.com\/spreadsheets\/d\/18lnyDe4pft-1pWw0aa-6QwXL3AMPIv92ekjIHq-GOt4\/>\n\n\uc9c1\uc811 \ucc38\uac00\ud558\uc2dc\ub294 \ubd84\ub4e4 \uc911\uc5d0 \uc704 \uba85\ubd80\uc5d0 \uc774\ub984\uc774 \uc5c6\uc73c\uc2e0 \ubd84\uc740 \uc81c\uac8c \ub9d0\uc500\ud574\uc8fc\uc138\uc694.\n\n\n2. \ubaa8\uc784 \uc2dc\uac04 \ubc0f \ubc29\uc2dd\n* \uc2dc\uac04\n- \uae30\ubcf8\uc801\uc73c\ub85c \ub9e4\uc8fc \uc6d4\uc694\uc77c SPARCS \uc815\ubaa8 \uc9c1\ud6c4\n- \uc815\ubaa8 \uc774\ud6c4\uc5d0 \ub3d9\uc544\ub9ac \ucc28\uc6d0\uc758 \uc77c\uc815\uc774 \uc788\ub2e4\uba74 \ucc38\uc5ec \uc778\uc6d0 \ud30c\uc545 \ub4a4 \uc2dc\uac04 \uc870\uc815\n\n* \ubc29\uc2dd\n- \ubaa8\uc784 \uc790\ub9ac \ud604\uc7a5\uc5d0\uc11c \uc784\uc758\ub85c \ubc1c\ud45c\uc790\ub97c \ubf51\uc2b5\ub2c8\ub2e4.\n- \ubc1c\ud45c\uc790\ub294 \ud574\ub2f9 \uc8fc\uc758 \uc2a4\ud130\ub514 \ub0b4\uc6a9\uc744 \uc7ac\ub7c9\uaecf \uc124\uba85\ud569\ub2c8\ub2e4.\n- \ub098\uba38\uc9c0 \ucc38\uac00\uc790\ub294 \ub0b4\uc6a9 \ubcf4\uac15, \uc9c8\ubb38 \ub4f1\uc744 \ud558\uba70 \ubc1c\ud45c\uc790\ub97c \ub3d5\uc2b5\ub2c8\ub2e4.\n\n\n3. \ubc8c\uae08\uc81c\n- \uc9c0\uac01: 1,000\uc6d0\/\ubd84 (\ucd5c\ub300 10\ubd84\uae4c\uc9c0 \uac00\uc0b0)\n- \uacb0\uc11d: \uc9c0\uac01 \ucd5c\ub300 \uc561\uc218 \uc801\uc6a9\n- \ud034\uc988 \ud480\uc9c0 \uc54a\uc74c: 5,000\uc6d0\n- Programming Assignment \ud558\uc9c0 \uc54a\uc74c: 10,000\uc6d0\n\n\n4. \ub2e4\uc74c\uc8fc \uc2a4\ud130\ub514 \ubc94\uc704\n- Week2\uae4c\uc9c0 \uc900\ube44 (Week1 \ub0b4\uc6a9\uc774 \uc5bc\ub9c8 \ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4)\n- 2\uc8fc \ubc94\uc704\ub97c \ub2e4\ub8e8\ubbc0\ub85c \ub2e4\uc74c \ubaa8\uc784 1\ud68c\uc5d0 \ud55c\ud558\uc5ec \ubc1c\ud45c\uc790\ub97c 2\uba85 \ubf51\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.\n```",
+        "ts": "1462871240.000224"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U02CPPE8C",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[May 10th, 2016 2:07 AM] pipoket: ```\n<#C15C6G1BP> Meetup 2016\/05\/09\n\n\uc2a4\ud130\ub514\uadf8\ub8f9 \uccab \ubc88\uc9f8 \ubaa8\uc784\uc744 \uac00\uc84c\uc2b5\ub2c8\ub2e4. \uc2a4\ud130\ub514 \uc9c4\ud589\uc740 \uc5c6\uc774 \uc55e\uc73c\ub85c \uc5b4\ub5bb\uac8c \uc2a4\ud130\ub514 \ubaa8\uc784\uc744 \uac00\uc9c8 \uac83\uc778\uc9c0 \uc704\uc8fc\ub85c \uc774\uc57c\uae30\ub97c \ub098\ub204\uc5c8\uc2b5\ub2c8\ub2e4.\n\n\n1. \ucc38\uac00\uc790 \uba85\ubd80\ub97c \uc791\uc131\ud558\uc600\uc2b5\ub2c8\ub2e4.\n[\uc77d\uae30\uc804\uc6a9] <https:\/\/docs.google.com\/spreadsheets\/d\/18lnyDe4pft-1pWw0aa-6QwXL3AMPIv92ekjIHq-GOt4\/>\n\n\uc9c1\uc811 \ucc38\uac00\ud558\uc2dc\ub294 \ubd84\ub4e4 \uc911\uc5d0 \uc704 \uba85\ubd80\uc5d0 \uc774\ub984\uc774 \uc5c6\uc73c\uc2e0 \ubd84\uc740 \uc81c\uac8c \ub9d0\uc500\ud574\uc8fc\uc138\uc694.\n\n\n2. \ubaa8\uc784 \uc2dc\uac04 \ubc0f \ubc29\uc2dd\n* \uc2dc\uac04\n- \uae30\ubcf8\uc801\uc73c\ub85c \ub9e4\uc8fc \uc6d4\uc694\uc77c SPARCS \uc815\ubaa8 \uc9c1\ud6c4\n- \uc815\ubaa8 \uc774\ud6c4\uc5d0 \ub3d9\uc544\ub9ac \ucc28\uc6d0\uc758 \uc77c\uc815\uc774 \uc788\ub2e4\uba74 \ucc38\uc5ec \uc778\uc6d0 \ud30c\uc545 \ub4a4 \uc2dc\uac04 \uc870\uc815\n\n* \ubc29\uc2dd\n- \ubaa8\uc784 \uc790\ub9ac \ud604\uc7a5\uc5d0\uc11c \uc784\uc758\ub85c \ubc1c\ud45c\uc790\ub97c \ubf51\uc2b5\ub2c8\ub2e4.\n- \ubc1c\ud45c\uc790\ub294 \ud574\ub2f9 \uc8fc\uc758 \uc2a4\ud130\ub514 \ub0b4\uc6a9\uc744 \uc7ac\ub7c9\uaecf \uc124\uba85\ud569\ub2c8\ub2e4.\n- \ub098\uba38\uc9c0 \ucc38\uac00\uc790\ub294 \ub0b4\uc6a9 \ubcf4\uac15, \uc9c8\ubb38 \ub4f1\uc744 \ud558\uba70 \ubc1c\ud45c\uc790\ub97c \ub3d5\uc2b5\ub2c8\ub2e4.\n\n\n3. \ubc8c\uae08\uc81c\n- \uc9c0\uac01: 1,000\uc6d0\/\ubd84 (\ucd5c\ub300 10\ubd84\uae4c\uc9c0 \uac00\uc0b0)\n- \uacb0\uc11d: \uc9c0\uac01 \ucd5c\ub300 \uc561\uc218 \uc801\uc6a9\n- \ud034\uc988 \ud480\uc9c0 \uc54a\uc74c: 5,000\uc6d0\n- Programming Assignment \ud558\uc9c0 \uc54a\uc74c: 10,000\uc6d0\n\n\n4. \ub2e4\uc74c\uc8fc \uc2a4\ud130\ub514 \ubc94\uc704\n- Week2\uae4c\uc9c0 \uc900\ube44 (Week1 \ub0b4\uc6a9\uc774 \uc5bc\ub9c8 \ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4)\n- 2\uc8fc \ubc94\uc704\ub97c \ub2e4\ub8e8\ubbc0\ub85c \ub2e4\uc74c \ubaa8\uc784 1\ud68c\uc5d0 \ud55c\ud558\uc5ec \ubc1c\ud45c\uc790\ub97c 2\uba85 \ubf51\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.\n```",
+                "ts": "1462871240.000224",
+                "author_subname": "pipoket",
+                "channel_id": "C15C6G1BP",
+                "channel_name": "mlstudy2016",
+                "is_msg_unfurl": true,
+                "text": "```\n<#C15C6G1BP> Meetup 2016\/05\/09\n\n\uc2a4\ud130\ub514\uadf8\ub8f9 \uccab \ubc88\uc9f8 \ubaa8\uc784\uc744 \uac00\uc84c\uc2b5\ub2c8\ub2e4. \uc2a4\ud130\ub514 \uc9c4\ud589\uc740 \uc5c6\uc774 \uc55e\uc73c\ub85c \uc5b4\ub5bb\uac8c \uc2a4\ud130\ub514 \ubaa8\uc784\uc744 \uac00\uc9c8 \uac83\uc778\uc9c0 \uc704\uc8fc\ub85c \uc774\uc57c\uae30\ub97c \ub098\ub204\uc5c8\uc2b5\ub2c8\ub2e4.\n\n\n1. \ucc38\uac00\uc790 \uba85\ubd80\ub97c \uc791\uc131\ud558\uc600\uc2b5\ub2c8\ub2e4.\n[\uc77d\uae30\uc804\uc6a9] <https:\/\/docs.google.com\/spreadsheets\/d\/18lnyDe4pft-1pWw0aa-6QwXL3AMPIv92ekjIHq-GOt4\/>\n\n\uc9c1\uc811 \ucc38\uac00\ud558\uc2dc\ub294 \ubd84\ub4e4 \uc911\uc5d0 \uc704 \uba85\ubd80\uc5d0 \uc774\ub984\uc774 \uc5c6\uc73c\uc2e0 \ubd84\uc740 \uc81c\uac8c \ub9d0\uc500\ud574\uc8fc\uc138\uc694.\n\n\n2. \ubaa8\uc784 \uc2dc\uac04 \ubc0f \ubc29\uc2dd\n* \uc2dc\uac04\n- \uae30\ubcf8\uc801\uc73c\ub85c \ub9e4\uc8fc \uc6d4\uc694\uc77c SPARCS \uc815\ubaa8 \uc9c1\ud6c4\n- \uc815\ubaa8 \uc774\ud6c4\uc5d0 \ub3d9\uc544\ub9ac \ucc28\uc6d0\uc758 \uc77c\uc815\uc774 \uc788\ub2e4\uba74 \ucc38\uc5ec \uc778\uc6d0 \ud30c\uc545 \ub4a4 \uc2dc\uac04 \uc870\uc815\n\n* \ubc29\uc2dd\n- \ubaa8\uc784 \uc790\ub9ac \ud604\uc7a5\uc5d0\uc11c \uc784\uc758\ub85c \ubc1c\ud45c\uc790\ub97c \ubf51\uc2b5\ub2c8\ub2e4.\n- \ubc1c\ud45c\uc790\ub294 \ud574\ub2f9 \uc8fc\uc758 \uc2a4\ud130\ub514 \ub0b4\uc6a9\uc744 \uc7ac\ub7c9\uaecf \uc124\uba85\ud569\ub2c8\ub2e4.\n- \ub098\uba38\uc9c0 \ucc38\uac00\uc790\ub294 \ub0b4\uc6a9 \ubcf4\uac15, \uc9c8\ubb38 \ub4f1\uc744 \ud558\uba70 \ubc1c\ud45c\uc790\ub97c \ub3d5\uc2b5\ub2c8\ub2e4.\n\n\n3. \ubc8c\uae08\uc81c\n- \uc9c0\uac01: 1,000\uc6d0\/\ubd84 (\ucd5c\ub300 10\ubd84\uae4c\uc9c0 \uac00\uc0b0)\n- \uacb0\uc11d: \uc9c0\uac01 \ucd5c\ub300 \uc561\uc218 \uc801\uc6a9\n- \ud034\uc988 \ud480\uc9c0 \uc54a\uc74c: 5,000\uc6d0\n- Programming Assignment \ud558\uc9c0 \uc54a\uc74c: 10,000\uc6d0\n\n\n4. \ub2e4\uc74c\uc8fc \uc2a4\ud130\ub514 \ubc94\uc704\n- Week2\uae4c\uc9c0 \uc900\ube44 (Week1 \ub0b4\uc6a9\uc774 \uc5bc\ub9c8 \ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4)\n- 2\uc8fc \ubc94\uc704\ub97c \ub2e4\ub8e8\ubbc0\ub85c \ub2e4\uc74c \ubaa8\uc784 1\ud68c\uc5d0 \ud55c\ud558\uc5ec \ubc1c\ud45c\uc790\ub97c 2\uba85 \ubf51\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.\n```",
+                "author_name": "Woosuk Suh",
+                "author_link": "https:\/\/sparcs.slack.com\/team\/pipoket",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-03-07\/24869338566_4867a31467ae8da94299_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U02CPPE8C|pipoket> pinned a message to this channel.",
+        "ts": "1462872179.000225"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ud034\uc988\/Programming Assignment \ub294 \uc2a4\uc0f7 \ucc0d\uc5b4\uc11c \uc5ec\uae30\uc5d0 \uc62c\ub9ac\uba74 \ub420 \ub4ef",
+        "ts": "1462873330.000226"
+    }
+]
