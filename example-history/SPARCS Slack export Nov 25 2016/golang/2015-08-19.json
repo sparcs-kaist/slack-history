@@ -1,8 +1,0 @@
-[
-    {
-        "type": "message",
-        "user": "U02L44HTT",
-        "text": "\uc774\uac70 \uc544\ub294\ubd84.... func LimitReader(r Reader, n int64) Reader { return &amp;LimitedReader{r, n} }  \uc5ec\uae30\uc11c Pointer\ub85c \ub9ac\ud134\uc774 \uac00\ub2a5\ud55c \uc774\uc720\uac00 \ubb50\uc8e0\u3160?",
-        "ts": "1440049908.000002"
-    }
-]
