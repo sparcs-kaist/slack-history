@@ -1,0 +1,42 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b291226a08b183adba5b534dd7dc2ffbb2218682|1 new commit> by Keunhong Lee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/b291226a08b183adba5b534dd7dc2ffbb2218682|b291226>: Update .travis.yml - Keunhong Lee",
+                "pretext": "[jangteo-api:master] 1 new commit by Keunhong Lee:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454188806.000042"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:master] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/48cfce4ac306d4c4ced62993ff0ad7e88e4c9537|1 new commit> by Keunhong Lee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/48cfce4ac306d4c4ced62993ff0ad7e88e4c9537|48cfce4>: Update .travis.yml - Keunhong Lee",
+                "pretext": "[jangteo-api:master] 1 new commit by Keunhong Lee:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454189283.000043"
+    }
+]

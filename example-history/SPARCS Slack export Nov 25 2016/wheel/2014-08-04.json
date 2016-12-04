@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U02EBH99Q",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02EBH99Q|netj> has joined the channel",
+        "ts": "1407194450.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0MG",
+        "text": "\uc6b0\ub9ac avahi-daemon \uad00\ub828\ud574\uc11c \uc880 zeroconf\ub97c \ucc3e\uc544\ubd24\ub294\ub370.............. \uadf8 daemon \ud544\uc694\ud55c\uac00\uc694?",
+        "ts": "1407213385.000003"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/127|#127 upgrade to python3.5 and django 1.10> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/127|#127 upgrade to python3.5 and django 1.10> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1472210703.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/54fc5a025a11...fd74d45d4e7d|4 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bbd37cd33a56e418c778cd3b9c64e9a1608a22d4|bbd37cd>`  hotfix: typo in api v1, user flags; add test_only in admin display - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/6b8acb2b8086fd4b2b7aacf69019b6bdb9a85d1a|6b8acb2>`  update to django 1.10 - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4808a2bd6df0e6ff7ef33f7aac4b7bee4da38faf|4808a2b>`  upgrade to python 3.5 (done #110) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/fd74d45d4e7d5c8158ed1fd6be093311c334db8f|fd74d45>`  Merge pull request #127 from sparcs-kaist\/dev-samjo - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/54fc5a025a11...fd74d45d4e7d|4 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1472210704.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1472210711.000004"
+    }
+]

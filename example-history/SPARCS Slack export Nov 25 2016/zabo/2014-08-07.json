@@ -1,0 +1,181 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/layout] 1 new commit by coffee:",
+                "fallback": "[zabo:feat\/layout] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/77b84388e8f4|1 new commit> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/77b84388e8f4|77b84388e8f4>: layout height changed to 50px - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407411761.000023"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/36c3d1ad879a...13f4596fa0b2|3 new commits> by coffee:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/36c3d1ad879a...13f4596fa0b2|3 new commits> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e4b558e8a918|e4b558e8a918>: created dropdown category menu - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/77b84388e8f4|77b84388e8f4>: layout height changed to 50px - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/13f4596fa0b2|13f4596fa0b2>: Merge branch 'feat\/layout' into dev\/board - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407411795.000024"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "6CC644",
+                "pretext": "[sparcs-kaist\/zabo] Pull request submitted by <https:\/\/github.com\/onionionion|onionionion>",
+                "title": "#21 category",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/21",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/21|Pull request submitted> by <https:\/\/github.com\/onionionion|onionionion>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407416922.000025"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/account] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/dae2458412ef...93cda7869a84|2 new commits> by chaos:",
+                "fallback": "[zabo:dev\/account] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/dae2458412ef...93cda7869a84|2 new commits> by chaos",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e1b1d6d2da10|e1b1d6d2da10>:  account model \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/93cda7869a84|93cda7869a84>: account fixture \uc791\uc131 - chaos",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407422000.000026"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/13f4596fa0b2...197d6eb6a00b|2 new commits>:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/13f4596fa0b2...197d6eb6a00b|2 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/18ac7cd081e7|18ac7cd081e7>: category - onionionion\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/197d6eb6a00b|197d6eb6a00b>: Merge pull request #21 from onionionion\/dev\/board - JaeEui Ma",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407422024.000027"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/21|#21 category> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "fallback": "[sparcs-kaist\/zabo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/pull\/21|#21 category> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407422024.000028"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/layout] 1 new commit by coffee:",
+                "fallback": "[zabo:feat\/layout] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/4583107e8ac4|1 new commit> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/4583107e8ac4|4583107e8ac4>: layout height changed to 50px again, added club_info block - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407422824.000029"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/197d6eb6a00b...98c5bb63a011|2 new commits> by coffee:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/197d6eb6a00b...98c5bb63a011|2 new commits> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/4583107e8ac4|4583107e8ac4>: layout height changed to 50px again, added club_info block - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/98c5bb63a011|98c5bb63a011>: Merge branch 'feat\/layout' into dev\/board - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407423004.000030"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/e21dd6c75aba...0a4f7489b80b|3 new commits> by chaos:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/e21dd6c75aba...0a4f7489b80b|3 new commits> by chaos",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e1b1d6d2da10|e1b1d6d2da10>:  account model \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/93cda7869a84|93cda7869a84>: account fixture \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/0a4f7489b80b|0a4f7489b80b>: Merge branch 'dev\/account' into develop - chaos",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407424628.000031"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/tree\/feat\/club_page|feat\/club_page>\" was pushed by poap",
+                "text": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/tree\/feat\/club_page|feat\/club_page>\" was pushed by poap",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407433137.000032"
+    }
+]

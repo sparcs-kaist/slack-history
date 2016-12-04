@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc36c\ubb38 \uccb4\ud5d8\ud310 \ub098\uc654\ub124\uc6a9",
+        "ts": "1476965745.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub807\ub2e4\uace0 \ud558\ub354\ub77c\uad6c\uc694",
+        "ts": "1476966443.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624\ub79c\ub9cc\uc5d0 \ub2cc\ud150\ub3c4 \ubd99\uc7a1\uaca0\uc2b5\ub2c8\ub2e4 \ud638\ud638\ud638",
+        "ts": "1476966448.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc36c\ubb38\ud558\uba74 \uc0ac\ud1a0\uc2dc\uac9f\ucf54\uc6b0\uac00 \uc97c",
+        "ts": "1476977061.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uccb4\ud5d8\ud310 \ud2b9\uc804 \ubb50 \uc774\ub7f0\uac70 \uc788\uc74c?",
+        "ts": "1476987236.000006"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SKNH9|whitegold> uploaded a file: <https:\/\/sparcs.slack.com\/files\/whitegold\/F2S8LS38Q\/pasted_image_at_2016_10_21_09_33_am.png|Pasted image at 2016-10-21, 9:33 AM>",
+        "file": {
+            "id": "F2S8LS38Q",
+            "created": 1477010123,
+            "timestamp": 1477010123,
+            "name": "Pasted image at 2016_10_21 09_33 AM.png",
+            "title": "Pasted image at 2016-10-21, 9:33 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SKNH9",
+            "editable": false,
+            "size": 290450,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2S8LS38Q\/pasted_image_at_2016_10_21_09_33_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2S8LS38Q\/download\/pasted_image_at_2016_10_21_09_33_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2S8LS38Q-973e85ba61\/pasted_image_at_2016_10_21_09_33_am_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2S8LS38Q-973e85ba61\/pasted_image_at_2016_10_21_09_33_am_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2S8LS38Q-973e85ba61\/pasted_image_at_2016_10_21_09_33_am_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 222,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2S8LS38Q-973e85ba61\/pasted_image_at_2016_10_21_09_33_am_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 297,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2S8LS38Q-973e85ba61\/pasted_image_at_2016_10_21_09_33_am_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2S8LS38Q-973e85ba61\/pasted_image_at_2016_10_21_09_33_am_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 445,
+            "image_exif_rotation": 1,
+            "original_w": 900,
+            "original_h": 556,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/whitegold\/F2S8LS38Q\/pasted_image_at_2016_10_21_09_33_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F2S8LS38Q-5a493cd4b9",
+            "channels": [
+                "C036C21JT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SKNH9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SKNH9|whitegold>",
+        "bot_id": null,
+        "ts": "1477010125.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc774 \uc544\uc774\ub97c \uc90d\ub2c8\ub2e4",
+        "ts": "1477010149.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc560\ub2c8\uc11c \uc9c0\uc6b0\uc758 \uc5d0\uc774\uc2a4",
+        "ts": "1477010155.000009"
+    }
+]

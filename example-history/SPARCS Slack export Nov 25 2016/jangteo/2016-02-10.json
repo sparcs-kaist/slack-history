@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<https:\/\/sparcssso.kaist.ac.kr\/api\/v1\/token\/require\/?url=&lt;domain&gt;\/api\/People\/loginCallback\/>",
+        "ts": "1455094546.002712"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "wtf is this",
+        "ts": "1455094561.002713"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "memo",
+        "ts": "1455094727.002714"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5c4\uccad\ub09c url \ud328\ud134\uc774\ub2e4",
+        "ts": "1455096263.002715"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<http:\/\/stackoverflow.com\/questions\/28885282\/how-to-store-files-with-meta-data-in-loopback\/31118294#31118294>",
+        "attachments": [
+            {
+                "title": "How to store files with meta data in LoopBack?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/28885282\/how-to-store-files-with-meta-data-in-loopback\/31118294#31118294",
+                "text": "What I want to do: Have an html form, with a file input inside. When a file is chosen, the file input should upload the file, and get a file id, so when the form is submitted, the file id is posted...",
+                "fallback": "How to store files with meta data in LoopBack?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/28885282\/how-to-store-files-with-meta-data-in-loopback\/31118294#31118294",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1
+            }
+        ],
+        "ts": "1455098803.002716"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/108240226|#26> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/71860dbe8c3c...ab3f6f223e8a|ab3f6f2>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo passed in 4 min 13 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/108240226|#26> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/71860dbe8c3c...ab3f6f223e8a|ab3f6f2>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo passed in 4 min 13 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455099126.002718"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544\uc57c",
+        "ts": "1455099169.002719"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\ub7f0\uac74 \uc138\uc158\uc5d0\ub2e4\uac00 \uc801\uc5b4 \uc880 \u314b\u314b",
+        "ts": "1455099178.002720"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544 \uc774\uac70 \uc7a5\ud130\ub124",
+        "ts": "1455099216.002721"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc800\uac70 \uc880 \uc5b4\ub5bb\uac8c \ubc29\ubc95\uc774 \uc5c6\uc744\ub77c\ub098",
+        "ts": "1455099339.002722"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc800\uac70 \uadf8 \ubb50\ub0d0",
+        "ts": "1455099364.002723"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "sso \uc0ac\uc774\ud2b8\uc5d0\uc11c \uc800 \uae34 \uc8fc\uc18c\ub97c \ubc1b\uace0 \ub098\uba74",
+        "ts": "1455099372.002724"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadf8 \uba54\ud0c0\ub370\uc774\ud130\ub97c \uc138\uc158\uc5d0 \uc801\uc5b4\ub193\uc740 \ub2e4\uc74c\uc5d0",
+        "ts": "1455099377.002725"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac04\ub2e8\ud55c \uc8fc\uc18c\ub85c redirect \uc2dc\ucf1c\ubc84\ub9ac\uba74 \uc5b4\ucc0c\uc5b4\ucc0c \ub420 \uac70 \uac19\uae30\ub3c4 \ud55c\ub370",
+        "ts": "1455099391.002726"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc8fc\uc18c\uc5d0 api\uac00",
+        "ts": "1455099489.002727"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub450\ubc88\uc774\ub098 \ub4e4\uc5b4\uac00\ub2e4\ub2c8",
+        "ts": "1455099491.002728"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u315c\u315c",
+        "ts": "1455099491.002729"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc800\uac74 \ub098\uc911\uc5d0 \ud504\ub860\ud2b8\uc5d0\uc11c login \ubc84\ud2bc\uc744 \ub20c\ub800\uc744 \ub54c redirect \ud560 \uc8fc\uc18c\uc785\ub2c8\ub2f9",
+        "ts": "1455105183.002730"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub098\uc911\uc5d0 \/People\/login \ud588\uc744 \ub584 \uc800 \uc8fc\uc18c\ub85c redirect \ud558\uac8c \ud560\uac8c\uc694",
+        "ts": "1455105273.002731"
+    }
+]

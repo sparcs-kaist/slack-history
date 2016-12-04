@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/64f77c73f5a68dd5d3d64ecb0119807fac98baff|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/64f77c73f5a68dd5d3d64ecb0119807fac98baff|64f77c7>: test commit for kaist sso - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447745784.000002"
+    }
+]

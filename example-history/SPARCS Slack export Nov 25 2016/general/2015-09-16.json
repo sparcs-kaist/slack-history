@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub9e5\uc774 \uac19\uc73c\uba74",
+        "ts": "1442388672.000937"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac19\uc740\uc560\ub4e4\ub07c\ub9ac \ud1b5\uc2e0\uc774 \uc548\ub420\uaec4\uc694\uc544\ub9c8",
+        "ts": "1442388677.000938"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadf8 nic \ud558\ub098\uc5d0 \uc5ec\ub7ec \uc544\uc774\ud53c \ubd99\uc5ec\uc11c \ub098\ub220\uc4f8\ub77c\uba74",
+        "ts": "1442388689.000939"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "macvlan\uc778\uac00 \uc774\uac70\uc37c\ub358\uac78\ub85c\uae30\uc5b5",
+        "ts": "1442388699.000940"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "??",
+        "ts": "1442391994.000941"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ud55c NIC\uc5d0 \uc5ec\ub7ec IP\uac00 \uc65c\uc548\ub3fc",
+        "ts": "1442392039.000942"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<http:\/\/networkengineering.stackexchange.com\/questions\/5710\/is-it-possible-to-use-single-mac-address-for-multiple-ipv4-addresses>",
+        "attachments": [
+            {
+                "title": "Is it possible to use single MAC address for multiple IPv4 addresses?",
+                "title_link": "http:\/\/networkengineering.stackexchange.com\/questions\/5710\/is-it-possible-to-use-single-mac-address-for-multiple-ipv4-addresses",
+                "text": "Topology: modem with router and Ethernet LAN bridge &lt;---&gt; server having one NIC. Server network interface: It is capable of handling more than one IPv4 address. All addresses are within the same",
+                "fallback": "Is it possible to use single MAC address for multiple IPv4 addresses?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/networkengineering\/img\/apple-touch-icon@2.png?v=cfe0fcbb4d01&a",
+                "from_url": "http:\/\/networkengineering.stackexchange.com\/questions\/5710\/is-it-possible-to-use-single-mac-address-for-multiple-ipv4-addresses",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1
+            }
+        ],
+        "ts": "1442392080.000943"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544 \uadf8\uac74\ub418\ub294\ub370",
+        "ts": "1442399196.000945"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadf8 \uc544\uc774\ud53c\ub4e4\uc5d0 \uac01\uac01 \ub9e5\uc8fc\uc18c \ubd80\uc5ec\ub294 \ubabb\ud560\uaec4",
+        "ts": "1442399208.000946"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubabb\uc740 \uc544\ub2c8\uace0 \uc5b4\ub824\uc6b8",
+        "ts": "1442399214.000947"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ud798\uac15\uc544",
+        "ts": "1442449298.000948"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\u314e\u3131\u3147",
+        "ts": "1442451542.000949"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "hga",
+        "ts": "1442451546.000950"
+    }
+]

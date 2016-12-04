@@ -1,0 +1,181 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/687978353e49...b524fdab7363|2 new commits> by Kang-in Raon Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/8b3563a269dd56784cf791ecc8115861881e2bf7|8b3563a>: xs \uc0ac\uc774\uc988 \uc81c\uc678\ud558\uace0 SearchView \ud37c\ube14\ub9ac\uc2f1 \uc911\uac04 \uacb0\uacfc - Kang-in Raon Kim\n <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/b524fdab7363283749b19f8724628284beff6860|b524fda>: Merge branch 'review' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into review - Kang-in Raon Kim",
+                "pretext": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/687978353e49...b524fdab7363|2 new commits> by Kang-in Raon Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1451898167.000048"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/b524fdab7363...f2270b15102d|2 new commits> by Kang-in Raon Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/8f23a7d053f97be78c23575eea7a70288e12c220|8f23a7d>: convention\uc744 PEP8\uc5d0 \ub9de\ucda4. \uc2e4\uc81c context\ub85c template\uc774 \ub80c\ub354\ub9c1\ub418\ub3c4\ub85d \ud568. - Kang-in Raon Kim\n <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/f2270b15102d802f571ad83865db248f2293f832|f2270b1>: \ubaa9\uc5c5\uc6a9 \ubdf0 \uc0ad\uc81c, sass cache ignore, css \ud30c\uc77c \ub514\ub809\ud1a0\ub9ac \uc815\ub82c, \ub124\ube44\uac8c\uc774\uc158\ubc14 \ud22c\uba85 \uc870\uc808 - Kang-in Raon Kim",
+                "pretext": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/b524fdab7363...f2270b15102d|2 new commits> by Kang-in Raon Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1451905784.000049"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/f2270b15102d...0e7ce412ca47|2 new commits> by Kang-in Raon Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/1b0b6b9c7c314f47217d18edb02172ca11c2cdb4|1b0b6b9>: sass cache \ud30c\uc77c \uc644\uc804\ud788 \uc0ad\uc81c, \uc2a4\ud0c0\uc77c\uc2dc\ud2b8 &amp; \uc2a4\ud06c\ub9bd\ud2b8 \ud30c\uc77c\ub85c \ubd84\ub9ac, \uc810\uc218 \uc8fc\ub294 \ubd80\ubd84 sm, xs \ud654\uba74\uc5d0\uc11c \uc798\ubcf4\uc774\uac8c \ucc98\ub9ac - Kang-in Raon Kim\n <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0e7ce412ca47dce0f44986d992de1d5d1ba90ad8|0e7ce41>: \uc810\ubcf4\ud2b8\ub860 \uc0ac\uc774\uc988\ub97c \ubc18\uc751\ud615\uc73c\ub85c \uc870\uc808 - Kang-in Raon Kim",
+                "pretext": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/f2270b15102d...0e7ce412ca47|2 new commits> by Kang-in Raon Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1451909179.000050"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0eb24ab2583ecce3ffc4569eb256ad4caec864f6|1 new commit> by Kang-in Raon Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0eb24ab2583ecce3ffc4569eb256ad4caec864f6|0eb24ab>: \ud3f0\ud2b8 \uc5b4\uc378 \ucd94\uac00, \uc0ac\uc18c\ud55c \ubd80\ubd84 \uc81c\uc678\ud558\uace0 \uc644\ub8cc - Kang-in Raon Kim",
+                "pretext": "[otlplus:review] 1 new commit by Kang-in Raon Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1451917451.000051"
+    },
+    {
+        "user": "U0CNHRJQJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0CNHRJQJ|joonp> has joined the channel",
+        "ts": "1451957306.000052"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0CNHRJQJ|joonp> uploaded a file: <https:\/\/sparcs.slack.com\/files\/joonp\/F0HMG0W04\/_____________2016-01-05________10.28.11.png|\uc2a4\ud06c\ub9b0\uc0f7 2016-01-05 \uc624\uc804 10.28.11.png>",
+        "file": {
+            "id": "F0HMG0W04",
+            "created": 1451957310,
+            "timestamp": 1451957310,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2016-01-05 \uc624\uc804 10.28.11.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2016-01-05 \uc624\uc804 10.28.11.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U0CNHRJQJ",
+            "editable": false,
+            "size": 612391,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0HMG0W04\/_____________2016-01-05________10.28.11.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0HMG0W04\/download\/_____________2016-01-05________10.28.11.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 225,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 300,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 450,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 600,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HMG0W04-806faa244d\/_____________2016-01-05________10.28.11_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 640,
+            "image_exif_rotation": 1,
+            "original_w": 2560,
+            "original_h": 1600,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/joonp\/F0HMG0W04\/_____________2016-01-05________10.28.11.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0HMG0W04-97b84d376c",
+            "channels": [
+                "C029U6HTV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0CNHRJQJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0CNHRJQJ|joonp>",
+        "bot_id": null,
+        "ts": "1451957314.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "PM\ub2d8 \uad00\uc2ec\ud559\uacfc \uc124\uc815 \uc800\uac8c \ub9e5\ubc84\uc804\uc774\uc5b4\uc11c \uadf8\ub7f0\uc9c0 \ubaa8\ub974\uaca0\ub294\ub370 \n1. \uac00\ub098\ub2e4 \uc815\ub82c\uc774\uc548\ub418\uc788\uace0\n2. \ub9e5\uc5d0\uc11c \ucee8\ud2b8\ub864 \ud558\uace0 \ud074\ub9ad\ud558\uba74 \ub9c8\uc6b0\uc2a4 \uc6b0\ud074\ub9ad \ub418\uc11c \uc554\uac83\ub3c4 \uc548\ub311\ub2c8\ub2f9 \u315c\u315c",
+        "ts": "1451957380.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uadf8\ub7fc \uc804 2\ub9cc..",
+        "ts": "1451957398.000055"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub9e5\uc5d0\uc11c\ub294 command \uc544\ub2cc\uac00\uc694?",
+        "ts": "1451965322.000056"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\uc81c\uac00 \ub9e5\uc54c\ubabb\uc774\ub77c..",
+        "ts": "1451968044.000057"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\uad00\uc2ec\ud559\uacfc \uc815\ub82c\uc740 \uc6d0\ub798 \uc548\ub418\uc788\ub294\uac70 \uac19\ub124\uc694 \ucee8\ud2b8\ub864\uc740 \uc798..",
+        "ts": "1451968123.000058"
+    }
+]

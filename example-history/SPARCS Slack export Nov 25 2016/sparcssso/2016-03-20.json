@@ -1,0 +1,85 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/663768d6d41deff7db0287e77f7d22ea97023c03|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/663768d6d41deff7db0287e77f7d22ea97023c03|663768d>: add cert verification see #50 - Sam Jo",
+                "pretext": "[sparcssso:develop] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1458477275.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/50#issuecomment-198922017|#50: Certificate Validation> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "  1. add verify=True to <http:\/\/requests.post|requests.post>\n  2. twitter client -&gt; oauth2 lib -&gt; httplib2 lib -&gt; default: verify on",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/50#issuecomment-198922017|#50: Certificate Validation> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1458477642.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#53 Deploy' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/53 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#53 Deploy",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/53",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1458477692.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/53#issuecomment-198922750|#53: Deploy> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "Will be merged at 2016-03-21",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/53#issuecomment-198922750|#53: Deploy> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1458477729.000009"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "user": "U0FK63YR2",
+        "inviter": "U043V6ACW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0FK63YR2|sanxiyn> has joined the channel",
+        "ts": "1448974695.000002"
+    }
+]

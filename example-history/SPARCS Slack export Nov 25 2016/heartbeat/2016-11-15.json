@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/develop|[heartbeat-server:develop]> <https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/commit\/41a7d6af481d734ad6141b1e265a6bb3492126e1|1 new commit> by JONG HUN",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/commit\/41a7d6af481d734ad6141b1e265a6bb3492126e1|41a7d6a>`  remove pkg-resources==0.0.0? - JONG HUN",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/develop|[heartbeat-server:develop]> 1 new commit by JONG HUN:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1479217151.000029"
+    }
+]

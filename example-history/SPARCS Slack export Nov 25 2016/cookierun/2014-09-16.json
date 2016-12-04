@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U0278KHU3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0278KHU3|egg> has joined the channel",
+        "ts": "1410882832.000210"
+    },
+    {
+        "user": "U02KS7NU5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02KS7NU5|serialx> has joined the channel",
+        "ts": "1410931242.000211"
+    }
+]

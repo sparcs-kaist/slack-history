@@ -1,0 +1,60 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/167|#167 [\ud0c0\uc784\ud14c\uc774\ube14] \ub418\ub3cc\ub9ac\uae30 \uae30\ub2a5> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/167|#167 [\ud0c0\uc784\ud14c\uc774\ube14] \ub418\ub3cc\ub9ac\uae30 \uae30\ub2a5> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1480077728.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184|#184 implement timetable clicking> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184|#184 implement timetable clicking> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1480089734.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/develop|[otlplus:develop]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/dcc74d29b1bd...70905fed5a66|2 new commits> by jo1996jo and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/067f393ebb15ce708e0ac85c5f38255713e808e1|067f393>`  implement timetable clicking - jo1996jo\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/70905fed5a66280054d04c04f7c99360e68f3df8|70905fe>`  Merge pull request #184 from jo1996jo\/develop - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/develop|[otlplus:develop]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/dcc74d29b1bd...70905fed5a66|2 new commits> by jo1996jo and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1480089734.000031"
+    }
+]

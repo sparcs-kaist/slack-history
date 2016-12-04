@@ -1,0 +1,30 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue created: '#118 \uc218\uc815\ud55c \ub313\uae00\uc5d0 \ucd94\ucc9c\uacfc \ubc18\ub300\uac00 \uac00\ub2a5\ud568' https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/118 by zzongaly",
+                "text": "\ucd94\ucc9c\uacfc \ubc18\ub300 \ubc84\ud2bc\uc774 \ubcf4\uc774\uace0, \uc2e4\uc81c\ub85c \uc801\uc6a9\ub418\ub294 \ub4ef",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/zzongaly|zzongaly>",
+                "title": "#118 \uc218\uc815\ud55c \ub313\uae00\uc5d0 \ucd94\ucc9c\uacfc \ubc18\ub300\uac00 \uac00\ub2a5\ud568",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/118",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1449215727.000052"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uac8c\uc2dc\uae00\uc740 \uc218\uc815\uc774\ub098 \uc0ad\uc81c\uac00 \uc548\ub418\ub098\uc694?",
+        "ts": "1449215840.000053"
+    }
+]

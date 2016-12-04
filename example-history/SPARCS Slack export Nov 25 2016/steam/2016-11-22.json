@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc804 \uc2ec\ucc9cIO\ub294 \uc544\uc9c1 \ubabb\ud574\ubd24\uc9c0\ub9cc \uc2ec\ucc9c\uc774 \uc5b4\ub5a4\uacf3\uc778\uc9c0 \uad81\uae08\ud558\uc2dc\ub2e4\uba74..",
+        "ts": "1479817802.000024"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<https:\/\/www.youtube.com\/watch?v=SGJ5cZnoodY>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities | WIRED",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=SGJ5cZnoodY",
+                "author_name": "WIRED UK",
+                "author_link": "https:\/\/www.youtube.com\/user\/WiredVideoUK",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/SGJ5cZnoodY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities | WIRED",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/SGJ5cZnoodY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=SGJ5cZnoodY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1479817802.000025"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ucd9c\uc7a5 \uba87\ubc88 \uac14\ub358 \uae30\uc5b5\uc73c\ub85c\ub294 \uacf5\uae30 \uc5c4\uccad \uc548\uc88b\uc740\ub370, \uc0c9\ubcf4\uc815\uc744 \uc798\ud55c\uac74\uc9c0 \uc5ec\uae30\uc120 \uad1c\ucc2e\uc544\ubcf4\uc774\ub124\uc694",
+        "ts": "1479817828.000027"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc800 \uc5b4\ub838\uc744 \ub54c \uc6a9\uc0b0\uac14\ub358 \ucd94\uc5b5\uc774 \uc0c8\ub85d\uc0c8\ub85d \ub5a0\uc624\ub974\ub124\uc694.. \uc9c0\uae08 \uc6a9\uc0b0\uc740 \uc644\uc804 \ud3d0\ud5c8\uc778\ub370",
+        "ts": "1479817969.000028"
+    }
+]

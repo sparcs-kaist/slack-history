@@ -1,0 +1,17 @@
+[
+    {
+        "user": "U02PEJCVA",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479256060.000002"
+    },
+    {
+        "user": "U02PEJCVA",
+        "purpose": "Cword Funding - \uc120\ubc30\ub2d8\ub4e4 \ub3c4\uc640\uc8fc\uc138\uc694!",
+        "text": "<@U02PEJCVA|samjo> set the channel purpose: Cword Funding - \uc120\ubc30\ub2d8\ub4e4 \ub3c4\uc640\uc8fc\uc138\uc694!",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1479256061.000003"
+    }
+]

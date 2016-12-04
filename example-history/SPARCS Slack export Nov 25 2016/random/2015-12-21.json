@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "<https:\/\/medium.com\/@wilshipley\/the-absolutely-true-story-of-a-real-programmer-who-never-learned-c-210e43a1498b#.j56qj4nxx>",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "The Absolutely True Story of a Real Programmer Who Never Learned C",
+                "title_link": "https:\/\/medium.com\/@wilshipley\/the-absolutely-true-story-of-a-real-programmer-who-never-learned-c-210e43a1498b#.j56qj4nxx",
+                "text": "I have a young friend named Sam who is quite a programming prodigy. Sam does know C! I need to make this clear: he\u2019s not\u2026",
+                "fallback": "Medium: The Absolutely True Story of a Real Programmer Who Never Learned C",
+                "image_url": "https:\/\/cdn-images-2.medium.com\/max\/800\/1*OA0ci9wj0I1PoU6SywaAvg.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "1 min :clock12:",
+                        "short": true
+                    },
+                    {
+                        "title": "Recommends",
+                        "value": "146 :green_heart:",
+                        "short": true
+                    }
+                ],
+                "ts": 1450183007,
+                "from_url": "https:\/\/medium.com\/@wilshipley\/the-absolutely-true-story-of-a-real-programmer-who-never-learned-c-210e43a1498b#.j56qj4nxx",
+                "image_width": 178,
+                "image_height": 250,
+                "image_bytes": 27926,
+                "id": 1
+            }
+        ],
+        "ts": "1450739792.000008"
+    }
+]

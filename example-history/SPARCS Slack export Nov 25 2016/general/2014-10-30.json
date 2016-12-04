@@ -1,0 +1,90 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U024U2P7Y|suckzo_o> commented on <@U024U4U5G|sven>'s file <https:\/\/sparcs.slack.com\/files\/sven\/F02SE6Z5R\/____________________________________v.png|\u1111\u1169\u110f\u1166\u11ba\u1106\u1169\u11ab\u1109\u1173\u1110\u1165v.png>: +1 like",
+        "file": {
+            "id": "F02SE6Z5R",
+            "created": 1414618116,
+            "timestamp": 1414618116,
+            "name": "\u1111\u1169\u110f\u1166\u11ba\u1106\u1169\u11ab\u1109\u1173\u1110\u1165v.png",
+            "title": "\u1111\u1169\u110f\u1166\u11ba\u1106\u1169\u11ab\u1109\u1173\u1110\u1165v.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024U4U5G",
+            "editable": false,
+            "size": 1118642,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02SE6Z5R\/____________________________________v.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02SE6Z5R\/download\/____________________________________v.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02SE6Z5R-d1e8a6\/____________________________________v_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02SE6Z5R-d1e8a6\/____________________________________v_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02SE6Z5R-d1e8a6\/____________________________________v_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 200,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02SE6Z5R-d1e8a6\/____________________________________v_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02SE6Z5R-d1e8a6\/____________________________________v_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 401,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02SE6Z5R-d1e8a6\/____________________________________v_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 570,
+            "image_exif_rotation": 1,
+            "original_w": 1688,
+            "original_h": 939,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/sven\/F02SE6Z5R\/____________________________________v.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02SE6Z5R-491aefe343",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 4,
+            "initial_comment": {
+                "id": "Fc02SFGPH8",
+                "created": 1414618124,
+                "timestamp": 1414618124,
+                "user": "U024U4U5G",
+                "is_intro": true,
+                "comment": "Yea! I'm Pikachu!",
+                "channel": ""
+            }
+        },
+        "comment": {
+            "id": "Fc02SHE0NV",
+            "created": 1414663302,
+            "timestamp": 1414663302,
+            "user": "U024U2P7Y",
+            "is_intro": false,
+            "comment": "+1 like",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1414663302.000212"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud300\ucfe1 \uac8c\uc774 \u3137\u3137",
+        "ts": "1414670422.000213"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub9ac\uc5bc?",
+        "ts": "1414672150.000214"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ucee4\ubc0d\uc544\uc6c3\ud588\ub124\uc694 \u3137\u3137",
+        "ts": "1414672214.000215"
+    }
+]

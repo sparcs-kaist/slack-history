@@ -1,0 +1,82 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/3efeb6d5db77...f290222902b3|5 new commits> by ktk1012 and 3 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6fc7041ef22e955efeb17b644d2ae5b0c1e31c6f|6fc7041>: \uc704\uc9c0\uc705 \uc5d0\ub514\ud130\ub97c \uc774\uc6a9\ud558\uc5ec \uc774\ubbf8\uc9c0\ub97c \uc5c5\ub85c\ub4dc \ud558\uace0 \uc800\uc7a5 \ud560 \ub54c, image \uc704\uce58\ub97c post id \ud3f4\ub354\ubcc4\ub85c \ub9cc\ub4e4\uc5b4 \uc62e\uae30\uace0, - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/794ef53a0ded5d5d49c0d6c2d1a81b00f9f19bd6|794ef53>: Implemented gallery backend. - rlaalstn5383\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e285172a6c7f86bb18d460abf32081d292bf55dc|e285172>: Implemented gallery front-end. - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a8a8cc695f07f2ad9eebdc5e9b5b5a5b1d973095|a8a8cc6>: Merge remote-tracking branch 'origin\/board' into develop - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f290222902b3d69d70c1af9bff864e092cbbe9ec|f290222>: anonymous nickname - storykim",
+                "pretext": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/3efeb6d5db77...f290222902b3|5 new commits> by ktk1012 and 3 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448605443.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4387f1583d19a6584d5c4fe71171a70ab162dd6c|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4387f1583d19a6584d5c4fe71171a70ab162dd6c|4387f15>: fixture\uc5d0 gallery \ucd94\uac00. - rlaalstn5383",
+                "pretext": "[araplus:board] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448608703.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e0e544c7f338c0c2e7084464d073d96badcd9062|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e0e544c7f338c0c2e7084464d073d96badcd9062|e0e544c>: \uac24\ub7ec\ub9ac \ub9c1\ud06c \ucd94\uac00. - rlaalstn5383",
+                "pretext": "[araplus:board] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448608989.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d66ad488a4ab8ee04317745e8bbd7cfc611591dc|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d66ad488a4ab8ee04317745e8bbd7cfc611591dc|d66ad48>: \uac24\ub7ec\ub9ac \uae30\ubcf8 \uc378\ub124\uc77c \ucd94\uac00. - rlaalstn5383",
+                "pretext": "[araplus:board] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448610007.000021"
+    }
+]

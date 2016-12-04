@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U03H8L275",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03H8L275|daedoo> has joined the channel",
+        "ts": "1422881724.000007"
+    },
+    {
+        "user": "U03H8L275",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U03H8L275|daedoo> has left the channel",
+        "ts": "1422881731.000008"
+    }
+]

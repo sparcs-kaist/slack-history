@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U024U4U5G> \uc5ec\uae30\uac00 \ubc14\ub85c \uadf8\uacf3\uc774\ub780\ub2e4.",
+        "ts": "1426693374.000002"
+    },
+    {
+        "user": "U024U4U5G",
+        "inviter": "U024SNAD0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U4U5G|sven> has joined the channel",
+        "ts": "1426693384.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "DeepDark! DeepLearning!",
+        "ts": "1426693457.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "DeepW...",
+        "ts": "1426693477.000005"
+    }
+]

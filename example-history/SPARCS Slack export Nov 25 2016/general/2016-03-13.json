@@ -1,0 +1,142 @@
+[
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ud55c\ud0dc\uc219 \uad50\uc218\ub2d8 PP\uc218\uc5c5 \ub4e3\ub294\ub370 \uad1c\ucc2e\ub124\uc694",
+        "ts": "1457916072.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc81c\uac00 \uc785\ud559\ud588\uc744 \ub54c PP\uc218\uc5c5\uc774 \uc5c6\uc5b4\uc84c\ub294\ub370, \uc815\ub9d0 \uc554\ud751\uae30\uac00 \ub9de\ub294\ub4ef.",
+        "ts": "1457916098.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc560\ub4e4\uc774 \uc218\uc5c5 \uc798 \uc548\ub4e3\uace0 \uc219\uc81c \ubc30\ub07c\uace0 \ud55c\ub2e4\uace0",
+        "ts": "1457918538.000004"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc218\uc5c5 \uad00\ub9ac\uac00 \uc548\ub418\uc11c \uac1c\ud310\uc774\ub77c\ub294 \uc18c\ubb38\uc744 \ub4e4\uc5c8\ub294\ub370 \uc694\uc998\uc740 \uc880 \ub098\uc544\uc84c\ub098",
+        "ts": "1457918554.000005"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uadf8\ub798\uc11c \ucf54\ub4dc\ub97c \uc190\uc73c\ub85c \uc368\uc11c \ub0b4\ub77c\uace0 \ud558\ub294\uac74\uac00..",
+        "ts": "1457919184.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc219\uc81c \ucca8 \ud588\ub294\ub370 \uc190\uc774 \ub118 \uc544\ud30c\uc694;;",
+        "ts": "1457919191.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1457919452.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ud558\uae34",
+        "ts": "1457919453.000009"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uadf8\ub7fc \ubc30\uaef4\ub3c4 \uc190\uc73c\ub85c \uc368\ubcf4\uae34 \ud560\ud14c\ub2c8",
+        "ts": "1457919460.000010"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc5b5\uc9c0\ub85c \uacf5\ubd80\uc2dc\ud0a4\ub294 \uc88b\uc740 \ubc29\ubc95\uc774\uad70!",
+        "ts": "1457919473.000011"
+    },
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "\uc190\ucf54\ub529 \u3137\u3137\u3137;",
+        "ts": "1457919835.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "<@U024SN0KW>:",
+        "ts": "1457924453.000013"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc548\ub155",
+        "ts": "1457924454.000014"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F0SG14H16\/screenshot_20160314-155027.png|Slack for Android Upload>",
+        "file": {
+            "id": "F0SG14H16",
+            "created": 1457938278,
+            "timestamp": 1457938278,
+            "name": "Screenshot_20160314-155027.png",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 209764,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0SG14H16\/screenshot_20160314-155027.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0SG14H16\/download\/screenshot_20160314-155027.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0SG14H16-054bbb5225\/screenshot_20160314-155027_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1440,
+            "original_h": 2560,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F0SG14H16\/screenshot_20160314-155027.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0SG14H16-1e05597f4d",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1457938281.000015"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U02F6AK3D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F6AK3D|magic> has joined the channel",
+        "ts": "1407318327.000003"
+    },
+    {
+        "user": "U02F86M4W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F86M4W|chocho> has joined the channel",
+        "ts": "1407339596.000004"
+    },
+    {
+        "user": "U02F7DSL7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F7DSL7|jerry> has joined the channel",
+        "ts": "1407342241.000005"
+    }
+]

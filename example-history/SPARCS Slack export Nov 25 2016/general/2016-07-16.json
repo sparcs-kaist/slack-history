@@ -1,0 +1,172 @@
+[
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ub098\ub3c4 \ud3ec\ucf13\ubaac\uace0 \ud558\uace0 \uc2f6\ub2e4\uc544\uc544\uc544\uc544\uc544",
+        "ts": "1468661852.001050"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc774\ube0c\uc774 \uc7a1\uace0 \uc2f6\ub2e4\uc544\uc544\uc544\uc544",
+        "ts": "1468661854.001051"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\ub098 \uc18d\ucd08",
+        "ts": "1468662262.001052"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1468662265.001053"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1468663004.001054"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "gps \ub294 \uc5b4\ub5bb\uac8c \ud574\ud0b9\ud574\uc11c \uc548\ub418\ub098\uc694",
+        "ts": "1468663016.001055"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U026NDWJW|apple> uploaded a file: <https:\/\/sparcs.slack.com\/files\/apple\/F1SBEGKLY\/____________.png|\ud3ec\ucf13\ubaac\uace0> and commented: \u314b\u314b ",
+        "file": {
+            "id": "F1SBEGKLY",
+            "created": 1468663051,
+            "timestamp": 1468663051,
+            "name": "\ud3ec\ucf13\ubaac\uace0.png",
+            "title": "\ud3ec\ucf13\ubaac\uace0",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U026NDWJW",
+            "editable": false,
+            "size": 652519,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1SBEGKLY\/____________.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1SBEGKLY\/download\/____________.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________960.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1SBEGKLY-03efe30f16\/_____________1024.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1242,
+            "original_h": 2208,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/apple\/F1SBEGKLY\/____________.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1SBEGKLY-8bd29da463",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1SBX48KU",
+                "created": 1468663051,
+                "timestamp": 1468663051,
+                "user": "U026NDWJW",
+                "is_intro": true,
+                "comment": "\u314b\u314b ",
+                "channel": ""
+            }
+        },
+        "user": "U026NDWJW",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U026NDWJW|apple>",
+        "bot_id": null,
+        "ts": "1468663054.001056"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc0dd\uac01\ubcf4\ub2e4 \uadf8\ub807\uac8c \uc7ac\ubc0c\uc9c0\ub294 \uc54a\uc740 \uac83 \uac19\uc544\uc694 \u314b\u314b\u314b",
+        "ts": "1468663119.001057"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubbf8\uad6d\uc778\ub4e4...",
+        "ts": "1468732748.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U0B6GQJ3F> \ud68c\uc6d0\uc774 \ub9cc\ub4dc\uc2e0 \ud3ec\ucf13\ubaac Go \uce58\ud305 \ud234\uc774 \uc788\uc73c\ub2c8 \uc560\uc6a9\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4 \ud788\ud788 <https:\/\/github.com\/cjeon\/sokchogo>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "cjeon\/sokChoGo",
+                "title_link": "https:\/\/github.com\/cjeon\/sokchogo",
+                "text": "sokChoGo - Navigate Pokemon world on your Mac.",
+                "fallback": "GitHub: cjeon\/sokChoGo",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/19306825?v=3&s=400",
+                "from_url": "https:\/\/github.com\/cjeon\/sokchogo",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468732804.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "(\ub300\ub9ac\ud64d\ubcf4)",
+        "ts": "1468732807.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0B6GQJ3F",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4 :suckzoo-face: ",
+        "ts": "1468733093.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0B6GQJ3F",
+        "text": ":suckzoo: ",
+        "ts": "1468733097.000007"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud558\uc545\ud558\uc545",
+        "ts": "1468734325.000008"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc81c\uac00 \uc800\uac78 \ud2b8\uc705\uc73c\ub85c \ub9cc\ub4dc\ub824\ub2e4\uac00 \uc544\uc774\ud328\ub4dc\ub97c \ud3ec\ub9f7\ud588\uc8e0",
+        "ts": "1468734338.000009"
+    }
+]

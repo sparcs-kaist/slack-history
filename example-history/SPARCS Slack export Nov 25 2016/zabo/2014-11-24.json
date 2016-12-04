@@ -1,0 +1,155 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/dejavo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/pull\/1|#1 Embracing django rest framework.> by <https:\/\/github.com\/poap|poap>",
+                "fallback": "[sparcs-kaist\/dejavo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/pull\/1|#1 Embracing django rest framework.> by <https:\/\/github.com\/poap|poap>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1416826536.000004"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/d26ff04013fc...32bf68ef6d2b|4 new commits>:",
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/d26ff04013fc...32bf68ef6d2b|4 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/8e5fa21|8e5fa21>: Embracing django rest framework. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/a27c81a|a27c81a>: Add doc string for each class and methods. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/9f181aa|9f181aa>: Update requirements.txt and remove print command for debugging. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/32bf68e|32bf68e>: Merge pull request #1 from horknox\/develop - poap",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1416826537.000005"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/dejavo] Issue created by <https:\/\/github.com\/poap|poap>",
+                "title": "#2 \ud398\uc774\uc9c0 \ub80c\ub354\ub9c1 \ud568\uc218\uc640 api \ud568\uc218\ub97c \ubd84\ub9ac",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/2",
+                "fallback": "[sparcs-kaist\/dejavo] <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/2|Issue created> by <https:\/\/github.com\/poap|poap>",
+                "text": "\ub80c\ub354\ub9c1\ud558\ub294 \ud568\uc218\ub294 \uadf8\ub300\ub85c views.py\uc5d0 \ub450\uace0 api \ud568\uc218\ub97c \uc0c8\ub85c\uc6b4 \ud30c\uc77c\uc5d0 \ubd84\ub9ac\ud558\uc5ec \uc791\uc131\ud55c\ub2e4 (api.py \ub4f1)",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1416836790.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "django rest framework\ub77c",
+        "ts": "1416885308.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ud5d8\ub09c\ud55c \uae38\uc744 \uac00\uc2dc\ub294\uad70\uc694....",
+        "ts": "1416885311.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud5d8\ub09c",
+        "ts": "1416885893.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uace0\ud1b5",
+        "ts": "1416885895.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud30c\uad34",
+        "ts": "1416885897.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub9dd\uac00",
+        "ts": "1416885899.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ubb50 \uc0dd\uac01\ubcf4\ub2e4 \uace0\ud1b5\uc2a4\ub7fd\uc9c0 \uc54a\uc744\uac70\ub7b4",
+        "ts": "1416885917.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U024SHLFH>:  \ud5d8\ub09c\ud558\ub2e4\ub294\uac8c \uad6c\uccb4\uc801\uc73c\ub85c \uc5b4\ub5a4\uac78 \uc758\ubbf8\ud558\ub294\uc9c0?",
+        "ts": "1416899937.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc720\uc758\ud560 \uc810\uc744 \ub9d0\ud574\uc8fc\uac8c",
+        "ts": "1416899952.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc74c.....",
+        "ts": "1416900995.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "- \uba54\ud0c0\ud074\ub798\uc2a4\uc640 CBV\uc5d0 \ub300\ud55c \uae4a\uc740 \uc774\ud574\uac00 \ud544\uc694\ud558\uace0\uc694",
+        "ts": "1416901037.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "- \ubb38\uc11c\ub97c \uc77d\uc73c\uba74 CRUD\ub97c \uc54c\uc544\uc11c \ubfc5\ubfc5 \ud574\uc904\uac70\uac19\uc9c0\ub9cc \uc0dd\uac01\ubcf4\ub2e4 \uc228\uc5b4\uc788\ub294\uac78 \uc798 \ucc3e\uc544\uc11c override \ud558\ub294 \uacbd\uc6b0\uac00 \ub9ce\uc774 \uc0dd\uae30\uace0",
+        "ts": "1416901062.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "- MVVM\uc758 \ud568\uc815\uc5d0 \ube60\uc9c0\uc9c0\ub9cc \uc54a\uc73c\uba74",
+        "edited": {
+            "user": "U024SHLFH",
+            "ts": "1416901167.000000"
+        },
+        "ts": "1416901134.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc4f8\ub9cc\ud560\ub4ef\uc5ec......",
+        "ts": "1416901137.000020"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "MVVM\ub97c \uc5c4\uccad \ubd99\uc774\uace0\uc2f6\uac8c \uc0dd\uacbc\uc9c0\ub9cc \uadf8\ub0e5 view\ub791 api\ub791 \ub098\ub220\uc11c \ub80c\ub354\ub9c1\ud558\ub294\uac8c",
+        "edited": {
+            "user": "U024SHLFH",
+            "ts": "1416901163.000000"
+        },
+        "ts": "1416901153.000021"
+    }
+]

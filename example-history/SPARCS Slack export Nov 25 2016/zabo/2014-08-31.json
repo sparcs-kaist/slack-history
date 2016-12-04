@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U02CJ9UCL",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02CJ9UCL|argon> has joined the channel",
+        "ts": "1409473526.000866"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/04ae7b60a299...4139a245b2ed|3 new commits>:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/04ae7b60a299...4139a245b2ed|3 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/847071480bdc|847071480bdc>: Merge branch 'dev\/board' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/901b2aa3155b|901b2aa3155b>: Merge branch 'dev\/board', remote-tracking branch 'origin' into dev\/board - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/4139a245b2ed|4139a245b2ed>: Update CSS to have proper icon images - elaborate",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1409479932.000867"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/39|#39 \uc0c8 \uc790\ubcf4 \uc791\uc131 \uc2dc \ud55c\uae00\ub85c\ub41c \uc774\ubbf8\uc9c0\ub97c \uc5c5\ub85c\ub4dc\ud558\uba74 \uba54\uc778\ud398\uc774\uc9c0\uc5d0\uc11c \uc5d0\ub7ec\uac00\ub0a8> by <https:\/\/github.com\/horknox|horknox>",
+                "fallback": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/39|#39 \uc0c8 \uc790\ubcf4 \uc791\uc131 \uc2dc \ud55c\uae00\ub85c\ub41c \uc774\ubbf8\uc9c0\ub97c \uc5c5\ub85c\ub4dc\ud558\uba74 \uba54\uc778\ud398\uc774\uc9c0\uc5d0\uc11c \uc5d0\ub7ec\uac00\ub0a8> by <https:\/\/github.com\/horknox|horknox>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1409480842.000868"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "title": "Comment by horknox\n",
+                "pretext": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/39#issuecomment-53983816|#39: \uc0c8 \uc790\ubcf4 \uc791\uc131 \uc2dc \ud55c\uae00\ub85c\ub41c \uc774\ubbf8\uc9c0\ub97c \uc5c5\ub85c\ub4dc\ud558\uba74 \uba54\uc778\ud398\uc774\uc9c0\uc5d0\uc11c \uc5d0\ub7ec\uac00\ub0a8> (assigned to <https:\/\/github.com\/horknox|horknox>)",
+                "fallback": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/39#issuecomment-53983816|#39: \uc0c8 \uc790\ubcf4 \uc791\uc131 \uc2dc \ud55c\uae00\ub85c\ub41c \uc774\ubbf8\uc9c0\ub97c \uc5c5\ub85c\ub4dc\ud558\uba74 \uba54\uc778\ud398\uc774\uc9c0\uc5d0\uc11c \uc5d0\ub7ec\uac00\ub0a8> (assigned to <https:\/\/github.com\/horknox|horknox>)",
+                "color": "E3E4E6",
+                "text": "\uc74c.. \uc774\uac74 \ucf54\ub4dc\uc758 \ubb38\uc81c\uac00 \uc544\ub2c8\uace0 \uc11c\ubc84 \ud658\uacbd\uc758 \ubb38\uc81c\uc778\uac83 \uac19\uc2b5\ub2c8\ub2e4.\n\uc81c \ud658\uacbd(@847071480bdc95ff03fcd3522dc3980ae81e6c9d)\uc5d0\uc11c \ud14c\uc2a4\ud2b8\ud55c \uacb0\uacfc \ud55c\uae00 \uc774\ub984\uc73c\ub85c \ub41c \uc774\ubbf8\uc9c0\ub294 \ubb38\uc81c \uc5c6\uc774 upload\uac00 \ub429\ub2c8\ub2e4.\n\n",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1409480842.000869"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024WGSD3|undead> uploaded a file: <https:\/\/sparcs.slack.com\/files\/undead\/F0S5NKTEU\/_____________2016-03-11________10.44.36.png|\uc2a4\ud06c\ub9b0\uc0f7 2016-03-11 \uc624\ud6c4 10.44.36.png>",
+        "file": {
+            "id": "F0S5NKTEU",
+            "created": 1457704060,
+            "timestamp": 1457704060,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2016-03-11 \uc624\ud6c4 10.44.36.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2016-03-11 \uc624\ud6c4 10.44.36.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024WGSD3",
+            "editable": false,
+            "size": 12384,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0S5NKTEU\/_____________2016-03-11________10.44.36.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0S5NKTEU\/download\/_____________2016-03-11________10.44.36.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0S5NKTEU-4ec9754b40\/_____________2016-03-11________10.44.36_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0S5NKTEU-4ec9754b40\/_____________2016-03-11________10.44.36_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0S5NKTEU-4ec9754b40\/_____________2016-03-11________10.44.36_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 146,
+            "thumb_360_h": 191,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0S5NKTEU-4ec9754b40\/_____________2016-03-11________10.44.36_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 146,
+            "original_h": 191,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/undead\/F0S5NKTEU\/_____________2016-03-11________10.44.36.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0S5NKTEU-d81f0b770d",
+            "channels": [
+                "C0QS4TYMS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024WGSD3",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024WGSD3|undead>",
+        "bot_id": null,
+        "ts": "1457704062.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc6b0\uc640",
+        "ts": "1457704162.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc800\uac70 \ub9d0\ud55c\uc0ac\ub78c",
+        "ts": "1457704165.000039"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc0c1\uc918\uc57c\ud560\ub4ef",
+        "ts": "1457704166.000040"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "sigh",
+        "ts": "1457704193.000041"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc9c4\uc9dc \ubb50 \uc800\ub534 \uc0c1\uc0c1\uc744 \ud558\uace0;;",
+        "ts": "1457704202.000042"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "sigh...",
+        "ts": "1457704204.000043"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc11d\uc8fc \ubd84\ub178...",
+        "ts": "1457704364.000044",
+        "reactions": [
+            {
+                "name": "rage2",
+                "users": [
+                    "U024U2P7Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

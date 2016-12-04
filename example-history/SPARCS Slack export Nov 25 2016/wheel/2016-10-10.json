@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "<http:\/\/stackoverflow.com\/questions\/38312901\/is-it-possible-to-renew-a-certificate-for-apache-and-emails-services-without-res>",
+        "attachments": [
+            {
+                "title": "Is it possible to renew a certificate for apache and emails services without restarting them?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/38312901\/is-it-possible-to-renew-a-certificate-for-apache-and-emails-services-without-res",
+                "text": "I am trying to get new certificates to my domains used on web and email services. To do that I am using Certbot, which is used as client-side program to connect to LetsEncrypt, which performs",
+                "fallback": "Is it possible to renew a certificate for apache and emails services without restarting them?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/38312901\/is-it-possible-to-renew-a-certificate-for-apache-and-emails-services-without-res",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1476119550.002484"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc774\uac70 \uc0b4\ud3b4\ubcf4\ub2c8\uae4c \uac31\uc2e0\ud558\ub294 \ub3c4\uc911\uc740 http\ub85c \ub41c\ub2e4\ub294 \ub9d0\uc778\ub370 \ud574\uacb0\ubc29\uc548\ub3c4 \ucf54\uba58\ud2b8\ub85c \ub17c\uc758\uac00 \ub418\uace0 \uc788\uae34 \ud55c\ub370 \uc798 \uc774\ud574\uac00 \uc548\ub418\ub124\uc694 \u315c\u315c",
+        "ts": "1476119574.002486"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uac31\uc2e0 \uae08\ubc29\ud558\ub358\ub370 \uadf8\ub0e5 \ud50c\ub7ec\uadf8\uc778 \uc4f0\uc9c0\ub9d0\uae4c.. \uadf8 \ucc30\ub098\uc5d0 \uc811\uc18d\ud588\ub2e4\uac00 \uc548\ub3fc\ub3c4 \ubcc4 \ubb38\uc81c\uac00 \uc0dd\uae38 \uac70 \uac19\uc9c0\ub294 \uc54a\uc740\ub370",
+        "ts": "1476119616.002487"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4\ub294 \uac31\uc2e0 \uc644\ub8cc\ud588\uc2b5\ub2c8\ub2e4",
+        "ts": "1476119903.002488"
+    }
+]

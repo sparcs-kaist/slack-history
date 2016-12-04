@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/e5e6785ce6d1...7136bb0003ce|2 new commits> by Jeong Woon Choi",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c3c40d1473edfbb3e498fde176b2f2ad137e74f8|c3c40d1>: Update sparcssso to latest 0.9.1 version - Jeong Woon Choi\n <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/7136bb0003ce180e54f47751f0719d19a0025feb|7136bb0>: Add update-taken-list to gitignore - Jeong Woon Choi",
+                "pretext": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/e5e6785ce6d1...7136bb0003ce|2 new commits> by Jeong Woon Choi:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1459687414.000050"
+    }
+]

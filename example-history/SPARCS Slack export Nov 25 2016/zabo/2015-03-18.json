@@ -1,0 +1,296 @@
+[
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ub139",
+        "ts": "1426683896.000202"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc5ec\uae30 \uc0c9\uae54\uc774 \uc880 \uc774\uc0c1\ud574\uc11c \ud55c\ub2e8\uacc4\uc529 \ub0ae\ucd94\uc5c8\uc2b5\ub2c8\ub2f9",
+        "ts": "1426690219.000203"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03H8L275|daedoo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/daedoo\/F042SG2CJ\/___________________ver2.psd|\ub178\ud2f0\ud53c\ucf00\uc774\uc158_ver2.psd>",
+        "file": {
+            "id": "F042SG2CJ",
+            "created": 1426690213,
+            "timestamp": 1426690213,
+            "name": "\ub178\ud2f0\ud53c\ucf00\uc774\uc158_ver2.psd",
+            "title": "\ub178\ud2f0\ud53c\ucf00\uc774\uc158_ver2.psd",
+            "mimetype": "application\/photoshop",
+            "filetype": "psd",
+            "pretty_type": "Photoshop Document",
+            "user": "U03H8L275",
+            "editable": false,
+            "size": 4545032,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F042SG2CJ\/___________________ver2.psd?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F042SG2CJ\/download\/___________________ver2.psd?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SG2CJ-bdcef06acd\/___________________ver2_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SG2CJ-bdcef06acd\/___________________ver2_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SG2CJ-bdcef06acd\/___________________ver2_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 123,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SG2CJ-bdcef06acd\/___________________ver2_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SG2CJ-bdcef06acd\/___________________ver2_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 247,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SG2CJ-bdcef06acd\/___________________ver2_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 351,
+            "image_exif_rotation": 1,
+            "original_w": 1600,
+            "original_h": 548,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/daedoo\/F042SG2CJ\/___________________ver2.psd",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F042SG2CJ-0ee264599d",
+            "channels": [
+                "C026ZD3GT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03H8L275",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U03H8L275|daedoo>",
+        "bot_id": null,
+        "ts": "1426690237.000204"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03H8L275|daedoo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/daedoo\/F042SGB98\/________________________________ver2.psd|\ub178\ud2f0\ud53c\ucf00\uc774\uc158_\uc54c\ub9bc\uc5c6\uc74c_ver2.psd>",
+        "file": {
+            "id": "F042SGB98",
+            "created": 1426690241,
+            "timestamp": 1426690241,
+            "name": "\ub178\ud2f0\ud53c\ucf00\uc774\uc158_\uc54c\ub9bc\uc5c6\uc74c_ver2.psd",
+            "title": "\ub178\ud2f0\ud53c\ucf00\uc774\uc158_\uc54c\ub9bc\uc5c6\uc74c_ver2.psd",
+            "mimetype": "application\/photoshop",
+            "filetype": "psd",
+            "pretty_type": "Photoshop Document",
+            "user": "U03H8L275",
+            "editable": false,
+            "size": 4575744,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F042SGB98\/________________________________ver2.psd?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F042SGB98\/download\/________________________________ver2.psd?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SGB98-3cad73a6a0\/________________________________ver2_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SGB98-3cad73a6a0\/________________________________ver2_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SGB98-3cad73a6a0\/________________________________ver2_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 123,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SGB98-3cad73a6a0\/________________________________ver2_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SGB98-3cad73a6a0\/________________________________ver2_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 247,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042SGB98-3cad73a6a0\/________________________________ver2_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 351,
+            "image_exif_rotation": 1,
+            "original_w": 1600,
+            "original_h": 548,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/daedoo\/F042SGB98\/________________________________ver2.psd",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F042SGB98-0a0a6f231c",
+            "channels": [
+                "C026ZD3GT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03H8L275",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U03H8L275|daedoo>",
+        "bot_id": null,
+        "ts": "1426690249.000205"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/0a5175f|1 new commit> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/0a5175f|0a5175f>: Create jquery.vhmiddle.js plugin to align image to center. Update dependencies by using vhmiddle plugin. - Horknox",
+                "pretext": "[dejavo:develop] 1 new commit by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1426691418.000206"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud55c \ubc88 \uc9dc\ubd24\uc5b4",
+        "ts": "1426691425.000207"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub561\uaef4\uc11c \uc774\ubbf8\uc9c0\uac00 \uc798 \ubcf4\uc774\ub098 \ud574\ubcf4\uc0bc",
+        "ts": "1426691432.000208"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc798 \ub418\uc5b4\uc57c\ud560\ud150\ub370...",
+        "ts": "1426691450.000209"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ud398\uc774\uc2a4\ubd81 \ud504\ub85c\ud544\uc774\uc694?",
+        "ts": "1426691752.000210"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc6d0\uc73c\ub85c \ub5a0\uc694!",
+        "ts": "1426691793.000211"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uc798\ub5a0\uc694",
+        "ts": "1426691798.000212"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0251JXSR|coffee> uploaded a file: <https:\/\/sparcs.slack.com\/files\/coffee\/F042QE9S3\/pasted_image_at_2015_03_19_12_17_am.png|Pasted image at 2015-03-19, 12:17 AM>",
+        "file": {
+            "id": "F042QE9S3",
+            "created": 1426691881,
+            "timestamp": 1426691881,
+            "name": "Pasted image at 2015_03_19 12_17 AM.png",
+            "title": "Pasted image at 2015-03-19, 12:17 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U0251JXSR",
+            "editable": false,
+            "size": 1012237,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F042QE9S3\/pasted_image_at_2015_03_19_12_17_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F042QE9S3\/download\/pasted_image_at_2015_03_19_12_17_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042QE9S3-ebb9ec2a1a\/pasted_image_at_2015_03_19_12_17_am_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042QE9S3-ebb9ec2a1a\/pasted_image_at_2015_03_19_12_17_am_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042QE9S3-ebb9ec2a1a\/pasted_image_at_2015_03_19_12_17_am_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 303,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042QE9S3-ebb9ec2a1a\/pasted_image_at_2015_03_19_12_17_am_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042QE9S3-ebb9ec2a1a\/pasted_image_at_2015_03_19_12_17_am_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 605,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F042QE9S3-ebb9ec2a1a\/pasted_image_at_2015_03_19_12_17_am_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 861,
+            "image_exif_rotation": 1,
+            "original_w": 1218,
+            "original_h": 1024,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/coffee\/F042QE9S3\/pasted_image_at_2015_03_19_12_17_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F042QE9S3-654765d30c",
+            "channels": [
+                "C026ZD3GT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0251JXSR",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0251JXSR|coffee>",
+        "bot_id": null,
+        "ts": "1426691894.000213"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub9bc\ud310\uc774 \uc548\ucf1c\uc838\uc11c(\uc65c\uc9c0...) \uc800\ubd80\ubd84\ub9cc \uc790\ub974\uc9c4 \ubabb\ud588\ub294\ub370 \u315c\u315c \uc798\ub739\ub2c8\ub2e4",
+        "ts": "1426691896.000214"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\u3147\u3147!",
+        "ts": "1426691947.000215"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/0a5175f16f8f...569a17a35b84|2 new commits> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/9981606|9981606>: Fix bugs on updating host_image. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/569a17a|569a17a>: Fix bugs on adding question to have vhmiddle class. Change animation from show to fadeIn. - Horknox",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/0a5175f16f8f...569a17a35b84|2 new commits> by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1426692810.000216"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\uc774\uace0 \uc790\uc57c\uaca0\ub2e4",
+        "ts": "1426692854.000217"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/231f144|1 new commit> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/231f144|231f144>: Fix bugs on participating function. - Horknox",
+                "pretext": "[dejavo:develop] 1 new commit by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1426736274.000218"
+    }
+]

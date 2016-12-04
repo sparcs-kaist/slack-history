@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\u3142\u3134",
+        "ts": "1475046339.000043"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\uc5b4\uc81c \u3142\u3134",
+        "ts": "1475046388.000044"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uadf8\ub798\uc11c \ud638\ucd9c \uc548\ud588\ub2e4\ub0d0~",
+        "ts": "1475046620.000045"
+    },
+    {
+        "type": "message",
+        "user": "U04JG832D",
+        "text": "\ubcf4\ub0c4\uc694",
+        "ts": "1475071592.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc640\uc640 \ub2e4\ubc1b\uc558\uad70",
+        "ts": "1475118048.000047"
+    },
+    {
+        "user": "U045EMA87",
+        "text": "<@U045EMA87|george> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475121380.000048"
+    },
+    {
+        "user": "U04J6LN3W",
+        "text": "<@U04J6LN3W|potato> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475122235.000049"
+    }
+]

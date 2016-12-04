@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "please img \ub9c8\ub9ac\uc624\ub124\ud2b8",
+        "ts": "1393672984.001296"
+    },
+    {
+        "text": "<http:\/\/int.nomad21.com\/img\/noImages\/National20Marionette20Theatre.jpg#.png>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "from_url": "http:\/\/int.nomad21.com\/img\/noImages\/National20Marionette20Theatre.jpg#.png",
+                "fallback": "560x423px image",
+                "image_url": "http:\/\/int.nomad21.com\/img\/noImages\/National20Marionette20Theatre.jpg#.png",
+                "image_width": 560,
+                "image_height": 423,
+                "image_bytes": 93969,
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393672985.001297"
+    },
+    {
+        "user": "U024SL0G3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SL0G3|odongtong> has joined the channel",
+        "ts": "1393672998.001299"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "Please img \uc2a4\ud154\ub77c",
+        "ts": "1393672998.001300"
+    },
+    {
+        "text": "<http:\/\/img.sbs.co.kr\/newsnet\/etv\/upload\/2012\/02\/21\/10000013542_700.jpg#.png>",
+        "username": "please",
+        "bot_id": "B024U3EFS",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1393672999.001301"
+    }
+]

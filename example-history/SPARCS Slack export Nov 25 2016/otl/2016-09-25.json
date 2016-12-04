@@ -1,0 +1,306 @@
+[
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc624\ud2f0\uc5d8 \uc18c\ud658\uc758 \uc678\uce68",
+        "ts": "1474799939.000277"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "<@U0B6LPVSM|ashe>, <@U02L44HTT|coearth>, <@U045EMA87|george>, <@U0CNHRJQJ|joonp>, <@U02LDHPL1|leejeok>, <@U04HUNH5L|mango>, <@U04J6LN3W|potato>, <@U0798F52B|zealot>",
+        "ts": "1474799939.000278"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc624\ub298 \ubc24 10\uc2dc\uc5d0 \ud68c\uc758\uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1474799945.000279"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub77c\uc774\ud504 \uc4f0\uc2e0\ubd84\ub3c4 \ud68c\uc758\uc5d0\ub294 \uc624\uc154\uc57c\ud574\uc694",
+        "ts": "1474799957.000280"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\ub139",
+        "ts": "1474799966.000281"
+    },
+    {
+        "type": "message",
+        "user": "U04HUNH5L",
+        "text": "\ub124",
+        "ts": "1474799969.000282"
+    },
+    {
+        "user": "U0V702HR7",
+        "text": "<@U0V702HR7|duck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474807717.000283"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc624\ud2f0\uc5d8 \uc18c\ud658\uc758 \uc678\uce68",
+        "ts": "1474811215.000284"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "<@U0B6LPVSM|ashe>, <@U02L44HTT|coearth>, <@U045EMA87|george>, <@U0CNHRJQJ|joonp>, <@U02LDHPL1|leejeok>, <@U04HUNH5L|mango>, <@U04J6LN3W|potato>, <@U0798F52B|zealot>",
+        "ts": "1474811216.000285"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc774\ubc88 \uac1c\ubc1c \ud6c4\uc758 \ud68c\uc758 \ub0a0\uc9dc\uac00 10\uc6d4\uc5d0 \uc788\uc9c0\ub9cc \uc774\ubc88\uc8fc\ub294 9\uc6d4\ub85c \uc778\uc815\ud574\uc11c \ub77c\uc774\ud504 \uc0ac\uc6a9\uc774 \ubd88\uac00\ud569\ub2c8\ub2e4.",
+        "ts": "1474811246.000286"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "(\uc774\ubbf8 \ub77c\uc774\ud504\ub97c \ub450\ubc88 \uc0ac\uc6a9\ud558\uc2e0 \uac1c\ubc1c\uc790\/\ub514\uc790\uc774\ub108\uc758 \uacbd\uc6b0)",
+        "ts": "1474811263.000287"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc55e\uc73c\ub85c\ub3c4 \uc6d4 \uacc4\uc0b0\uc740 \uac1c\ubc1c \uc804 \ud68c\uc758 \ub0a0\uc744 \uae30\uc900\uc73c\ub85c \ud558\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1474811325.000288"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\uc544",
+        "ts": "1474811811.000289"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\ud68c\uc758 \uae4c\uba39\uc5c8\ub124",
+        "ts": "1474811817.000290"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc640",
+        "ts": "1474812745.000291"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ub4dc\ub514\uc5b4 \ud480\ub9ac\ud018\uc640 \ub2e4\ub978 \ube0c\ub79c\uce58\ub4e4\uc744 \uc815\ub9ac\ud558\ub294 \uc791\uc5c5\uc744",
+        "ts": "1474812768.000292"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uac13 \uac15\uc6d0\ub2d8\uaed8\uc11c \uc9c4\ud589\ud558\uc2dc\ub294\uac74\uac00\uc694!",
+        "ts": "1474812779.000293"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub124!",
+        "edited": {
+            "user": "U04J6LN3W",
+            "ts": "1474813643.000000"
+        },
+        "ts": "1474813635.000294"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uadf8\ub9ac\uace0 \uace7\ubc14\ub85c \ud2b8\ub864\uc744 \ud588\uc2b5\ub2c8\ub2e4!",
+        "ts": "1474813653.000296"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud480\ub9ac\ud018\uc2a4\ud2b8\ub4e4\uc774 \uac00\ub974\ud0a4\uace0 \uc788\ub358 \ube0c\ub79c\uce58\ub4e4\uc744 \uc0ad\uc81c\ud574\uc11c",
+        "ts": "1474813673.000297"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uba38\uc9c0\uac00 \uc548 \ub41c \ud480\ub9ac\ud018\uc2a4\ud2b8\ub4e4\uc774 \ud074\ub85c\uc988\ub410\uc2b5\ub2c8\ub2e4.",
+        "ts": "1474813694.000298"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/175>\n<https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/154>\n<https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/153>\n<https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/135>",
+        "ts": "1474813713.000299"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uadf8 \ubaa9\ub85d\uc785\ub2c8\ub2e4.",
+        "ts": "1474813718.000300"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uac70\uc758 \ub2e4 joonp\ub2d8 \ub9ac\ud018\uc2a4\ud2b8\uc778\ub370",
+        "ts": "1474813911.000301"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud639\uc2dc \ub2e4\uc2dc \ud480\ub9ac\ud018 \ub0a0\ub824 \uc8fc\uc2e4 \uc218 \uc788\ub098\uc694? \u3160\u3160",
+        "ts": "1474813918.000302"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc5ec\uc758\uce58 \uc54a\ub2e4\uba74 \uc81c\uac00 \ub2e4\uc2dc \ubcf5\uad6c\ud558\uaca0\uc2b5\ub2c8\ub2e4 \u3160\u3160",
+        "ts": "1474813970.000303"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc544 \uadf8\uac70 \uc798 \ub2eb\uc73c\uc168\uc5b4\uc694",
+        "ts": "1474814008.000304"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\ud558\ub098\ub294 \ud14c\uc2a4\ud2b8\ub97c \uc544\uc9c1\ubabb\ud588\uace0 \ud558\ub098\ub294 \uc790\ub3d9\uc644\uc131\uc5d0 \ud558\ub098 \uc5b4\ub824\uc6b4\ubd80\ubd84\uc774\uc788\uc5b4\uc11c \ub108\ubb34 \uc624\ub7ab\ub3d9\uc548 \ud0b5\ud558\uace0\uc788\uc5c8\ub124\uc6a9",
+        "ts": "1474814035.000305"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc81c\uac00 \ubc14\ub85c \uba38\uc9c0\ud560\uc218 \uc788\ub294 \ucf54\ub4dc\ub85c \ub9cc\ub4e4\uc5c8\uc744\ub54c \ud480\ub9ac\ud018 \ud558\ub098\uc529 \ub0a0\ub9b4\uac8c\uc6a9\ub2e4\uc2dc",
+        "ts": "1474814052.000306"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uac1c\ubc1c beginner\uac00 \uae30\ud55c\ub9de\ucd94\ub824\ub2e4\ubcf4\ub2c8 \ubd88\uc0c1\uc0ac\uac00..\u315c",
+        "ts": "1474814094.000307"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uca0c\ub4e0 \ub194\ub450\uba74 \uc81c\uac00 \ub4dc\uac00\uc11c \ud480\ub9ac\ud018 \ub2e4\uc2dc\ub0a0\ub9b4\uac8c\uc601\u314e",
+        "ts": "1474814105.000308"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uc640 \ub4dc\ub514\uc5b4\uae43\ud5c8\ube0c\uac00 \uae54\ub054\ud574\uc84b\ub2f9",
+        "ts": "1474814192.000309"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc640\uc640",
+        "ts": "1474814384.000310"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub2e4\ud589\uc774\ub2e4",
+        "ts": "1474814388.000311"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc5ec\ub7ec\ubd84\uc740 \uc774\uc81c develop branch\uc5d0\uc11c \uac1c\ubc1c\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4",
+        "edited": {
+            "user": "U04J6LN3W",
+            "ts": "1474814408.000000"
+        },
+        "ts": "1474814398.000312"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "master\ub294 \uc11c\ubc84\uc640 \uac19\uac8c \uc720\uc9c0\ud569\ub2c8\ub2e4.",
+        "ts": "1474814426.000314"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "master\ub294 deploy, hot fix\ud560 \ub54c\ub9cc \uc0ac\uc6a9\ud569\ub2c8\ub2e4.",
+        "ts": "1474814460.000315"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "\uadfc\ub370 \ud604\uc7ac develop branch\uac00 master\uc758 \ucf54\ub4dc\ub97c \uc644\uc804\ud788 \ud3ec\ud568\ud558\uace0\uc788\ub294\uac8c \ub9de\ub098\uc694??",
+        "ts": "1474814581.000316"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "Commit \uc218\uac00 branch\uac00 \ub354 \uc801\uae38\ub798..",
+        "ts": "1474814594.000317"
+    },
+    {
+        "type": "message",
+        "user": "U0CNHRJQJ",
+        "text": "*develop branch\uac00",
+        "ts": "1474814601.000318"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "develop = review + timetable, master = real\uc778 \uc0c1\ud669\uc785\ub2c8\ub2e4",
+        "ts": "1474857912.000319"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ubc14\ub85c \uc801\uc6a9\ub418\uc5b4\uc57c \ud574\uc11c real\uc5d0 \uba38\uc9c0\ud55c \ucee4\ubc0b \uba87 \uac1c\ub294 develop\uc5d0\uc11c \ube60\uc838\uc788\uaca0\ub124\uc694",
+        "ts": "1474857932.000320"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud574\ub2f9\ud558\ub294 \ucee4\ubc0b\ub4e4 \uc801\uc6a9\ud574\uc11c develop\uc5d0\ub2e4 \ucee4\ubc0b\ud560\uac8c\uc694",
+        "edited": {
+            "user": "U04J6LN3W",
+            "ts": "1474858815.000000"
+        },
+        "ts": "1474858793.000321",
+        "reactions": [
+            {
+                "name": "suckzoo",
+                "users": [
+                    "U0B6LPVSM",
+                    "U04J6LN3W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub204\ub77d\ub418\uc5b4\uc788\ub358 \ucee4\ubc0b\ub4e4 develop branch\uc5d0 \ub2e4 \uc62c\ub838\uc5b4\uc694.",
+        "ts": "1474868995.000323",
+        "reactions": [
+            {
+                "name": "suckzoo",
+                "users": [
+                    "U0B6LPVSM",
+                    "U04HUN944",
+                    "U045EMA87"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ud639\uc2dc \ube60\ub728\ub9b0 \uac83 \uc5c6\ub294\uc9c0 \ud655\uc778\ud574\uc8fc\uc138\uc694",
+        "ts": "1474869015.000324"
+    }
+]

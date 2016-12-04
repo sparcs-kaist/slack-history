@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U0251JXSR> \uc6b0\uc120 \ucc2c\uc6b1\uc774\uac00 \uc900 \uac78 \ubc14\ud0d5\uc73c\ub85c \uc904\uc5ec\ubd04",
+        "ts": "1422806700.000435"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<http:\/\/143.248.234.137\/article\/8\/>",
+        "attachments": [
+            {
+                "service_name": "zabo.kaist",
+                "title": "Title for article",
+                "title_link": "http:\/\/143.248.234.137\/article\/8\/",
+                "text": "Description for article",
+                "fallback": "zabo.kaist: Title for article",
+                "image_url": "http:\/\/143.248.234.137\/media\/poster\/fermat_QL6BpFB.jpg",
+                "from_url": "http:\/\/143.248.234.137\/article\/8\/",
+                "image_width": 177,
+                "image_height": 250,
+                "image_bytes": 37234,
+                "id": 1
+            }
+        ],
+        "ts": "1422806702.000436"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ucc2c\uc6b1\uc774\uac00 \uac1c\uc778\uc801\uc73c\ub85c \uba54\uc77c\ubcf4\ub0b4\uc900\uac74\uac00\uc694?",
+        "ts": "1422812686.000438"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc800\ub294 \uba54\uc77c\ub9c1\uc73c\ub85c\ub77c\ub358\uc9c0 \uc548\uc628\uac70\uac19\uc740\ub370 \u315c",
+        "ts": "1422812700.000439"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc0c1\uc138 \ud398\uc774\uc9c0\ub9cc \ud574\uc11c \uadf8\uac83\ub9cc \ub098\ud55c\ud14c \ubcf4\ub0b4\uc900\ub4ef",
+        "ts": "1422846726.000440"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uba54\uc77c\uc744 \ubcf4\ub2c8 \uc6b0\ub9ac\ud55c\ud14c \uc804\uccb4\ub97c \ub2e4\uc2dc \ubcf4\ub0b4\uc8fc\uc9c0 \uc54a\uc744\uae4c?",
+        "ts": "1422846749.000441"
+    }
+]

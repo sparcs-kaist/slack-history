@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1404855900.000002"
+    },
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U025EC52V|zzongaly> has left the channel",
+        "ts": "1404855958.000003"
+    }
+]

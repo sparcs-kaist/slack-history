@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\ud720\uc138\ubbf8\ub098 \uc2dc\uac04\uc740\n\uc77c-\ubaa9\uc740 \ubc24 9\uc2dc\n\uae08\uc694\uc77c\uc740 \uc544\uce68 10\uc2dc\ubd80\ud130\uc5d0\uc694!",
+        "ts": "1436425500.000094"
+    },
+    {
+        "user": "U042CGR6E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U042CGR6E|ecobag> has joined the channel",
+        "ts": "1436432353.000095"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U04J6LN3W> \uc774 \uc544\ub9c8 potato \ud68c\uc6d0\uc774\ub824\ub098",
+        "ts": "1436436399.000096"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "DNS&amp;BIND \uc138\ubbf8\ub098 \uc790\ub8cc \uc798 \ubd24\uc2b5\ub2c8\ub2f9",
+        "ts": "1436436472.000097"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "SPARCS \uc758 geogy \uc7a5\ub09c\uac10\uc744 \uc774\uc6a9\ud574\uc11c \ub208\uc5d0 \ud655 \ub744\ub294 \uc608\uc2dc\ub97c \ub9cc\ub4e4\uc5b4 \uc8fc\ub294 \uac83\ub3c4 \uc88b\uaca0\ub2e4 \uc2f6\ub124\uc694. <http:\/\/sparcs.net|sparcs.net> \uc744 \uc2dc\uc2a4\ud15c \uae30\ubcf8 \ub3c4\uba54\uc778\uc73c\ub85c \ud55c \uc0c1\ud0dc\uc5d0\uc11c <http:\/\/ara.kaist.ac.kr.sparcs.net\/> \uc774\ub791 <http:\/\/ara.kaist.ac.kr>.\/ \uc774 \uc11c\ub85c \ub2e4\ub978 \ud648\ud398\uc774\uc9c0\ub85c \uc811\uc18d\ub418\ub294 \ubaa8\uc2b5\uc744 \ubcf4\uc5ec\uc8fc\uba74\uc11c \ubb38\ud654\uceec\uccd0\ub97c \uc8fc\ub294 \uac74 \uc5b4\ub5a8\ub824\ub098...",
+        "attachments": [
+            {
+                "text": "KAIST \ud559\ub0b4 \ucee4\ubba4\ub2c8\ud2f0, \uc544\ub77c",
+                "fallback": "KAIST \ud559\ub0b4 \ucee4\ubba4\ub2c8\ud2f0, \uc544\ub77c",
+                "from_url": "http:\/\/ara.kaist.ac.kr",
+                "id": 1
+            }
+        ],
+        "ts": "1436436558.000098"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "DOMAIN NAME RULE \uac19\uc740 \uacbd\uc6b0\uc5d0\ub294 \uc694\uc998 \ub2e4\uad6d\uc5b4\ub3c4\uba54\uc778\uc758 \ub4f1\uc7a5\uc73c\ub85c \uc778\ud574",
+        "ts": "1436436599.000099"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<http:\/\/\uccad\uc640\ub300.\ud55c\uad6d> \uc774\ub7f0 \uc560\ub4e4\uc774 \uc788\uac70\ub4e0\uc694.",
+        "ts": "1436436612.000101"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "LDH \ub8f0\uc774\ub791 \uc774\uac70\ub791 \uc5b4\ub5a4 \uc2dd\uc73c\ub85c \uc5f0\uad00\ub418\ub294\uc9c0 (\ud4e8\ub2c8\ucf54\ub4dc) \ub3c4 \ub2e4\ub904\uc8fc\uba74 \uc5b4\ub5a0\uc9c0 \uc2f6\uace0 ...",
+        "ts": "1436436695.000102"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "PQDN \uc608\uc2dc\ub85c\ub294 \uc544\uc608 <http:\/\/ara\/> (<http:\/\/kaist.ac.kr|kaist.ac.kr> \ub3c4\uba54\uc778 \ud558\uc5d0\uc11c) \uc744 \ubcf4\uc5ec\uc8fc\uc2dc\ub294 \uac83\ub3c4 \uad1c\ucc2e\uc9c0 \uc2f6\ub124\uc694",
+        "ts": "1436436729.000103"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc801\uc808\ud55c TTL \uac12\uc5d0 \ub300\ud55c \uc608\uc2dc\uac00 \ubcf4\uc774\uc9c0 \uc54a\ub294\ub370",
+        "ts": "1436436794.000104"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "DDNS Service(Dynamic CNS) \uc5d0\uc11c TTL \uc744 \uc5b4\ub290 \uc815\ub3c4\ub85c \uc8fc\ub294\uc9c0, \uadf8\ub9ac\uace0 \uc65c \uadf8\ub807\uac8c \ud558\ub294\uc9c0\uac19\uc740 \uc774\uc57c\uae30\ub3c4 \uc880 \ub2e4\ub904\uc8fc\uba74 \uc88b\uaca0\uc5b4\uc694~",
+        "ts": "1436436813.000105"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc218\uace0\uac00 \ub9ce\ub124\uc694",
+        "ts": "1436436819.000106"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "<@U024SN0KW> \ub124. \uc81c\uac00 potato \ub9de\uc544\uc694. (\uac15\uc6d0\uc774\ub77c\uc11c \uac10\uc790\uc785\ub2c8\ub2e4;;) \ud53c\ub4dc\ubc31 \uac10\uc0ac\ud569\ub2c8\ub2e4. \uc7a5\ub09c\uac10\uc744 \uc138\ubbf8\ub098\uc5d0 \ud65c\uc6a9\ud55c\ub2e4\ub294 \uac83\uc740 \uc0dd\uac01\ub3c4 \ubabb \ud558\uace0 \uc788\uc5c8\ub124\uc694. \ub9d0\uc500\ud574 \uc8fc\uc2e0 \ub0b4\uc6a9\uc740 \uc870\ub9cc\uac04 \ucd94\uac00\ud574\uc11c \uba54\uc77c \ub3cc\ub9ac\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+        "ts": "1436449920.000107"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc0ac\uc2e4 \uc774\uac8c \ud720 \uc138\ubbf8\ub098\uac00 \uc544\ub2c8\uc5c8\uc73c\uba74",
+        "ts": "1436450006.000108"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "ICANN \uc774\uc57c\uae30, .kr \ub3c4\uba54\uc778\uc774 \uc544\uc9c1\ub3c4 \uce74\uc774\uc2a4\ud2b8 \uc804\uae38\ub0a8 \uad50\uc218\ub2d8 \uac83\uc73c\ub85c(!) \ub4f1\ub85d\ub41c \uac83\uc5d0 \ub300\ud55c \uc774\uc57c\uae30,",
+        "ts": "1436450028.000109"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc791\ub144\ubd80\ud130 \ub4f1\uc7a5\ud55c .kim \ub3c4\uba54\uc778\uc5d0 \ub300\ud55c \uc774\uc57c\uae30 \ub4f1\ub3c4 \ub2e4\ub8e8\uba74 \uc7ac\ubbf8\uc788\uc744\ud150\ub370 \u314e\u314e",
+        "ts": "1436450045.000110"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "whois \ub97c \uc774\uc6a9\ud574\uc11c \ub3c4\uba54\uc778 \ub4f1\ub85d\uc790 \uc2e0\uc0c1\uc744 \ud134\ub2e4\uac70\ub098...",
+        "ts": "1436450055.000111"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc5d1",
+        "ts": "1436450320.000112"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": ".kr \ub3c4\uba54\uc778 \uc774\uc57c\uae30\ub294 \ucc98\uc74c \uc54c\uc558\ub124\uc694.",
+        "ts": "1436450332.000113"
+    }
+]

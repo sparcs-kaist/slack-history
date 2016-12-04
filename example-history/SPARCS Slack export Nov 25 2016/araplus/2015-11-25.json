@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/3efeb6d5db774cbdf9801cb0ae90e7c92e7f821d|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/3efeb6d5db774cbdf9801cb0ae90e7c92e7f821d|3efeb6d>: Implemented basic frontend in session register - TaeHyun",
+                "pretext": "[araplus:develop] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448465318.000017"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub2f5\ub2f5",
+        "ts": "1416769542.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc18d\uc553\uc774\ud558\ub2e4 \uc8fd\uaca0\ub124",
+        "ts": "1416769567.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud5e4..",
+        "ts": "1416793502.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc5b4\ub290 \ucc98\uc790\uac00 \ud615\uc758 \ud558\ud2b8\ub97c \ub4a4\ud2c0\uace0 \uacc4\uc2e0\uac00\uc694",
+        "ts": "1416793525.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uad50\uc218\ub2d8\uc774 \uc790\uafb8",
+        "ts": "1416796382.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "`\ucc38 \uc27d\uc8e0?` \ub97c \uc2dc\uc804\ud558\uc2dc\ub294\ub370",
+        "edited": {
+            "user": "U024SHSMT",
+            "ts": "1416796400.000000"
+        },
+        "ts": "1416796387.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubc84\ud2f8\uc218\uac00 \uc5c6\ub124\uc694",
+        "ts": "1416796392.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc548\ubc45\ud798\ub0b4",
+        "ts": "1416799202.000010"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U02PEJCVA|samjo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/samjo\/F0GRYL4BA\/lab4.zip|lab4.zip> and commented: lab4 test file",
+        "file": {
+            "id": "F0GRYL4BA",
+            "created": 1450326071,
+            "timestamp": 1450326071,
+            "name": "lab4.zip",
+            "title": "lab4.zip",
+            "mimetype": "application\/zip",
+            "filetype": "zip",
+            "pretty_type": "Zip",
+            "user": "U02PEJCVA",
+            "editable": false,
+            "size": 732,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0GRYL4BA\/lab4.zip?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0GRYL4BA\/download\/lab4.zip?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/samjo\/F0GRYL4BA\/lab4.zip",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0GRYL4BA-286fe4de2f",
+            "channels": [
+                "C0BQ8MPH9"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc0GRSLK7W",
+                "created": 1450326071,
+                "timestamp": 1450326071,
+                "user": "U02PEJCVA",
+                "is_intro": true,
+                "comment": "lab4 test file",
+                "channel": ""
+            }
+        },
+        "user": "U02PEJCVA",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U02PEJCVA|samjo>",
+        "bot_id": null,
+        "ts": "1450326071.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc0d8\uc870\uc758 \ud55c\uacc4\ub294 \uc5b4\ub514\uc778\uac00...",
+        "ts": "1450326133.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc5b4\ub518\uac00 \uc788\ub294 fixed point...",
+        "edited": {
+            "user": "U02PEJCVA",
+            "ts": "1450326374.000000"
+        },
+        "ts": "1450326356.000004"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\ubabb\ud558\ub294\uac8c \uc5c6\uc8e0..",
+        "ts": "1450334494.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "....?",
+        "ts": "1450335388.000007"
+    }
+]

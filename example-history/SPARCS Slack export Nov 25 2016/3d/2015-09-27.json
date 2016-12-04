@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SHSMT|leeopop> has left the channel",
+        "ts": "1443355888.000002"
+    }
+]

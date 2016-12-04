@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by xowns5979 on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/149#issuecomment-236501588|#149: Check if sparcsso is online before redirecting #144> (assigned to <https:\/\/github.com\/ojh3636|ojh3636>)",
+                "text": "\ubb38\uc81c \uc5c6\uc5b4 \ubcf4\uc785\ub2c8\ub2e4!!",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by xowns5979 on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/149#issuecomment-236501588|#149: Check if sparcsso is online before redirecting #144> (assigned to <https:\/\/github.com\/ojh3636|ojh3636>)",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1470033861.000002"
+    }
+]

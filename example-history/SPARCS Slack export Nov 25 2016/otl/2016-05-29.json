@@ -1,0 +1,79 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/75|#75 \ub85c\uadf8\uc544\uc6c3\uc544\uc9c1\ub3c4\uc548\ub418\uc694> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/75|#75 \ub85c\uadf8\uc544\uc6c3\uc544\uc9c1\ub3c4\uc548\ub418\uc694> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464518375.000130"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/71|#71 \ucf54\uc2a4 \uac1c\ubcc4\ud398\uc774\uc9c0 \uad50\uc218\uc774\ub984 \ub9c8\uc6b0\uc2a4\ud638\ubc84\uc2dc \uc0c9\ubcc0\ud654 \ucd94\uac00> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/71|#71 \ucf54\uc2a4 \uac1c\ubcc4\ud398\uc774\uc9c0 \uad50\uc218\uc774\ub984 \ub9c8\uc6b0\uc2a4\ud638\ubc84\uc2dc \uc0c9\ubcc0\ud654 \ucd94\uac00> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464518486.000131"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/73|#73 \uc88b\uc544\uc694 \ub204\ub978\ub9ac\ubdf0 \uc88b\uc544\uc694\ubc84\ud2bc \ube44\ud65c\uc131\ud654> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/73|#73 \uc88b\uc544\uc694 \ub204\ub978\ub9ac\ubdf0 \uc88b\uc544\uc694\ubc84\ud2bc \ube44\ud65c\uc131\ud654> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464518496.000132"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/461e7efdf4a9...d9988d1e3759|2 new commits> by root",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/0589c583261a574f5032f3e8dac4832156a12203|0589c58>`  ajax element error fix(like button) - root\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d9988d1e3759481390b53b543a422e242452227b|d9988d1>`  merging - root",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/461e7efdf4a9...d9988d1e3759|2 new commits> by root:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464524324.000133"
+    }
+]

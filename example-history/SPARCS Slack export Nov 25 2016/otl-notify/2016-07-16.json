@@ -1,0 +1,210 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#122 \ud14c\uc2a4\ud2b8\uc6a9 DB \ub9cc\ub4e4\uae30' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/122 by kangwon",
+                "text": "otlplus\uc758 \ud14c\uc2a4\ud2b8\uc6a9 DB\ub97c \uc5bb\ub294\ub370 \ub9ce\uc774\ub4e4 \ud798\ub4e4\uc5b4 \ud558\uc2dc\ub294 \uac83 \uac19\uc544 \uc11c\ubc84\uc5d0 DB \ud558\ub098\ub97c \ubcf5\uc0ac\ud574\uc11c \ud14c\uc2a4\ud2b8 DB\ub85c \ub123\uace0 django\uc5d0\uc11c \ub370\uc774\ud130\ub97c \uac70\uae30\uc11c \ubc1b\uc544\uc624\ub3c4\ub85d \ud558\uba74 \uc5b4\ub5a8\uae4c \uc0dd\uac01\ud588\uc2b5\ub2c8\ub2e4.\n\n\ud574 \ubcf4\uace0 \uacb0\uacfc \uc54c\ub824\ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#122 \ud14c\uc2a4\ud2b8\uc6a9 DB \ub9cc\ub4e4\uae30",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/122",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468655128.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#123 setup test DB' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/123 by kangwon",
+                "text": "modify settings.py\nadd settings_local.py in .gitignore\n\nin the settings_local.py, add test DB information",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#123 setup test DB",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/123",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468659569.916328"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/122#issuecomment-233121108|#122: \ud14c\uc2a4\ud2b8\uc6a9 DB \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/kangwon|kangwon>)",
+                "text": "\uae30\uc874 DB\ub97c \ubcf5\uc0ac\ud574 \uc11c\ubc84\uc5d0 test DB\ub97c \uc0dd\uc131\ud588\uc2b5\ub2c8\ub2e4.\n\npull request #123 \uac00 \uad00\ub828\ub41c \ub0b4\uc6a9\uc785\ub2c8\ub2e4.\n\nsettings_local.py\ub294 \ub2e4\uc74c\uacfc \uac19\uc774 \uc124\uc815\ud558\uba74 \ub429\ub2c8\ub2e4.\n\n`# database setting\nDATABASES = {\n   'default': {\n       'ENGINE': 'django.db.backends.mysql',\n       'NAME': 'otlplus_test',\n       'USER': '\uc720\uc800\ub124\uc784',\n       'PASSWORD': '\ube44\ubc00\ubc88\ud638',\n       'HOST': '<http:\/\/otlplus.sparcs.org|otlplus.sparcs.org>',\n       'PORT': '3306',\n   }\n}`",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/122#issuecomment-233121108|#122: \ud14c\uc2a4\ud2b8\uc6a9 DB \ub9cc\ub4e4\uae30> (assigned to <https:\/\/github.com\/kangwon|kangwon>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468659678.918071"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/122|#122 \ud14c\uc2a4\ud2b8\uc6a9 DB \ub9cc\ub4e4\uae30> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/122|#122 \ud14c\uc2a4\ud2b8\uc6a9 DB \ub9cc\ub4e4\uae30> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468659790.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#124 \uc0c8\ub85c\uc6b4 model \uc801\uc6a9\ud558\uae30' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/124 by kangwon",
+                "text": "pull request #109 merge \ud6c4 test DB\uc5d0 migrate \ud558\uae30",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#124 \uc0c8\ub85c\uc6b4 model \uc801\uc6a9\ud558\uae30",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/124",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468661300.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/110#issuecomment-233124782|#110: Color Class - \uc2dc\uac04\ud45c \ube14\ub85d \uc0c9\uc758 \uad00\ud55c \uc815\ucc45\uacfc \uad6c\ud604>",
+                "text": "class BlockColor\n  \ub204\uad6c (\uc0ac\ub78c\uc5d0 \ub530\ub77c \uc0c9\uc0c1\uc774 \uc720\uc9c0\ub418\uc5b4\uc57c \ud558\ubbc0\ub85c)\n  \uc5b8\uc81c (lecture \ubcc4\uc774 \uc544\ub2cc course \ubcc4\ub85c \uad6c\ubd84\ud574\ub2ec\ub77c\ub294 \uc694\uccad\uc774 \uc788\uc5b4\uc11c \ud544\uc694\ud569\ub2c8\ub2e4.)\n  \ubb54 \uacfc\ubaa9 (course)\n  \uc0c9 (integer\ub85c \ud574 \ub450\uace0, enum\uc5d0 \ud30c\uc77c \ud558\ub098 \ub9cc\ub4e4\uc5b4\uc11c \ub9e4\uce6d\uc2dc\ud0a4\uba74 \uc5b4\ub5a8\uae4c \ud569\ub2c8\ub2e4.)\n\n\uc0ac\uc6a9\uc740\n1. \uc0ac\uc6a9\uc790\uac00 \uc2dc\uac04\ud45c\uc5d0 \uacfc\ubaa9\uc744 \uc9d1\uc5b4\ub123\uc74c\n2. \uadf8 \ud559\uae30, \uadf8 \uacfc\ubaa9\uc5d0 \ub300\ud55c \uc0c9\uc0c1\uc744 \uacb0\uc815\ud574\uc11c \uc800\uc7a5\ud568\n3. \uac00\uc7a5 \ucd5c\uadfc\uc758 \ub370\uc774\ud130\ub97c \uc0c9\uc0c1\uc758 \uc218\ub9cc\ud07c \ubd88\ub7ec \uc640\uc11c \uc0ac\uc6a9 (ex \uc0c9\uc0c1 \uc218 = 30 \uc77c \ub54c \uac00\uc7a5 \ucd5c\uadfc 30\uac1c\uc758 \ub370\uc774\ud130\ub9cc \ubd88\ub7ec\uc634.)\n     -&gt; 31\ubc88\uc9f8\ubd80\ud130 \uac19\uc740 \uacfc\ubaa9\uc5d0 \ub2e4\ub978 \uc0c9\uc0c1\uc774 \ubd80\uc5ec\ub420 \uc218 \uc788\uc74c\n\n2\ubc88 \uacfc\uc815\uc5d0\uc11c \uc0c9\uc0c1 \uacb0\uc815\uc740 \ub2e4\uc74c\uc5d0 \ub17c\uc758\ud558\ub3c4\ub85d \ud569\uc2dc\ub2e4.\n\nBlockColor \ud14c\uc774\ube14\uc5d0 \uc4f8\ubaa8 \uc5c6\ub294 \ub370\uc774\ud130\ub4e4(31\ubc88\uc9f8 \uc774\uc0c1\uc73c\ub85c \uc624\ub798\ub41c \uc124\uc815)\uc774 \ub9ce\uc774 \uc313\uc774\uac8c \ub418\ub294 \ubc29\ubc95\uc774\uc9c0\ub9cc, \uad73\uc774 \uc9c0\uc6b8\ud544\uc694 \uc788\ub098 \ud574\uc11c \uc9c0\uc6b0\ub294 \uacfc\uc815\uc740 \uc0dd\ub7b5\ud588\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by kangwon on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/110#issuecomment-233124782|#110: Color Class - \uc2dc\uac04\ud45c \ube14\ub85d \uc0c9\uc758 \uad00\ud55c \uc815\ucc45\uacfc \uad6c\ud604>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468666071.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#125 \uacfc\ubaa9\uc0ac\uc804 \uc5d0\ub7ec \ud578\ub4e4\ub9c1 \ud398\uc774\uc9c0' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/125 by ashe-sparcs",
+                "text": "404, 500\uc740 \uc788\uc9c0\ub9cc 400, 403\uc740 \uc5c6\uc5b4\uc11c \ucd94\uac00\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#125 \uacfc\ubaa9\uc0ac\uc804 \uc5d0\ub7ec \ud578\ub4e4\ub9c1 \ud398\uc774\uc9c0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/125",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468689122.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#126 #125 \uacfc\ubaa9\uc0ac\uc804 \uc5d0\ub7ec \ud578\ub4e4\ub9c1 \ud398\uc774\uc9c0 \ud574\uacb0' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/126 by ashe-sparcs",
+                "text": "error handling view function: bad_request, forbidden\nerror handling html 400.html, 403.html \nadded",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#126 #125 \uacfc\ubaa9\uc0ac\uc804 \uc5d0\ub7ec \ud578\ub4e4\ub9c1 \ud398\uc774\uc9c0 \ud574\uacb0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/126",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468691495.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/126|#126 \uacfc\ubaa9\uc0ac\uc804 \uc5d0\ub7ec \ud578\ub4e4\ub9c1 \ud398\uc774\uc9c0 \uc774\uc288 \ud574\uacb0> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/126|#126 \uacfc\ubaa9\uc0ac\uc804 \uc5d0\ub7ec \ud578\ub4e4\ub9c1 \ud398\uc774\uc9c0 \uc774\uc288 \ud574\uacb0> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468695244.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/e0165c486291...a67cb05b1ad6|2 new commits> by ashe-sparcs and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/f2a093a4bac76e9fa1a39d09cdf2cebc32c8f06a|f2a093a>`  error handling view function: bad_request, forbidden - ashe-sparcs\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/a67cb05b1ad6afe6d3012dff578570f3f8eb4094|a67cb05>`  Merge pull request #126 from ashe-sparcs\/error-handle - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/e0165c486291...a67cb05b1ad6|2 new commits> by ashe-sparcs and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468695245.000005"
+    }
+]

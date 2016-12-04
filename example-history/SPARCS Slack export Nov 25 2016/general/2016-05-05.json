@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U0690Q7TR>: \uc815\ubd80\uc5d0\uc11c \ubc1c\ud589\ud558\ub294 \ucef4\ud4e8\ud130 \uad00\ub828 \uc9c0\uce68\ubb38\uc11c",
+        "ts": "1462464535.000474"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3161 \ucef4\ubc31\uc11c",
+        "ts": "1462464537.000475"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ucef4\ubc31\uc11c\ub2d8",
+        "ts": "1462464666.000476"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc6f9\ud230 \uc790\ubb38\ud558\uc168\ub354\ub77c\uad6c\uc694",
+        "ts": "1462464668.000477"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":+1:",
+        "ts": "1462464672.000478"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc800.. \uc800\ub294 \ub2e4\ud788\uc544\ubaac\ub4dc \uc790\ubb38\ub2d8\uc758 \ubc30.. \ubc31\uc5c5\uc785\ub2c8\ub2e4",
+        "ts": "1462464786.000479",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U024U2P7Y",
+                    "U0251JXSR",
+                    "U03H8L275",
+                    "U0B6J0HUG"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

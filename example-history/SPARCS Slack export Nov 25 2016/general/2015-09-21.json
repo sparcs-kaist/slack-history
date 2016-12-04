@@ -1,0 +1,197 @@
+[
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "()",
+        "edited": {
+            "user": "U02EANG0K",
+            "ts": "1442834598.000000"
+        },
+        "ts": "1442834546.001282"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc9c0\ubbfc\uc544..",
+        "ts": "1442834570.001283"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub7f0\uac74 \uc5ec\uae30\ub2e4 \uc62c\ub9ac\uba74",
+        "ts": "1442834574.001284"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub2e4\ub978\uc0ac\ub78c\ub4e4\uc774 \ubd88\ud3b8\ud558\uc796\uc544...",
+        "ts": "1442834577.001285"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc790 \uc774\uc81c \uadf8 \ubc84\uadf8\uc5d0 \ub300\ud55c \uc124\uba85 \ub9c1\ud06c\ub3c4 \ub744\uc6cc!",
+        "ts": "1442834608.001287"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\ub808\ub527\uc5d0\uc11c \uc2ac\ub799\uc5d0\uc11c\ub3c4 \ub41c\ub2e4\uace0 \ud574\uc11c \ud574 \ubd24\ub294\ub370",
+        "ts": "1442834615.001288"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\uc815\ub9d0\ub85c \ub420 \uc904\uc774\uc57c",
+        "ts": "1442834617.001289"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1442834622.001290"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub9c1\ud06c\uba74 \ub2e4 \ub418\ub294\uac70 \uc544\ub2d8?",
+        "ts": "1442834626.001291"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\uad6c\uae00 \ud06c\ub86c \ub9d0\uace0",
+        "ts": "1442834632.001292"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud2b8\uc704\ud130\ub294 url redirect \ud574\uc11c \uc548\ub418\ub294\uac70\uac19\uace0",
+        "ts": "1442834635.001293"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\uc2ac\ub799 \ub370\uc2a4\ud06c\ud0d1 \uc571\uc5d0\uc11c\ub3c4 \ubed7\uc74c",
+        "ts": "1442834638.001294"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc5e5\u314b\u314b\u314b",
+        "ts": "1442834647.001295"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub3cb\ub124",
+        "ts": "1442834647.001296"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\ub80c\ub354\ub7ec \ud504\ub85c\uc138\uc2a4\uc5d0\uc11c \ube0c\ub77c\uc6b0\uc800 \ud504\ub85c\uc138\uc2a4\ub85c IPC \ud1b5\uc2e0\uc778\uc9c0 \ubb50\uc2dc\uae30 \ud558\uba74\uc11c \ub9c1\ud06c \uc8fc\uc18c\ub97c \ubcf4\ub0b4\ub294\ub370",
+        "ts": "1442834662.001297"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\ub9c1\ud06c \uc8fc\uc18c\uac00 invalid\ud574\uc11c \ub80c\ub354\ub7ec \ud504\ub85c\uc138\uc2a4\ub97c \uac15\uc81c\uc885\ub8cc\uc2dc\ud0a8\ub2e4 \ubb50 \uadf8\ub7f0 \uac83 \uac19\uc740\ub370",
+        "ts": "1442834676.001298"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "<https:\/\/code.google.com\/p\/chromium\/issues\/detail?id=533361#c15>",
+        "ts": "1442834689.001299"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\"When hovering this URL in the blog post, the renderer sends an invalid GURL across IPC, and the unpickler on the browser side fails to deserialize (since ParamTraits&lt;GURL&gt; enforces that non-empty GURLs must be valid).  This kills the renderer immediately.\"",
+        "ts": "1442834703.001300"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadfc\ub370 \uc800 \uc774\uc288\ud398\uc774\uc9c0\uc5d0\ub3c4 \ud568\uc815 \uc788\ub294\uac70 \uc544\ub2c8\uc5c8\ub0e8\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1442834704.001301"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "<http:\/\/aaa.com\/|aaa.com\/> (\uc790\uccb4\uac80\uc5f4) \ub9c1\ud06c\uac00 \ubc84\uadf8 \ub9ac\ud3ec\ud2b8\uc5d0 \uc788\ub294\ub370",
+        "ts": "1442834721.001302"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\u314b.\u314b...",
+        "ts": "1442834727.001303"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "\ud638\uae30\uc2ec\uc5d0 \ub9c8\uc6b0\uc2a4 \ub314\ub2e4\uac00\u314b\u314b\u314b\u314b",
+        "ts": "1442834727.001304"
+    },
+    {
+        "type": "message",
+        "user": "U02EANG0K",
+        "text": "REPRODUCTION CASE\nvisit <http:\/\/aaa.com\/> (-)",
+        "ts": "1442834747.001305"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\"REPRODUCTION CASE\" ...",
+        "ts": "1442834749.001306"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03H8L275|daedoo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/daedoo\/F0B1V19GC\/sparcs-01.png|SPARCS-01.png>",
+        "file": {
+            "id": "F0B1V19GC",
+            "created": 1442838293,
+            "timestamp": 1442838293,
+            "name": "SPARCS-01.png",
+            "title": "SPARCS-01.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U03H8L275",
+            "editable": false,
+            "size": 145249,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0B1V19GC\/sparcs-01.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0B1V19GC\/download\/sparcs-01.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/daedoo\/F0B1V19GC\/sparcs-01.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0B1V19GC-c69efcc857",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03H8L275",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U03H8L275|daedoo>",
+        "bot_id": null,
+        "ts": "1442838293.001307"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c... \ubc14\uc774\uc11c\ud074?",
+        "ts": "1442841397.001308"
+    }
+]

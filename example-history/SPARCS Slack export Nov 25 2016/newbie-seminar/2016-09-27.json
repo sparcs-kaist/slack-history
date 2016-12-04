@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "<http:\/\/bit.sparcs.org:12345\/>",
+        "ts": "1474981943.000134"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\uc800\ubc88\ud559\uae30 \uc774\uc724\ud0dd, \ubc15\uc7ac\uc900 \ud68c\uc6d0\uc758 \uc2e0\uc785\uc0dd \ud504\ub85c\uc81d\ud2b8\uc785\ub2c8\ub2e4",
+        "ts": "1474981967.000135"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\uc774\uac83\ub3c4 \ub9c8\ucc2c\uac00\uc9c0\ub85c \ub2eb\ud790 \uac00\ub2a5\uc131\uc774 \uc788\uc5b4\uc694",
+        "ts": "1474981976.000136"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\uc800\uac74 \uc77c\ub2e8 \ub85c\uadf8\uc778\uc744 \ud574\uc57c \ud560 \uc218 \uc788\ub294\ub370",
+        "ts": "1474983637.000137"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "ID: player1, PW:sparcs",
+        "ts": "1474983648.000138"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "ID: player2, PW:sparcs",
+        "ts": "1474983656.000139"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\ud63c\uc790\ud560\ub824\uba74 player1\uc5d0 \ub4e4\uc5b4\uac00\uba74 \uc7a0\uae50 \ud560 \uc218 \uc788\uc5b4\uc694",
+        "ts": "1474983682.000140"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\uadf8\ub0e5 \ubcf4\uae30\ub9cc \ud574\ubcf4\uc138\uc694\\",
+        "ts": "1474983689.000141"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "user": "U2D4R9FDJ",
+        "text": "<@U2D4R9FDJ|gunwoo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477587721.000134"
+    },
+    {
+        "user": "U024SKNH9",
+        "text": "<@U024SKNH9|whitegold> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477589263.000135"
+    },
+    {
+        "user": "U02F4BE42",
+        "text": "<@U02F4BE42|softdie> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477614424.000136"
+    },
+    {
+        "user": "U02CX06DL",
+        "text": "<@U02CX06DL|daeyoungwon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477629703.000137"
+    },
+    {
+        "user": "U024U2P7Y",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477635742.000138"
+    }
+]

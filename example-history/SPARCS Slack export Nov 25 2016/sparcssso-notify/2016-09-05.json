@@ -1,0 +1,428 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#137 remove rate limit of point modify' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/137 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#137 remove rate limit of point modify",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/137",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473061308.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/135#issuecomment-244678908|#135: increase timeout of api v2> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "point modify limit rate: 1 req \/ 5 sec -&gt; X (refer #137)",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/135#issuecomment-244678908|#135: increase timeout of api v2> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473061327.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/18333a58c0e5964ecc1e4f9a3cf870c53c588f5b|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/18333a58c0e5964ecc1e4f9a3cf870c53c588f5b|18333a5>`  increase timeout of api v2 (done #135) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473061469.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/85502f0f8c7761901f1602f5d9d4825071b83d1f|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/85502f0f8c7761901f1602f5d9d4825071b83d1f|85502f0>`  remove rate limit of point-modify api (done #137) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062506.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4d6debc5a46f1de70a90e6cb2d5899ab30edfa90|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4d6debc5a46f1de70a90e6cb2d5899ab30edfa90|4d6debc>`  kill api v1 (done #106) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062689.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#138 API v2 minor fixes' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/138 by a1sams1a",
+                "text": "\u2022 modify unregister to server&lt;-&gt;server post\n\u2022 increase timeout of api\n\u2022 remove rate limit of point-modify\n\u2022 kill api v1",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#138 API v2 minor fixes",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/138",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062835.000016"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/138|#138 API v2 minor fixes> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/138|#138 API v2 minor fixes> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062843.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/5313693693a4...2c3f9dc158cd|5 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/6e5019c27a9465534a5f9e82918132755eea88c9|6e5019c>`  modify api v2 unregister to server&lt;-&gt;server post (done #136) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/18333a58c0e5964ecc1e4f9a3cf870c53c588f5b|18333a5>`  increase timeout of api v2 (done #135) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/85502f0f8c7761901f1602f5d9d4825071b83d1f|85502f0>`  remove rate limit of point-modify api (done #137) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4d6debc5a46f1de70a90e6cb2d5899ab30edfa90|4d6debc>`  kill api v1 (done #106) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/2c3f9dc158cd6498a486c26e1d1d321496a89362|2c3f9dc>`  Merge pull request #138 from sparcs-kaist\/dev-samjo - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/5313693693a4...2c3f9dc158cd|5 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062844.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062846.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/137|#137 remove rate limit of point modify> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/137|#137 remove rate limit of point modify> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062855.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/136|#136 API v2 unregister \uc218\uc815> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/136|#136 API v2 unregister \uc218\uc815> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062861.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/135|#135 increase timeout of api v2> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/135|#135 increase timeout of api v2> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062869.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/106|#106 Kill SPARCS SSO v1> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/106|#106 Kill SPARCS SSO v1> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473062876.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#139 Unified rate limit module' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139 by leeopop",
+                "text": "\uc2dc\uac04\ub0a0\ub54c \ud55c\ubc88 \ub9cc\ub4e4\uc5b4\ubcf4\ub294\uac74?\n<https:\/\/django-ratelimit.readthedocs.io\/en\/latest\/>\n\uc774\uac70 \ucc38\uace0\ud574\uc11c \ud574\ub3c4 \uc88b\uc740\ub370 \uc5bc\ud54f \ubcf4\ub2c8\uae4c \uc800\uae30 per-user limit \uac00 \ub418\ub294\uc9c0 \ubaa8\ub974\uaca0\ub124",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/leeopop|leeopop>",
+                "title": "#139 Unified rate limit module",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473063292.000024"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244685595|#139: Unified rate limit module>",
+                "text": "\uc774\ubbf8 \uc694\uccad\uc774 \uc788\uae34 \ud588\uc5c8\ub124\n<https:\/\/github.com\/jsocol\/django-ratelimit\/issues\/52>\n\n\uc5ec\uae30 \uae30\uc5ec\ud574\ubcf4\uace0 \ubc18\uc601\ub418\uba74 \uc368\ubcf4\ub294\uac78\ub85c?",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244685595|#139: Unified rate limit module>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473063378.000025"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244686996|#139: Unified rate limit module>",
+                "text": "\uc624 \uc88b\uc740 \ud328\ud0a4\uc9c0\ub124\uc694 \uadfc\ub370 rate limit\uc744 \uc5b4\ub514\ub2e4\uac00 \uc368\uc57c \ud558\ub098\uc694...?",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244686996|#139: Unified rate limit module>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473063778.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473065047.000027"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244693935|#139: Unified rate limit module>",
+                "text": "\uadf8\ub0e5 \ubaa8\ub4e0 api\uc5d0 \uc801\uc6a9\uc2dc\ucf1c\ub193\uace0 \ub098\uc911\uc5d0 \ub3c8\ub0b4\uba74 \ud480\uc5b4\uc8fc\ub294.... \uc544 \ubcc4\ub860\uac00 \u314b\u314b",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244693935|#139: Unified rate limit module>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473065638.000028"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244698555|#139: Unified rate limit module>",
+                "text": "\ub124....? SSO API\ub294 SPARCS \uc11c\ube44\uc2a4\ub4e4 \uc11c\ubc84\uac00 \uc0ac\uc6a9\ud558\ub294\uac70\ub77c\uc11c\uc694....",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244698555|#139: Unified rate limit module>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473066896.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244699430|#139: Unified rate limit module>",
+                "text": "<http:\/\/django-ratelimit.readthedocs.io\/en\/latest\/rates.html#callables>\n\n\uc774\ubbf8 \uad6c\ud604\ub418\uc5b4\uc788\ub124 ",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by leeopop on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/139#issuecomment-244699430|#139: Unified rate limit module>",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473067154.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-todo|dev-todo>\" was pushed by todoaskit",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-todo|dev-todo>\" was pushed by todoaskit",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1473075851.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0B6J3PCG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

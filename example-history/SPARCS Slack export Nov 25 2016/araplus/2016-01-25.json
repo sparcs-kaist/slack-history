@@ -1,0 +1,24 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue created: '#122 Board\uc5d0\uc11c \ub313\uae00 \uc791\uc131\ud6c4\uc5d0 \ud654\uba74\uc774 \uae68\uc9d0' https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/122 by ktk1012",
+                "text": "board\uc758 post\uc5d0\uc11c \ub313\uae00\uc744 \uc791\uc131\ud558\uba74 \uc2a4\ud0c0\uc77c\uc774 \uae68\uc838\uc11c \ubcf8\ubb38\uacfc \uc88c\uce21\uc758 \uba54\ub274\ub4e4\uc774 \ubcf4\uc774\uc9c0 \uc54a\uac8c \ub418\ub294 \ubb38\uc81c\uac00 \uc788\uc74c",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/ktk1012|ktk1012> (assigned to <https:\/\/github.com\/sparcsJara|sparcsJara>)",
+                "title": "#122 Board\uc5d0\uc11c \ub313\uae00 \uc791\uc131\ud6c4\uc5d0 \ud654\uba74\uc774 \uae68\uc9d0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/122",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453713832.000002"
+    }
+]

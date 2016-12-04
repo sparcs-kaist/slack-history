@@ -1,0 +1,400 @@
+[
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1407852399.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uac04\ub2e4",
+        "ts": "1407852402.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\ubb50\uac00\ubb38\uc81c\uc8e0",
+        "ts": "1407852406.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubab0\ub77c \ub098\ub3c4",
+        "ts": "1407852459.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uac4d \uc81c\ub300\ub85c \uc548\ud574\ubd04 \u314b\u314b",
+        "ts": "1407852470.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc560\ucd08\uc5d0 \ubb58\ud558\uace0\uc2f6\uc73c\uc2e0\uac70\uc784?",
+        "ts": "1407852472.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc791\ub3d9\ud558\ub294 otl \uc0ac\uc774\ud2b8\uac00 \ud544\uc694\ud55c\uac74\ub370",
+        "ts": "1407852483.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc11c\ubc84\uac00 \uc8fd\uc5b4\uc11c..\u315c\u3160\u3160",
+        "ts": "1407852487.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uadf8 \uc791\ub3d9\ud558\ub294\uc758 \ubc94\uc704\uac00",
+        "ts": "1407852491.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc2e4\ud589\ub9cc \ub418\uace0",
+        "ts": "1407852493.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "dummy data\uc778?",
+        "ts": "1407852496.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\u3147\u3147 \uadf8\uc815\ub3c4\uba74 \ub428",
+        "ts": "1407852501.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc74c",
+        "ts": "1407852510.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadfc\ub370 \uadf8\ub0e5",
+        "ts": "1407852528.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uad6c\uae00 \ubcf4\uace0 \ud558\ub824\uace0",
+        "ts": "1407852529.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc800\uac70",
+        "ts": "1407852561.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "pillow \uae54\uace0",
+        "ts": "1407852564.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "django 1.2.4\uc778\uac00",
+        "ts": "1407852567.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "1.2.5\uc778\uac00 \uae54\uc544\uc57c\ub420\uac78\uc694",
+        "ts": "1407852570.000020"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc7a5\uace0 \ucd5c\uc2e0\ubc84\uc804\uc774\uba74 \uc548\ub428",
+        "ts": "1407852574.000021"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "...",
+        "ts": "1407852574.000022"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc7a5\uace0\ub294 \uc65c \uadf8\ub7f0\uac78 \uae54\uc544\uc57c\ub428 \u3160\u3160",
+        "ts": "1407852575.000023"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\u3147\u3147 \uadf8\uac74 \uadf8\ub807\ub354\ub77c",
+        "ts": "1407852579.000024"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "migration\uc744 \ud574\uc57c\ud558\ub294\ub370",
+        "ts": "1407852581.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\ub108\ubb34 \uc5c9\ud0a8\uac8c \u3131-",
+        "ts": "1407852585.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadfc\ub370 requirement.txt\uc5d0",
+        "ts": "1407852595.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uadf8\ub9ac\uace0 \uc544\ub9c8 otl\ub3c4 \uac08\uc544 \uc5ce\uc744 \uc608\uc815\uc774 \ub418\uc5b4 \uc788\uc5b4\uc11c",
+        "ts": "1407852596.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "django&gt;=1.2\ub77c\uace0 \ub418\uc5b4\uc788\uae38\ub798",
+        "ts": "1407852605.000029"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc800\uac70 \ub09a\uc2dc \u315c\u315c",
+        "ts": "1407852609.000030"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "pip install django-1.2 \ud574\ubd24\ub294\ub370",
+        "ts": "1407852614.000031"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc548\ub418\uc11c \uc774\uac70\ubb65\ubbf8 \ud558\uace0 \uc9d1\uc5b4\ub358\uc9d0",
+        "ts": "1407852619.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "pip install django==1.2.5 \uc774\uac70 \uc544\ub2c8\uc5d0\uc694?",
+        "ts": "1407852622.000033"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubab0\ub77c \ubb50 \uadf8\ub7f0\uac70 \ud588\ub294\ub370",
+        "ts": "1407852629.000034"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "1.2\ub9cc \ud574\ub3c4 \ub418\ub294\uc9c0 \ubaa8\ub974\uaca0\uc9c0\ub9cc",
+        "ts": "1407852630.000035"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "1.2\ub9cc\ud558\uba74 \uc548\ub428",
+        "ts": "1407852636.000036"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub798\uc11c \uc9d1\uc5b4\ub358\uc9d0",
+        "ts": "1407852639.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc548\ud55c\ub2e4!",
+        "ts": "1407852642.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\u3147\u314e...",
+        "ts": "1407852642.000039"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uad6c\uae00\uc758 \ud798\uc744 \ube4c\ub9ac\ub294\uac78\ub85c?",
+        "ts": "1407852653.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\u3147\u3147 \uac4d css \ub123\ub294\uac70\ub354\ub9cc",
+        "ts": "1407852662.000041"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub9ac\ub4dc\uac00 \ubb50\ub54c\ubb38\uc5d0 \uc0dd\uae30\ub294\uac74\uc9c0 \uad81\uae08\ud588\ub294\ub370",
+        "ts": "1407852671.000042"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\u3147\u3147;",
+        "ts": "1407852672.000043"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc774\ub530 \ub204\uc6cc\uc11c \ud574\ubd10\uc57c\uc9c0",
+        "ts": "1407852685.000044"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc9c0\uae08\uc740 \uc11d\uc8fc\uac00 \ub0a0 \ub178\uc608\ub85c \ubd80\ub9ac\ub824\ud568 \u3160\u3160",
+        "ts": "1407852690.000045"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "?",
+        "ts": "1407852710.000046"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc11c\uc6b8\uc5d0\uc11c \ud798\ub4e4\uac8c \uc654\ub294\ub370 \ub178\uc608\ucde8\uae09\ub2f9\ud55c\ub2e4",
+        "ts": "1407852716.000047"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ube68\ub9ac \uc62c\ub77c\uac00\uc57c\uc9c0 \uc5d0\uc789",
+        "ts": "1407852722.000048"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "??",
+        "ts": "1407852725.000049"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc800\uac74\ubb34\uc2a8\uc18c\ub9ac\uc784",
+        "ts": "1407852727.000050"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc11c\ubc84 \uccad\uc18c\ud558\ub798 \uc5c9\uc5c9",
+        "ts": "1407852735.000051"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc77c\ud574\ub77c \uc77c!",
+        "ts": "1407852751.000052"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\u315c\u315c",
+        "ts": "1407852769.000053"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "12\uc2dc\uc5d0 \ud0d1\ucf54\ub354...",
+        "ts": "1407852772.000054"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc5b8\uc81c\ub05d\ub098\ub0d0\uace0 \ubb3c\uc5b4\ubd10\uc57c\ub418\ub098",
+        "ts": "1407852783.000055"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\ud615 \ud559\uad50\uc624\uc2ec?",
+        "ts": "1407852793.000056"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc0e4\ubc14\uce78 \ud559\uad50 \u3147\u3147",
+        "ts": "1407852800.000057"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\u3147\u314e",
+        "ts": "1407852805.000058"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc544\uae4c 9\uc2dc\ucbe4\uc5d0 \uc800\ub141\uba39\uc73c\ub7ec \uac00\ub2c8\uae4c \uc5c6\ub358\ub370...\n\uc774\ub530 2\uc2dc\ucbe4\uc5d0 \ub3d9\ubc29\uac00\uae34 \ud558\uaca0\ub124\uc694",
+        "ts": "1407852827.000059"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc9c4\uadfc\uc774\ud615 \uace8\ub4dc\ube4c\ub824\uc918\uc694",
+        "ts": "1407852829.000060"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc5bc\ub9c8\ub098?",
+        "ts": "1407852833.000061"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubab0\ub77c\uc694",
+        "ts": "1407852836.000062"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc640\uc6b0 out!",
+        "ts": "1407852838.000063"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "<#C024SJBPB>",
+        "ts": "1407852839.000064"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uac04\ub2e4!",
+        "ts": "1407852842.000065"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ud3ec\ud0c8\uc774 \uc5f4\ub824\uc57c\ub9cc \uac10",
+        "ts": "1407852845.000066"
+    },
+    {
+        "user": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0KW|combacsa> has joined the channel",
+        "ts": "1407898103.000067"
+    }
+]

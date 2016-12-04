@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "1. \ud604\uc7ac rsync\uac00 \uac11\uc790\uae30 timeout\ub098\uc11c \uc2f1\ud06c\uac00 \uc548\ub418\ub294 \ud328\ud0a4\uc9c0\uac00 \uc0c1\ub2f9\ud569\ub2c8\ub2e4.",
+        "ts": "1436558095.000315"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "2. \uc5bc\ub9c8\uc804\uc5d0\ub294 CPAN\uc5d0\uc11c \"\uc2f1\ud06c \uc624\ub7ab\ub3d9\uc548 \uc548 \ub9de\uc73c\uba74 \ubbf8\ub7ec \ubc29\ucd9c\uc774\uc57c!\"\ub77c\ub294 \uba54\uc2dc\uc9c0\ub3c4 \ubc1b\uc558\uad6c\uc694",
+        "ts": "1436558113.000316"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "3. \uc6b0\ubd84\ud22c\ub294 \uc9c0\uae08 5\uc77c\ub3d9\uc548 \uc2f1\ud06c\uac00 \uc548\ub418\uc5b4\uc11c \uccb4\ud06c\uc12c\ub3c4 \uc548 \ub9de\ub294 \uc0c1\ud669\uc774\ub124\uc694 \u3160\u3160\u3160",
+        "ts": "1436558126.000317"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "4. \uc774\uc5d0 \uad00\ub828\ud574\uc11c \ub3cc\uc544\uc624\ub294 \uc6d4\uc694\uc77c\uc5d0 KOREN\uce21\uc5d0 \ub124\ud2b8\uc6cc\ud06c \ubb38\uc81c\uac00 \uc544\ub2cc\uac00 \ud558\ub294 \ubb38\uc758\ub97c \ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
+        "ts": "1436558150.000318"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "5. \uadf8 \uc678\uc5d0 \uc9c0\uae08 CPU\uac00 \ub108\ubb34 \ube61\ube61\ud558\uac8c \ub3cc\uc544\uac00\uace0 \uc788\uc2b5\ub2c8\ub2e4. ssh\ub3c4 \uac10\ub2f9\uc744 \ubabb \ud558\ub294 \uc11c\ubc84\ub294 \uc544\ub2d0\ud150\ub370......",
+        "ts": "1436558179.000319"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "6. (5)\uc5d0 \ub300\ud55c \ub3c4\uc6c0\uc774 \ud544\uc694\ud569\ub2c8\ub2e4 \u3160\u3160\u3160",
+        "ts": "1436558197.000320"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "7. \ub610\ud55c \uc804\ubc18\uc801\uc778 \ubbf8\ub7ec \uad6c\uc870\uc5d0 \ub300\ud55c \ub9ac\ubdf0\uac00 \ud544\uc694\ud569\ub2c8\ub2e4. \uc5b4\ub5a4 \ud06c\ub860\uc774 \uc5b4\ub5bb\uac8c \ub3cc\uc544\uac00\ub294\uc9c0 \uc81c\ub300\ub85c\uc880 \uc54c\uace0\uc2f6\uc5b4\uc694 \u3160\u3160\u3160 \ubb3c\ub860 \uc81c\uac00 \uacf5\ubd80\ub97c \uc548 \ud55c \ud0d3\uc774 \ud06c\uae30\ub294 \ud569\ub2c8\ub2e4\ub9cc......",
+        "ts": "1436558227.000321"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "Jul 11 02:56:06 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:06 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:07 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:08 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:08 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:08 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:08 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:08 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:09 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0\nJul 11 02:56:09 ftp Server Administrator: Storage Service EventID: 2405  Command timeout on physical disk:  Physical Disk 0:0:12 Controller 0, Connector 0",
+        "ts": "1436558834.000322"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5b4....\uc73c......",
+        "ts": "1436558839.000323"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\uac8c \ud558\ub4dc\ubb38\uc81c\uba74.........",
+        "ts": "1436558842.000324"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "Jul 11 03:15:17 ftp \/USR\/SBIN\/CRON[10441]: (CRON) error (grandchild #10444 failed with exit status :sunglasses:\nJul 11 03:15:20 ftp \/USR\/SBIN\/CRON[9777]: (CRON) error (grandchild #9779 failed with exit status :sunglasses:\nJul 11 03:18:08 ftp \/USR\/SBIN\/CRON[10745]: (CRON) error (grandchild #10746 failed with exit status :sunglasses:\nJul 11 03:21:08 ftp \/USR\/SBIN\/CRON[10885]: (CRON) error (grandchild #10888 failed with exit status :sunglasses:\nJul 11 03:24:06 ftp \/USR\/SBIN\/CRON[11043]: (CRON) error (grandchild #11044 failed with exit status :sunglasses:\nJul 11 03:27:06 ftp \/USR\/SBIN\/CRON[11212]: (CRON) error (grandchild #11214 failed with exit status :sunglasses:\nJul 11 03:30:02 ftp \/USR\/SBIN\/CRON[12645]: (CRON) error (grandchild #12691 failed with exit status :sunglasses:\nJul 11 03:33:04 ftp \/USR\/SBIN\/CRON[18477]: (CRON) error (grandchild #18478 failed with exit status :sunglasses:",
+        "ts": "1436558874.000325"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud06c\ub860\uc774 \ucd5c\uadfc\uc5d0 \ub9ce\uc774 \uc2e4\ud328\ud558\ub124\uc694....",
+        "ts": "1436558879.000326"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc9c4\uc9dc \ud558\ub4dc\ubb38\uc820\uac00......",
+        "ts": "1436558882.000327"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc77c\ub2e8 \uc7a0\uc744 \uc790\uace0",
+        "ts": "1436558931.000328"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub0b4\uc77c 2\uc2dc\ucbe4\uae4c\uc9c0 \ub3cc\uc544\uc62c\uac8c\uc694 \u3160\u3160\u3160",
+        "ts": "1436558937.000329"
+    }
+]

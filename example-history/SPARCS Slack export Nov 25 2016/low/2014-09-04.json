@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "'''",
+        "ts": "1409836477.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "'''asdf'''",
+        "ts": "1409836480.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\"asdf\"",
+        "ts": "1409836481.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "'asdf'",
+        "ts": "1409836486.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "`asdf`",
+        "ts": "1409836488.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "```asdf```",
+        "ts": "1409836493.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "```\nvoid Init(void) __attribute__((constructor));\nvoid Init(void) { \/* code *\/ }  \/\/ This will always run before main()\n```",
+        "ts": "1409836500.000016"
+    }
+]

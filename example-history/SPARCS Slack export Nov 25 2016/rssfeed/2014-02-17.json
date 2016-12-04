@@ -1,0 +1,432 @@
+[
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1y4n5o\/javascript_for_the_skeptics\/|JavaScript for the skeptics>\nsubmitted by  k0t0n0  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1y4n5o\/javascript_for_the_skeptics\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392628095.000014"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/math\/comments\/1y4n79\/an_introduction_to_elliptic_curves\/|An introduction to elliptic curves>\nsubmitted by  carmichael561  to  math  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392629058.000016"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y4sok\/did_bach_really_pioneer_virtually_all_of_the\/|Did Bach really pioneer virtually all of the harmonic territory still employed today?>\nI have heard this at various times from a few different people over the years. I believe he was of course highly influential with his counterpoint\/rhythms\/etc. but I have heard some people say that he basically laid the foundation for almost everything that we still incorporate today in contemperary western music, thoughts?  submitted by  Iplaymusicforfun  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have heard this at various times from a few different people over the years. I believe he was of course highly influential with his counterpoint\/rhy...",
+                "fallback": "I have heard this at various times from a few different people over the years. I believe he was of course highly influential with his counterpoint\/rhy...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y4sok\/did_bach_really_pioneer_virtually_all_of_the\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392631709.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1y4zy3\/fusioncharts_mocks_open_source_but_uses_it\/|FusionCharts mocks open source but uses it extensively.>\nsubmitted by  OvidPerl  to  opensource  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1y4zy3\/fusioncharts_mocks_open_source_but_uses_it\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392636222.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1y53pa\/andrew_sorensen_programming_in_time_live_coding\/|Andrew Sorensen: Programming In Time - Live Coding for Creative Performances (showcase of a LISP-like language built on top of LLVM)>\nsubmitted by  cellux  to  lisp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1y53pa\/andrew_sorensen_programming_in_time_live_coding\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392640627.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1y56xj\/an_introduction_to_lockfree_programming\/|An Introduction to Lock-Free Programming>\nsubmitted by  Yifu  to  C_Programming  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392643346.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1y587j\/is_pearlbee_perls_next_great_blogging_platform\/|Is PearlBee Perl's next great blogging platform?>\nsubmitted by  sillymoos  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392645191.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1y5af1\/metacademy_a_package_manager_for_knowledge_built\/|Metacademy: a package manager for knowledge \"built around an interconnected web of concepts, each annotated with a short description, a set of learning goals, a rough time estimate, and pointers to learning resources\">\nsubmitted by  urish  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392647035.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1y5c1s\/question_can_googles_search_tools_inconsistent\/|[Question] Can Google's search tools inconsistent layout be turned off or fixed?>\nIn the first case the order of the search tools is: Web, Images, Shopping, Videos, News In the second case the order is: Web, Shopping, Images, Videos, News This is mildly annoying as I don&amp;#39;t use the shopping tab and most of the times I search for something that I also want to see an image of I click the second &amp;#39;tab&amp;#39; under the search input and sometimes that&amp;#39;s the shopping tab. Other times it&amp;#39;s news, or videos. I get it that they sort the tabs and put the most relevant ones i...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "In [the first case](<http:\/\/i.imgur.com\/oa9BqoI.png>) the order of the search tools is: Web, Images, Shopping, Videos, News In [the second case](http:\/...",
+                "fallback": "In [the first case](<http:\/\/i.imgur.com\/oa9BqoI.png>) the order of the search tools is: Web, Images, Shopping, Videos, News In [the second case](http:\/...",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1y5c1s\/question_can_googles_search_tools_inconsistent\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392655452.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/web_design\/comments\/1y5hp2\/best_starter_themeparent_theme_for_wordpress\/|Best starter theme\/parent theme for Wordpress?>\nI&amp;#39;m trying to get into using Wordpress and not really sure what the best option is. I&amp;#39;ve looked at a couple so far, and Bones, Underscores, and Roots all look promising, but I&amp;#39;m not really sure what advantages each one has. Also, is there much of a difference between working from one of these themes or creating a child theme for something like the twenty- themes? Any other Wordpress noob tips are also appreciated :) Thanks!   submitted by  teabos  to  web_design  [link] [\ub313\uae00 9]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm trying to get into using Wordpress and not really sure what the best option is. I've looked at a couple so far, and Bones, Underscores, and Roots ...",
+                "fallback": "I'm trying to get into using Wordpress and not really sure what the best option is. I've looked at a couple so far, and Bones, Underscores, and Roots ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/web_design\/comments\/1y5hp2\/best_starter_themeparent_theme_for_wordpress\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392656397.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/gamedev\/comments\/1y5nfk\/the_first_ever_of_rgamedevs_new_weekly_series_ask\/|The first ever of \/r\/gamedev's new weekly series: \"Ask a Lawyer\">\nHi guys, I talked to the mods and I&amp;#39;m going to start a thread each Monday where I can answer general legal questions any of you may have. I received a lot of positive feedback from my previous posts and I look forward to this as well.  I love this community and am happy to help get these games made and their owners protected. Side note: I was posting as \/u\/bitcoinattorney before this, but since this name was available and makes a lot more sense, here we are. Find my previous article here: Tr...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi guys, I talked to the mods and I'm going to start a thread each Monday where I can answer general legal questions any of you may have. I received ...",
+                "fallback": "Hi guys, I talked to the mods and I'm going to start a thread each Monday where I can answer general legal questions any of you may have. I received ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/gamedev\/comments\/1y5nfk\/the_first_ever_of_rgamedevs_new_weekly_series_ask\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392656397.000003"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/Android\/comments\/1y5ols\/average_android_phone_now_costs_half_the_iphone\/|Average Android phone now costs half the iPhone, and the price gap is widening>\nsubmitted by  redkemper  to  Android  [link] [\ub313\uae00 19]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/Android\/comments\/1y5ols\/average_android_phone_now_costs_half_the_iphone\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392662926.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/technology\/comments\/1y5q8g\/forget_the_internet_soon_there_will_be_the\/|Forget the Internet - soon there will be the OUTERNET: Company plans to beam free Wi-fi to every person on Earth from space -Link Shared from Drudge Report for Android>\nsubmitted by  Pwthroway  to  technology  [link] [\ub313\uae00 49]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392663841.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/programming\/comments\/1y5uxl\/if_no_human_can_check_a_proof_of_a_theorem_does\/|If no human can check a proof of a theorem, does it really count as mathematics? That's the intriguing question raised by the latest computer-assisted proof. It is as large as the entire content of Wikipedia, making it unlikely that will ever be checked by a human being.>\nsubmitted by  papa00king  to  programming  [link] [\ub313\uae00 13]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392665693.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1y60bk\/range_concepts_part_1_of_4_delimited_ranges\/|Range Concepts, Part 1 of 4: Delimited Ranges>\nsubmitted by  meetingcpp  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392666643.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1y6cbw\/timotimos_weekly_p6_report_moarvm_ways_to_get\/|timotimo's weekly P6 report: MoarVM, ways to get involved, etc.>\nsubmitted by  raiph  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1y6cbw\/timotimos_weekly_p6_report_moarvm_ways_to_get\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392671394.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/engineering\/comments\/1y6ce8\/the_worlds_largest_solar_power_plant_has_started\/|The world's largest solar power plant has started powering homes>\nsubmitted by  pkimmich  to  engineering  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392674268.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/science\/comments\/1y6jjv\/human_lung_successfully_grown_in_lab\/|Human lung successfully grown in lab. Possibilities for the future are endless. First transplants may happen within a decade!>\nsubmitted by  jperl1992  to  science  [link] [\ub313\uae00 12]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/science\/comments\/1y6jjv\/human_lung_successfully_grown_in_lab\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392678988.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/linux\/comments\/1y6qsz\/a_very_weird_line_of_code_in_linux_kernel\/|A very weird line of code in Linux Kernel>\nsubmitted by  microarm15g  to  linux  [link] [\ub313\uae00 21]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/linux\/comments\/1y6qsz\/a_very_weird_line_of_code_in_linux_kernel\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392682608.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1y6y97\/interested_in_working_for_an_airline_as_a\/|Interested in working for an airline as a software programmer. Any thoughts?>\nIf anyone here has any experience with Information Technology and the airline business I would love to hear from you or dm with you. I work as a customer service agent for an airline but hate dealing with people during delays and such. I am going to school for my A.S. in computer science and have been self-studying Java and C++. I love traveling and would really like to see myself at HDQ for an airline doing something I love.  Thanks in advance everyone!  submitted by  LaBwork_IA  to  softwarede...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "If anyone here has any experience with Information Technology and the airline business I would love to hear from you or dm with you. I work as a custo...",
+                "fallback": "If anyone here has any experience with Information Technology and the airline business I would love to hear from you or dm with you. I work as a custo...",
+                "from_url": "http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1y6y97\/interested_in_working_for_an_airline_as_a\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392683581.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1y71gc\/need_help_with_a_tiny_logic_error_almost_finished\/|Need help with a tiny logic error, almost finished!>\nI&amp;#39;ll post my code and then summarize the problem really quickly at the bottom. import java.util.Scanner; public class QuadraticProg { public static void main(String[] args) { Scanner input = new Scanner(<http:\/\/System.in|System.in>); \/\/Prompt user to enter coefficients System.out.print(\"Please enter the values for coefficients a, b, and c: \"); double a = input.nextDouble(); double b = input.nextDouble(); double c = input.nextDouble(); input.close(); \/\/I will create a Quadratic object with the values that were ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'll post my code and then summarize the problem really quickly at the bottom. import java.util.Scanner; public class QuadraticProg { pub...",
+                "fallback": "I'll post my code and then summarize the problem really quickly at the bottom. import java.util.Scanner; public class QuadraticProg { pub...",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1y71gc\/need_help_with_a_tiny_logic_error_almost_finished\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392689280.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1y7a5l\/going_to_hackathon_with_no_experience_need_help\/|Going to hackathon with no experience, need help!>\nSo I am going to hackathon (a 24 hour coding event) with relatively no pratical experience in coding, although I have learned some php\/c++. My team (same experience as me, but java instead of c++) and I have decided to build a web app using java. My questions are: *If I want to build a web app using java, what is everything that I will need? *What software will I have to download? *Will I be using html? *I have heard that the Play framework is good(is it?), what is it exactly?  We are kind of pl...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "So I am going to hackathon (a 24 hour coding event) with relatively no pratical experience in coding, although I have learned some php\/c++. My team (s...",
+                "fallback": "So I am going to hackathon (a 24 hour coding event) with relatively no pratical experience in coding, although I have learned some php\/c++. My team (s...",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1y7a5l\/going_to_hackathon_with_no_experience_need_help\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392694899.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1y7izn\/are_their_any_other_companies_like_the_khan\/|Are their any other companies like the Khan Academy?>\nI&amp;#39;m searching for job opportunities, I love everything KA is about but I loath Silicon Valley. Is there anything else out there?  submitted by  thefreemind  to  softwaredevelopment  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm searching for job opportunities, I love everything KA is about but I loath Silicon Valley. Is there anything else out there?",
+                "fallback": "I'm searching for job opportunities, I love everything KA is about but I loath Silicon Valley. Is there anything else out there?",
+                "from_url": "http:\/\/www.reddit.com\/r\/softwaredevelopment\/comments\/1y7izn\/are_their_any_other_companies_like_the_khan\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392694899.000003"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1y7j73\/salary_for_an_entry_level_software_engineer\/|Salary For an Entry Level Software Engineer>\nI am applying for an entry level software engineering position and on the application it has a desired compensation field but I have no idea what salary to put for this. I have googled salary for an entry level position but im getting a lot of different numbers. The jobs located on long island New York. What would you guys reccomend i put  submitted by  AyooNisto  to  java  [link] [\ub313\uae00 3]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am applying for an entry level software engineering position and on the application it has a desired compensation field but I have no idea what sala...",
+                "fallback": "I am applying for an entry level software engineering position and on the application it has a desired compensation field but I have no idea what sala...",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1y7j73\/salary_for_an_entry_level_software_engineer\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392698674.000006"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1y7kxx\/my_new_job_comes_with_some_perks\/|My new job comes with some perks :)>\nsubmitted by  pyro2927  to  opensource  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1y7kxx\/my_new_job_comes_with_some_perks\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392698674.000007"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1y7qdp\/deep_learning_pioneer_yoshua_bengio_will_be_doing\/|Deep Learning Pioneer, Yoshua Bengio will be doing an AMA in \/r\/MachineLearning on Feb. 24 1PM EST>\nUniversit\u00e9 de Montr\u00e9al Professor Yoshua Bengio will be visiting \/r\/MachineLearning for an AMA on February 24 at 1 PM EST.  Special thanks to Ian Goodfellow for helping to arrange this. If the \/r\/MachineLearning community would like more of these, let us know!  submitted by  olaf_nij  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Universit\u00e9 de Montr\u00e9al Professor Yoshua Bengio will be visiting \/r\/MachineLearning for an AMA on February 24 at 1 PM EST. Special thanks to Ian Good...",
+                "fallback": "Universit\u00e9 de Montr\u00e9al Professor Yoshua Bengio will be visiting \/r\/MachineLearning for an AMA on February 24 at 1 PM EST. Special thanks to Ian Good...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1y7qdp\/deep_learning_pioneer_yoshua_bengio_will_be_doing\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392700564.000010"
+    }
+]

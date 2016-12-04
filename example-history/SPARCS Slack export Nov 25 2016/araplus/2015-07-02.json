@@ -1,0 +1,483 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/1#issuecomment-117959620|#1: Apps\/Session register, login, logout \uae30\ub2a5 \uad6c\ud604>",
+                "text": "indentation \\t\uc5d0\uc11c \\s*4\ub85c \ubc14\uafd4\uc8fc\uc2dc\uace0\n\uc218\uc815\ud55c \ud30c\uc774\uc36c \ud30c\uc77c\ub4e4\uc5d0 flake8 \ud55c\ubc88 \ub3cc\ub9ac\uace0 \uc5d0\ub7ec \ubaa8\ub450 \uc5c6\uc560\uace0 \ucee4\ubc0b\ud574\uc8fc\uc138\uc694\n(pip install pyflake)",
+                "pretext": "[sparcs-kaist\/araplus] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/1#issuecomment-117959620|#1: Apps\/Session register, login, logout \uae30\ub2a5 \uad6c\ud604>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435826448.000044"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:master] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/46d277d|1 new commit> by Chang Won LEE",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/46d277d|46d277d>: Delete db.sqlite3 - Chang Won LEE",
+                "pretext": "[araplus:master] 1 new commit by Chang Won LEE:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435827230.000045"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board|board>\" was pushed by ktk1012",
+                "text": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board|board>\" was pushed by ktk1012",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435827473.000046"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/dc219068268d...836fb47ffa4a|2 new commits> by Chang Won LEE and 1 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/46d277d|46d277d>: Delete db.sqlite3 - Chang Won LEE\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/836fb47|836fb47>: Merge branch 'master' into apps\/session - Shavakan",
+                "pretext": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/dc219068268d...836fb47ffa4a|2 new commits> by Chang Won LEE and 1 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435827934.000047"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aaeb9e4|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aaeb9e4|aaeb9e4>: Update models.py - ktk1012",
+                "pretext": "[araplus:board] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435829997.000048"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/aaeb9e4cd1d6...6230da006977|2 new commits> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2668549|2668549>: \ubcf4\ub4dc models.py \uc791\uc131 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6230da0|6230da0>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/aaeb9e4cd1d6...6230da006977|2 new commits> by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435830255.000049"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6146c8d|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6146c8d|6146c8d>: \ubbfc\uc218\ub294 \uc544\ubb34\uac83\ub3c4.. - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435830436.000050"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uce74\uc640\uc774..",
+        "ts": "1435830463.000051"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6146c8d9ddc6...936d613a2e9c|2 new commits> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d5fc2c0|d5fc2c0>: tab size \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/936d613|936d613>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6146c8d9ddc6...936d613a2e9c|2 new commits> by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435830707.000052"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6146c8d#commitcomment-11971265|6146c8d>",
+                "text": "\ub2e4\uc74c\ubd80\ud130 \ucee4\ubc0b \uba54\uc2dc\uc9c0 \uc774\ub7f0 \uc2dd\uc73c\ub85c \uc801\uc73c\uba74 \ub4a4\ud1b5\uc218 \ub54c\ub9b4\uac70\uc784",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6146c8d#commitcomment-11971265|6146c8d>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435830819.000053"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/abd6d3c|1 new commit> by Shavakan",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/abd6d3c|abd6d3c>: Created base.html - Shavakan",
+                "pretext": "[araplus:apps\/session] 1 new commit by Shavakan:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435831036.000054"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc2dc\ubc24...",
+        "ts": "1435831110.000055"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] Branch \"apps\/session\" was force-pushed to <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/836fb47ffa4afc578aa880eee49ee145895a4adc|836fb47> by Shavakan. <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/abd6d3c13e5f...836fb47ffa4a|Compare changes>",
+                "text": "[araplus] Branch \"apps\/session\" was force-pushed to <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/836fb47ffa4afc578aa880eee49ee145895a4adc|836fb47> by Shavakan. <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/abd6d3c13e5f...836fb47ffa4a|Compare changes>",
+                "id": 1,
+                "color": "4183C4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435831163.000056"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "araplus\ub85c \ubcf4\ub0b8 \uba54\uc77c \ud655\uc778\ud558\uc2dc\uace0 \uc774\ubc88\uc8fc \uc791\uc5c5\ud558\ub294 \ud398\uc5b4\ub4e4\uc740 \uaf2d \ub2f5\uc7a5 \ub2ec\uc544\uc8fc\uc138\uc694!",
+        "ts": "1435831169.000057"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc544\ubb34\uc77c\ub3c4 \uc77c\uc5b4\ub098\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4",
+        "ts": "1435831175.000058"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:master] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/29d733f|1 new commit> by Shavakan",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/29d733f|29d733f>: Created base.html - Shavakan",
+                "pretext": "[araplus:master] 1 new commit by Shavakan:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435831223.000059"
+    },
+    {
+        "user": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0K6|rodumani> has joined the channel",
+        "ts": "1435833314.000060"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc624\uc624",
+        "ts": "1435833346.000061"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc548\ub155\ud558\uc138\uc694 \u314b\u314b",
+        "ts": "1435836340.000062"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/8c39c9d6c1bf...e6345745ab49|5 new commits> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/438e790|438e790>: add proper id to comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/232f639|232f639>: delete db - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/135196b|135196b>: implement real time updating - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b48a94a|b48a94a>: change the max length of comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e634574|e634574>: apply foreign key on GrillComment - storykim",
+                "pretext": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/8c39c9d6c1bf...e6345745ab49|5 new commits> by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435843244.000063"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f8e8cfe|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f8e8cfe|f8e8cfe>: \uc624\ub958 \uc218\uc815 - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435844669.000064"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub4a4\ud1b5\uc218\ub300\uc148",
+        "ts": "1435845936.000065"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/18ce39d|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/18ce39d|18ce39d>: not null policy \uc218\uc815. column name \ubcc0\uacbd. - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435846036.000066"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "zzzzzz",
+        "ts": "1435846347.000067"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1435846352.000068"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub2e4\ub4e4 vimrc\ub294 \uc5b4\ub5a4\uac70 \uc4f0\ub098\uc5ec",
+        "ts": "1435846676.000069"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<https:\/\/github.com\/hodduc\/vimfile> \ube54\ud30c\uc77c \uad11\uace0 \ud558\ub098....",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "hodduc\/vimfile",
+                "title_link": "https:\/\/github.com\/hodduc\/vimfile",
+                "text": "vimfile - Hodduc's vimrc",
+                "fallback": "GitHub: hodduc\/vimfile",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/1841490?v=3&s=400",
+                "from_url": "https:\/\/github.com\/hodduc\/vimfile",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1435846830.000070"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "python\ucabd \uc791\uc5c5\ud558\ub294 \uc0ac\ub78c\ub4e4\uc740 \uc801\uc5b4\ub3c4 vim python-mode \uae54\uace0 pep8+pyflake check on save \uc815\ub3c4\ub294 \uc501\uc2dc\ub2f9",
+        "edited": {
+            "user": "U024SHLFH",
+            "ts": "1435846890.000000"
+        },
+        "ts": "1435846865.000072"
+    },
+    {
+        "user": "U024SHLFH",
+        "topic": "6146c8d: \ubbfc\uc218\ub294 \uc544\ubb34\uac83\ub3c4.. - kanon \/ Shavakan: \ub2e4\uc74c\ubd80\ud130 \ucee4\ubc0b \uba54\uc2dc\uc9c0 \uc774\ub7f0 \uc2dd\uc73c\ub85c \uc801\uc73c\uba74 \ub4a4\ud1b5\uc218 \ub54c\ub9b4\uac70\uc784",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024SHLFH|hodduc> set the channel topic: 6146c8d: \ubbfc\uc218\ub294 \uc544\ubb34\uac83\ub3c4.. - kanon \/ Shavakan: \ub2e4\uc74c\ubd80\ud130 \ucee4\ubc0b \uba54\uc2dc\uc9c0 \uc774\ub7f0 \uc2dd\uc73c\ub85c \uc801\uc73c\uba74 \ub4a4\ud1b5\uc218 \ub54c\ub9b4\uac70\uc784",
+        "ts": "1435846967.000075"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/18ce39d5d43b...c3211eac7007|5 new commits> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a545352|a545352>: board post form templates - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dd71ff9|dd71ff9>: Revert \"board post form templates\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b735ec1|b735ec1>: Revert \"Revert \"board post form templates\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d19eb8|0d19eb8>: Revert \"Revert \"Revert \"board post form templates\"\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c3211ea|c3211ea>: board post, write template - kanon",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/18ce39d5d43b...c3211eac7007|5 new commits> by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435860619.000076"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/371d995|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/371d995|371d995>: post url\ucd94\uac00, read url\ucd94\uac00 - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435860739.000077"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/42e9f14|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/42e9f14|42e9f14>: board_read, board_write - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435860863.000078"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9ca596b|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9ca596b|9ca596b>: BoardPost.is_notice Defualt \uac12 \ucd94\uac00, board \ud14c\uc2a4\ud2b8 \uc704\ud574 \uc77c\ubd80 \uc8fc\uc11d\ucc98\ub9ac - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1435860943.000079"
+    }
+]

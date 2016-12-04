@@ -1,0 +1,10 @@
+[
+    {
+        "user": "U02PEJCVA",
+        "topic": "Heartbeat - reboot",
+        "text": "<@U02PEJCVA|samjo> set the channel topic: Heartbeat - reboot",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1474472350.000022"
+    }
+]

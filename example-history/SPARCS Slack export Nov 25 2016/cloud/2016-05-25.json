@@ -1,0 +1,41 @@
+[
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1464245083.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "!\uad6c\ub984 \ubaa9\ub85d",
+        "ts": "1464245088.000003"
+    },
+    {
+        "user": "U0KDL4448",
+        "inviter": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0KDL4448|iriya_bot> has joined the channel",
+        "ts": "1464245106.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "!\uad6c\ub984 \ubaa9\ub85d",
+        "ts": "1464245109.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "leeopop \ub2d8\uc758 \uc778\uc2a4\ud134\uc2a4 \ubaa9\ub85d (1 \uac1c)",
+        "ts": "1464245110.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc778\uc2a4\ud134\uc2a4 olive: <mailto:leeopop@cloud.leeopop.kr|leeopop@cloud.leeopop.kr>:52866",
+        "ts": "1464245112.000007"
+    }
+]

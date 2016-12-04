@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U0V6MLCAH",
+        "text": "<@U0V6MLCAH|hou> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473148328.000993"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "IMAP\uc740 exim4 \ub9d0\uace0 dovecot \uc4f0\ub294 \uac74\uac00\uc694?",
+        "ts": "1473161562.000994"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c... exim\uacfc dovecot\uc740 \ud558\ub294 \uc77c\uc774 \ub2ec\ub77c\uc694",
+        "ts": "1473162387.000995"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<http:\/\/www2.engr.arizona.edu\/~edatools\/ece509\/fundamentals\/EmailFundamentals.htm>",
+        "ts": "1473162418.000996"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc774\ubbf8\uc9c0\ub97c \ubcf4\uba74 exim\uc740 MSA\uc758 \uc5ed\ud560\uc744 \ud558\uace0 \uc788\uace0 dovecot\uc740 MDA\uc758 \uc5ed\ud560\uc744 \ud558\uace0 \uc788\uc8e0",
+        "ts": "1473162448.000997"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ubb50 \uae30\ub2a5\uc774 \uc0b4\uc9dd\uc529 \uacb9\uce58\uae30\ub3c4 \ud558\ub294\ub370",
+        "edited": {
+            "user": "U024SNAD0",
+            "ts": "1473162480.000000"
+        },
+        "ts": "1473162462.000998"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud06c\uac8c \ubcf4\uba74 \uadf8\ub807\uc2b5\ub2c8\ub2e4.",
+        "ts": "1473162467.000999"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub9ac\uace0 exim\uc740 SMTP \ud504\ub85c\ud1a0\ucf5c\uc744 \uc4f0\uace0 dovecot\uc740 IMAP \uacfc POP \ud504\ub85c\ud1a0\ucf5c\uc744 \uc4f0\ub294\uac70\uc8e0",
+        "edited": {
+            "user": "U024SNAD0",
+            "ts": "1473162532.000000"
+        },
+        "ts": "1473162523.001001"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "exim\uac19\uc740 MSA\ub294 \uc6b0\uccb4\uad6d\uc774\uace0",
+        "ts": "1473164559.001003"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "dovecot\uc740 \ucef4\uc5d0 \uc788\ub294 \uc6b0\uccb4\ud1b5\uc744 \uc6d0\uaca9\uc5d0\uc11c IMAP\uac19\uc740 \ud504\ub85c\ud1a0\ucf5c\ub85c \uc870\ud68c\ud560 \uc218 \uc788\uac8c \ud574\uc8fc\ub294\ub188\uc774\uc5d0\uc694",
+        "ts": "1473164585.001004"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "SMTP: \ubcf4\ub0b4\uae30",
+        "ts": "1473167006.001005"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "IMAP: \uba54\uc77c \uc870\ud68c",
+        "ts": "1473167019.001006"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "POP: \uba54\uc77c \ubcf5\uc0ac",
+        "ts": "1473167022.001007"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc804 \uc694\uc815\ub3c4\ub85c\ub9cc \uc774\ud574\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1473167026.001008"
+    }
+]

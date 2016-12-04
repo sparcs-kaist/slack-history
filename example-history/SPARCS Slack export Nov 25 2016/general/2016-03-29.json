@@ -1,0 +1,713 @@
+[
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "<https:\/\/sparcs.slack.com\/archives\/general\/p1459224635001073>",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/sparcs.slack.com\/archives\/general\/p1459224635001073",
+                "fallback": "[March 28th, 2016 9:10 PM] combacsa: \uae40\uc6a9\ub300 \uad50\uc218? \ub77c\ub294 \ubd84\uc774\ub791 \ud398\uce5c\uc774 \ub418\uc5c8\ub294\ub370",
+                "author_subname": "combacsa",
+                "ts": "1459224635.001073",
+                "text": "\uae40\uc6a9\ub300 \uad50\uc218? \ub77c\ub294 \ubd84\uc774\ub791 \ud398\uce5c\uc774 \ub418\uc5c8\ub294\ub370",
+                "author_name": "combacsa \ubcc0\uaddc\ud64d",
+                "author_link": "https:\/\/sparcs.slack.com\/team\/combacsa",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2014-04-07\/2276254035_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ],
+        "ts": "1459241404.001081"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc81c\uac00 \uac70\uae30 \uc788\ub2e4\uac00 \ub3c5\uc77c\ub85c \uc0ac\ucd9c!",
+        "ts": "1459241411.001083"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "surrogates not allowed \uac00 \ubb34\uc2a8 \uc5d0\ub7ec\uc77c\uae4c\uc694 utf-8\ub85c \uc2a4\ud2b8\ub9c1 \ucc98\ub9ac\ud558\ub2e4\uac00..",
+        "ts": "1459254197.001084"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc624\ub798 \uc804\uc5d0 \uc720\ub2c8\ucf54\ub4dc\uac00 16\ube44\ud2b8\uc600\ub358 \uc2dc\uc808\uc5d0",
+        "ts": "1459254291.001085"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "16\ube44\ud2b8 \ud55c\uacc4\ub97c \ucc9c\uc6d0\ub3cc\ud30c\ud558\uae30 \uc704\ud574\uc11c BMP \ubc14\uae65\ucabd\uc5d0 \uc788\ub294 \ubb38\uc790\ub4e4\uc744 16\ube44\ud2b8 \ubb38\uc790 \ub450 \uac1c\ub85c \ud45c\uc2dc\ud558\ub294 \ubc29\uc2dd\uc774 \uc788\uc5c8\uc9c0",
+        "ts": "1459254308.001086"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\ubb38\uc81c\ub294 UTF-8\uc740 16\ube44\ud2b8 \uc774\uc0c1 \uc720\ub2c8\ucf54\ub4dc \ucf54\ub4dc \ud3ec\uc778\ud2b8\ub97c \uc778\ucf54\ub529\ud560 \uc218 \uc788\uae30 \ub54c\ubb38\uc5d0 \uad73\uc774 \uc800 \uc9d3\uc744 \ud560 \ud544\uc694\uac00 \uc5c6\ub294\ub370\ub2e4\uac00 UTF-8\uc740 \ud558\ub098\uc758 \uc720\ub2c8\ucf54\ub4dc \ucf54\ub4dc \ud3ec\uc778\ud2b8\uc5d0 \ub300\ud574\uc11c \uac00\uc7a5 \uc9e7\uc740 \ud45c\ud604\ub9cc valid\ud55c \uac83\uc73c\ub85c \uce58\uae30 \ub54c\ubb38\uc5d0",
+        "ts": "1459254355.001087"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "Surrogate\ub97c \uc4f8 \ud544\uc694\uac00 \uc5c6\uace0 \uc4f0\uba74 \uc5d0\ub7ec\ub97c \ub744\uc6b0\ub294 \uac78\ud150\ub370",
+        "ts": "1459254367.001088"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc5d0\ubaa8\uc9c0 \uac19\uc740 \uac70 \ub2e4\ub8e8\ub098?",
+        "ts": "1459254372.001089"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub098\ubb34\uc704\ud0a4 json \ub364\ud504\ub97c",
+        "ts": "1459254380.001090"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "sqlite\uc5d0 \ubc00\uc5b4\ub123\uace0\uc788\ub294\ub370",
+        "ts": "1459254392.001091"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc548\ub418\ub124\uc694 ..",
+        "ts": "1459254421.001092"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc774\ub7f4 \ub54c \uc720\ub2c8\ucf54\ub4dc \uc804\ubb38\uac00 \ud1a0\ub07c\uad70 \uc120\uc0dd\uc774 \ud280\uc5b4\ub098\uc640\uc57c \ud558\ub294\ub370",
+        "ts": "1459254434.001093"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc74c \uc544\ub9c8 \uc61b\ub0a0 \ubaa8\ub2c8\uc704\ud0a4 \uc2dc\uc808\uc758 \uc720\uc0b0\uc77c\uc218\ub3c4 \uc788\uc744 \uac83 \uac19\uc74c...",
+        "ts": "1459254448.001094"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc73c",
+        "ts": "1459254468.001095"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uac70 escape \ud558\ub294 \ubc29\ubc95\uc774 \uc5c6\uc744\uae4c\uc694",
+        "ts": "1459254476.001096"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadf8\ub0e5 \uc720\ub2c8\ucf54\ub4dc \ubb38\uc790\uc5f4\ub85c \ubc14\uafd4\ubc84\ub9ac\uba74\uc548\ub418\ub098..",
+        "ts": "1459254484.001097"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "Surrogate\ub97c \uc77d\ub294\ub2e4 -&gt; \uc720\ub2c8\ucf54\ub4dc \ucf54\ub4dc \ud3ec\uc778\ud2b8\ub85c \ub514\ucf54\ub529\ud55c\ub2e4 -&gt; UTF-8\ub85c \uc778\ucf54\ub529\ud574\uc11c \uc800\uc7a5\ud55c\ub2e4",
+        "ts": "1459254508.001098"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/stackoverflow.com\/questions\/19649463\/how-to-do-surrogateescape-in-python2>",
+        "attachments": [
+            {
+                "title": "How to do surrogateescape in python2",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/19649463\/how-to-do-surrogateescape-in-python2",
+                "text": "Python3 changed the unicode behaviour to deny surrogate pairs while python2 not. There's a question here But it do not supply a solution on how to remove surrogate pairs in python2 or how to do",
+                "fallback": "How to do surrogateescape in python2",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/19649463\/how-to-do-surrogateescape-in-python2",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1
+            }
+        ],
+        "ts": "1459254576.001099"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "*There is no builtin solution, but there is an implementation of surrogateescapes in python-future:*",
+        "ts": "1459254582.001101"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544 \uc774\ub7f0\uac70 \uc9c4\uc9dc..",
+        "ts": "1459254622.001102"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "UCS \ub2e4\ub8e8\uc2dc\ub098\uc694..",
+        "ts": "1459255274.001103"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544\uc544\uc544",
+        "ts": "1459256820.001104"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "with open(found, mode=\"r\", encoding=\"utf8\") as dump:\n        objects = ijson.parse(dump)",
+        "ts": "1459256828.001105"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uac70 \ud574\uc8fc\uba74 \uc800 \ud30c\uc77c \uc77d\uc744 \ub54c \ucf54\ub371\uc774 \uc54c\uc544\uc11c \ud574\uc8fc\ub294\uac70 \uc544\ub2cc\uac00\uc694..",
+        "ts": "1459256838.001106"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud30c\uc774\uc36c2\ub97c \uc8fc\uae41\uc2dc\ub2e4",
+        "ts": "1459257674.001107"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc720\ub2c8\ucf54\ub4dc \uc9c4\uc9dc \uadf8\uc9c0\uac19\uc544\uc694 \ud30c\uc774\uc36c2",
+        "ts": "1459257682.001108"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ud30c\uc774\uc36c open\uc5d0 encoding\uc774\ub77c\ub294 keyword argument\uac00 \uc788\uc5b4\uc694?",
+        "ts": "1459257926.001109"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "namespace = namespace.encode(\"utf-8\").decode(\"utf-8\")\n                    title = title.encode(\"utf-8\").decode(\"utf-8\")\n                    text = text.encode(\"utf-8\").decode(\"utf-8\")",
+        "ts": "1459257957.001110"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub098 3 \ub9e4\ub2c8\uc544\uc784",
+        "ts": "1459257962.001111"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uac8c \ubb54\uac00 \ud574\uacb0\ucc45\uc778\uac70\uac19\uc740\ub370",
+        "ts": "1459257972.001112"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc544 \ud30c\uc774\uc36c 3\uad70\uc694",
+        "ts": "1459257974.001113"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubb34\uc2a8 \uc774\ub7f0\uacbd\uc6b0\uac00..",
+        "ts": "1459257983.001114"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uac8c json \uc790\uccb4\ub97c \uc77d\uc5b4\uc11c \ud30c\uc774\uc36c \uc2a4\ud2b8\ub9c1\uc73c\ub85c\ub294 \ubcc0\ud658\uc774 \uc798 \ub418\uc5c8\uac70\ub4e0\uc694",
+        "ts": "1459257994.001115"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadf8 \uc2a4\ud2b8\ub9c1\uc774 \ub098\uc05c \uc11c\ub85c\uac8c\uc774\ud2b8 \uac12\uc744 \uadf8\ub300\ub85c \ub4e4\uace0\uc788\uc5b4\uc11c \ubb38\uc81c\uc778\ub370",
+        "ts": "1459258006.001116"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544",
+        "ts": "1459258024.001117"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub610 \uc8fd\uc5c8\ub2e4..",
+        "ts": "1459258026.001118"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc74c... \uc560\ucd08\uc5d0 \ub364\ud504\uac00 \uc798\ubabb\ub418\uc5b4 \uc788\ub294 \uac74\uac00\uc694",
+        "ts": "1459258063.001119"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc798\ubabb\uc774\ub77c\uae30\ubcf4\ub2e4\ub294",
+        "ts": "1459258170.001120"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc11c\ub85c\uac8c\uc774\ud2b8\ub97c \ud3ec\ud568\ud558\uace0\uc788\uace0",
+        "ts": "1459258174.001121"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud30c\uc774\uc120\uc5d0\uc11c \uc77d\uc744\ub54c\ub294 \uadf8\ub0e5 \uadf8\ub7ec\ub824\ub2c8 \ud558\uace0 \uc798 \uc77d\uc5b4\uc694",
+        "ts": "1459258186.001122"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud639\uc2dc \uc778\ucf54\ub529\uc744 utf-8\ub9d0\uace0 32\ube44\ud2b8 \uc720\ub2c8\ucf54\ub4dc\ub85c \ubc15\uc544\ubc84\ub9ac\uba74 \uc798 \ub420\uae4c\uc694..",
+        "ts": "1459258221.001123"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc560\ucd08\uc5d0 \uc778\ucf54\ub529\uc774 UTF-8\uc774 \uc544\ub2c8\ub77c\uace0 \ubd10\uc57c\uaca0\ub124\uc694",
+        "ts": "1459258303.001124"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "<http:\/\/simonsapin.github.io\/wtf-8\/> \ub77c\uace0 \ubd10\uc57c",
+        "ts": "1459258317.001125"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "test = \"\\ud845\"\ntest.encode(\"utf-8\", errors=\"surrogateescape\")",
+        "ts": "1459258936.001126"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ucacc \uadf8\ub807\ub124\uc694",
+        "ts": "1459258961.001127"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud6c4..",
+        "ts": "1459259264.001128"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud574\ub2f5\uc744 \ucc3e\uc558\uc2b5\ub2c8\ub2e4.",
+        "ts": "1459259268.001129"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "namespace = namespace.encode(encoding=\"utf-8\", errors=\"surrogatepass\").decode(encoding=\"utf-8\", errors=\"surrogateescape\")\n                    title = title.encode(encoding=\"utf-8\", errors=\"surrogatepass\").decode(encoding=\"utf-8\", errors=\"surrogateescape\")\n                    text = text.encode(encoding=\"utf-8\", errors=\"surrogatepass\").decode(encoding=\"utf-8\", errors=\"surrogateescape\")",
+        "ts": "1459259269.001130"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uac70\ub124\uc694 ..",
+        "ts": "1459259271.001131"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc55e\ucabd\uc5d4 *surrogatepass* \ub4a4\ucabd\uc5d4 *surrogateescape*",
+        "ts": "1459259292.001132"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "10\ubd84\ucbe4 \uc788\ub2e4\uac00 \ud30c\uc2f1\uc774 \uc644\ub8cc\ub418\uc5c8\ub294\uc9c0 \ud55c\ubc88 \ubcf4\uc8e0",
+        "ts": "1459259303.001133"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "d\uc554\u3147\u3134\ub77c\uc544\uc544",
+        "ts": "1459259399.001134"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "text = text.encode(encoding=\"utf-8\", errors=\"surrogatepass\").decode(encoding=\"utf-8\", errors=\"replace\") \uc774\uac78\ub85c \ud0c0\ud611\ubcf4\ub294\uac78\ub85c..",
+        "ts": "1459259458.001135"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc2a4\ud2b8\ub9c1.\uc778\ucf54\ub4dc.\ub514\ucf54\ub4dc \ub9c8\uc131\uc758 \ucf54\ub4dc\uc778 \uac83...",
+        "ts": "1459261711.001136"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<https:\/\/github.com\/invictusjs\/kaist-bob>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "invictusjs\/kaist-bob",
+                "title_link": "https:\/\/github.com\/invictusjs\/kaist-bob",
+                "text": "kaist-bob - A Slack bot scraping KAIST cafeteria menus",
+                "fallback": "GitHub: invictusjs\/kaist-bob",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/2654940?v=3&s=400",
+                "from_url": "https:\/\/github.com\/invictusjs\/kaist-bob",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1459264678.001137"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uac70 \ucc38\uc870\ud574\uc11c \ubc25 \uae30\ub2a5\uc744 \ucd94\uac00\ud574\ubcf4\uc558\uc5b4\uc694",
+        "ts": "1459264686.001139"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "!\ubc25",
+        "ts": "1459264689.001140"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "!\ubc25 \uae30\ubcf8 \uad50\uc218\ud68c\uad00",
+        "ts": "1459264697.001143"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "!\ubc25 \ub0b4\uc77c \uc800\ub141",
+        "ts": "1459264701.001145"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "?",
+        "ts": "1459298803.001151"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "!\ubc25",
+        "ts": "1459298805.001152"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "!\ubc25 \uae30\ubcf8 \uad50\uc218\ud68c\uad00",
+        "ts": "1459298814.001155"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "!\ubc25",
+        "ts": "1459298819.001157"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "!\ubc25",
+        "ts": "1459300294.001161"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "?",
+        "ts": "1459300295.001163"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "!\ubc25 \ud559\uc2dd",
+        "ts": "1459300300.001165"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "!\ubc25 \ud559\uc2dd",
+        "ts": "1459300312.001168"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ubb50\ub77c\uace0?",
+        "ts": "1459300317.001170"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\u201c\"",
+        "ts": "1459300319.001172"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uadf8\ub9ac\uace0 \uc65c \uc0ad\uc81c\ub418\uc9c0..",
+        "ts": "1459300326.001173"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uad49\uc7a5\ud788 \uc774\uc0c1\ud55c \uae30\ub2a5\uc774\uad70\uc694..",
+        "ts": "1459300342.001174"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "!\ubc25 \uae30\ubcf8 \uad50\uc218\ud68c\uad00",
+        "ts": "1459300361.001175"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "!\ubc25",
+        "ts": "1459300363.001177"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "!\ubc25 \ub300\ub355\ub3d9\ub124\ud53c\uc790",
+        "ts": "1459301095.001181"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "!\ubc25",
+        "ts": "1459301106.001184"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "!\ucd5c\uc0a1\ubea9",
+        "ts": "1459301110.001186"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ud5db",
+        "ts": "1459301692.001188"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uba39\uace0 \uc2f6\ub2e4",
+        "ts": "1459301693.001189"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ub300\ub355\ub3d9\ub124\ud53c\uc790",
+        "ts": "1459301695.001190"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "softdie: \ub450\uba54\ub294 \uc5b4\ub5a0\uc2e0\uac00\uc694",
+        "ts": "1459301859.001191"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uc774\uadfc\ud64d \uc774\ub188 \u314b\u314b\u314b\u314b \ub0b4\uac00 \uae30\ub2a5 \uc880 \ucd94\uac00\ud558\uace0 README \ucd94\uac00\ud574\uc11c \uc5ec\uae30\ub3c4 \ubc25\ubd07 \ud558\ub098 \ub3cc\ub9ac\ub824 \ud588\ub294\ub370",
+        "ts": "1459302721.001192"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "!\ubc25",
+        "ts": "1459302725.001193"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "!\ubc25",
+        "ts": "1459302777.001196"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544 \ubc84\uadf8\uac00 \uc788\uc5c8\ub124\uc694",
+        "ts": "1459303251.001197"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uad50\uc218\ud68c\uad00\uc774 \uc544\uce68 \uc6b4\uc601\uc2dc\uac04\uc774 \uc5c6\uc5b4\uc11c",
+        "ts": "1459303257.001198"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "!\ubc25",
+        "ts": "1459303261.001199"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F0WDDDS1W\/pasted_image_at_2016_03_30_11_01_am.png|Pasted image at 2016-03-30, 11:01 AM>",
+        "file": {
+            "id": "F0WDDDS1W",
+            "created": 1459303278,
+            "timestamp": 1459303278,
+            "name": "Pasted image at 2016_03_30 11_01 AM.png",
+            "title": "Pasted image at 2016-03-30, 11:01 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 60802,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0WDDDS1W\/pasted_image_at_2016_03_30_11_01_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0WDDDS1W\/download\/pasted_image_at_2016_03_30_11_01_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0WDDDS1W-10c67c5e03\/pasted_image_at_2016_03_30_11_01_am_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0WDDDS1W-10c67c5e03\/pasted_image_at_2016_03_30_11_01_am_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0WDDDS1W-10c67c5e03\/pasted_image_at_2016_03_30_11_01_am_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 257,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0WDDDS1W-10c67c5e03\/pasted_image_at_2016_03_30_11_01_am_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 343,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0WDDDS1W-10c67c5e03\/pasted_image_at_2016_03_30_11_01_am_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0WDDDS1W-10c67c5e03\/pasted_image_at_2016_03_30_11_01_am_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 514,
+            "image_exif_rotation": 1,
+            "original_w": 767,
+            "original_h": 548,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F0WDDDS1W\/pasted_image_at_2016_03_30_11_01_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0WDDDS1W-f7b3acd3e9",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1459303280.001206"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ub450\uba54\ub3c4 \uc88b\uc9c0",
+        "ts": "1459303631.001207"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "!\ubc25",
+        "ts": "1459304270.001208"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "!\ubc25 \ud559\uc2dd",
+        "ts": "1459304275.001210"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uadfc\ud64d\uc544 \uadfc\ub370 \ub098\ub3c4 \ubc25\ubd07 \uc880 \ub354 \ub2e4\ub4ec\uc5b4\uc11c \ub2e4\ub978 Slack \uc4f0\ub294 \uadf8\ub8f9\ub3c4 \ud544\uc694\ud558\uba74 \uac00\uc838\ub2e4 \uc4f0\ub77c\uace0 \ubc30\ud3ec\ub97c \ud558\ub824\ud558\uace0 \uc788\ub294\ub370",
+        "ts": "1459304300.001218"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\ub124\uac00 \ub098\ud55c\ud14c \ubcc4\ub2e4\ub978 \uc5b8\uc9c8 \uc5c6\uc774 \uadf8\ub0e5 \uae30\ub2a5\uc744 \ubd07\uc5d0 \ubd99\uc5ec \ubc84\ub9ac\ub2c8 \uc880 \uc544\uc27d\uad6c\ub098. \ub098\ud55c\ud14c \uae30\ub2a5\uc744 \uc774\uac70\uc800\uac70 \ucd94\uac00\ud574\ubcf4\ub77c\uace0 \uc81c\uc2dc\ub97c \ud574\uc904 \uc218\ub294 \uc5c6\uc5c8\uc744\uae4c?",
+        "ts": "1459304645.001219"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uc544\ubb34\ud2bc \uc544\uae4c\ub3c4 \uc598\uae30\ud588\ub4ef\uc774 \ub124\uac00 \uac1c\ubcc4\uc801\uc73c\ub85c \uac1c\ubc1c\ud558\ub294 \uac70\ub294 \uc0c1\uad00 \uc5c6\uace0 \uac00\ub2a5\ud558\ub2e4\uba74 \ub124 \ubd07\ub3c4 \uacf5\uac1c\ub97c \ud574\uc11c Acknowledge \uc815\ub3c4\ub77c\ub3c4 \ud574\uc8fc\uba74 \uc88b\uaca0\uc5b4. \ubd07 \ub9cc\ub4e4\uace0 \uc2f6\uc740 \ub2e4\ub978 \ud6c4\ubc30\ub4e4\ub3c4 \ucc38\uace0 \ud560 \uc218\ub3c4 \uc788\uac8c",
+        "ts": "1459304737.001220"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F0WDY3Y3U\/iriya_bot_______________________________.txt|iriya_bot \uc2dd\ub2e8 \uae30\ub2a5\uc5d0 \ub300\ud55c \ud574\uba85>",
+        "file": {
+            "id": "F0WDY3Y3U",
+            "created": 1459305974,
+            "timestamp": 1459305974,
+            "name": "iriya_bot_______________________________.txt",
+            "title": "iriya_bot \uc2dd\ub2e8 \uae30\ub2a5\uc5d0 \ub300\ud55c \ud574\uba85",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U024SHSMT",
+            "editable": true,
+            "size": 1545,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0WDY3Y3U\/iriya_bot_______________________________.txt?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0WDY3Y3U\/download\/iriya_bot_______________________________.txt?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F0WDY3Y3U\/iriya_bot_______________________________.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0WDY3Y3U-7d77ed472d",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/leeopop\/F0WDY3Y3U\/iriya_bot_______________________________.txt\/edit",
+            "preview": "\uc81c \ubd07 \uc18c\uc2a4\uac00 \uacf5\uac1c \ub9ac\ud3ec\uc9c0\ud1a0\ub9ac\ub85c \uc6b4\uc601\uc744 \uc548 \ud558\ub294 \uc774\uc720\ub294 !\ud0c0\ub85c \uadf8\ub9bc\ub4e4\uc774 \uc800\uc791\uad8c\uc774 \uc788\ub294 \uc774\ubbf8\uc9c0\uc774\uae30 \ub54c\ubb38\uc5d0 \uc81c\ud55c\ub41c \uacf5\uac04\uc5d0\uc11c \ube44 \uc0c1\uc5c5\uc801 \uc6a9\ub3c4\ub85c\ub9cc \uc0ac\uc6a9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.\r\nMIT \ub77c\uc774\uc120\uc2a4\ub294 \uc624\ud508\uc18c\uc2a4\ud654 \uc758\ubb34\ub97c \uac15\uc81c\ud558\uace0 \uc788\uc9c0 \uc54a\uae30 \ub54c\ubb38\uc5d0 \uc18c\uc2a4\ub97c \uac00\uc838\ub2e4 \uc0ac\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4.\r\n\uc81c\uac00 \uc9c1\uc811 \uac1c\ubc1c\ud55c \uc774\uc720\ub294 node.js \ub85c \uc791\uc131\ub41c \uae30\ub2a5\uc744 python\uc73c\ub85c \ub2e4\uc2dc \uad6c\ud604\ud560 \ud544\uc694\ub97c \ub290\uaef4\uc11c \uc9c1\uc811 \uac1c\ubc1c\uc744 \ud55c \uac83\uc785\ub2c8\ub2e4.\r\n\r\n\ud604\uc7ac \uc774 \ubd07\uc758 \uc18c\uc2a4\ub294 \uc694\uccad \uc900 \ub3d9\ub8cc, \uc120\ubc30, \ud6c4\ubc30\uc5d0\uac8c \uacf5\uac1c\ub97c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4\ub9cc,\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>\uc81c \ubd07 \uc18c\uc2a4\uac00 \uacf5\uac1c \ub9ac\ud3ec\uc9c0\ud1a0\ub9ac\ub85c \uc6b4\uc601\uc744 \uc548 \ud558\ub294 \uc774\uc720\ub294 !\ud0c0\ub85c \uadf8\ub9bc\ub4e4\uc774 \uc800\uc791\uad8c\uc774 \uc788\ub294 \uc774\ubbf8\uc9c0\uc774\uae30 \ub54c\ubb38\uc5d0 \uc81c\ud55c\ub41c \uacf5\uac04\uc5d0\uc11c \ube44 \uc0c1\uc5c5\uc801 \uc6a9\ub3c4\ub85c\ub9cc \uc0ac\uc6a9\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.<\/pre><\/div>\n<div><pre>MIT \ub77c\uc774\uc120\uc2a4\ub294 \uc624\ud508\uc18c\uc2a4\ud654 \uc758\ubb34\ub97c \uac15\uc81c\ud558\uace0 \uc788\uc9c0 \uc54a\uae30 \ub54c\ubb38\uc5d0 \uc18c\uc2a4\ub97c \uac00\uc838\ub2e4 \uc0ac\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4.<\/pre><\/div>\n<div><pre>\uc81c\uac00 \uc9c1\uc811 \uac1c\ubc1c\ud55c \uc774\uc720\ub294 node.js \ub85c \uc791\uc131\ub41c \uae30\ub2a5\uc744 python\uc73c\ub85c \ub2e4\uc2dc \uad6c\ud604\ud560 \ud544\uc694\ub97c \ub290\uaef4\uc11c \uc9c1\uc811 \uac1c\ubc1c\uc744 \ud55c \uac83\uc785\ub2c8\ub2e4.<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>\ud604\uc7ac \uc774 \ubd07\uc758 \uc18c\uc2a4\ub294 \uc694\uccad \uc900 \ub3d9\ub8cc, \uc120\ubc30, \ud6c4\ubc30\uc5d0\uac8c \uacf5\uac1c\ub97c \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4\ub9cc,<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 18,
+            "lines_more": 13,
+            "preview_is_truncated": false,
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1459305974.001221"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\u314b\u314b \uadfc\ud64d\uc544 \uc554\ud2bc \uc798 \uac1c\ubc1c\ud574\uc11c \ub354 \uc4f8\ub9cc\ud558\uac8c \ub9cc\ub4e4\uace0 \ub098\ub3c4 \ub124\uac00 \ucd94\uac00\ud55c \uae30\ub2a5 \ucc38\uace0\ud560\uac8c",
+        "ts": "1459310201.001223"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uadfc\ud64d\uc774\uac00 \ub9cc\ub4e0 \ubc25\ubd07 \ub9ce\uc774 \uc368\uc8fc\uc138\uc694\u314b\u314b",
+        "ts": "1459310227.001225"
+    }
+]

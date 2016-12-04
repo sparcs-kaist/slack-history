@@ -1,0 +1,52 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B02EBLMPD",
+        "attachments": [
+            {
+                "pretext": "[arara:master] 1 new commit by combacsa:",
+                "fallback": "[arara:master] <https:\/\/github.com\/sparcs-kaist\/arara\/commit\/df105661d12c|1 new commit> by combacsa",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/arara\/commit\/df105661d12c|df105661d12c>: Update README.md - combacsa",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407946265.000002"
+    },
+    {
+        "username": "github",
+        "bot_id": "B02EBLMPD",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/arara] Issue created by <https:\/\/github.com\/combacsa|combacsa>",
+                "title": "#7 Ubuntu 14.04 pip install -r requirements.txt \ud55c\ubc88\uc5d0\ub294 \uc2e4\ud328",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/arara\/issues\/7",
+                "fallback": "[sparcs-kaist\/arara] <https:\/\/github.com\/sparcs-kaist\/arara\/issues\/7|Issue created> by <https:\/\/github.com\/combacsa|combacsa>",
+                "text": "\ud669\ub2f9\ud558\uac8c\ub3c4.\n\n```\n(arara)combacsa@combacsa-yogalinux:~\/workspace\/arara$ pip install -r requirements.txt \nDownloading\/unpacking Django&gt;=1.4,&lt;=1.4.13 (from -r requirements.txt (line 1))\n  Downloading Django-1.4.13.tar.gz (7.8MB): 7.8MB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/Django\/setup.py) egg_info for package Django\n    \nDownloading\/unpacking distribute==0.6.34 (from -r requirements.txt (line 2))\n  Downloading distribute-0.6.34.tar.gz (644kB): 644kB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/distribute\/setup.py) egg_info for package distribute\n    \nDownloading\/unpacking MySQL-python==1.2.5 (from -r requirements.txt (line 3))\n  Downloading MySQL-python-1.2.5.zip (108kB): 108kB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/MySQL-python\/setup.py) egg_info for package MySQL-python\n    \nDownloading\/unpacking SQLAlchemy&gt;=0.7.0,&lt;=0.7.10 (from -r requirements.txt (line 4))\n  Downloading SQLAlchemy-0.7.10.tar.gz (3.5MB): 3.5MB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/SQLAlchemy\/setup.py) egg_info for package SQLAlchemy\n    \n    warning: no files found matching '*.jpg' under directory 'doc'\n    no previously-included directories found matching 'doc\/build\/output'\nDownloading\/unpacking argparse==1.2.1 (from -r requirements.txt (line 5))\n  Downloading argparse-1.2.1.tar.gz (69kB): 69kB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/argparse\/setup.py) egg_info for package argparse\n    \n    warning: no previously-included files matching '*.pyc' found anywhere in distribution\n    warning: no previously-included files matching '*.pyo' found anywhere in distribution\n    warning: no previously-included files matching '*.orig' found anywhere in distribution\n    warning: no previously-included files matching '*.rej' found anywhere in distribution\n    no previously-included directories found matching 'doc\/_build'\n    no previously-included directories found matching 'env24'\n    no previously-included directories found matching 'env25'\n    no previously-included directories found matching 'env26'\n    no previously-included directories found matching 'env27'\nDownloading\/unpacking django-appconf==0.6 (from -r requirements.txt (line 6))\n  Downloading django_appconf-0.6-py2.py3-none-any.whl\nDownloading\/unpacking django-compressor==1.1 (from -r requirements.txt (line 7))\n  Downloading django_compressor-1.1.tar.gz (59kB): 59kB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/django-compressor\/setup.py) egg_info for package django-compressor\n    \n    Installed \/home\/combacsa\/.pyenv\/versions\/arara\/build\/django-compressor\/versiontools-1.9.1-py2.7.egg\n    \/home\/combacsa\/.pyenv\/versions\/2.7.8\/lib\/python2.7\/distutils\/dist.py:267: UserWarning: Unknown distribution option: 'setup_requires'\n      warnings.warn(msg)\n    \nDownloading\/unpacking hiredis==0.1.1 (from -r requirements.txt (line 8))\n  Downloading hiredis-0.1.1.tar.gz\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/hiredis\/setup.py) egg_info for package hiredis\n    \nDownloading\/unpacking ordereddict==1.1 (from -r requirements.txt (line 9))\n  Downloading ordereddict-1.1.tar.gz\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/ordereddict\/setup.py) egg_info for package ordereddict\n    \nDownloading\/unpacking py==1.4.15 (from -r requirements.txt (line 10))\n  Downloading py-1.4.15.tar.gz (189kB): 189kB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/py\/setup.py) egg_info for package py\n    \nDownloading\/unpacking pytest==2.3.5 (from -r requirements.txt (line 11))\n  Downloading pytest-2.3.5.tar.gz (426kB): 426kB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/pytest\/setup.py) egg_info for package pytest\n    \nDownloading\/unpacking pytest-django==2.6.2 (from -r requirements.txt (line 12))\n  Downloading pytest_django-2.6.2-py2.py3-none-any.whl\nDownloading\/unpacking redis==2.8.0 (from -r requirements.txt (line 13))\n  Downloading redis-2.8.0.tar.gz (286kB): 286kB downloaded\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/redis\/setup.py) egg_info for package redis\n    \nDownloading\/unpacking six==1.3.0 (from -r requirements.txt (line 14))\n  Downloading six-1.3.0.tar.gz\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/six\/setup.py) egg_info for package six\n    \nDownloading\/unpacking thrift==0.9.0 (from -r requirements.txt (line 15))\n  Downloading thrift-0.9.0.tar.gz\n  Running setup.py (path:\/home\/combacsa\/.pyenv\/versions\/arara\/build\/thrift\/setup.py) egg_info for package thrift\n    \nRequirement already satisfied (use --upgrade to upgrade): wsgiref==0.1.2 in \/home\/combacsa\/.pyenv\/versions\/2.7.8\/lib\/python2.7 (from -r requirements.txt (line 16))\nInstalling collected packages: Django, distribute, MySQL-python, SQLAlchemy, argparse, django-appconf, django-compressor, hiredis, ordereddict, py, pytest, pytest-django, redis, six, thrift\n  Running setup.py install for Django\n    changing mode of build\/scripts-2.7\/django-admin.py from 664 to 775\n    \n    changing mode of \/home\/combacsa\/.pyenv\/versions\/arara\/bin\/django-admin.py to 775\n  Running setup.py install for distribute\n    Before install bootstrap.\n    Scanning installed packages\n    Setuptools installation detected at \/home\/combacsa\/.pyenv\/versions\/arara\/lib\/python2.7\/site-packages\/setuptools-5.5-py2.7.egg\n    Egg installation\n    Patching...\n    Renaming \/home\/combacsa\/.pyenv\/versions\/arara\/lib\/python2.7\/site-packages\/setuptools-5.5-py2.7.egg to \/home\/combacsa\/.pyenv\/versions\/arara\/lib\/python2.7\/site-packages\/setuptools-5.5-py2.7.egg.OLD.1407946186.54\n    Patching complete.\n    Relaunching...\n    Before install bootstrap.\n    Scanning installed packages\n    Setuptools installation detected at \/home\/combacsa\/.pyenv\/versions\/arara\/lib\/python2.7\/site-packages\/setuptools-5.5-py2.7.egg\n    Egg installation\n    Already patched.\n    Installing easy_install script to \/home\/combacsa\/.pyenv\/versions\/arara\/bin\n    Installing easy_install-2.7 script to \/home\/combacsa\/.pyenv\/versions\/arara\/bin\n    After install bootstrap.\n    Creating \/home\/combacsa\/.pyenv\/versions\/arara\/lib\/python2.7\/site-packages\/setuptools-0.6c11-py2.7.egg-info\n    Creating \/home\/combacsa\/.pyenv\/versions\/arara\/lib\/python2.7\/site-packages\/setuptools.pth\n  Running setup.py install for MySQL-python\n    building '_mysql' extension\n    gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -Dversion_info=(1,2,5,'final',1) -D__version__=1.2.5 -I\/usr\/include\/mysql -I\/home\/combacsa\/.pyenv\/versions\/2.7.8\/include\/python2.7 -c _mysql.c -o build\/temp.linux-x86_64-2.7\/_mysql.o -DBIG_JOINS=1 -fno-strict-aliasing -g -DNDEBUG\n    In file included from _mysql.c:44:0:\n    \/usr\/include\/mysql\/my_config.h:422:0: warning: \"HAVE_WCSCOLL\" redefined [enabled by default]\n     #define HAVE_WCSCOLL\n     ^\n    In file included from \/home\/combacsa\/.pyenv\/versions\/2.7.8\/include\/python2.7\/Python.h:8:0,\n                     from _mysql.c:29:\n    \/home\/combacsa\/.pyenv\/versions\/2.7.8\/include\/python2.7\/pyconfig.h:911:0: note: this is the location of the previous definition\n     #define HAVE_WCSCOLL 1\n     ^\n    gcc -pthread -shared -L\/home\/combacsa\/.pyenv\/versions\/2.7.8\/lib build\/temp.linux-x86_64-2.7\/_mysql.o -L\/usr\/lib\/x86_64-linux-gnu -lmysqlclient_r -lpthread -lz -lm -ldl -o build\/lib.linux-x86_64-2.7\/_mysql.so\n    \n  Running setup.py install for SQLAlchemy\n    building 'sqlalchemy.cprocessors' extension\n    gcc -pthread -fno-strict-aliasing -g -O2 -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I\/home\/combacsa\/.pyenv\/versions\/2.7.8\/include\/python2.7 -c lib\/sqlalchemy\/cextension\/processors.c -o build\/temp.linux-x86_64-2.7\/lib\/sqlalchemy\/cextension\/processors.o\n    gcc -pthread -shared -L\/home\/combacsa\/.pyenv\/versions\/2.7.8\/lib build\/temp.linux-x86_64-2.7\/lib\/sql\u2026",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407946509.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud760",
+        "ts": "1407948269.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "ss2 \ub610 \uc8fd\uc5c8\ub124 ...",
+        "ts": "1407948298.000005"
+    }
+]

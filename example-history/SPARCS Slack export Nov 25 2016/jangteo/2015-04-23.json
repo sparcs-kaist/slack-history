@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U024SNAD0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNAD0|elaborate> has joined the channel",
+        "ts": "1429851063.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub098\ub2c8?",
+        "ts": "1429851067.000007"
+    }
+]

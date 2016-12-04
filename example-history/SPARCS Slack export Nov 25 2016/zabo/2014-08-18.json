@@ -1,0 +1,138 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#29 \ub3d9\uc544\ub9ac \uac80\uc0c9 \ud398\uc774\uc9c0 \uc218\uc815",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/29",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/29|Issue created> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "text": "\uc218\uc815\ud55c\ub2e4.",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408360082.000296"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "title": "#30 \uacc4\uc815 \uad00\ub9ac \ud398\uc774\uc9c0 \uc791\uc131",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/30",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/30|Issue created> by <https:\/\/github.com\/mjy0503|mjy0503>",
+                "text": "\uc791\uc131\ud55c\ub2e4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408362042.000297"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/view] 1 new commit by Taehyun:",
+                "fallback": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/89830545d162|1 new commit> by Taehyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/89830545d162|89830545d162>: Change poster's height to 180px - Taehyun",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408369291.000298"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/view] 1 new commit by Young Seok Tony Kim:",
+                "fallback": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/23a842a86967|1 new commit> by Young Seok Tony Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/23a842a86967|23a842a86967>: implemented mouseover effect by editing view.css and view_page.html - Young Seok Tony Kim",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408383256.000299"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc5ec\ub7ec\ubd84",
+        "ts": "1408428993.000300"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc6b0\ub9ac",
+        "ts": "1408428994.000301"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "registration \uc774\ub791, board app\uc744 \ud569\uce58\ub294 \uac8c \uc5b4\ub5a8\uae4c\uc694?",
+        "ts": "1408429008.000302"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uae30\ub2a5\uc0c1 \uac19\uc774 \uc788\uc5b4\uc57c\ud560\uac8c \uc880 \ub9ce\uc740\uac70 \uac19\uc74c",
+        "ts": "1408429076.000303"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\ub2c8\uba74 ... registration \uc790\uccb4\ub97c \ub530\ub85c \ub5bc\uc5b4 \ub193\uc544\uc11c \ub420 \uac8c \ubb50\uac00 \uc788\uc744\uae4c...",
+        "ts": "1408429105.000304"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc5b4... \uadf8\ub9ac\uace0 \ud398\uc774\uc9c0 render \ubd80\ubd84\uc774\ub791 api \ucc98\ub7fc \uc4f0\uc77c \ubd80\ubd84\uc744 \uc0b4\uc9dd \uad6c\ubcc4\ud558\uba74 \uc88b\uaca0\uc5b4\uc694",
+        "ts": "1408429255.000305"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud5e4\uc774 <@U024SL5UT> \ub108 json\uc73c\ub85c article \uc815\ubcf4 \uac00\uc838\uc624\ub294\uac70 \uc788\uc796\uc544",
+        "ts": "1408431374.000306"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\uac70 \uc880 devlop\uc774\ub4e0 \uc5b4\ub514\ub4e0 \ubc18\uc601 \ud569\uc2dc\ub2e4.",
+        "ts": "1408431390.000307"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc81c\uac00 \uc4f8\uace0\uc694",
+        "ts": "1408431393.000308"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc4f8\ub824\uace0\uc694",
+        "ts": "1408431487.000309"
+    }
+]

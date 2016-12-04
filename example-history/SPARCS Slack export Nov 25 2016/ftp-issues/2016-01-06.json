@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024U2P7Y|suckzo_o> uploaded a file: <https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0HSU9B44\/pasted_image_at_2016_01_07_12_17_pm.png|Pasted image at 2016-01-07, 12:17 PM>",
+        "file": {
+            "id": "F0HSU9B44",
+            "created": 1452136639,
+            "timestamp": 1452136639,
+            "name": "Pasted image at 2016_01_07 12_17 PM.png",
+            "title": "Pasted image at 2016-01-07, 12:17 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024U2P7Y",
+            "editable": false,
+            "size": 73491,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0HSU9B44\/pasted_image_at_2016_01_07_12_17_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0HSU9B44\/download\/pasted_image_at_2016_01_07_12_17_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HSU9B44-0e833e342f\/pasted_image_at_2016_01_07_12_17_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HSU9B44-0e833e342f\/pasted_image_at_2016_01_07_12_17_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HSU9B44-0e833e342f\/pasted_image_at_2016_01_07_12_17_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 324,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HSU9B44-0e833e342f\/pasted_image_at_2016_01_07_12_17_pm_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 432,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0HSU9B44-0e833e342f\/pasted_image_at_2016_01_07_12_17_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 697,
+            "original_h": 627,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0HSU9B44\/pasted_image_at_2016_01_07_12_17_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0HSU9B44-a907a7d3e9",
+            "channels": [
+                "C02EBG12E"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024U2P7Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024U2P7Y|suckzo_o>",
+        "bot_id": null,
+        "ts": "1452136640.000139"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc6b0\ub824\ud558\ub358 \uc0ac\ud0dc\uac00...",
+        "ts": "1452136653.000140"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub135...",
+        "ts": "1452136667.000141"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uace7 \uaf49 \ucc39\ub2c8\ub2e4\u2026.",
+        "ts": "1452136669.000142"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub370\ube44\uc548 syncproxy.wna2-&gt;syncproxy2.wna\ub85c \ubcc0\uacbd\ud588\uc2b5\ub2c8\ub2e4~",
+        "ts": "1452137618.000143"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub9ac\uace0 \ub17c\uc758 \uad00\ub828 \uba54\uc77c \ubcf4\ub0c8\uc501\ub2c8\ub2e4 \ub2f5\uc7a5 \ubd80\ud0c1\ub4dc\ub824\uc6a9",
+        "ts": "1452137633.000144"
+    }
+]

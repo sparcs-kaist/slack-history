@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uae34\uae09 \uacf5\uc9c0: \uac1c\uc778 \uc11c\ubc84 \uc804\uc6d0 \ub2e4 \ub044\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1472603793.000127"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<!everyone>: \uc548\ub155\ud558\uc138\uc694, 16\ucd1d\ubb34\uc785\ub2c8\ub2e4. \uba54\uc77c\uc744 \uc368\uc57c \ud558\ub294\ub370 \uc77c\ub2e8 slack\uc5d0 \uba3c\uc800 \uc62c\ub9bd\ub2c8\ub2e4. \uc5d0\uc5b4\ucee8 \ubc30\uad00 \uacf5\uc0ac \uad00\uacc4\ub85c \ub3d9\uc544\ub9ac\ub0b4\uc758 \uc804\ub4f1\uc744 \uc81c\uc678\ud55c \ubaa8\ub4e0 \uc804\uc6d0\uc744 \ucc28\ub2e8\ud558\uc600\uc2b5\ub2c8\ub2e4. \ub3d9\uc544\ub9ac \uc11c\ubc84\ub294 \uc601\ud5a5\uc744 \ubc1b\uc9c0 \uc54a\uc73c\uba70, \uac1c\uc778 \uc11c\ubc84\ub294 \ubaa8\ub450 \uc885\ub8cc\uc2dc\ucf30\uc2b5\ub2c8\ub2e4. \ub300\ub7b5 5\uc2dc\uac04 \uc548\uc5d0 \ubcf5\uad6c\ub420 \uc608\uc815\uc785\ub2c8\ub2e4. \ubd88\ud3b8\uc744 \ub4dc\ub824 \uc8c4\uc1a1\ud569\ub2c8\ub2e4.",
+        "ts": "1472604500.000128",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U024SPDHG",
+                    "U024U2P7Y",
+                    "U0B6GQJ3F",
+                    "U04HUNH5L"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadf8\ub807\uad70\uc694",
+        "ts": "1472604535.000129"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ube60\ub974\ub2e4 \ube68\ub77c",
+        "ts": "1472604542.000130"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\ud639\uc2dc \ubaa8\ub974\ub2c8 \uce74\ud1a1\uc5d0\ub3c4 \uacf5\uc9c0\ud558\ub294\uac8c \uc88b\uc744 \uac83 \uac19\uc544\uc694",
+        "ts": "1472604543.000131"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uacf5\uc9c0\ud588\uc2b5\ub2c8\ub2e4",
+        "ts": "1472604652.000132"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uad50\uc591\ubd84\uad00\uc5d0 \uacc4\uc2dc\ub294 \uc218\ub9ac\ud300 \ub3c4\uc6c0\uc744 \ubc1b\uc544 \uc2e4\uc678\uae30 \uc120\uc744 \ucc3e\uc558\uc2b5\ub2c8\ub2e4. \uc6b0\ub824\uc640 \ub2ec\ub9ac \uac1c\uc778 \uc11c\ubc84\uc640\ub294 \ub3c5\ub9bd\ub418\uc5b4 \uc788\uc5b4 \uc804\uc6d0\uc744 \uc815\uc0c1\ud654\uc2dc\ud0a4\uace0 \uac1c\uc778 \uc11c\ubc84\ub97c \ubd80\ud305\uc2dc\ucf30\uc2b5\ub2c8\ub2e4.",
+        "ts": "1472606736.000133"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4",
+        "ts": "1472613625.000134"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<@U02PEJCVA> \uae40\ub3d9\uc8fc \uc120\ubc30\ub2d8 \uc544\uc774\ub514\ub294 softdie \uc5d0\uc694~",
+        "ts": "1472625785.000135"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4!",
+        "ts": "1472625890.000136"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/94035b3926e75f7ba51ba52c07c118fb8020877e|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/94035b3926e75f7ba51ba52c07c118fb8020877e|94035b3>`  bug fix - cannot disable test features - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471534017.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<!channel>: \uacf5\uc9c0 \uc5c6\uc774 SPARCS SSO \ud328\uce58\uac00 2016-08-20 00:00 ~ 00:10\uc5d0 \uc9c4\ud589\ub420 \uc608\uc815\uc785\ub2c8\ub2e4. \uc77c\ubd80 \ubc84\uadf8\uac00 \uc218\uc815\ub418\uc5c8\uc73c\uba70 \ud14c\uc2a4\ud2b8 \uacc4\uc815\uc744 \uc790\uc720\ub86d\uac8c \ub9cc\ub4e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ud14c\uc2a4\ud2b8 \uacc4\uc815\uc5d0 \uad00\ud55c \ub0b4\uc6a9\uc740 <https:\/\/wiki.sparcs.org\/w\/index.php\/SPARCS_SSO_%EC%97%B0%EB%8F%99#Test_Account> \uc5d0 \uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1471534303.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#124 minor bug fixes' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/124 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#124 minor bug fixes",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/124",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471535010.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/124|#124 minor bug fixes> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/124|#124 minor bug fixes> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471535015.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/2fae1de172e8...54fc5a025a11|4 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/367bddd171f29ac07c3c974e20d5f4a95628bb8d|367bddd>`  fix bugs - test account profile applied in nav instead of logged user - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/60395fe773057705e532413acd26093d78023d2b|60395fe>`  prevent test only account login to non-test service - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/94035b3926e75f7ba51ba52c07c118fb8020877e|94035b3>`  bug fix - cannot disable test features - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/54fc5a025a112af8da2d931d0497e1912e20eaa3|54fc5a0>`  Merge pull request #124 from sparcs-kaist\/dev-samjo - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/2fae1de172e8...54fc5a025a11|4 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471535015.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471535017.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#125 add test only accounts; minor bug fixes;' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/125 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#125 add test only accounts; minor bug fixes;",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/125",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1471535295.000009"
+    }
+]

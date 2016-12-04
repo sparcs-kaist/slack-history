@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024WGSD3|undead> has left the channel",
+        "ts": "1418573061.000002"
+    }
+]

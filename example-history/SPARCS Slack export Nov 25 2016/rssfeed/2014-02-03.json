@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNE2E|kuss> has joined the channel",
+        "ts": "1391484652.000002"
+    },
+    {
+        "user": "U024SNE2E",
+        "purpose": "\ub0b4 \ub9d8\ub300\ub85c \ub9cc\ub4dc\ub294 rss feed",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SNE2E|kuss> set the channel purpose: \ub0b4 \ub9d8\ub300\ub85c \ub9cc\ub4dc\ub294 rss feed",
+        "ts": "1391484653.000003"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1wynk3\/got_bored_made_a_japh_red_mage_ascii_art\/|Got Bored, Made a JAPH (Red Mage ASCII Art)>\nsubmitted by  8bitmadness  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1wynk3\/got_bored_made_a_japh_red_mage_ascii_art\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391491502.000005"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1wywq9\/the_view_from_aristeia_capture_quirk_in_c14\/|The View from Aristeia: Capture Quirk in C++14>\nsubmitted by  night_of_knee  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1wywq9\/the_view_from_aristeia_capture_quirk_in_c14\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1391500014.000002"
+    }
+]

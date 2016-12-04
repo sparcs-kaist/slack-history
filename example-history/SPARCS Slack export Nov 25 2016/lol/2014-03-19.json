@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U024U04DT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U04DT|jazzinpark> has joined the channel",
+        "ts": "1395268233.000002"
+    },
+    {
+        "user": "U024U04DT",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024U04DT|jazzinpark> has left the channel",
+        "ts": "1395268248.000003"
+    }
+]

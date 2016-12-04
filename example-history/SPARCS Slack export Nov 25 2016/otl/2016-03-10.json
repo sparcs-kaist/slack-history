@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e5e6785ce6d18cbb8cf69c58389e82f54b44ed1d|1 new commit> by kangwon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e5e6785ce6d18cbb8cf69c58389e82f54b44ed1d|e5e6785>: \ub85c\uadf8\uc778 \ud398\uc774\uc9c0 \ud30c\uc77c \uc0ad\uc81c - kangwon",
+                "pretext": "[otlplus:session] 1 new commit by kangwon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1457607854.000103"
+    }
+]

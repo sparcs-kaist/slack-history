@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U0VDD61GT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0VDD61GT|jaja> has joined the channel",
+        "ts": "1458904677.000014"
+    },
+    {
+        "user": "U0VDJL5BM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0VDJL5BM|zompang> has joined the channel",
+        "ts": "1458907634.000015"
+    }
+]

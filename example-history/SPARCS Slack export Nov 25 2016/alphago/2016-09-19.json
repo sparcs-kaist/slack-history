@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc774\ucc44\ub110 \uc5b4\uc9f8 \uc0b4\uc544\uc788\ub294\ub370",
+        "ts": "1474286905.000004"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub525\ub9c8\uc778\ub4dc\uac00 \uc54c\ud30c\uace0 \ub300\uad6d \ud574\uc124\uc744 \uacf5\uac1c\ud588\uc5b4\uc694",
+        "ts": "1474286926.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ud55c\uad6d\uc5b4 \ubc88\uc5ed(!)\uc774 \uc788\uc74c",
+        "ts": "1474286948.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "<https:\/\/deepmind.com\/research\/alphago\/alphago-games-korean\/>",
+        "attachments": [
+            {
+                "service_name": "DeepMind",
+                "title": "AlphaGo \ub300\uad6d - \ud55c\uad6d\uc5b4 | DeepMind",
+                "title_link": "https:\/\/deepmind.com\/research\/alphago\/alphago-games-korean\/",
+                "text": "English language version of the AlphaGo Games pages",
+                "fallback": "DeepMind: AlphaGo \ub300\uad6d - \ud55c\uad6d\uc5b4 | DeepMind",
+                "thumb_url": "https:\/\/storage.googleapis.com\/deepmind-live-cms.google.com.a.appspot.com\/images\/Match%2520Room%25209.width-600.jpg",
+                "from_url": "https:\/\/deepmind.com\/research\/alphago\/alphago-games-korean\/",
+                "thumb_width": 600,
+                "thumb_height": 409,
+                "service_icon": "https:\/\/deepmind.com\/static\/v0.0.0\/appIcons\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1474286989.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc54c\ud30c\uace0 vs \uc54c\ud30c\uace0\ub3c4 \uc788\uc5b4\uc694!",
+        "ts": "1474289226.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc624\uc624",
+        "ts": "1474289625.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc544\ub9c8\ucd94\uc5b4\uac00 \ubcf4\uae30\uc5d0",
+        "ts": "1474289687.000011"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc54c\ud30c\uace0\ub300 \uc54c\ud30c\uace0 1\uad6d\uc740 \ubb34\ucc99 \uc7ac\ubc0c\uad6c\uc694 (\uc62c\uc2a4\ud0c0\uc804 \uc2dc\ubc94\uacbd\uae30\uc5d0\uc11c \ub9c9 \ud648\ub7f0 \ud130\uc9c0\ub294 \ub290\ub08c)",
+        "ts": "1474289752.000012"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubb50 \uadf8\ub7f0 \ub300\uad6d\uc744 \uace8\ub790\uaca0\uc8e0",
+        "ts": "1474289763.000013"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "2\uad6d\uc740 \uc57d\uac04 \ucf54\ubbf9\ud558\uace0",
+        "ts": "1474289773.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "3\uad6d\uc740 \uc5b4\ub824\uc6cc\uc694 \ubc14\ub451\uc758 \uae4a\uace0 \uadf8\uc73d\ud55c? \uacbd\uc9c0\ub97c \ud0d0\uc0ac\ud558\ub294 \ubc14\ub451 ;;;",
+        "ts": "1474289802.000015"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc624\uc624..",
+        "ts": "1474292189.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc880 \uad6c\uccb4\uc801\uc73c\ub85c... 1\uad6d\uc740 \ud751\uc774 \uc720\ub9ac\ud558\ub2e4\uac00 \ubc31\uc774 \uc720\ub9ac\ud558\ub2e4\uac00 \uacc4\uc18d \uc5ce\uce58\ub77d\ub4a4\uce58\ub77d ",
+        "ts": "1474292309.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "2\uad6d\uc740 \uae08\ubc29 \ub05d\ub098\uace0\uc694",
+        "ts": "1474292323.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "3\uad6d\ub3c4 1\uad6d \uac19\uc9c0\ub9cc 1\uad6d\uacfc\ub294 \ub2ec\ub9ac \uc81c\uac00 \ubd10\uc11c\ub294 \ub204\uac00 \uc774\uae30\uace0 \uc788\ub294\uc9c0\ub97c \ubaa8\ub974\uaca0\uc5b4\uc694 \u3160\u3160",
+        "ts": "1474292365.000019"
+    }
+]

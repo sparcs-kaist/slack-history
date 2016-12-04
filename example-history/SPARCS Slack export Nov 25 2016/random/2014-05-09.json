@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U029STDAQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U029STDAQ|minjeong> has joined the channel",
+        "ts": "1399639105.000002"
+    }
+]

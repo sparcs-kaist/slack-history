@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u315c\u315c",
+        "ts": "1475911520.000257"
+    },
+    {
+        "user": "U024SHLFH",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475931192.000258"
+    }
+]

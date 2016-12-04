@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U026JLU7V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U026JLU7V|lucidash> has joined the channel",
+        "ts": "1395067744.000003"
+    },
+    {
+        "user": "U024SJ5TM",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SJ5TM|snogar> has left the channel",
+        "ts": "1395105979.000004"
+    }
+]

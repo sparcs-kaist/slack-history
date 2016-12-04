@@ -1,0 +1,993 @@
+[
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ud558\ud558 \uc5ec\ub7ec\ubd84 \ucef4\ud30c\uc77c\ub7ec\ub97c \ub4e4\uc74d\uc2dc\ub2e4",
+        "ts": "1449568398.000520"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ud68c\uc0ac\uc5d0\uc11c lexer \ub791 bison \uc73c\ub85c \ud30c\uc11c \uc9dc\ub294\uc911",
+        "ts": "1449568430.000521"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud30c\uc11c\ub77c...",
+        "ts": "1449568481.000522"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc5f0\uad6c\uc2e4 \uc606 \ud615\uc774 \ud30c\uc11c\ub9cc 20\ub144\uac04 \ud310 \uc7a5\uc778\uad50\uc218\uac00 \uc88b\uc740 \ub3c4\uad6c \ub9cc\ub4e4\uc5b4\ub193\uc740\uac70 \uc788\ub2e4\uadf8\ub7ac\uc5c8\ub294\ub370 \uae30\uc5b5\uc774\uc548\ub098\ub124",
+        "ts": "1449568513.000523"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubb50 \ud30c\uc2f1\ud558\ub098\uc694",
+        "ts": "1449568539.000524"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc790\ubc14\uc2a4\ud06c\ub9bd\ud2b8\ub791 \ud30c\uc774\uc36c\uc774\uc694",
+        "ts": "1449568586.000525"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc5b4\ub78f \uadf8\ub7fc \uc788\ub294 \ud30c\uc11c \uc4f0\uc2dc\uc8e0",
+        "ts": "1449568600.000526"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uadf8 \ube0c\ub77c\uc6b0\uc800\uc0c1\uc5d0\uc11c \ub3cc\uc544\uac00\uc57c \ud574\uc11c",
+        "ts": "1449568615.000527"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "jison \uc73c\ub85c \ud30c\uc774\uc36c\uc73c\ub85c \uad6c\ud604\ub41c\uac74 \ucc3e\uc544\uc11c \ud574\ubcf4\ub294 \uc911\uc774\uc5d0\uc5ec",
+        "ts": "1449568641.000528"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "jison\uc774 \ubb50\uc9d5",
+        "ts": "1449568657.000529"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "bison \uc758 js \ub77c\uc774\ube0c\ub7ec\ub9ac\uc5ec",
+        "ts": "1449568669.000530"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "bison\uc774\ub798\uc11c C\ub85c \uc9dc\ub294 \uc904 \uc54c\uc558\uc9c0",
+        "ts": "1449568675.000531"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "bison\uc774 \uc544\ub2c8\ub124",
+        "ts": "1449568677.000532"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc544\ud56d",
+        "ts": "1449568686.000533"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc6f9\uc5d0\uc11c \uac04\ub2e8\ud558\uac8c \uc790\ubc14\uc2a4\ud06c\ub9bd\ud2b8\ub791 \ud30c\uc774\uc36c\uc744 \uc800\ud76c \uc785\ub9db\ub300\ub85c \uc2e4\ud589\ud574\uc57c \ud574\uc11c",
+        "ts": "1449568718.000534"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "JS\ub85c \ub41c JS \ud30c\uc11c\ub294 \ub9ce\uc544\uc694",
+        "ts": "1449568728.000535"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "Acorn \ucd94\ucc9c",
+        "ts": "1449568730.000536"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc624\ud64d",
+        "ts": "1449568734.000537"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "esprima \uc774\uac78 \ubcf4\uace0 \uc788\uc5c8\ub294\ub370",
+        "ts": "1449568741.000538"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2f9",
+        "ts": "1449568749.000539"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub09c \ucef4\ud30c\uc77c\ub7ec\ub54c \ud55c\uac8c \ub300\ucda9",
+        "ts": "1449568793.000540"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud30c\uc2f1\ubd80\ubd84\uc740 \uac04\ub2e8\ud55c\uc5b8\uc5b4 abstract syntax\ub85c\ub9cc \ub418\uc788\ub294\uac70 \ud30c\uc11c \ub9cc\ub4dc\ub294\uac70\uc600\ub294\ub370",
+        "ts": "1449568875.000541"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\ubb50\ub77c\ud558\ub4dc\ub77c \uac4d concrete syntax\ub77c\uace0\ud558\ub098",
+        "ts": "1449568889.000542"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc544\ud56d",
+        "ts": "1449568917.000543"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uac4d \ubc14\ub85c \ud30c\uc11c\uc81c\ub108\ub808\uc774\ud130\uc5d0 \ub123\uc73c\uba74 \ub9cc\ub4e4\uc5b4\uc904 \uc218 \uc788\ub294 \uc0c1\ud0dc",
+        "ts": "1449568921.000544"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc81c\uac00 \uc0ac\uc2e4 \uc548\ub4e4\uc5b4\uc11c \ubb58 \ubc30\uc6b0\ub294\uc9c0 \ubaa8\ub984\uc5ec",
+        "ts": "1449568923.000545"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "sven: BNF \ud30c\uc2f1\ud588\uc74c?",
+        "ts": "1449568939.000546"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\uac70\ub294 \uc774\ubbf8 \uc788\ub294 \uc5b8\uc5b4\uba74 \ub2e4 \ub418\uc788\uc744\ud14c\ub2c8\uae4c \ubcf4\uace0 \ud558\uba74 \ud30c\uc2f1\uc774\ub860 \ubab0\ub77c\ub3c4\ub420\ub4ef",
+        "ts": "1449568949.000547"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ub139 \uadf8\ub798\ub3c4 \ub420\ub4ef\uc5ec",
+        "ts": "1449568973.000548"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "BNF \ud30c\uc2f1\uc774 \ubb54\uc9c0 \uc798 \ubaa8\ub974\uaca0\uc2b4\ub2e4 \u3160\u3160",
+        "ts": "1449568974.000549"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "sven: <https:\/\/en.wikipedia.org\/wiki\/Backus_Naur_Form#Example> \uc694\ub807\uac8c \uc0dd\uae34\uac8c BNF\uc5d0\uc694",
+        "ts": "1449569036.000550"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ud615\uc2dd \uc544\ub2cc\uac00\uc601",
+        "ts": "1449569038.000551"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub124",
+        "ts": "1449569061.000552"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "boolgom: JavaScript\ub85c \ub41c Python \ud30c\uc11c \ub9cc\ub4e4\uba74 \uc4f8\ubaa8\uac00 \uc788\uc744 \ub4ef",
+        "ts": "1449569072.000553"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ucc3e\uc544\ubd24\ub294\ub370 \uc774\ubbf8 \ub204\uac00 \ub9cc\ub4e0 \uac74 \uc5c6\ub294 \ubd84\uc704\uae30\ub124",
+        "ts": "1449569081.000554"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc5c7 \uadf8 \ub300\ucda9 \uc880 \uc788\ub294\uac83 \uac19\uae34 \ud558\ub358\ub370\uc5ec",
+        "ts": "1449569100.000555"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "<https:\/\/github.com\/jhester\/python-online\/blob\/master\/grammar\/piethon.jison>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "jhester\/python-online",
+                "title_link": "https:\/\/github.com\/jhester\/python-online\/blob\/master\/grammar\/piethon.jison",
+                "text": "python-online - Simple python interpreter written in JavaScript using Jison as a parser generator and lexer.",
+                "fallback": "GitHub: jhester\/python-online",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/477762?v=3&s=400",
+                "from_url": "https:\/\/github.com\/jhester\/python-online\/blob\/master\/grammar\/piethon.jison",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1449569133.000556"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc800\uac74 \ucef4\ud30c\uc77c\ub7ec \uc218\uc5c5\uc5d0\uc11c \ud560 \uac83\uac19\uc740 Mini C \ucc98\ub7fc Mini Python \uc774\uc9c0 Python \uc774\ub77c\uace0 \ud560 \uc21c \uc5c6\uc9c0",
+        "ts": "1449569180.000558"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc544\ud558 \ud480\ubc84\uc804\uc694",
+        "ts": "1449569187.000559"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "(\uc608\ub97c \ub4e4\uc5b4 class\ub3c4 \uc5c6\uace0)",
+        "ts": "1449569188.000560"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "Esprima\ub098 Acorn\uc740 \uc644\uc804 \ud480\ubc84\uc804\uc784",
+        "ts": "1449569211.000561"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc624\uc624",
+        "ts": "1449569219.000562"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ubc18\ub300\ub294 \ub9ce\uc740\ub370 \ud30c\uc774\uc36c \ud30c\uc2f1\ud558\ub294\uac74 \uc798 \uc5c6\ub354\ub77c\uad6c\uc694",
+        "ts": "1449569228.000563"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc800\ud76c \uc628\ub77c\uc778 \uad50\uc721 \uc11c\ube44\uc2a4\uc5d0 \uc560\ub4e4\uc774 \ud14d\uc2a4\ud2b8 \ucf54\ub529\ud558\ub294\uac70 \ube14\ub85d \uc5b8\uc5b4\ub85c \ubcc0\ud658\ud560\ub54c \uc4f0\ub294\uac70\ub77c \uc800\ud76c\ub294 \uc544\uc8fc \uc644\uc804\ud558\uc9c4 \uc54a\uc544\ub3c4 \ub420\ub4ef\uc694",
+        "ts": "1449569252.000564"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\u3147\u3147 Python\uc73c\ub85c \ub41c JavaScript \ud30c\uc11c\ub294 \ub9ce\uc74c",
+        "ts": "1449569257.000565"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "(\uc65c \uadf8\ub807\uac8c \ub9ce\uc740\uc9c0 \ubbf8\uc2a4\ud130\ub9ac)",
+        "ts": "1449569266.000566"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1449569269.000567"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud667\ud305..",
+        "ts": "1449569839.000568"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "<@U0FK63YR2> \uc800 \ud559\ubd80\ub54c\ub294 mini c \ucef4\ud30c\uc77c\ub7ec \ub9cc\ub4e4\uc5c8\uc5c8\uc5b4\uc694 \u314b\u314b jflex \ub791 cup\ub85c",
+        "ts": "1449570004.000569"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "nested if else \ub791 unary - binary - \uc774\ub7f0\uac70 \uad6c\ubd84\ud558\ub824\uace0 \ucc98\uc74c bnf\uc5d0\uc11c \uc880 \ubc14\uafb8\ub294\uac8c \uc788\ub358\uac70\uac19\uc740\ub370",
+        "ts": "1449570066.000570"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc9d1\uac00\uba74 \ubd10\ubd10\uc57c\uc9d5",
+        "ts": "1449570078.000571"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "conflict\uc744 \ud574\uacb0\ud558\uae30 \uc704\ud574 precedence\ub97c \uc124\uc815\ud558\uc8e0",
+        "ts": "1449570190.000572"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub124 \ubb54\uac00 opertaor \uad00\ub828\ud574\uc11c\ub294 \uadf8\ub7ac\ub358\uac70\uac19\uc740\ub370 if if else \ud30c\uc2f1\uc744 if (if else)\ub85c \ud560 \uc9c0 if (if) else\ub85c \ud560 \uc9c0 \ubb50 \uc774\ub7f0\uac70 \ub54c\ubb38\uc5d0 bnf \uc880 \ubc14\uafe8\ub358\uac70\uac19\uc740\ub370",
+        "ts": "1449571427.000573"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc9c0\uae08 \ucc3e\uc544\ubcf4\ub2c8\uae4c",
+        "ts": "1449571448.000574"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "ambiguous \ub77c\ub294 \ub2e8\uc5b4\ub97c \uc4f0\ub294\ub4ef? \nA grammar G is ambiguous, if and only if there exists a single sentence in L(G) that has multiple rightmost (or leftmost) derivations",
+        "ts": "1449571475.000575"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "Must rewrite the grammar to avoid generating the problem",
+        "ts": "1449571481.000576"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ubb50\uc554\ud2bc... \uacb0\ub860\uc740 \uaddc\ubbfc\uc774 \ud667\ud305",
+        "ts": "1449571515.000577"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub9ce\uc774 \uc4f0\uc774\ub294 \uc5b8\uc5b4\ub2c8 \ubb50 \uc5b4\ucf00\ub4e0 \ub418\uaca0\uc9d5",
+        "ts": "1449571534.000578"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\ub807\uac8c \ud574\uacb0\ud560 \uc218\ub3c4 \uc788\uc9c0\ub9cc \uc0ac\uc2e4 nested if\/else\ub3c4 precedence\ub85c \ud574\uacb0\ud560 \uc218 \uc788\uc5b4\uc694",
+        "ts": "1449571534.000579"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc544\ud558",
+        "ts": "1449571556.000580"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc218\uc5c5\uc5d0\uc11c ambiguous grammar\ub97c rewrite\ud558\ub294 \uc5f0\uc2b5\uc744 \ud560 \ub54c \uc678\uc5d0\ub294 \ub2e4 \uadf8\ub807\uac8c \ud574\uacb0\ud569\ub2c8\ub2e4 \u314b\u314b\u314b",
+        "ts": "1449571621.000581"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\ub807\uad70\uc694 \u3137\u3137",
+        "ts": "1449571639.000582"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "(precedence\ub85c \uc548\ub418\uace0 rewrite \ud574\uc57c \ud558\ub294 \uacbd\uc6b0\ub3c4 \uc788\uc73c\ubbc0\ub85c \uc4f8\ubaa8 \uc5c6\ub294 \uc5f0\uc2b5\uc740 \uc544\ub2d8)",
+        "ts": "1449571677.000583"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub2e8 nested if\/else\ub294 \uadf8\ub7f0 \uacbd\uc6b0\uac00 \uc544\ub2c8\ub77c\ub294 \uac70\uc8e0",
+        "ts": "1449571739.000584"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub135",
+        "ts": "1449571803.000585"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\ub7ec\uace0\ubcf4\uba74 \ucef4\ud30c\uc77c\ub7ec \uc800\ub54c \uac70\uc758 10\ub144\ub9cc\uc5d0 \ud55c\ud0dc\uc219\uad50\uc218\ub2d8\uc774 \ub2e4\uc2dc \uc218\uc5c5\ud558\uc168\ub294\ub370",
+        "ts": "1449571876.000586"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8 \uc804\ub144\ub3c4\ub294 \ud30c\uc2f1\ub9cc\ud558\ub2e4 \ub05d\ub0ac\ub2e4\uace0",
+        "ts": "1449571882.000587"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc81c\ub300\ub85c \uac00\ub974\uce58\uaca0\uac00",
+        "ts": "1449571884.000588"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "*\uac00\ub974\uce58\uaca0\ub2e4",
+        "ts": "1449571890.000589"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud30c\uc2f1\uc740 \uc874\ub098 \ub2e4 \ub05d\ub09c \ud559\ubb38\uc774\uace0 \ucef4\ud30c\uc77c\ub7ec\uc758 \uaf43\uc740 \ucd5c\uc801\ud654\ub2e4!",
+        "ts": "1449571901.000590"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub77c\uace0 \ucc98\uc74c\uc5d0 \uc598\uae30\ud558\uc168\uc9c0\ub9cc",
+        "ts": "1449571908.000591"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud559\uae30 \uc808\ubc18\ub3d9\uc548 \ud30c\uc2f1\uc774\ub860\ub9cc \uc5f4\uc2ec\ud788 \ud558\ub2e4\uac00 \uacb0\uad6d \ucd5c\uc801\ud654\ub294 \ud50c\uc81d \ubabb\ud574\ubcf4\uace0 \ub05d\ub0ac\ub358 \uae30\uc5b5\uc774",
+        "ts": "1449571933.000592"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadfc\ub370 \ud50c\uc81d\uc790\ub8cc\uac00",
+        "ts": "1449571954.000593"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc774\uad11\uadfc\uad50\uc218\ub2d8 \ub5a0\ub098\uc2e0\uc9c0 \ud55c\ucc38\ub42c\ub294\ub370 \uc544\uc9c1\ub3c4 \uc774\uad11\uadfc\uad50\uc218\ub2d8 \uacc4\uc2e4\ub54c \ubc15\uc0ac\ud559\uc0dd\uc774 \ub9cc\ub4e4\uc5c8\ub358\uac78 \uc4f4\ub2e4\ub294\uac8c",
+        "ts": "1449571972.000594"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc880 \ub180\ub77c\uc6e0\ub358 \uae30\uc5b5\uc774",
+        "ts": "1449571977.000595"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub300\ud559\uc6d0pl\ub3c4 \uc774\uad11\uadfc\uad50\uc218\ub2d8 \uce74\uc774\uc2a4\ud2b8 \uacc4\uc2e4 \uc801\uc5d0 \uc4f0\uc2dc\ub358 \uc790\ub8cc\ub77c\uace0 \ud558\ub358\ub370",
+        "ts": "1449572009.000596"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ubb50 \uc554\ud2bc \uadf8\ub807\uc2b4\ub2e4",
+        "ts": "1449572018.000597"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ucd5c\uc801\ud654\ub3c4 \ub2e4 \ub05d\ub09c \ud559\ubb38... =3",
+        "ts": "1449572104.000598"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u3137\u3137 \uadf8\ub7f0\uac00\uc694",
+        "ts": "1449572161.000599"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc544 nested if\/else\uc758 \"\uc62c\ubc14\ub978\" \ud574\uacb0\ubc95\uc740 \uadf8\ub0e5 {}\ub97c \ud56d\uc0c1 \uc4f0\uac8c \ud558\ub294 \uac81\ub2c8\ub2e4",
+        "ts": "1449572170.000600"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ucd5c\uc801\ud654\ub294 \uc5b4\ub5a4 \uc758\ubbf8\ub85c \ub2e4 \ub05d\ub09c \ud559\ubb38\uc778\uac00\uc694?",
+        "ts": "1449572170.000601"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc774\ub7ec\uba74 \ubaa8\ud638\uc131\uc774 \uc5c6\uc8e0",
+        "ts": "1449572176.000602"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "Go\uac00 \uadf8\ub807\uac8c \ud558\uad6c\uc694",
+        "edited": {
+            "user": "U0FK63YR2",
+            "ts": "1449572211.000000"
+        },
+        "ts": "1449572191.000603"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "good",
+        "ts": "1449572191.000604"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\ub0e5 \uc5b8\ub73b \uc0dd\uac01\ud558\uae30\uc5d0\ub294",
+        "ts": "1449572340.000606"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ucd5c\uc801\ud654\ub294 \ub354 \ube68\ub77c\uc9c0\uba74 \uc88b\uc740\uac70\ub2c8\uae4c \ub354 \ube68\ub9ac \ud558\ub294 \ubc29\ubc95\uc5d0 \ub300\ud55c \uc5f0\uad6c\uac00 \uacc4\uc18d \uc758\ubbf8\uac00 \uc788\uc744 \uac83 \uac19\uc740\ub370",
+        "ts": "1449572367.000607"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ubb50 \uc774 \uc774\uc0c1\uc73c\ub85c\ub294 \ubabb\ube68\ub77c\uc9c4\ub2e4\ub294 bound\uac00 \uc788\uace0 \uac70\uae30\uae4c\uc9c0 \ub3c4\ub2ec\ud55c\uac8c \uc544\ub2cc \uc774\uc0c1",
+        "ts": "1449572382.000608"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\uac74 \ud30c\uc2f1\ub3c4 \ub9c8\ucc2c\uac00\uc9c0 \uc544\ub2d0\uae4c?",
+        "ts": "1449572460.000609"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc74c \uadf8\ub7ec\uac8c\uc694",
+        "ts": "1449572488.000610"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc74c \ucd5c\uc801\ud654 \uc5f0\uad6c\ub294 \ud558\ub4dc\uc6e8\uc5b4 \ubc1c\uc804\uc758 \uc601\ud5a5\uc744 \ubc1b\ub294 \uba74\uc774 \uc788\uae34 \ud574\uc694",
+        "ts": "1449572605.000611"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\ub7fc \ub05d\ub09c \ud559\ubb38\uc774\ub77c\ub294\uac8c \uadf8\ub0e5 \uadf8\ucabd \ud558\ub294 \uc0ac\ub78c\ub4e4 \uc0ac\uc774\uc5d0\uc11c \"\uc774\uc81c \ubb50\uac00 \ub354 \uc5c6\uc744 \uac83 \uac19\ub2e4\"\ub294 \uacf5\uac10\ub300\uac00 \ud615\uc131\ub418\uc788\ub2e4 \uc815\ub3c4\ub85c \ubcf4\uba74 \ub418\ub824\ub098\uc694",
+        "ts": "1449572610.000612"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc544\ud558",
+        "ts": "1449572615.000613"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\ub7f0 \uc810\uc740 \ud30c\uc2f1\uacfc \ub2e4\ub978 \uac83 \uac19\ub124\uc694",
+        "ts": "1449572642.000614"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc774\uad11\uadfc \uad50\uc218\ub2d8\uc740 \ud504\ub85c\uadf8\ub7a8 \ubd84\uc11d\uc744 \ucef4\ud30c\uc77c\ub7ec\uc5d0 \uc801\uc6a9\ud558\uace0 \uc2f6\uc5b4 \ud558\uc2dc\ub354\ub77c\uad6c\uc694",
+        "ts": "1449572685.000615"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ucef4\ud30c\uc77c\ub7ec\uac00 \ub290\ub824\uc9c0\uc8e0 \u314e\u314e",
+        "ts": "1449572837.000616"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud5c8\uad50\uc218\ub2d8\uc740 \ub4e3\uc790\ub9c8\uc790 \ucef4\ud30c\uc77c\ub7ec\ub294 \uc18d\ub3c4\uac00 \uc911\uc694\ud574\uc11c \uc548\ub41c\ub2e4\uace0 \ud558\uc2dc\ub358\ub370",
+        "ts": "1449572855.000617"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ubb50 \uc4f0\ub294 \ud658\uacbd\ub9c8\ub2e4 \ub2c8\uc988\uac00 \ub2e4\ub97c \uc218 \uc788\uc73c\ub2c8\uae4c",
+        "ts": "1449572867.000618"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ucd5c\uc801\ud654 \ub808\ubca8 \uc870\uc815\ud558\ub4ef\uc774 \uc0ac\uc6a9\uc790\uac00 \uc4f0\uace0 \uc2f6\uc744 \ub54c\ub9cc \uc4f0\uac8c\ud558\uba74",
+        "ts": "1449572893.000619"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\ub7ec\uba74 \uc544\ubb34\ub3c4 \uc548\uc368\uc694",
+        "ts": "1449572911.000620"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\uac8c \uacb0\ub860\uc784",
+        "ts": "1449572916.000621"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u3147\u314e...",
+        "ts": "1449572927.000622"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubb50\ub784\uae4c \ucc28\ub97c \uc0ac\uc11c \ud29c\ub2dd\ud558\uace0 \uc218\ud37c\uce74 \ub9cc\ub4e4\uace0 \ud558\ub294 \uc0ac\ub78c\ub3c4 \uc788\uc9c0\ub9cc \uadf9\uc18c\uc218\uc796\uc544\uc694",
+        "ts": "1449573031.000623"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub300\ubd80\ubd84\uc758 \uac1c\ubc1c\uc790\ub294 \ucef4\ud30c\uc77c\ub7ec\ub97c \uc4f0\uace0 \uc2f6\uc5b4\ud558\uc9c0 \ud29c\ub2dd\ud558\uace0 \uc2f6\uc5b4\ud558\uc9c0 \uc54a\uc544\uc694",
+        "ts": "1449573062.000624"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub514\ud3f4\ud2b8\uac00 \uc544\uc8fc \uc911\uc694\ud574\uc694",
+        "ts": "1449573073.000625"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc74c...",
+        "ts": "1449573259.000626"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub9d0\uc500\ucc98\ub7fc \ub300\ubd80\ubd84\uc758 \uac1c\ubc1c\uc790\ud55c\ud14c\ub294 \uc548\uc4f0\uc774\uaca0\uc9c0\ub9cc",
+        "ts": "1449573282.000627"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc694\uc998 \ud56b\ud55c? \ubd84\uc57c\ub294 \ubd84\uc11d\uc744 \ub354\ud558\ub294 \uac8c \uc544\ub2c8\ub77c \ubd84\uc11d\uc744 \ub35c\ud558\ub294 \ubc29\ud5a5",
+        "ts": "1449573788.000628"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "JIT \ucef4\ud30c\uc77c\ub7ec\uc5d0\uc11c\ub294 \ucef4\ud30c\uc77c \uc2dc\uac04\uc774 \uc2e4\ud589 \uc2dc\uac04\uc5d0 \ud3ec\ud568\ub418\ub2c8\uae4c",
+        "ts": "1449573803.000629"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubd84\uc11d\uc5d0 \uac78\ub9ac\ub294 \uc2dc\uac04\uacfc \ubd84\uc11d\uc758 \uc815\ud655\ub3c4\ub97c \uc798 \ubc14\uafb8\ub294\uac70\uc8e0",
+        "ts": "1449573817.000630"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubd84\uc11d\uc744 \ub354\ud558\ub294 \ubc29\ud5a5\uc740",
+        "ts": "1449573909.000631"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uac1c\ubc1c\uc790\ub294 \uc758\uc678\ub85c \ucef4\ud30c\uc77c \uc2dc\uac04\uc5d0 \ubbfc\uac10\ud558\uae30 \ub54c\ubb38\uc5d0",
+        "ts": "1449573915.000632"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubd84\uc11d\uc744 \ub354\ud558\ub354\ub77c\ub3c4 \uac1c\ubc1c\uc790\uac00 \ubd84\uc11d\uc774 \ub05d\ub098\uae30\ub97c \uae30\ub2e4\ub9ac\uac8c \ud558\uba74 \uc548\ub418\uace0",
+        "ts": "1449573924.000633"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubd84\uc11d\uc744 \ubc31\uadf8\ub77c\uc6b4\ub4dc\uc5d0\uc11c \ud558\uace0 \ub36e\uc5b4\uc50c\uc6b4\ub2e4\uac70\ub098",
+        "ts": "1449573929.000634"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\ub7f0 \ubc29\ud5a5\uc73c\ub85c \ud574\uc57c \ud560 \uac83 \uac19\uc544\uc694",
+        "ts": "1449573934.000635"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc608 \uc74c",
+        "ts": "1449574107.000636"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ubcf4\ud1b5 \ub9ac\ub205\uc2a4\uac19\uc740\uac70\ub294 \uc124\uce58\ud560\ub54c",
+        "ts": "1449574127.000637"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ucef4\ud30c\uc77c\ub41c\uac70\ub97c \ubc1b\uc544\uc11c \ud558\ub294\uac70\uaca0\uc8e0? \uadf8\ub0e5 \ubd80\ud305\ub514\uc2a4\ud06c \ub9cc\ub4e4\uc5b4\uc11c \ub123\uace0 \uc0dd\uac01\uc5c6\uc774 \ud574\ubcf4\uae30\ub9cc \ud574\uc11c...",
+        "ts": "1449574176.000638"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud3c9\uc18c \uac1c\ubc1c\uc790\uac00 \uac1c\ubc1c\ud560\ub54c\ub294",
+        "ts": "1449574182.000639"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ucef4\ud30c\uc77c \uc2dc\uac04\uc774 \uc911\uc694\ud558\ub2c8\uae4c",
+        "ts": "1449574199.000640"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ube68\ub9ac \ucef4\ud30c\uc77c\ub418\ub294\uac70\ub85c \ud558\ub2e4\uac00",
+        "ts": "1449574202.000641"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub098\uc911\uc5d0 \ubc30\ud3ec\ud560\ub54c\ub9cc \ucef4\ud30c\uc77c \uc2dc\uac04 \uc624\ub798 \uac78\ub824\ub3c4 \uc131\ub2a5 \ube60\ub974\uac8c \ucef4\ud30c\uc77c\ud574\uc11c \ubc30\ud3ec\ud558\uace0 \ubb50 \uc774\ub7f0 \uc2dd\uc73c\ub85c\ub294 \uc548\ub418\ub824\ub098\uc694?",
+        "ts": "1449574215.000642"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc73c\uc754... \ucef4\ub9f9",
+        "ts": "1449574221.000643"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\ub807\uac8c \ud560 \uc218 \uc788\uad6c\uc694 \uadf8\ub807\uac8c \ud558\ub294 \uc2dc\uc2a4\ud15c\ub3c4 \uc788\uc5b4\uc694",
+        "ts": "1449574233.000644"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc0ac\ub78c\ub4e4\uc774 \uadf8\ub7f0 \uc2dc\uc2a4\ud15c\uc744 \uc548\uc4f8 \ubfd0\uc774\uc8e0",
+        "ts": "1449574238.000645"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc65c \ubaa8\ub450\ub4e4 Gentoo\ub97c \uc4f0\uc9c0 \uc54a\uc744\uae4c\uc694? ;;;",
+        "ts": "1449574244.000646"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "<@U0251JXSR> \uac00 \ubb54\uac00\ub97c \ud0c0\uc774\ud551\ud558\ub824\ub2e4\uac00 \uba48\ucd94\ub294 \uac83\uc744 \ud3ec\ucc29",
+        "ts": "1449574288.000647"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "Gentoo \uc790\uccb4\uac00 \ubb54\uc9c0\ub97c \ubab0\ub77c\uc11c \uc798 \ubaa8\ub974\uaca0\uc2b5\ub2c8\ub2e4...",
+        "ts": "1449574299.000648"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u3160\u3160",
+        "ts": "1449574300.000649"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub744\uc5b4\uc4f0\uae30 \uce58\uace0 \uc9c0\uc6e0\uc2b5\uc8e0",
+        "ts": "1449574308.000650"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub744\uc5b4\uc4f0\uae30 \ud568\ubd80\ub85c \uce58\uc9c0 \ub9c8\ub77c... \uc874\ub098 \uae34\uc7a5\ud588\uc73c\ub2c8\uae4c...",
+        "ts": "1449574329.000651"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "(\ubd80\ub985)",
+        "ts": "1449574336.000652"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "Gentoo\ub294 \ub9ac\ub205\uc2a4 OS \uc885\ub958\uc911\uc5d0 \ud558\ub098 \uc544\ub2cc\uac00\uc5ec",
+        "ts": "1449574357.000653"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud398\ub3c4\ub77c\ub098 \uba38 \uadf8\ub7f0\uac70\ucc98\ub7fc",
+        "ts": "1449574374.000654"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uac11\uc790\uae30 \uc885\ub958\uac00 \uc0dd\uac01\uc774 \uc548\ub098\ub294...",
+        "ts": "1449574380.000655"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc13c\ud1a0\uc2a4?",
+        "ts": "1449574390.000656"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub124 \ubc30\ud3ec\ud310(distribution)\uc774\ub77c\uace0 \ubd80\ub974\uc8e0",
+        "ts": "1449574390.000657"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub808\ub4dc\ud587? \ubb50 \uc774\ub7f0\uac70?",
+        "ts": "1449574397.000658"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "Gentoo\ub294 \uc18c\uc2a4\uc5d0\uc11c \ub2e4 \ucef4\ud30c\uc77c\ud558\ub294 \ubc30\ud3ec\ud310",
+        "ts": "1449574403.000659"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uadf8\ub807\uad70\uc694",
+        "ts": "1449574619.000660"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub2e4 \ucef4\ud30c\uc77c\ud558\ub294\uac70 \uae30\ub2e4\ub9ac\uae30 \uadc0\ucc2e\uc544\uc11c?",
+        "ts": "1449574644.000661"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ud5c8... <@U025XHGF3> \ucc44\uc885\uc6b1\uc774 \uacbd\uc0ac\uc2a4\ub7f0 \uc77c\uc774 \uc788\ub124\uc694",
+        "ts": "1449574724.000662"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc81c\uac00 \uc774\ud574\ud55c\uac8c \ub9de\ub2e4\uba74 Gentoo \ub294 \uc81c\uac00 \uc704\uc5d0\uc11c \uc5b8\uae09\ud55c \uacbd\uc6b0\ub791 \ubc18\ub300\uc758 \uacbd\uc6b0\uac00 \uc544\ub2cc\uac00 \uc2f6\uc740",
+        "ts": "1449574845.000663"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U0FK63YR2",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[December 1st, 2015 5:33 AM] sanxiyn: \uc81c\uac00 <https:\/\/careers.mozilla.org\/en-US\/position\/o0H41fww> \uc9c0\uc6d0\ud588\ub294\ub370\uc694",
+                "ts": "1448976829.000447",
+                "author_subname": "sanxiyn",
+                "channel_id": "C024SHLFM",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "\uc81c\uac00 <https:\/\/careers.mozilla.org\/en-US\/position\/o0H41fww> \uc9c0\uc6d0\ud588\ub294\ub370\uc694",
+                "author_name": "Sanghyeon Seo",
+                "author_link": "https:\/\/sparcs.slack.com\/team\/sanxiyn",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/b7b34fda26b7ea99b8b4d42497193220.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0014-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U0FK63YR2|sanxiyn> pinned a message to this channel.",
+        "ts": "1449580582.000664"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub5a8\uc5b4\uc84c\uc5b4\uc694",
+        "ts": "1449580602.000665"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\u3160\u3160",
+        "ts": "1449580603.000666"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u3160\u3160",
+        "ts": "1449605428.000667"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc73c\uc544\uc554",
+        "ts": "1449611529.000668"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub2e4 \uc790\ub294\uad70",
+        "ts": "1449611534.000669"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc624 \uc5b4\uc81c \ud68c\uc758 \uac04 \uc0ac\uc774\uc5d0 \ub9ce\uc740 \uc774\uc57c\uae30\uac00",
+        "ts": "1449623674.000670"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc6d0\ub798 \ub808\uc77c\uc988 \uac19\uc740\uac70 \uc571 \ubc30\ud3ec\ud560\ub54c\ub294 \uc8fc\ub85c \ubb50\ub54c\ubb38\uc5d0 \uc5b4\ub824\uc6b4\uc9c0 \uad81\uae08\ud558\ub124, \ud5e4\ub85c\ucfe0\uac00 \ubb58 \ud3b8\ud558\uac8c \ub9cc\ub4e0\uac74\uc9c0 \uc798 \ubaa8\ub974\uaca0",
+        "ts": "1449624322.000671"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\uacbd\uc0ac\uacbd\uc0ac",
+        "ts": "1449640200.000672"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc0c1\ud604\uc774 \ud615\uaed8, \uc2ec\uc2ec\ud55c \uc704\ub85c\ub97c...",
+        "ts": "1449642466.000673"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "sanxiyn: \u3160\u3160",
+        "ts": "1449644499.000674"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc694\uc998 \uae30\uc220 \ub274\uc2a4 \uc18c\uc2a4 \uc5b4\ub5a4 \uac70 \uc4f0\uc2dc\ub098\uc694",
+        "ts": "1449645842.000675"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "Hacker News <https:\/\/news.ycombinator.com\/> \uac08\uc218\ub85d \ubcc4\ub85c\uc778 \ub4ef",
+        "ts": "1449645850.000676"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ubc30\ucd94 \ubc31\uc7a5 \uc774\ub0b4\ub85c",
+        "ts": "1449647940.000677"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ucef4\ud4e8\ud130 \uc138\ud305\uc880",
+        "ts": "1449647942.000678"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud574\uc8fc\uc2e4 \ud558\ub355 \uad6c\ud569\ub2c8\ub2e4",
+        "ts": "1449647945.000679"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": ":@",
+        "ts": "1449647946.000680"
+    }
+]

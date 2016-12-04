@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U025WHXBR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025WHXBR|boolgom> has joined the channel",
+        "ts": "1416804021.000002"
+    },
+    {
+        "user": "U025WHXBR",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U025WHXBR|boolgom> has left the channel",
+        "ts": "1416804064.000003"
+    }
+]

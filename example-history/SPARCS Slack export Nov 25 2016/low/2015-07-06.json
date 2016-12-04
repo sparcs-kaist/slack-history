@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U02KS7NU5",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02KS7NU5|serialx> has left the channel",
+        "ts": "1436168806.000002"
+    }
+]

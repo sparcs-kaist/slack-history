@@ -1,0 +1,57 @@
+[
+    {
+        "text": "",
+        "bot_id": "B050A0JVD",
+        "attachments": [
+            {
+                "fallback": "[jangteo:master] <https:\/\/github.com\/sparcs-kaist\/jangteo\/commit\/ad869ca|1 new commit> by Jonghyuk Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo\/commit\/ad869ca|ad869ca>: Renamed project from 'shopand' to 'jangteo' - Jonghyuk Jung",
+                "pretext": "[jangteo:master] 1 new commit by Jonghyuk Jung:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1434030118.551713"
+    },
+    {
+        "user": "U024SJ7R9",
+        "old_name": "shopand",
+        "name": "jangteo",
+        "type": "message",
+        "subtype": "channel_name",
+        "text": "<@U024SJ7R9|sunguard> has renamed the channel from \"shopand\" to \"jangteo\"",
+        "ts": "1434030301.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B050A0JVD",
+        "attachments": [
+            {
+                "fallback": "[jangteo:master] <https:\/\/github.com\/sparcs-kaist\/jangteo\/commit\/9cf3981|1 new commit> by Jonghyuk Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo\/commit\/9cf3981|9cf3981>: Modified README.md - Jonghyuk Jung",
+                "pretext": "[jangteo:master] 1 new commit by Jonghyuk Jung:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1434030354.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc774\ub984\uc744 \ubc14\uafe8\uad70",
+        "ts": "1434040329.000002"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api] New branch \"<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/tree\/samjo|samjo>\" was pushed by a1sams1a",
+                "text": "[jangteo-api] New branch \"<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/tree\/samjo|samjo>\" was pushed by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454504842.000040"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:samjo] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/61c95805b2a2d13ad46fabc6686e674f5733d9ce|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/61c95805b2a2d13ad46fabc6686e674f5733d9ce|61c9580>: fix errors in sparcssso lib - Sam Jo",
+                "pretext": "[jangteo-api:samjo] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454513300.000041"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:samjo] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/6288a77d78546798847d08e892f460b3cdf8f6b4|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/6288a77d78546798847d08e892f460b3cdf8f6b4|6288a77>: add request to package.json - Sam Jo",
+                "pretext": "[jangteo-api:samjo] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454553274.000042"
+    }
+]

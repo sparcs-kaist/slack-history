@@ -1,0 +1,62 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/04686a98add06c9dd06758f31742f3b19159ba50|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/04686a98add06c9dd06758f31742f3b19159ba50|04686a9>: move cooltime check to \/require\/; add logger - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447070030.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/952214bb1d0f5ed8fd5c4aa060a53abc3d10380d|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/952214bb1d0f5ed8fd5c4aa060a53abc3d10380d|952214b>: add doc templates - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447083099.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b343ebb0d80af5d1a9acdff397f97b593ae6016d|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b343ebb0d80af5d1a9acdff397f97b593ae6016d|b343ebb>: show notice at login page - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1447084890.000004"
+    }
+]

@@ -1,0 +1,319 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] 1 new commit by elaborate:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dbf22102c936|1 new commit> by elaborate",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dbf22102c936|dbf22102c936>: Implement new registration page as design. - elaborate",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408260661.000260"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "live \ubc84\uc804\uc758 \ud504\ub860\ud2b8 \ucf54\ub4dc\ub97c \uc880 \ubd24\ub294\ub370... line\uc744 \uc800\ub807\uac8c \ubd84\ub9ac\ud574\ub193\uc73c\uba74 \ub098\uc911\uc5d0 \uace8\uce58\uc544\ud50c \uac70\uc5d0\uc694.",
+        "ts": "1408260807.000261"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uadf8\ub9ac\uace0 \ub530\ub85c div.blank \ub77c\ub294 \ud0dc\uadf8\uac00 \uc788\ub358\ub370... \uc774\uac83\ub3c4 \uac77\uc5b4\uc8fc\uc138\uc694. \uc774\ub7ec\uba74 \ub098\uc911\uc5d0 \uba38\ub9ac\uac00 \uc544\ud50c \uac70\uc5d0\uc694.",
+        "ts": "1408260829.000262"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uadf8\ub9ac\uace0 poster\uc5d0 \uad00\ub828\ub41c \uc2a4\ud0c0\uc77c\uc774 \uc804\ubd80\ub2e4 \ud0dc\uadf8\uc5d0 style \uc18d\uc131\uc5d0 \uadf8\ub300\ub85c \ub4e4\uc5b4\uac00\uc788\ub294\ub370, \uc774\uac74 \uc544\ub9c8 javascript\ub85c \ud0dc\uadf8\ub97c \uc0dd\uc131\ud558\uba74\uc11c  \uac70\uae30\uc5d0\ub2e4\uac00 css\ub97c \uc785\ud78c\uac70 \uac19\uc740\ub370 \uc774\uac70 class\ub85c \ubd84\ub9ac\ud574\uc11c \ub530\ub85c css\ud30c\uc77c \ub9cc\ub4dc\uc138\uc694.",
+        "ts": "1408260968.000263"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ub098\uc911\uc5d0 \ub0b4\uac00 \uc65c \uc774\ub7ac\uc9c0 \ud558\uace0 \ub545\uc744 \uce58\uace0 \ud6c4\ud68c\ud558\uac8c \ub420\uac70\uc5d0\uc694.",
+        "ts": "1408260978.000264"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b\u314b\u314b",
+        "ts": "1408260979.000265"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uadf8\ub9ac\uace0 \uc65c jquery\ub97c \ub450\ubc88\uc774\ub098 \ubd88\ub7ec \uc624\ub098\uc694. head\uc5d0\uc11c 1.11.1 \ubc84\uc804\uc744 \ubd88\ub7ec\uc624\ub358\ub370, \ub610 \ub9e8 \ubc11\uc5d0\uc11c jquery-latest\ub97c \ud55c \ubc88 \ub354 \ubd88\ub7ec \uc624\ub124\uc694.",
+        "ts": "1408261033.000266"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc2a4\ud06c\ub864\uc744 \ub9c8\uc9c0\ub9c9\uc5d0 \ub0b4\ub9ac\uba74 \ub85c\ub529\uc744 \ud558\ub294 \ubc29\uc2dd\uc744 \ucde8\ud558\uace0 \uc788\ub294\ub370, \uc774\uac8c \uc624\ub958\uac00 \ub0a0 \uacbd\uc6b0\uac00 \uc788\uc5b4\uc694. \ubb3c\ub860 \uadf8\uac78 \ub2e4 \ucc98\ub9ac\ud558\uba74 \ub418\uae34 \ud558\uc9c0\ub9cc \uac00\uc7a5 \uac04\ub2e8\ud55c \ucc98\ub9ac \ubc29\ubc95\uc740 \ub530\ub85c \ubc84\ud2bc\uc744 \ud558\ub098 \ub9cc\ub4e4\uba74 \ub429\ub2c8\ub2e4. \ub85c\ub529\ud558\ub294 \ubc84\ud2bc \ub9cc\ub4e4\uba74 \ud3b8\ud574\uc694. \ub9e8 \ubc11\uc5d0\ub2e4\uac00 \uadf8\ub7ec\uba74 \uc2a4\ud06c\ub864\ub9c1\uc73c\ub85c \ub85c\ub529\uc774 \uc548 \ub418\uc5c8\uc744 \uc2dc, \uadf8 \ubc84\ud2bc\uc744 \ub20c\ub9ac\uba74 \ub418\ub2c8\uae4c\uc694!",
+        "ts": "1408261104.000267"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "script\ub294 \ub530\ub85c head\uc5d0 \ub123\uc74d\uc2dc\ub2e4. body \uc911\uac04\uc5d0 \ub4e4\uc5b4\uac00\uc788\ub294 script\ub294 \uc5b8\uc81c \uc2e4\ud589\ub420 \uc9c0 \uc608\uc0c1\uc774 \uc798 \uc548\ub418\uc11c \ub098\uc911\uc5d0 javascript \ubc84\uadf8\uac00 \uc0dd\uacbc\uc744 \ub54c, \uace0\uce58\uae30 \uace8\uce58 \uc544\ud515\ub2c8\ub2e4.",
+        "ts": "1408261149.000268"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc6b0\ub9ac\uc5d0\uac8c\ub294 $(document).ready(function(){}); \uacfc $(window).load(function(){});\uc774 \uc788\uc796\uc544\uc694!",
+        "ts": "1408261169.000269"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc774\ubbf8\uc9c0 \uac19\uc740 \uacbd\uc6b0\uc5d0 \uc0c1\uc704 element(\uc5ec\uae30\uc11c\ub294 div.poster)\uc5d0 fixed width\ub97c \uc8fc\uace0, img \ud0dc\uadf8\uc5d0\ub294 width:100% \ub97c \uc8fc\uac8c \ub418\uba74 \uac80\uc740\uc0c9 \uc774\uc0c1\ud55c \ubc30\uacbd\uc774 \uc0ac\ub77c\uc9c0\uace0 \uaf49\ucc28\uac8c \ubcf4\uc77c\uac81\ub2c8\ub2e4.",
+        "ts": "1408261260.000270"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ub2e4\uc591\ud55c \ubaa8\uc591\uc758 \ub808\uc774\uc544\uc6c3\uc744 \uac00\uc9c0\uace0 \uac00\uace0 \uc2f6\ub2e4\uba74, class\ub97c \uba87 \uac1c \ub9cc\ub4e4\uc5b4\ub450\uace0, \uc774\ub97c \ub79c\ub364\ud558\uac8c \uc8fc\ub294 \uac83\ub3c4 \ubc29\ubc95 \uc911\uc758 \ud558\ub098 \uc785\ub2c8\ub2e4. \uc774\ub7f4 \uacbd\uc6b0\uc5d0\ub294 line\uc774\ub77c\ub294 \uac1c\ub150\uc774 \uc9c0\uae08\ucc98\ub7fc \ud544\uc694\ud558\uae34 \ud558\uc8e0. line.style_01, line.style_02, line.style_03 \uc774\ub807\uac8c \ud574\ub193\uace0 \uac01\uac01\uc5d0 \ub300\ud574\uc11c \uc5ec\ub7ec \uc2a4\ud0c0\uc77c\uc744 \uba39\uc774\uba74 \ub418\uaca0\uc8e0. line.style_01&gt;div.poster{ background: red}    line.style_02&gt;div.poster{background:green}    line.style_03&gt;div.poster{background:blue}   \uc774\ub7f0 \uc2dd\uc73c\ub85c\uc694.\u314e\u314e",
+        "ts": "1408261412.000271"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uadf8\ub9ac\uace0 style_01, style_02, style_03 \uc774\ub77c\ub294 class\ub97c div.line\uc5d0 \ub79c\ub364\ud558\uac8c \uba39\uc5ec\uc8fc\uba74 \ub418\uaca0\uc8e0.",
+        "ts": "1408261437.000272"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "css \ud30c\uc77c \uc548\uc5d0\uc11c\ub294 div.line.style_01[02][03] \uc774\ub807\uac8c \ubd88\ub7ec\uc62c \uc218 \uc788\uc73c\ub2c8\uae4c\uc6a9.",
+        "ts": "1408261458.000273"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "&lt;a class=\"endless_more\" href=\"\/main\/?page=2\" rel=\"page\"&gt;more&lt;\/a&gt; \uc544 \uc9c0\uae08\ub3c4 \ub85c\ub529 \ubc84\ud2bc\uc774 \ub530\ub85c \uc788\ub124\uc694.\u314b\u314b",
+        "ts": "1408261652.000274"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544 \uc801\ub2f9\ud55c wysiwyg \ub97c \ubabb\ucc3e\uaca0\ub2e4",
+        "ts": "1408264078.000275"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/layout] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/7f50625bc0b0...c600c4aafd65|37 new commits>:",
+                "fallback": "[zabo:feat\/layout] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/7f50625bc0b0...c600c4aafd65|37 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6b07e3fbc3e1|6b07e3fbc3e1>: Modify views and html of article registration. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bc2c1e203e4c|bc2c1e203e4c>: Change url to have coherent name. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b46f9ae4f91e|b46f9ae4f91e>: Override default LOGIN_URL value to approprate url. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e1b1d6d2da10|e1b1d6d2da10>:  account model \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/889c34fb7890|889c34fb7890>: Show posters in Random-order - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/93cda7869a84|93cda7869a84>: account fixture \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/0a4f7489b80b|0a4f7489b80b>: Merge branch 'dev\/account' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/cdcb272ddc91|cdcb272ddc91>: Implement Poster Interval Assignment Algorithm and Show them - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8c1376fe8426|8c1376fe8426>: Make a blank between the posters - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/218364734b52|218364734b52>: Create file_handelr jquery plugin. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/85d7a280b4c3|85d7a280b4c3>: Merge pull request #22 from horknox\/dev\/registration - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/910d915fce95|910d915fce95>: searching clubs - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/973468df7c54|973468df7c54>: Merge branch 'dev\/registration' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/816ef78dd1ef|816ef78dd1ef>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e5fe7fe4b7cd|e5fe7fe4b7cd>: board fixture \ucd94\uac00 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/792b2c53cdb0|792b2c53cdb0>: Get poster's url from backend - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9e1859f415de|9e1859f415de>: Merge pull request #23 from etaehyun4\/feat\/view - etaehyun4\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/a1809802419b|a1809802419b>: Revert \"Feat\/view - Arrange Pictures\" - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6f7cc8cf7953|6f7cc8cf7953>: Merge pull request #24 from sparcs-kaist\/revert-23-feat\/view - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6527b09ca094|6527b09ca094>: Merge branch 'feat\/club_page' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/65725d315603|65725d315603>: Merge pull request #25 from etaehyun4\/feat\/view - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/010ac200c05a|010ac200c05a>: blank_line \uc81c\uac70 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8580970a3f90|8580970a3f90>: Merge branch 'feat\/view' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bfc36dd94b62|bfc36dd94b62>: \ubc14\ub010 render\uc758 context\uc5d0 \ub300\ud55c views.py \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/54eca832b97a|54eca832b97a>: \ubc14\ub010 context\uc5d0 \ub9de\uac8c html \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b6a58f7e3f12|b6a58f7e3f12>: Merge branch 'dev\/board' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8dad766f824b|8dad766f824b>: Update requirements.txt - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/ac16ba6af2ac|ac16ba6af2ac>: Add PIL to requirements.txt - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/1676f8fbd268|1676f8fbd268>: Update README.md - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/7b5c85c06825|7b5c85c06825>: Update README.md - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/34783500bcee|34783500bcee>: Login\uc774 \ub418\uc5c8\uc744 \ub54c\uc5d0 Logout \ubc84\ud2bc\uc73c\ub85c \ud45c\uc2dc\ud558\ub3c4\ub85d \ubcc0\uacbd - Changje Jeong\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/5317e312126e|5317e312126e>: Merge pull request #28 from changjej\/iss\/27 - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/86970eac7877|86970eac7877>: Merge pull request #26 from changjej\/develop - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/584b89c83b60|584b89c83b60>: remove django-imagefit - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/c45713d934ba|c45713d934ba>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dbf22102c936|dbf22102c936>: Implement new registration page as design. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/c600c4aafd65|c600c4aafd65>: Merge branch 'dev\/board' into feat\/layout - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408274076.000276"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "<@U024SKNH9>: \uc885\ud601\ud615 \ucf54\uba58\ud2b8\ubcf4\uace0 view\uc5d0\uc11c \ucc98\ub9ac\ud560\uac70 \ucc98\ub9ac\ud560\uac83",
+        "ts": "1408275566.000277"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc544\ub9c8 \uac70\uc758\ub2e4 view\ucabd\uc5d0 \uac00\uae4c\uc6b4 \uc598\uae30\ub77c\uc11c",
+        "ts": "1408275690.000278"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/layout] 1 new commit by coffee:",
+                "fallback": "[zabo:feat\/layout] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/567cb83fa5a0|1 new commit> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/567cb83fa5a0|567cb83fa5a0>: Create categories with model information - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408281442.000279"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/010ac200c05a...dbf22102c936|40 new commits>:",
+                "fallback": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/010ac200c05a...dbf22102c936|40 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6b07e3fbc3e1|6b07e3fbc3e1>: Modify views and html of article registration. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bc2c1e203e4c|bc2c1e203e4c>: Change url to have coherent name. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b46f9ae4f91e|b46f9ae4f91e>: Override default LOGIN_URL value to approprate url. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/36c3d1ad879a|36c3d1ad879a>: make redirection '\/' to '\/main\/' - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e4b558e8a918|e4b558e8a918>: created dropdown category menu - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/77b84388e8f4|77b84388e8f4>: layout height changed to 50px - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/13f4596fa0b2|13f4596fa0b2>: Merge branch 'feat\/layout' into dev\/board - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e1b1d6d2da10|e1b1d6d2da10>:  account model \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/18ac7cd081e7|18ac7cd081e7>: category - onionionion\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/93cda7869a84|93cda7869a84>: account fixture \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/197d6eb6a00b|197d6eb6a00b>: Merge pull request #21 from onionionion\/dev\/board - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/4583107e8ac4|4583107e8ac4>: layout height changed to 50px again, added club_info block - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/98c5bb63a011|98c5bb63a011>: Merge branch 'feat\/layout' into dev\/board - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/0a4f7489b80b|0a4f7489b80b>: Merge branch 'dev\/account' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/2a8a142f788f|2a8a142f788f>: club info added - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dc4d6945b4a6|dc4d6945b4a6>: Merge branch 'feat\/club_page' into dev\/board - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/218364734b52|218364734b52>: Create file_handelr jquery plugin. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/85d7a280b4c3|85d7a280b4c3>: Merge pull request #22 from horknox\/dev\/registration - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/910d915fce95|910d915fce95>: searching clubs - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/973468df7c54|973468df7c54>: Merge branch 'dev\/registration' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/816ef78dd1ef|816ef78dd1ef>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e5fe7fe4b7cd|e5fe7fe4b7cd>: board fixture \ucd94\uac00 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9e1859f415de|9e1859f415de>: Merge pull request #23 from etaehyun4\/feat\/view - etaehyun4\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/a1809802419b|a1809802419b>: Revert \"Feat\/view - Arrange Pictures\" - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6f7cc8cf7953|6f7cc8cf7953>: Merge pull request #24 from sparcs-kaist\/revert-23-feat\/view - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6527b09ca094|6527b09ca094>: Merge branch 'feat\/club_page' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8580970a3f90|8580970a3f90>: Merge branch 'feat\/view' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bfc36dd94b62|bfc36dd94b62>: \ubc14\ub010 render\uc758 context\uc5d0 \ub300\ud55c views.py \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/54eca832b97a|54eca832b97a>: \ubc14\ub010 context\uc5d0 \ub9de\uac8c html \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b6a58f7e3f12|b6a58f7e3f12>: Merge branch 'dev\/board' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8dad766f824b|8dad766f824b>: Update requirements.txt - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/ac16ba6af2ac|ac16ba6af2ac>: Add PIL to requirements.txt - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/1676f8fbd268|1676f8fbd268>: Update README.md - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/7b5c85c06825|7b5c85c06825>: Update README.md - changjej\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/34783500bcee|34783500bcee>: Login\uc774 \ub418\uc5c8\uc744 \ub54c\uc5d0 Logout \ubc84\ud2bc\uc73c\ub85c \ud45c\uc2dc\ud558\ub3c4\ub85d \ubcc0\uacbd - Changje Jeong\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/5317e312126e|5317e312126e>: Merge pull request #28 from changjej\/iss\/27 - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/86970eac7877|86970eac7877>: Merge pull request #26 from changjej\/develop - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/584b89c83b60|584b89c83b60>: remove django-imagefit - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/c45713d934ba|c45713d934ba>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dbf22102c936|dbf22102c936>: Implement new registration page as design. - elaborate",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408291100.000280"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/dbf22102c936...bd3b9c3854e7|3 new commits> by Taehyun:",
+                "fallback": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/dbf22102c936...bd3b9c3854e7|3 new commits> by Taehyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6def2e4d57d9|6def2e4d57d9>: Change the Maximum total width of posters in one line - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/3fcecfbac371|3fcecfbac371>: Make css file for view page and delete unnecessary black region - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bd3b9c3854e7|bd3b9c3854e7>: Change to arrange the poster's group and margins - Taehyun",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408296901.000281"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] 1 new commit by elaborate:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/46857aa4c6d1|1 new commit> by elaborate",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/46857aa4c6d1|46857aa4c6d1>: Update css to fit cross browsers. - elaborate",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408329764.000282"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<http:\/\/143.248.234.137:9999\/registration\/> ID:elaborate PW:1234",
+        "ts": "1408331370.000283"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc880 \ube44\uc2b7\ud568?",
+        "ts": "1408331374.000284"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<http:\/\/bit.sparcs.org\/~seal\/zabo\/Register2.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/bit.sparcs.org\/~seal\/zabo\/Register2.jpg",
+                "fallback": "1024x1000px image",
+                "image_url": "http:\/\/bit.sparcs.org\/~seal\/zabo\/Register2.jpg",
+                "image_width": 1024,
+                "image_height": 1000,
+                "image_bytes": 58615,
+                "id": 1
+            }
+        ],
+        "ts": "1408331396.000285"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud30c\uc77c \ucca8\ubd80\ub294 \ube0c\ub77c\uc6b0\uc838 \uae30\ubcf8\uc774\ub77c\uc11c \uc5c6\uc560\uae30\uac00 \uc5b4\ub824\uc6c0.",
+        "ts": "1408331505.000287"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544 \uc608 javascript\ub85c \ud558\uac70\ub098 \uc544\ub2c8\uba74 opacity\ub97c 0\uc73c\ub85c \ud558\uace0 \ub2e4\ub978 \uac78\ub85c element\ub85c \ub36e\uc5b4\uc368\uc57c\ud558\ub294\ub370",
+        "ts": "1408331541.000288"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c... \uadf8\ub798\ub3c4 \uc5b4\uca0c\ub4e0 \ubb54\uac00 \uc774\ub798\uc800\ub798 \uac74\ub4dc\ub824\uc57c\ud560 \uac8c \ub9ce\uc544\uc9c0\ub294 \ub2e8\uc810\uc774 \uc788\uc74c.",
+        "ts": "1408331556.000289"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud5c8\ud5c8",
+        "ts": "1408331559.000290"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] 1 new commit by elaborate:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/65925a51774e|1 new commit> by elaborate",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/65925a51774e|65925a51774e>: Add title counter javascript function. - elaborate",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408333272.000291"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc9c0\ud5a5\ub2d8\uc774 \uc800 \uc544\uc774\ucf58\ub4e4 \uc880 \uc8fc\uba74 \uc88b\uaca0\ub294\ub370 \ub9d0\uc774\uc8e0",
+        "ts": "1408334283.000292"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud558\uc9c0\ub9cc \uc9c0\ud5a5\ub2d8\uc740 \uc5ec\uae30\uc5d0 \uc5c6\uc73c\uc2dc\uc8e0",
+        "ts": "1408334288.000293"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uce74\ud1a1 \uce74\ud1a1\uc744 \ud574\uc57c\uaca0\uad70",
+        "ts": "1408334298.000294"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/65925a51774e...2b3e07706a78|4 new commits>:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/65925a51774e...2b3e07706a78|4 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6def2e4d57d9|6def2e4d57d9>: Change the Maximum total width of posters in one line - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/3fcecfbac371|3fcecfbac371>: Make css file for view page and delete unnecessary black region - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bd3b9c3854e7|bd3b9c3854e7>: Change to arrange the poster's group and margins - Taehyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/2b3e07706a78|2b3e07706a78>: Merge remote-tracking branch 'origin\/feat\/view' into dev\/board - elaborate",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1408342736.000295"
+    }
+]

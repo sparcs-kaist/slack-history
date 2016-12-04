@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "ts": "1390305408.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1390305417.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\ucc44\ub110 \uc778\uae30\ub3c4 \ub178\ub2f5\uc774\ub77c\ub2e0\u314b",
+        "ts": "1390305421.000011"
+    }
+]

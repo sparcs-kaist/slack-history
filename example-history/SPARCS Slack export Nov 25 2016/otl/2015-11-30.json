@@ -1,0 +1,193 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/74cf7902021e06f41b883ac1ea68a3bee9c63451|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/74cf7902021e06f41b883ac1ea68a3bee9c63451|74cf790>: session\/base.html \uc0ac\uc18c\ud55c \uc624\ub958 \uc218\uc815 - TaeHyun",
+                "pretext": "[otlplus:session] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448870733.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/8697825b423484c366d6da998d5e220355b90792|1 new commit> by Jeong Woon Choi",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/8697825b423484c366d6da998d5e220355b90792|8697825>: logout issue solved - Jeong Woon Choi",
+                "pretext": "[otlplus:session] 1 new commit by Jeong Woon Choi:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448871924.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/1bdc9fbe921962cf73fcc203469d8b825c64ec08|1 new commit> by kangwon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/1bdc9fbe921962cf73fcc203469d8b825c64ec08|1bdc9fb>: Modify login system - kangwon",
+                "pretext": "[otlplus:session] 1 new commit by kangwon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448876003.000031"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U041VNW3G|mandu> uploaded a file: <https:\/\/sparcs.slack.com\/files\/mandu\/F0FGK8M96\/pasted_image_at_2015_11_30_08_37_pm.png|Pasted image at 2015-11-30, 8:37 PM> and commented: \uc9c0\ub09c\ubc88\uc5d0\ub3c4 \ud55c \ubc88 \uc62c\ub838\ub294\ub370 \uc544\uc9c1\ub3c4 \uc548\ub418\uc11c \uc9c8\ubb38\ub4dc\ub824\uc694\n\uc9c0\uae08 otl\uc5d0\uc11c \ud559\uc0ac db \ub5a0\uc62c \ub54c Sybase\ub77c\ub294 moudle\uc744 import\ud574\uc11c \uc0ac\uc6a9\ud558\ub294\ub370\n\uc774\uac78 bit\uc5d0\uc11c \uae54\uc544\ubcf4\ub824\uace0 \ud558\ub2c8 \uc774\ub7f0 \uc5d0\ub7ec\uc5d0 \uc790\uafb8 \ub9c9\ud600\uc11c \uc548\ub418\ub294\ub370 \ud639\uc2dc \ud574\uacb0\ubc29\ubc95 \uc544\uc2dc\ub294 \ubd84 \uc788\ub098\uc694? \u3160\u3160",
+        "file": {
+            "id": "F0FGK8M96",
+            "created": 1448883456,
+            "timestamp": 1448883456,
+            "name": "Pasted image at 2015_11_30 08_37 PM.png",
+            "title": "Pasted image at 2015-11-30, 8:37 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U041VNW3G",
+            "editable": false,
+            "size": 164414,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0FGK8M96\/pasted_image_at_2015_11_30_08_37_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0FGK8M96\/download\/pasted_image_at_2015_11_30_08_37_pm.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 202,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 540,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0FGK8M96-77759cbed7\/pasted_image_at_2015_11_30_08_37_pm_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 576,
+            "image_exif_rotation": 1,
+            "original_w": 1366,
+            "original_h": 768,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/mandu\/F0FGK8M96\/pasted_image_at_2015_11_30_08_37_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0FGK8M96-282a6cbb98",
+            "channels": [
+                "C029U6HTV"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc0FGJ553K",
+                "created": 1448883456,
+                "timestamp": 1448883456,
+                "user": "U041VNW3G",
+                "is_intro": true,
+                "comment": "\uc9c0\ub09c\ubc88\uc5d0\ub3c4 \ud55c \ubc88 \uc62c\ub838\ub294\ub370 \uc544\uc9c1\ub3c4 \uc548\ub418\uc11c \uc9c8\ubb38\ub4dc\ub824\uc694\n\uc9c0\uae08 otl\uc5d0\uc11c \ud559\uc0ac db \ub5a0\uc62c \ub54c Sybase\ub77c\ub294 moudle\uc744 import\ud574\uc11c \uc0ac\uc6a9\ud558\ub294\ub370\n\uc774\uac78 bit\uc5d0\uc11c \uae54\uc544\ubcf4\ub824\uace0 \ud558\ub2c8 \uc774\ub7f0 \uc5d0\ub7ec\uc5d0 \uc790\uafb8 \ub9c9\ud600\uc11c \uc548\ub418\ub294\ub370 \ud639\uc2dc \ud574\uacb0\ubc29\ubc95 \uc544\uc2dc\ub294 \ubd84 \uc788\ub098\uc694? \u3160\u3160",
+                "channel": ""
+            }
+        },
+        "user": "U041VNW3G",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U041VNW3G|mandu>",
+        "bot_id": null,
+        "ts": "1448883459.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub290\ub08c\uc0c1 sybase client library\uac00 \uc5c6\ub294\uac70 \uac19\uc740\ub370",
+        "ts": "1448885477.000033"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub300\ucda9 header \ucc38\uace0\ub97c \ubabb\ud558\ub294 \ub290\ub08c\uc778\ub370",
+        "ts": "1448885499.000034"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\ub124 \uadf8\ub7f0\uac70\uac19\uae34\ud55c\ub370",
+        "ts": "1448888175.000035"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "\uadf8\ub798\uc11c otl\uc11c\ubc84\uc5d0 \uc124\uce58\ub418\uc788\ub294 \ud30c\uc77c\ub4e4\uacfc bit\uc5d0 \uc788\ub294\uac70\ub791 \ube44\uad50\ud574\ubd24\ub294\ub370\ub3c4 \uadf8\ub798\uc11c\uc694\u3160\u3160",
+        "ts": "1448888251.000036"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc124\uce58\ub418\uc5b4 \uc788\ub294 \ud30c\uc77c\ub4e4?",
+        "ts": "1448938983.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud760... \ubb54\uac00 \uc560\ub9e4\ud55c \ud45c\ud604\uc778\ub370, \uad6c\uccb4\uc801\uc73c\ub85c \ubb58 \ube44\uad50\ud588\ub294\uc9c0 \uc54c\uc544\uc57c\uaca0\uc5b4",
+        "ts": "1448939073.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc800 \uc11c\ube44\uc2a4 \ub514\ub809\ud1a0\ub9ac \ub9d0\uace0 \/usr\/lib \ub4f1\uc5d0 \uc788\ub294 *.so *.h \uc774\ub7f0 \ud30c\uc77c\ub4e4\ub3c4 compile \uc5d0 \ucc38\uace0\ud558\uae30 \ub54c\ubb38\uc5d0 \ube44\uad50\ud558\ub294\uac8c \uc27d\uc9c0 \uc54a\uc744\ud150\ub370?",
+        "ts": "1448939132.000039"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544 \\*\uc744 \uce58\uba74 bold \uccb4\uac00 \ub418\ub294\uad6c\ub9cc",
+        "ts": "1448939154.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "'*.so *.h",
+        "ts": "1448939167.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "*bold*",
+        "ts": "1448939185.000042"
+    }
+]

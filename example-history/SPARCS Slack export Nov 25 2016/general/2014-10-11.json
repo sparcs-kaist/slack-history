@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub370\ucf54\ub808\uc774\ud130...\uc5d0 \ub300\ud574 \uc9c8\ubb38\uc774 \uc788\ub294\ub370",
+        "ts": "1413010833.000333"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub204\uad6c\uc5c6\ub098",
+        "edited": {
+            "user": "U024SNC3Y",
+            "ts": "1413010844.000000"
+        },
+        "ts": "1413010843.000334"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "<http:\/\/sijinjoseph.com\/programmer-competency-matrix\/>",
+        "attachments": [
+            {
+                "service_name": "Sijin Joseph",
+                "title": "Programmer Competency Matrix",
+                "title_link": "http:\/\/sijinjoseph.com\/programmer-competency-matrix\/",
+                "text": "Note that the knowledge for each level is cumulative; being at level n implies that you also know everything from the levels lower than n. Computer Science 2n (Level 0) n2 (Level 1) n (Level 2) log...",
+                "fallback": "Sijin Joseph: Programmer Competency Matrix",
+                "ts": 1235508735,
+                "from_url": "http:\/\/sijinjoseph.com\/programmer-competency-matrix\/",
+                "id": 1
+            }
+        ],
+        "ts": "1413027057.000337"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc61b\ub0a0\uc5d0 \uc720\ud589\ud588\ub358\uac74\ub370 ....",
+        "ts": "1413027063.000340"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc880  \uc791\uc131\uc790\uc758 \uc8fc\uad00\uc774 \uaf64 \ub4e4\uc5b4\uac00\uc788\uae34 \ud558\uc9c0\ub9cc \uc77d\uc5b4\ubd04\uc9c1\ud55c \uae00\uc774\ub124\uc694",
+        "ts": "1413027074.000341"
+    }
+]

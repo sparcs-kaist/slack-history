@@ -1,0 +1,162 @@
+[
+    {
+        "text": "&lt;e`laborate&gt; pcpenpal\ub2d8 \uc694\uc998 \uc5b4\ub5bb\uac8c \uc9c0\ub0b4\uc2dc\ub294\uc9c0....",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1402990741.003115"
+    },
+    {
+        "text": "&lt;l`ifthrasiir&gt; \ub77c\uc778\uc5d0\uc11c\ub3c4 \ubc25 \uc5bb\uc5b4 \uba39\uc5b4\uc57c \ud558\ub294\ub370 \uc65c \uc548 \uacc4\uc2dc\uc9c0",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1403001266.003116"
+    },
+    {
+        "text": "&lt;l`ifthrasiir&gt; \u3160\u3160",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1403001271.003117"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\uadfc\ub370 \uc6a9\uc218\ud615\uc740 \uc5b4\ucc28\ud53c \uc77c\ubcf8\uc5d0 \uc788\uace0\u314b\u314b",
+        "ts": "1403013437.003118"
+    },
+    {
+        "type": "message",
+        "user": "U024SHUM3",
+        "text": "\ud55c\uad6d\uc5d0\uc11c \uc5bb\uc5b4\uba39\uc73c\uc2dc\ub824\uba74 \uc8fc\uc6d0\uc120\ubc30\ud55c\ud14c\u314b\u314b",
+        "ts": "1403013454.003119"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u314e\u3131\u3147",
+        "ts": "1403044541.003120"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\u314e\u3131\u3147",
+        "ts": "1403044897.003121"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\u314e\u3131\u3147",
+        "ts": "1403045878.003122"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U024SNAD0>: ERROR: failed to ask Upstart to check conf file",
+        "ts": "1403059629.003123"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud639\uc2dc \uc774\ub7f0 \uc5d0\ub7ec\ub97c \ubcf8 \uc801\uc774 \uc788\uc73c\uc2e0 \ubd84?",
+        "ts": "1403059643.003124"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "Upstart \uc4f0\ub824\uace0 \/etc\/init.d\/combacsa.conf \ub97c \ub9cc\ub4e4\uc5c8\ub294\ub370",
+        "ts": "1403059662.003125"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc2e4\ud589\uc774 \uc798 \uc548 \ub418\uc5b4\uc11c init-checkconf \/etc\/init.d\/combacsa.conf \ub97c \ud588\ub354\ub2c8 \uc800\ub7f0 \uad34\ub784\ud55c \uc5d0\ub7ec \uba54\uc2dc\uc9c0\ub9cc \ub728\uace0 \uc9c4\ud589\uc774 \ub418\uc9c0 \uc54a\ub294\uad70\uc694 ... \u3160_\u3160 \uad6c\uae00\ub9c1\uc744 \ud574\ubd10\ub3c4 dbus-x11 \ud328\ud0a4\uc9c0\uac00 \uc5c6\ub294 \uac8c \uc544\ub2c8\ub0d0, \ubb50 \uc774\ub7f0 \uc598\uae30\ub9cc \uc788\ub294\ub370 \uc65c \uc774\ub7ec\uc9c0 \u3160\u3160",
+        "ts": "1403059711.003126"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud750\uaddc\ud750\uaddc \ud720 \uc138\ubbf8\ub098\ub97c \ub4e4\uc5c8\uc5b4\uc57c \ud558\ub294\ub370 ... \u3160_\u3160",
+        "ts": "1403059721.003127"
+    },
+    {
+        "text": "&lt;e`laborate&gt; \uadfc\ub370 dbus-x11\uc744 \uae54\uba74 \ud574\uacb0\ub420 \uac83\ub9cc \uac19\uad70",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1403060133.003128"
+    },
+    {
+        "text": "&lt;e`laborate&gt; ubuntu server\uc5d0\uc11c \uc77c\uc5b4\ub098\ub294 \uace0\uc9c8\uc801\uc778 \ubb38\uc81c\uc778\uac83\uc73c\ub85c \ubcf4\uc774\ub294\ub370",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1403060385.003129"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uadf8 \ud328\ud0a4\uc9c0\ub294 \uc774\ubbf8 \uc788\ub294\ub370 \u3160\u3160",
+        "ts": "1403062303.003130"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud750\uaddc\ud750\uaddc",
+        "ts": "1403062305.003131"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U024SNAD0> \uc544\ud558, \uc54c\uc558\ub2e4... dbus-x11 \uc774 \uc124\uce58\ub418\uc5b4 \uc788\ub294 \uac83\ub9cc\uc73c\ub85c\ub294 \ubd80\uc871\ud558\uace0, \uc2e4\ud589\uc911\uc774\uae30\uae4c\uc9c0 \ud574\uc57c \ud558\ub294\uad70 ...",
+        "ts": "1403063676.003132"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<http:\/\/scriptogr.am\/mwhiteley\/post\/dbus-init-checkconf>",
+        "attachments": [
+            {
+                "title": "dbus-init-checkconf - Matt Whiteley on scriptogr.am",
+                "title_link": "http:\/\/scriptogr.am\/mwhiteley\/post\/dbus-init-checkconf",
+                "text": "Matt Whiteley |\u00a0",
+                "fallback": "dbus-init-checkconf - Matt Whiteley on scriptogr.am",
+                "from_url": "http:\/\/scriptogr.am\/mwhiteley\/post\/dbus-init-checkconf",
+                "id": 1
+            }
+        ],
+        "ts": "1403063690.003133"
+    },
+    {
+        "text": "&lt;j`Bot&gt; [<http:\/\/scriptogr.am|scriptogr.am>] HTTP 404 \ud398\uc774\uc9c0\ub97c \ucc3e\uc744 \uc218 \uc5c6\uc74c",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1403063693.003135"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u314b...\u314b\u314b",
+        "ts": "1403063702.003136"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "@lifthrasiir \ud615 \ud639\uc2dc sparcs IRC \uc5d0\ub3c4 langdev \ucc98\ub7fc log \uac19\uc740 \uac70 \ub9cc\ub4e4 \uc218 \uc788\uc744\uae4c? (...)",
+        "ts": "1403066678.003137"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc5c7 \uc548\uadf8\ub798\ub3c4 \ud68c\uc0ac \uc2ac\ub799\uc5d0 \uc0b0\ub09a\uc9c0 \ubd99\uc5ec\ubcf4\ub294 \uc911\uc774\uc5c8\ub294\ub370....",
+        "ts": "1403069185.003138"
+    }
+]

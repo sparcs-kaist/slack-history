@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/9epPX\/be70dcf700.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/9epPX\/be70dcf700.jpg",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/9epPX\/be70dcf700.jpg",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 382614,
+                "id": 1
+            }
+        ],
+        "ts": "1401869989.000060"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/9eqB2\/459deef675.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/9eqB2\/459deef675.jpg",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/9eqB2\/459deef675.jpg",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 366372,
+                "id": 1
+            }
+        ],
+        "ts": "1401871163.000062"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/puu.sh\/9eqCg\/f6dd410e24.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/9eqCg\/f6dd410e24.jpg",
+                "fallback": "1920x1080px image",
+                "image_url": "http:\/\/puu.sh\/9eqCg\/f6dd410e24.jpg",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 264918,
+                "id": 1
+            }
+        ],
+        "ts": "1401871205.000064"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uac8c\uc774\ubb3c\uc774\ub124\uc5ec",
+        "ts": "1401874937.000066"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "coffee: \ub108 \uc7a0\uae50 \ub098\uc880\ubcf4\uc790",
+        "ts": "1401875660.000067"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubb50? \uac8c\uc774\ubb3c?",
+        "ts": "1401875666.000068"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ubd80\ub4e4\ubd80\ub4e4...",
+        "ts": "1401875669.000069"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1401875762.000070"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc88b\uc740 \uc5b4\uadf8\ub85c\uc600\ub2e4...",
+        "ts": "1401875780.000071"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\uc774\uac70 \uac8c\uc774\ubb3c\uc784?\u3137\u3137",
+        "ts": "1401881046.000072"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\uad1c\ucc2e\uc544 \uadfc\ud64d\uc544 \ucde8\ud5a5 \uc874\uc911\ud568",
+        "ts": "1401881074.000073"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ub9c9\uc9e4\ub9cc \ubd10\ub3c4 \uacac\uc801 \ub098\uc624\ub124\uc694",
+        "ts": "1401882177.000074"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc73c",
+        "ts": "1401882723.000075"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774 \ucf00\ub2e4\ubaa8\ub178\ub4e4....",
+        "ts": "1401882745.000076"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\ucf00\ub2e4\ubaa8\ub178\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1401885231.000077"
+    },
+    {
+        "user": "U024SJ5TM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ5TM|snogar> has joined the channel",
+        "ts": "1401946990.000078"
+    },
+    {
+        "user": "U024SJ5TM",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SJ5TM|snogar> has left the channel",
+        "ts": "1401947001.000079"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<@U024SJ5TM>: \uc5b4\uc11c\uc624\uc138\uc694",
+        "ts": "1401947143.000080"
+    },
+    {
+        "user": "U024SJ5TM",
+        "inviter": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ5TM|snogar> has joined the channel",
+        "ts": "1401947153.000081"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uba38\uc594\u314b\u314b\u314b\u314b",
+        "ts": "1401947342.000082"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc544...\uc62c\ub824\ubcf4\ub2c8 \ub09c \uc774\ucc44\ub110\uc5d0 \uc787\uc744\uc0ac\ub78c\uc774\uc544\ub2c8\uc57c..",
+        "ts": "1401947399.000083"
+    },
+    {
+        "user": "U024SJ5TM",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SJ5TM|snogar> has left the channel",
+        "ts": "1401947401.000084"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc800\ub3c4 \ube68\ub9ac \uc218\uc6a9\uc18c \ud0c8\ucd9c\ud574\uc57c\ud558\ub098....",
+        "ts": "1401951205.000085"
+    }
+]

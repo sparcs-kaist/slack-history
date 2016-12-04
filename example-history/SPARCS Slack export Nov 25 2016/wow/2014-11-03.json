@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U024U4U5G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U4U5G|sven> has joined the channel",
+        "ts": "1415042023.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc5ec\ub7ec\ubd84!",
+        "ts": "1415042058.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc640\uc6b0 \ud558\uc9c0 \ub9c8\uc138\uc694!! \uc778\uc0dd \ud328\ub9dd\uc758 \uc9c0\ub984\uae38\uc785\ub2c8\ub2e4!!! \ud558\ud558\ud573",
+        "ts": "1415042066.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc88b\uc740 \ud558\ub8e8 ^\u3147^~",
+        "ts": "1415042072.000005"
+    },
+    {
+        "user": "U024U4U5G",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024U4U5G|sven> has left the channel",
+        "ts": "1415042078.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ud504\ub85c \uae7d\ud30c\ub108...",
+        "ts": "1415075970.000007"
+    }
+]

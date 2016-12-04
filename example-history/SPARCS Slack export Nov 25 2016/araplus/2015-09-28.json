@@ -1,0 +1,54 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:channel] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5e8caa7f2d52f3a1eabb61afc12eeec6a82b2060|1 new commit> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5e8caa7f2d52f3a1eabb61afc12eeec6a82b2060|5e8caa7>: \uae00\uc5d0 \ubcc4\uc810 \ub300\uc2e0 \ucd94\ucc9c\/\ubc18\ub300\ub97c \uc8fc\ub3c4\ub85d \ub2e4\uc2dc \ubcc0\uacbd - zazang",
+                "pretext": "[araplus:channel] 1 new commit by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1443457466.000088"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubc18\ub300\ub294",
+        "ts": "1443457767.000089"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5c6\uc5b4...",
+        "ts": "1443457771.000090"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:channel] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/65a54c1b25e9d0ddc0bc8f3d29f9cdb6862fc352|1 new commit> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/65a54c1b25e9d0ddc0bc8f3d29f9cdb6862fc352|65a54c1>: \ubc18\ub300 \uc5c6\uc774 \ucd94\ucc9c\ub9cc \uac00\ub2a5\ud558\ub3c4\ub85d \ubcc0\uacbd. - zazang",
+                "pretext": "[araplus:channel] 1 new commit by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1443459939.000091"
+    }
+]

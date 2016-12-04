@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ud558\ud573",
+        "ts": "1426491701.000175"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\uafc0\uc7a0",
+        "ts": "1426491714.000176"
+    },
+    {
+        "type": "message",
+        "user": "U03H8L275",
+        "text": "\ub0b4\uc77c 5\uc2dc~7\uc2dc \uacfc\uc678\ub791 10\uc2dc ~11\uc2dc\uc815\ub3c4 \uc81c\uc678\ud558\uace0 \uc544\ubb34\ub54c\ub098 \uac00\ub2a5\ud569\ub2c8\ub2e4",
+        "ts": "1426491745.000177"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/db079453b82e...bfb5cfa9dc60|3 new commits> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/abe5218|abe5218>: Remove auto facebook login. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/c12c918|c12c918>: Align article image vertical middle. - Horknox\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/bfb5cfa|bfb5cfa>: Show modal dialog when user click article image. - Horknox",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/db079453b82e...bfb5cfa9dc60|3 new commits> by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1426575339.000178"
+    }
+]

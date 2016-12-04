@@ -1,0 +1,121 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by leeopop on pull request <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/99#issuecomment-235885516|#99: Add SPARCS SSO Version 2 Core Features> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\ub4dc\ub798\ud504\ud2b8\uc5d0 GET logout\/ \uc788\uc5b4\uc11c \ubb50\uc9c0 \ud558\uace0 \uc774\uc57c\uae30\ud558\ub824\ub2e4 \ubcf4\ub2c8 \uc774\ubbf8 \uace0\ucce4\uad70..",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by leeopop on pull request <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/99#issuecomment-235885516|#99: Add SPARCS SSO Version 2 Core Features> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469710405.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469724432.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#107 minor bug fix on dev apps; remove dev doc' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/107 by a1sams1a",
+                "text": "coding, commit, pr, self merge, self deploy",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#107 minor bug fix on dev apps; remove dev doc",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/107",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469725165.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/107|#107 minor bug fix on dev apps; remove dev doc> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/107|#107 minor bug fix on dev apps; remove dev doc> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469725172.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/d86c4fefbcab...9b48f07671f0|2 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5391c6c76b2179ab6d4c30e79baed36f99996718|5391c6c>`  minor bug fix on dev apps; remove dev doc - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/9b48f07671f0622876f63cd249c9dd61d1394c04|9b48f07>`  Merge pull request #107 from sparcs-kaist\/dev-samjo - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/d86c4fefbcab...9b48f07671f0|2 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469725173.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469725175.000006"
+    }
+]

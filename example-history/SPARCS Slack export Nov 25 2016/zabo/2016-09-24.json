@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "\uc5b4\uc81c\uc800\uac70\uc62c\ub9ac\uace0, \uac01\ub3d9\uc544\ub9ac \ud398\ubd81\uc5d0\uc11c\ub3c4 \ud06c\ub864\ub9c1\ud558\ub294 \uc2a4\ud06c\ub9bd\ud2b8\ub9cc\ub4e4\ub824\uace0\ud558\ub294\ub370,\n\uae43\ud5c8\ube0c \ucee4\ubc0b\uad8c\ud55c\uc774\ub791, \uc790\ubcf4\uc11c\ubc84 \uacc4\uc815\uc774\uc5c6\ub124\uc694\n\uc2dc\uc0bd@potato \ub2d8 \ub3c4\uc640\uc8fc\uc138\uc694!",
+        "ts": "1474703120.000008"
+    },
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "<@U04J6LN3W>",
+        "ts": "1474703125.000009"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub458 \ub2e4 \ub4dc\ub838\uc2b5\ub2c8\ub2e4.",
+        "ts": "1474703809.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/pull\/52|#52 \ud3ec\ud0c8 \ud3ec\uc2a4\ud130 \ud06c\ub864\ub9c1> by <https:\/\/github.com\/jiggum|jiggum>",
+                "text": "[sparcs-kaist\/dejavo] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/pull\/52|#52 \ud3ec\ud0c8 \ud3ec\uc2a4\ud130 \ud06c\ub864\ub9c1> by <https:\/\/github.com\/jiggum|jiggum>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474705230.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/tree\/develop|[dejavo:develop]> <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/a3f2aa1f2127...d169f2663110|4 new commits> by coffee and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/37b26ca17407a5037609bf861bc4b98d8fe33214|37b26ca>`  Merge branch 'develop' - coffee\n `<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/cc85c615d507e64bdb8501c2b4d76b79a0d81f23|cc85c61>`  Merge branch 'develop' - coffee\n `<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/c7e8025ab81bcb6a01a76a8d1397d1d114ff251f|c7e8025>`  crawling poster from portal - jiggum\n `<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/d169f2663110787d258bfd02e5f4f4fcf36596c9|d169f26>`  Merge pull request #52 from jiggum\/master - jiggum",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/tree\/develop|[dejavo:develop]> <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/a3f2aa1f2127...d169f2663110|4 new commits> by coffee and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474705230.000012"
+    }
+]

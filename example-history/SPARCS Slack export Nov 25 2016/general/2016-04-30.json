@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud5c8\ud5c8",
+        "ts": "1462001785.000403"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc628\uac16 \ube44\ub9ac\uac00 \ub2e4 \uc788\ub124 \ub2e4\uc788\uc5b4",
+        "ts": "1462001792.000404"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<https:\/\/medium.com\/javascript-and-opinions\/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.kndgvfbv2>",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "State of the Art JavaScript in 2016 \u2014 JavaScript and Opinions",
+                "title_link": "https:\/\/medium.com\/javascript-and-opinions\/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.kndgvfbv2",
+                "text": "So, you\u2019re starting a brand new JavaScript front end project or overhauling an old one, and maybe you haven\u2019t kept up wi\u2026",
+                "fallback": "Medium: State of the Art JavaScript in 2016 \u2014 JavaScript and Opinions",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*BAwhVEwe5bPJKCNHBdfGPA.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "15 mins",
+                        "short": true
+                    }
+                ],
+                "ts": 1456671851,
+                "from_url": "https:\/\/medium.com\/javascript-and-opinions\/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.kndgvfbv2",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 368154,
+                "id": 1
+            }
+        ],
+        "ts": "1462041847.000405"
+    }
+]

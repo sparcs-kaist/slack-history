@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U0B6LPVSM",
+        "text": "<@U0B6LPVSM|stein> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012943.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "inviter": "U0B6LPVSM",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012944.000003"
+    },
+    {
+        "user": "U0B6GQJ3F",
+        "inviter": "U0B6LPVSM",
+        "text": "<@U0B6GQJ3F|adobecs5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012944.000004"
+    },
+    {
+        "user": "U02PEJCVA",
+        "inviter": "U0B6LPVSM",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012944.000005"
+    },
+    {
+        "user": "U0B6J3PCG",
+        "inviter": "U0B6LPVSM",
+        "text": "<@U0B6J3PCG|todo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012945.000006"
+    },
+    {
+        "user": "U0B6J0HUG",
+        "inviter": "U0B6LPVSM",
+        "text": "<@U0B6J0HUG|raon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012945.000007"
+    },
+    {
+        "user": "U04HUN944",
+        "inviter": "U0B6LPVSM",
+        "text": "<@U04HUN944|kyeome> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012945.000008"
+    },
+    {
+        "user": "U0B6FN5MH",
+        "inviter": "U0B6LPVSM",
+        "text": "<@U0B6FN5MH|nobell> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471012946.000009"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc6b0\uc120 \uba54\uc77c\ub9c1 \uae30\uc900\uc73c\ub85c \ud320\uc2b5\ub2c8\ub2e4 \ube7c\uba39\uc740\ubd84 \uc788\ub098\uc694 \ud639\uc2dc \uc81c\uac00?",
+        "ts": "1471012964.000010"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "PyCon\uc73c\ub85c \uc4f0\uace0 \uc2f6\uc5c8\ub294\ub370 \ub300\ubb38\uc790\uac00 \uc548\ub418\ub294\uad6c\ub098 \u315c\u315c \uc2ac\uc54c\ubabb",
+        "ts": "1471012992.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uaca8\ubbf8\ub2d8",
+        "ts": "1471013163.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud2f0\ucf00\ud305 \ubabb\ud558\uc2ec",
+        "ts": "1471013166.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u315c\u315c",
+        "ts": "1471013167.000014"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\u315c\u315c",
+        "ts": "1471013208.000015"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc815\ubcf4\uacf5\uc720(\ub77c\uace0 \uc77d\uace0 \uc778\uc131\uc9c8)\ub97c \ud574\ub4dc\ub9bd\uc2dc\ub2e4",
+        "ts": "1471013222.000016"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc4f0\uace0\uad6c\ub098..",
+        "ts": "1471013230.000017"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub0b4\uc77c \ub2e4\ub4e4 \uba87\uc2dc\uc5d0 \uac00\uc2dc\ub098\uc694",
+        "ts": "1471013286.000018"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubd80\ub7fd\ub2e4",
+        "ts": "1471013909.000019"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud30c\uc774\ucf58...",
+        "ts": "1471013912.000020"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub2e4\ub4e4 \uc5b4\ub518\uac00\uc694",
+        "ts": "1471056092.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": " \u3160",
+        "ts": "1471056094.000003"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc9d1\uc774\uc694",
+        "ts": "1471056260.000004"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3160",
+        "ts": "1471056262.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\u314b\u314b\u314b",
+        "ts": "1471056593.000006"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/3ee6d42b0c1c842d8399253315fb8ebfc674a736|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/3ee6d42b0c1c842d8399253315fb8ebfc674a736|3ee6d42>: requirements restored - ktk1012",
+                "pretext": "[araplus:board] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452576357.000067"
+    }
+]

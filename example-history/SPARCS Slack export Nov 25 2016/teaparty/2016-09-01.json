@@ -1,0 +1,118 @@
+[
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "teaparty@seoul",
+        "ts": "1472713460.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub02a \u315c\u315c\u315c",
+        "ts": "1472714885.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\u314b\u314b",
+        "ts": "1472717276.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc120\ub989 \ub514\ucea0\ud504 \ud68c\uc758\uc2e4 \uc608\uc57d \uc815\ub3c4\ub294 \uc81c\uacf5 \uac00\ub2a5!",
+        "ts": "1472717289.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac15\ub0a8 \ud1a0\uc988\ub294 \uc5b4\ub5a4\uac00\uc694 \u314b\u314b...",
+        "ts": "1472723953.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uac15\ub0a8\ud1a0\uc988 \ub300\uad00\ub8cc\uac00....",
+        "ts": "1472742400.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubb50 \uadf8\ub807\uac8c \uc384\uc9c0\ub294 \uc54a\uc740 \ub4ef \ud569\ub2c8\ub2e4\ub9cc",
+        "ts": "1472742411.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc11c\uc6b8\uc5d0\uc11c \ud558\uba74 \uc0ac\ub78c\uc774 \uc62c\uae4c \ubaa8\ub974\uaca0\ub124\uc694 \u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1472742428.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub300\uc804\uc5d0\uc11c\ub3c4 \uacc4\uc18d \uc774\uc5b4\uc84c\uc73c\uba74 \ud558\ub294 \ubc14\ub78c\ub3c4 \uc788\uace0...",
+        "ts": "1472742446.000020"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub300\uc804\uc5d0\uc11c \ud2f0\ud30c\ud2f0 \ud558\uc2dc\uba74 \ucc38\uc11d\ud558\uc2e4 \ubd84?",
+        "ts": "1472747568.000021",
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U026NDWJW",
+                    "U02CPPE8C",
+                    "U024SHSMT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc5ec\uae30 \ubb3c\uc5b4\ubcf4\ub294\uac83 \ubcf4\ub2e4",
+        "ts": "1472780610.000022"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc815\ubaa8 \ub54c \ud64d\ubcf4\ud558\ub294\uac8c \ub0ab\uc9c0 \uc54a\uc744\uae4c\uc5ec",
+        "ts": "1472780614.000023"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc624",
+        "ts": "1472788841.000024"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud2f0\ud30c\ud2f0\ud558\uba74 lxc +  \uad6c\ub984 + client ssl \uc0ac\uc6a9 \ud6c4\uae30 \ud55c\ubc88 \uacf5\uc720\ud558\uace0\uc2f6\ub124\uc694",
+        "ts": "1472788859.000025",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U024SPDHG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544 \uc800\uac70 \ub4e3\uace0\uc2f6\ub2e4\uc544...",
+        "ts": "1472789022.000026"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc624",
+        "ts": "1472789115.000027"
+    }
+]

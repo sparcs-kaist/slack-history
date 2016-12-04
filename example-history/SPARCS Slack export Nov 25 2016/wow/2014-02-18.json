@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "<http:\/\/puu.sh\/70PAh.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/70PAh.jpg",
+                "fallback": "224x76px image",
+                "image_url": "http:\/\/puu.sh\/70PAh.jpg",
+                "image_width": 224,
+                "image_height": 76,
+                "image_bytes": 15399,
+                "id": 1
+            }
+        ],
+        "ts": "1392724194.000002"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc678\ub9c8\ub514 \ube44\uba85\uacfc \ud568\uaed8...",
+        "ts": "1392724811.000004"
+    },
+    {
+        "user": "U024WGSD3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024WGSD3|undead> has joined the channel",
+        "ts": "1392726602.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\uac00 \uc624\uc168\uad70\uc694",
+        "ts": "1392727253.000006"
+    }
+]

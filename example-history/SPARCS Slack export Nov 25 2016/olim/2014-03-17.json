@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "ts": "1395103586.000002"
+    },
+    {
+        "user": "U024SJ7R9",
+        "purpose": "olim project _ now...",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SJ7R9|sunguard> set the channel purpose: olim project _ now...",
+        "ts": "1395103587.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "ldap \uc5f0\ub3d9\ub418\ub294 \ub85c\uadf8\uc778 \ud398\uc774\uc9c0 \uc644\ub8cc",
+        "ts": "1395103746.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uc774\uc81c \uc790\uc57c\uc9c0",
+        "ts": "1395103747.000005"
+    },
+    {
+        "user": "U024SL5UT",
+        "inviter": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SL5UT|chaos> has joined the channel",
+        "ts": "1395104160.000006"
+    },
+    {
+        "user": "U024SHLFH",
+        "inviter": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1395104161.000007"
+    },
+    {
+        "user": "U025EC52V",
+        "inviter": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1395104161.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\u314b\u314b",
+        "ts": "1395104164.000009"
+    }
+]

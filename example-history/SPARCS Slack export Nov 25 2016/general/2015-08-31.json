@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "<@U026JLU7V>: \uc5ec\uae30 \uc798\uc0dd\uae34 \ud615 \uc0ac\uc9c4 \ud558\ub098\ub9cc \uc62c\ub824\ub3c4 \ub418\ub098\uc694",
+        "ts": "1441019195.000131"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc724\ud5c8\ud574 \uc8fc\uc2dc\uc635\uc18c\uc11c",
+        "ts": "1441019198.000132"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc788\uae34\ud55c\uac00 \uadf8\ub7f0\uac8c",
+        "ts": "1441022391.000133"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc624 \uc5ec\uae30 \uc0ac\uc9c4\ub3c4 \uc62c\ub9b4 \uc218 \uc788\uc74c?",
+        "ts": "1441034585.000134"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uae00\ucfe4",
+        "ts": "1441034591.000135"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0251JXSR|coffee> uploaded a file: <https:\/\/sparcs.slack.com\/files\/coffee\/F09UR11PS\/img_5332_2.jpg|IMG_5332_2.jpg>",
+        "file": {
+            "id": "F09UR11PS",
+            "created": 1441087138,
+            "timestamp": 1441087138,
+            "name": "IMG_5332_2.jpg",
+            "title": "IMG_5332_2.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U0251JXSR",
+            "editable": false,
+            "size": 293047,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F09UR11PS\/img_5332_2.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F09UR11PS\/download\/img_5332_2.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F09UR11PS-d882b4f564\/img_5332_2_64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F09UR11PS-d882b4f564\/img_5332_2_80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F09UR11PS-d882b4f564\/img_5332_2_360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 250,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F09UR11PS-d882b4f564\/img_5332_2_480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 334,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F09UR11PS-d882b4f564\/img_5332_2_160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F09UR11PS-d882b4f564\/img_5332_2_720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 500,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F09UR11PS-d882b4f564\/img_5332_2_960.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 667,
+            "image_exif_rotation": 1,
+            "original_w": 980,
+            "original_h": 681,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/coffee\/F09UR11PS\/img_5332_2.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F09UR11PS-d2c6316e17",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0251JXSR",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0251JXSR|coffee>",
+        "bot_id": null,
+        "ts": "1441087140.000136"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ubbf8\uad81\ubb50\uc9c0..",
+        "ts": "1441090792.000137"
+    }
+]

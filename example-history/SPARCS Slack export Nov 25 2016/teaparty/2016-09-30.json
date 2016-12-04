@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U14H0G2JZ",
+        "text": "<@U14H0G2JZ|clowcard> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475227077.000189"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "??",
+        "ts": "1475301104.000190"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc65c \ub098\ub294 \uc9d1\uacb0\uc758 \uc678\uce68\uc5d0 \ud3ec\ud568 \uc548\ub418\uc5b4\uc788\uc9c0......",
+        "ts": "1475301116.000191"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uac00\uba74 \uc548\ub418\ub098\ubcf4\ub2e4 \u3160\u3160",
+        "ts": "1475301128.000192"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3160\u3160",
+        "ts": "1475301223.000193"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc0e4\uc0e4\uc0e4",
+        "ts": "1475301227.000194"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": ":sha-1::sha-1::sha-1:",
+        "ts": "1475301227.000195"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc0e4\uc0e4\uc0e4",
+        "ts": "1475303605.000196"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": ":sha-1::sha-1::sha-1:",
+        "ts": "1475303605.000197"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<@U024WGSD3> \uc11c\uc6b8\ub85c\uac00\uc2ec?",
+        "ts": "1475303618.000198"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc544\ubb34\ub3c4\uc5c6\uad70\ud63c\uc790\ub180\uc790",
+        "ts": "1404373637.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1404373638.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud63c\uc790\ud63c\uc790\ub180\uc544\ub180\uc544",
+        "ts": "1404373642.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc774\ub7ec\uba74\uc544\ubb34\ub3c4\ubabb\ubcf4\uaca0\uc9c0",
+        "ts": "1404373646.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1404373648.000009"
+    },
+    {
+        "user": "U024SKR87",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SKR87|zoonoo> has joined the channel",
+        "ts": "1404407150.000002"
+    },
+    {
+        "user": "U024SKR87",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SKR87|zoonoo> has left the channel",
+        "ts": "1404407177.000003"
+    },
+    {
+        "user": "U024SNAD0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNAD0|elaborate> has joined the channel",
+        "ts": "1404444511.000002"
+    }
+]

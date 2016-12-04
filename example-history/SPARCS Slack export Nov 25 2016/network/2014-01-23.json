@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\uadfc\ud64d \uaddc\ubbfc\uc774 \ucef4\ud4e8\ud130 \ubb38\uc81c \uc0dd\uae40",
+        "ts": "1390495490.000011"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1390539556.000012"
+    }
+]

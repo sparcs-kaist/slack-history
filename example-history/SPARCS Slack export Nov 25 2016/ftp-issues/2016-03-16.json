@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "debian archvsync \ucd5c\uc2e0 \ud30c\uc77c\uc744 \ubc1b\uc544\ub1a8\ub294\ub370, \uadf8 \ud3f4\ub354\uc548\uc758 ftpsync \uc2a4\ud06c\ub9bd\ud2b8\ub9cc \uad50\uccb4\ud558\uba74 \ub418\ub294\uac74\uac00\uc694, \uc544\ub2c8\uba74 \uadf8 \uc678\uc5d0 \ub2e4\ub978 \ud30c\uc77c\ub3c4 \uc804\ubd80 \ub2e4 \ubc14\uafd4\uc918\uc57c\ud558\ub098\uc694?",
+        "ts": "1458123091.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "macports \uc18c\uc2a4 \ubcc0\uacbd\ud588\uc2b5\ub2c8\ub2e4.",
+        "ts": "1458126483.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "rsync -&gt; rsync-origin",
+        "ts": "1458126488.000006"
+    }
+]

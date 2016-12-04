@@ -1,0 +1,478 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/master] 1 new commit pushed by o_chocho_o",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/0993f52feb86a1b48e1ce766ed15c0686f604797|0993f52>`  Basic Django and MariaDB configuration for gRPC client server - hyunsungcho ",
+                "pretext": "[heartbeat\/master] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branches\/compare\/0993f52feb86a1b48e1ce766ed15c0686f604797..9fe5dfbf790db12761b9aff8e0d5b395b6aea816|1 new commit> pushed by o_chocho_o",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462953760.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #2: Test\uc6a9 Client \uc11c\ubc84 \uad6c\ucd95 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client commented on by re-l",
+                "text": "gradle \uc124\uce58\ud560 \ud544\uc694\uc5c6\uc774 server\/build\/distributions\/ \uc5d0\uc11c heartbeat-1.0-SNAPSHOT.tar \uc5b8\uc9d1\ud558\uace0 \uadf8 \uc548\uc5d0 \uc788\ub294 bin\ud3f4\ub354\uc5d0\uc11c \uc2e4\ud589\uc2dc\ud0a4\uba74 \ub429\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/re-l\/|re-l>",
+                "title": "#2: Test\uc6a9 Client \uc11c\ubc84 \uad6c\ucd95",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462972789.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #2: Test\uc6a9 Client \uc11c\ubc84 \uad6c\ucd95 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client commented on by re-l",
+                "text": "\uc0dd\uac01\ud574\ubcf4\ub2c8 heartbeat-1.0-SNAPSHOT.tar  gitignore\uc5d0\uc11c \ucd94\uac00\ub418\uc788\uc5b4\uc11c \ud574\ub2f9 \ud30c\uc77c\uc774 \uc62c\ub77c\uac00\uc9c0 \uc54a\uc558\ub124\uc694. gitignore\uc5d0\uc11c \ubeb4\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/re-l\/|re-l>",
+                "title": "#2: Test\uc6a9 Client \uc11c\ubc84 \uad6c\ucd95",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462973149.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/master] 1 new commit pushed by re-l",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/38543df92b2762cbd2094d181bd14f782437cc10|38543df>`  Exclude dirstribution dir in .gitignore - Jeong Woon Choi ",
+                "pretext": "[heartbeat\/master] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branches\/compare\/38543df92b2762cbd2094d181bd14f782437cc10..0993f52feb86a1b48e1ce766ed15c0686f604797|1 new commit> pushed by re-l",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462973938.000005"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "ls",
+        "ts": "1462974295.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/master] 5+ new commits force pushed by o_chocho_o",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9de30950226286584fb2360b3b4e11e8f06fe2e4|9de3095>`  Basic Django and MariaDB configuration for gRPC client server - hyunsungcho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9fe5dfbf790db12761b9aff8e0d5b395b6aea816|9fe5dfb>`  README.md edited online with Bitbucket - Hyunsung Cho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/ad389c08d984106d8395a762b8c5b9247200e60b|ad389c0>`  Make simple heartbeat server and getcpu function - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/184fa2849a5d137495700b2bf833ec803a772b8a|184fa28>`  Make new proto file (solves #4), make new environment for server - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/aac30070c76c728e152e8f6c94ba4e23bfecf9d7|aac3007>`  README.md edited as design documentation - ChangWon Lee ",
+                "pretext": "[heartbeat\/master] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/master|5+ new commits> force pushed by o_chocho_o",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462977392.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #8: django \uac1c\uc778 \uac1c\ubc1c \ud658\uacbd \uad6c\ucd95 guide template https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/8\/django-guide-template commented on by o_chocho_o",
+                "text": "finished but need to write README.md",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/o_chocho_o\/|o_chocho_o>",
+                "title": "#8: django \uac1c\uc778 \uac1c\ubc1c \ud658\uacbd \uad6c\ucd95 guide template",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/8\/django-guide-template",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462977871.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #5: Design Doc\uc5d0\uc11c Cpu Usage\uad00\ub828 \ud56d\ubaa9 \ubaa8\ub450 \ubc14\uafb8\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/5\/design-doc-cpu-usage updated by ojh3636",
+                "text": "user_cpu, nice_cpu, system_cpu\ub294 double\uac12\uc774 \ub418\uc5b4\uc57c\ud568",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#5: Design Doc\uc5d0\uc11c Cpu Usage\uad00\ub828 \ud56d\ubaa9 \ubaa8\ub450 \ubc14\uafb8\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/5\/design-doc-cpu-usage",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978317.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #3: Test\uc6a9 gRPC Server \uc11c\ubc84 \uad6c\ucd95 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/3\/test-grpc-server updated by Shavakan",
+                "text": "wiki.sparcs.org \uc11c\ubc84\ub97c \uc0ac\uc6a9\ud569\ub2c8\ub2e4.\n\ngRPC + protobuf \uac1c\ubc1c\uc744 \ud560 \uc218 \uc788\ub3c4\ub85d \ud658\uacbd\uc124\uc815\uc744 \uc644\ub8cc\ud574\ub461\ub2c8\ub2e4.\n\n\uc138\uc158 \uc815\ubcf4\ub294 Slack\uc5d0 \uc788\uc73c\ub2c8 \ud655\uc778\ud558\uace0 \uc0ac\uc6a9\ud569\uc2dc\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#3: Test\uc6a9 gRPC Server \uc11c\ubc84 \uad6c\ucd95",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/3\/test-grpc-server",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978353.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #1: Slack webhook test https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/1\/slack-webhook-test updated by Shavakan",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#1: Slack webhook test",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/1\/slack-webhook-test",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978366.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #5: Design Doc\uc5d0\uc11c Cpu Usage\uad00\ub828 \ud56d\ubaa9 \ubaa8\ub450 \ubc14\uafb8\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/5\/design-doc-cpu-usage updated by Shavakan",
+                "text": "user_cpu, nice_cpu, system_cpu\ub294 double\uac12\uc774 \ub418\uc5b4\uc57c\ud568",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#5: Design Doc\uc5d0\uc11c Cpu Usage\uad00\ub828 \ud56d\ubaa9 \ubaa8\ub450 \ubc14\uafb8\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/5\/design-doc-cpu-usage",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978393.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #5: Design Doc\uc5d0\uc11c Cpu Usage\uad00\ub828 \ud56d\ubaa9 \ubaa8\ub450 \ubc14\uafb8\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/5\/design-doc-cpu-usage updated by ojh3636",
+                "text": "user_cpu, nice_cpu, system_cpu\ub294 double\uac12\uc774 \ub418\uc5b4\uc57c\ud568",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#5: Design Doc\uc5d0\uc11c Cpu Usage\uad00\ub828 \ud56d\ubaa9 \ubaa8\ub450 \ubc14\uafb8\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/5\/design-doc-cpu-usage",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978400.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #2: Test\uc6a9 Client AWS \uc11c\ubc84 \uad6c\ucd95 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client-aws updated by Shavakan",
+                "text": "AWS \uc778\uc2a4\ud134\uc2a4\ub97c \uc0ac\uc6a9\ud558\uc5ec gRPC Test Client\ub85c \uc0ac\uc6a9\ud560 \uc11c\ubc84\ub97c \ub744\uc6c1\uc2dc\ub2e4.\n\nsshd \uc124\uc815\ud574\uc11c pemkey\uac00 \uc544\ub2cc \uc0ac\uc6a9\uc790 \uacc4\uc815\uc73c\ub85c \ub85c\uadf8\uc778\ud560 \uc218 \uc788\uac8c \ub9cc\ub4e4\uace0, \ngRPC + protobuf \uac1c\ubc1c\uc744 \ud560 \uc218 \uc788\uac8c \ud658\uacbd\uc124\uc815\uc744 \uc644\ub8cc\ud574\ub461\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#2: Test\uc6a9 Client AWS \uc11c\ubc84 \uad6c\ucd95",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client-aws",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978452.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf created by Shavakan",
+                "text": "AWS Client \uc11c\ubc84\uc5d0 gRPC\uc640 protobuf \uac1c\ubc1c\uc744 \ud560 \uc218 \uc788\ub3c4\ub85d \ud658\uacbd\uc744 \uc124\uc815\ud574\ub461\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Issue created by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978497.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf commented on by Shavakan",
+                "text": "\uc0ac\uc2e4 #4\uc5d0\uc11c \uc774\ubbf8 \ucc98\ub9ac\ub41c \uc774\uc288\uc785\ub2c8\ub2e4.\n\uc791\uc5c5\uc790\ub97c \uad6c\ubd84\ud558\uae30 \uc704\ud574\uc11c \uc0c8 \uc774\uc288\ub97c \ub9cc\ub4e4\uc5c8\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978521.000016"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf updated by Shavakan",
+                "text": "AWS Client \uc11c\ubc84\uc5d0 gRPC\uc640 protobuf \uac1c\ubc1c\uc744 \ud560 \uc218 \uc788\ub3c4\ub85d \ud658\uacbd\uc744 \uc124\uc815\ud574\ub461\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978536.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #10: AWS Client Django Web \uac1c\ubc1c Start Project https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/10\/aws-client-django-web-start-project created by Shavakan",
+                "text": "Django project\ub97c \uc2dc\uc791\ud558\uace0, \ud544\uc694\ud55c \uc124\uc815\ub4e4\uc744 \uc644\ub8cc\ud569\ub2c8\ub2e4 \n\n(settings.py)",
+                "pretext": "[anyt-huh\/heartbeat] Issue created by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#10: AWS Client Django Web \uac1c\ubc1c Start Project",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/10\/aws-client-django-web-start-project",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978629.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf commented on by ojh3636",
+                "text": "python-grpc package\ub97c \uc124\uce58\ud558\uc5ec python-base grpc \uac1c\ubc1c\ud658\uacbd \uad6c\ucd95",
+                "pretext": "[anyt-huh\/heartbeat] Comment from <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#9: AWS Client \uc11c\ubc84 gRPC + protobuf \ud658\uacbd \uc124\uc815",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/9\/aws-client-grpc-protobuf",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978632.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #2: Test\uc6a9 Client AWS \uc11c\ubc84 \uad6c\ucd95 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client-aws updated by Shavakan",
+                "text": "AWS \uc778\uc2a4\ud134\uc2a4\ub97c \uc0ac\uc6a9\ud558\uc5ec gRPC Test Client\ub85c \uc0ac\uc6a9\ud560 \uc11c\ubc84\ub97c \ub744\uc6c1\uc2dc\ub2e4.\n\nsshd \uc124\uc815\ud574\uc11c pemkey\uac00 \uc544\ub2cc \uc0ac\uc6a9\uc790 \uacc4\uc815\uc73c\ub85c \ub85c\uadf8\uc778\ud560 \uc218 \uc788\uac8c \ub9cc\ub4e4\uace0, \ngRPC + protobuf \uac1c\ubc1c\uc744 \ud560 \uc218 \uc788\uac8c \ud658\uacbd\uc124\uc815\uc744 \uc644\ub8cc\ud574\ub461\ub2c8\ub2e4.",
+                "pretext": "[anyt-huh\/heartbeat] Issue updated by <https:\/\/bitbucket.org\/Shavakan\/|Shavakan>",
+                "title": "#2: Test\uc6a9 Client AWS \uc11c\ubc84 \uad6c\ucd95",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/2\/test-client-aws",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978686.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[anyt-huh\/heartbeat] Issue #11: Test\uc6a9 Client grpc python code AWS\uc5d0 \uc791\uc131\ud558\uae30 https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/11\/test-client-grpc-python-code-aws created by ojh3636",
+                "pretext": "[anyt-huh\/heartbeat] Issue created by <https:\/\/bitbucket.org\/ojh3636\/|ojh3636>",
+                "title": "#11: Test\uc6a9 Client grpc python code AWS\uc5d0 \uc791\uc131\ud558\uae30",
+                "id": 1,
+                "title_link": "https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/issues\/11\/test-client-grpc-python-code-aws",
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "pretext",
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1462978900.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/web-back] 5+ new commits pushed by Shavakan",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9de30950226286584fb2360b3b4e11e8f06fe2e4|9de3095>`  Basic Django and MariaDB configuration for gRPC client server - hyunsungcho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9fe5dfbf790db12761b9aff8e0d5b395b6aea816|9fe5dfb>`  README.md edited online with Bitbucket - Hyunsung Cho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/ad389c08d984106d8395a762b8c5b9247200e60b|ad389c0>`  Make simple heartbeat server and getcpu function - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/184fa2849a5d137495700b2bf833ec803a772b8a|184fa28>`  Make new proto file (solves #4), make new environment for server - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/aac30070c76c728e152e8f6c94ba4e23bfecf9d7|aac3007>`  README.md edited as design documentation - ChangWon Lee ",
+                "pretext": "[heartbeat\/web-back] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/web-back|5+ new commits> pushed by Shavakan",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463028660.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/readme] 5 new commits pushed by Shavakan",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9fe5dfbf790db12761b9aff8e0d5b395b6aea816|9fe5dfb>`  README.md edited online with Bitbucket - Hyunsung Cho \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/ad389c08d984106d8395a762b8c5b9247200e60b|ad389c0>`  Make simple heartbeat server and getcpu function - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/184fa2849a5d137495700b2bf833ec803a772b8a|184fa28>`  Make new proto file (solves #4), make new environment for server - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/aac30070c76c728e152e8f6c94ba4e23bfecf9d7|aac3007>`  README.md edited as design documentation - ChangWon Lee \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9accfa411027da600f4a30a83fc6090988e29cce|9accfa4>`  Initial commit - Chang Won LEE ",
+                "pretext": "[heartbeat\/readme] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/readme|5 new commits> pushed by Shavakan",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463032871.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/grpc-server] 4 new commits pushed by Shavakan",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/ad389c08d984106d8395a762b8c5b9247200e60b|ad389c0>`  Make simple heartbeat server and getcpu function - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/184fa2849a5d137495700b2bf833ec803a772b8a|184fa28>`  Make new proto file (solves #4), make new environment for server - Jeong Woon Choi \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/aac30070c76c728e152e8f6c94ba4e23bfecf9d7|aac3007>`  README.md edited as design documentation - ChangWon Lee \n`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/9accfa411027da600f4a30a83fc6090988e29cce|9accfa4>`  Initial commit - Chang Won LEE ",
+                "pretext": "[heartbeat\/grpc-server] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branch\/grpc-server|4 new commits> pushed by Shavakan",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463032993.000024"
+    }
+]

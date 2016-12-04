@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U024SN150",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN150|bbashong> has joined the channel",
+        "ts": "1390783407.000002"
+    },
+    {
+        "user": "U024SN150",
+        "purpose": "for testing hubot",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SN150|bbashong> set the channel purpose: for testing hubot",
+        "ts": "1390783408.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "hi",
+        "ts": "1390783412.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "hihi",
+        "ts": "1390783413.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "sslacky youtube breakdancing:",
+        "ts": "1390783569.000006"
+    },
+    {
+        "text": "<http:\/\/www.youtube.com\/watch?v=pZtudc-3nlg&amp;feature=youtube_gdata>",
+        "username": "sslacky",
+        "bot_id": "B024U3EFS",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "Unbelievable 6 Year Old Girl Break Dancing",
+                "title_link": "http:\/\/www.youtube.com\/watch?v=pZtudc-3nlg&feature=youtube_gdata",
+                "author_name": "itsMRich",
+                "author_link": "http:\/\/www.youtube.com\/user\/itsMRich",
+                "thumb_url": "http:\/\/i1.ytimg.com\/vi\/pZtudc-3nlg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Unbelievable 6 Year Old Girl Break Dancing",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"http:\/\/www.youtube.com\/embed\/pZtudc-3nlg?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "http:\/\/www.youtube.com\/watch?v=pZtudc-3nlg&feature=youtube_gdata",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1390783570.000007"
+    }
+]

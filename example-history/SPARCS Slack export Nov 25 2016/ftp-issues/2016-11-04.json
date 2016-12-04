@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "Deepin \ub77c\ub294 linux distribution \ubbf8\ub7ec\ub9c1 \uc694\uccad\uc774 \uc640\uc11c \uc758\uacac\uc880 \uad6c\ud574\ubd05\ub2c8\ub2e4.",
+        "ts": "1478271330.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "\uc77c\ub2e8 \uc880 \uc870\uc0ac\ud574\ubcf8 \uacb0\uacfc\n\uc7a5\uc810(?)\uc740:\ndisctrowatch \uae30\uc900\uc73c\ub85c 11\uc704 \uc815\ub3c4 \uc778\uc9c0\ub3c4, \uc911\uad6d\uc5d0\uc11c\ub294 \uac00\uc7a5 \uc778\uae30\uc788\ub294 \uac83 \uac19\uace0\uc694\n\ud55c\uad6d\uc5b4 \uc9c0\uc6d0\n\ub2e8\uc810\uc740:\n\uc911\uad6d\uc0b0\uc774\ub77c\uc11c \ubb54\uac00 \uaebc\ub9bc\uc9c1\ud55c\uac70\uac19\uace0\n\uc624\ud508\uc18c\uc2a4\uc774\ub098 (<https:\/\/github.com\/linuxdeepin>) \ud2b9\uc815 \ud68c\uc0ac\uc5d0\uc11c \uc8fc\ub3c4\uc801\uc73c\ub85c \uac1c\ubc1c\ud558\uace0 \uc788\ub294 \uac83 \uac19\uc544\uc11c \ubbf8\ub7ec\ub9c1 \ud574\ub3c4 \ub418\ub098? \uc758\ubb38\uc810\uc774 \ub4dc\ub124\uc694.",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Wuhan Deepin Technology Co.,Ltd.",
+                "title_link": "https:\/\/github.com\/linuxdeepin",
+                "text": "Mirror site of <https:\/\/cr.deepin.io>. And the old projects were transferred to <https:\/\/github.com\/martyr-deepin>",
+                "fallback": "GitHub: Wuhan Deepin Technology Co.,Ltd.",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/1592697?v=3&s=280",
+                "from_url": "https:\/\/github.com\/linuxdeepin",
+                "thumb_width": 180,
+                "thumb_height": 180,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U02L44HTT",
+            "ts": "1478271590.000000"
+        },
+        "ts": "1478271552.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc77c\ub2e8 \ud55c\uad6d \ub0b4 \uc218\uc694\uac00 \uc788\ub098\uc694?",
+        "ts": "1478272170.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\ud55c\uad6d \uc218\uc694\uac00 \ub530\ub85c \uc5c6\ub294\ub370 \ubbf8\ub7ec\ub9c1\uc744 \uc2dc\uc791\ud558\uba74 \uc6b0\ub9ac \ub124\ud2b8\uc6cc\ud06c \uc790\uc6d0 \ud37c\uc8fc\uae30 \uc774\uc0c1\ub3c4 \uc774\ud558\ub3c4 \uc544\ub2d0 \uac83 \uac19\uace0\uc694",
+        "ts": "1478272222.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uadf8\ub9ac\uace0 \uc911\uad6d \ubc16\uc5d0 \ubbf8\ub7ec \uc5bc\ub9c8\ub098 \uc788\uc5b4\uc694?",
+        "ts": "1478272477.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "\uc911\uad6d\ubc16\uc5d0 \ubbf8\ub7ec\ub294 \uaf64 \ub418\ub294\uac83 \uac19\ub124\uc694",
+        "ts": "1478272535.000009"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "<https:\/\/www.deepin.org\/mirror.html>",
+        "attachments": [
+            {
+                "title": "\u6b66\u6c49\u6df1\u4e4b\u5ea6\u79d1\u6280\u6709\u9650\u516c\u53f8 | \u955c\u50cf\u6e90",
+                "title_link": "https:\/\/www.deepin.org\/mirror.html",
+                "text": "\u6b66\u6c49\u6df1\u4e4b\u5ea6\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "fallback": "\u6b66\u6c49\u6df1\u4e4b\u5ea6\u79d1\u6280\u6709\u9650\u516c\u53f8 | \u955c\u50cf\u6e90",
+                "from_url": "https:\/\/www.deepin.org\/mirror.html",
+                "service_name": "deepin.org",
+                "id": 1
+            }
+        ],
+        "ts": "1478272536.000010"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "\uadfc\ub370 \ud55c\uad6d\ub0b4 \uc0ac\uc6a9\uc790\uac00 \uac70\uc758 \uc5c6\ub294 \uac83 \uac19\ub124\uc694. \uad6c\uae00\ub9c1\ud574\ub3c4 \uc0ac\uc6a9\uae30 \uac70\uc758 \uba87\uac1c\uc815\ub3c4\ub9cc \uc62c\ub77c\uc624\uace0...",
+        "ts": "1478272587.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uadf8\ub9ac\uace0 \uc800 \ubaa9\ub85d\ub3c4 \ubcf4\ub2c8\uae4c \uba87 \uac1c \ube7c\uba74 \ub098\ub77c\ubcc4\ub85c \ubbf8\ub7ec\uac00 \ud55c\ub450\uac1c \uc815\ub3c4\ubc16\uc5d0 \uc5c6\uace0",
+        "ts": "1478272720.000013"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "RPi\ub098 arch-arm\uc740 \uadf8\ub798\ub3c4 \ud55c\uad6d\uc5d0 \uc0ac\uc6a9\uc790\uac00 \uc880 \uc788\ub294\ub370 \uc77c\ub2e8 \uc911\uad6d \ud2b9\ud654 \ubc30\ud3ec\ud310\uc744 \ud55c\uad6d\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uac83 \uac19\uc9c0\ub3c4 \uc54a\uace0...",
+        "ts": "1478272742.000014"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "\uc74c \uadf8\ub7ec\uba74 \uc9c0\uae08\uc740 \ud55c\uad6d\uc5d0\uc11c \uc0ac\uc6a9\ud558\ub294 \uc0ac\ub78c\uc774 \ub108\ubb34 \uc801\uc5b4\uc11c \ubbf8\ub7ec\ub9c1 \ud560 \uc218 \uc5c6\uace0, \ub9ce\uc544\uc9c0\uba74 \uadf8\ub54c\uac00\uc11c \ubbf8\ub7ec\ub9c1 \ud558\uaca0\ub2e4\uace0 \uc774\uc57c\uae30 \ud574\uc57c\uaca0\uc2b5\ub2c8\ub2e4.",
+        "ts": "1478273128.000015"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc74c.. \uc800\ub7f0\uac70 \ud560\uac70\uba74 alpine linux \ubbf8\ub7ec\ub098 \ud574\ubcf4\uba74 \uc5b4\ub5a8\uae4c\uc694",
+        "ts": "1478280192.000016"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc694\uc998 docker \uc5d0\uc11c alpine \ub9ac\ub205\uc2a4 \ub9ce\uc774\uc501\ub2c8\ub2e4. \ubbf8\ub798\uac00 \ubc1d\uc544\uc694",
+        "ts": "1478280203.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "alpine \uc88b\ub124\uc694",
+        "ts": "1478282508.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544 \ub274\uc2a4\ubcf4\ub2e4\ubcf4\ub2c8 \uc5b4\ub290\ub367 \uc2dc\uac04\uc774",
+        "ts": "1478282532.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc790\uc57c\uc9c0 \u315c\u315c",
+        "ts": "1478282535.000020"
+    }
+]

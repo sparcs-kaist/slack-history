@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U0251JXSR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0251JXSR|coffee> has joined the channel",
+        "ts": "1395311594.000052"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadf8\ub798\uc11c \uc774\ubc29\uc740 \uc5b4\ub5bb\uac8c \ud130\uc9c0\ub098\uc694?",
+        "ts": "1395311623.000053"
+    },
+    {
+        "user": "U0251JXSR",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U0251JXSR|coffee> has left the channel",
+        "ts": "1395311630.000054"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U02F4BE42",
+        "text": "<@U02F4BE42|softdie> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478416016.000002"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "user": "U02F86M4W",
+        "inviter": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F86M4W|chocho> has joined the channel",
+        "ts": "1448121042.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<@U02F86M4W>: \n\n1. SPARCS SSO\uc6a9 KAIST \ub3c4\uba54\uc778\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.\ndomain\/ip: <http:\/\/sparcssso.kaist.ac.kr\/143.248.234.129|sparcssso.kaist.ac.kr\/143.248.234.129>\n\n2. SSO \uc11c\ubc84\uc758 \uc778\uc99d\uc11c\ub97c KAIST wildcard \uc778\uc99d\uc11c\ub85c \uad50\uccb4\ud574\uc57c \ud569\ub2c8\ub2e4.\nid\/pw: root\/&lt;\ud720 \ube44\ubc88&gt;",
+        "ts": "1448121053.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uc800 \ub0b4\uc77c \uacf5\uc5f0\ub9cc \ub05d\ub098\uba74 \ub2f4\uc8fc\uc5d0 \ud560\uac8c\uc5ec \u315c\u315c",
+        "ts": "1448121094.000004"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub139\ub139&gt;&lt;",
+        "ts": "1448121214.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/da648befb0f2942d7945efe6db9fc1c76d8dd55c|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/da648befb0f2942d7945efe6db9fc1c76d8dd55c|da648be>: add basic of translations - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1448134791.000006"
+    }
+]

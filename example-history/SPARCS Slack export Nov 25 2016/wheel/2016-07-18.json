@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "I\/O\ub97c \ub2e4 qemu\ucabd\uc5d0\uc11c \ucc98\ub9ac\ud560\ud150\ub370",
+        "ts": "1468825217.000074"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ud504\ub85c\uc138\uc2a4\uac00 \uc8fd\uc73c\ub2c8 \ub2f9\uc5f0\ud788 fs \uc811\uadfc\uc774 \uc548\ub418\uace0..",
+        "ts": "1468825225.000075"
+    },
+    {
+        "user": "U024SL8FK",
+        "text": "<@U024SL8FK|rohjoon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468825639.000076"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02LDHPL1|leejeok> has joined the channel",
+        "ts": "1452601950.000002"
+    },
+    {
+        "user": "U02LDHPL1",
+        "purpose": "\uc2e0\uc785\uc0dd \uc2dc\uac04\ud45c, \ubc18 \ubc30\uc815 \ud558\uae30 \uc778\uc218\uc778\uacc4\ubc29",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U02LDHPL1|leejeok> set the channel purpose: \uc2e0\uc785\uc0dd \uc2dc\uac04\ud45c, \ubc18 \ubc30\uc815 \ud558\uae30 \uc778\uc218\uc778\uacc4\ubc29",
+        "ts": "1452601950.000003"
+    },
+    {
+        "user": "U04HUNH5L",
+        "inviter": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUNH5L|mango> has joined the channel",
+        "ts": "1452601950.000004"
+    },
+    {
+        "user": "U02F86M4W",
+        "inviter": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F86M4W|chocho> has joined the channel",
+        "ts": "1452601950.000005"
+    },
+    {
+        "user": "U045EMA87",
+        "inviter": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045EMA87|george> has joined the channel",
+        "ts": "1452601950.000006"
+    },
+    {
+        "user": "U0B6J0HUG",
+        "inviter": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0B6J0HUG|raon> has joined the channel",
+        "ts": "1452601950.000007"
+    },
+    {
+        "user": "U024SKNH9",
+        "inviter": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SKNH9|whitegold> has joined the channel",
+        "ts": "1452601950.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "10\uc2dc \uc778\uc218\uc778\uacc4 \uc2dc\uc791!",
+        "ts": "1452601959.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\ube44\ubc00\ubc29\uc73c\ub85c \ub9cc\ub4ed\uc2dc\ub2f9",
+        "ts": "1452603244.000010"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "\uc5b4\ub5bb\uac8c \ubc14\uafb8\uc8e0..? \ub2e4\uc2dc \ud30c\uc57c\ud558\ub098\uc694?",
+        "ts": "1452603318.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "Select Advanced options.\nChoose Convert this channel to a private channel.\nClick Yes, convert this channel to confirm.",
+        "ts": "1452603412.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\ucc44\ub110 \ub9cc\ub4e0 \uc0ac\ub78c\uc774 \ubc14\uafd4\uc57c\ud560\ub4ef?",
+        "ts": "1452603420.000013"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uadf8\ub7ec\uac8c\uc694 \uc800\ub294 advanced options \ub4e4\uc5b4\uac00\ub3c4 \uc548\ubcf4\uc774\ub124\uc6a9 \u314b\u314b",
+        "ts": "1452603502.000014"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "\ub098\ub3c4 \uc548\ubcf4\uc784 \ub0b4\uac00 \ub9cc\ub4e4\uc5c8\ub294\ub370..\uadf8\ub0e5 \ub2e4\uc2dc \ub9cc\ub4dc\ub294\uac78\ub85c",
+        "ts": "1452603513.000015"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "\uc7a0\uc2dc\ub9cc\uc5ec \u314b\u314b\u314b\u314b\u314b",
+        "ts": "1452603517.000016"
+    },
+    {
+        "user": "U02LDHPL1",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02LDHPL1|leejeok> has left the channel",
+        "ts": "1452603572.000017"
+    },
+    {
+        "user": "U024SKNH9",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SKNH9|whitegold> has left the channel",
+        "ts": "1452603736.000018"
+    },
+    {
+        "user": "U04HUNH5L",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U04HUNH5L|mango> has left the channel",
+        "ts": "1452603848.000019"
+    }
+]

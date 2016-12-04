@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U024TTX39",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024TTX39|metsurial> has joined the channel",
+        "ts": "1390552537.000092"
+    },
+    {
+        "user": "U024U4U5G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U4U5G|sven> has joined the channel",
+        "ts": "1390565767.000093"
+    },
+    {
+        "user": "U024TVDMX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024TVDMX|suho> has joined the channel",
+        "ts": "1390565928.000094"
+    },
+    {
+        "user": "U024U04DT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U04DT|jazzinpark> has joined the channel",
+        "ts": "1390567611.000095"
+    }
+]

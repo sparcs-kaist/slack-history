@@ -1,0 +1,492 @@
+[
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1xor0n\/googles_cards_never_fail_to_impress_me\/|Google's cards never fail to impress me.>\nsubmitted by  fuckyeahjake  to  google  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1xor0n\/googles_cards_never_fail_to_impress_me\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392193663.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xoxry\/too_late_to_start_a_career_in_music_performance\/|Too late to start a career in music performance?>\nI&amp;#39;m currently in my mid-20s, and I quit playing the french horn after my senior year of high school. Let&amp;#39;s say I have at least some natural talent, and I practiced around 3 hours a day for 5-8 years, could I potentially practice enough to play in a professional orchestra? (Practice would be after a full-time job, with private lessons once a week). Are there any college opportunities for me or do they typically want younger, fresh out of high school people? Is this just an unrealistic dre...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm currently in my mid-20s, and I quit playing the french horn after my senior year of high school. Let's say I have at least *some* natural talent,...",
+                "fallback": "I'm currently in my mid-20s, and I quit playing the french horn after my senior year of high school. Let's say I have at least *some* natural talent,...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xoxry\/too_late_to_start_a_career_in_music_performance\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392193663.000003"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1xozx1\/readtime_conditionalsevaluation_of_several\/|Read-time conditionals\/evaluation of several functions>\nI have the understanding that e.g. following code #-(or foo bar) (defun test-app() .....)  would declare a function called test-app in any Lisp implementation who isn&amp;#39;t supporting the features foo or bar. This read-time evaluation seems to work in the way, that only one expression, namely the immediately following one, is taken into consideration. What about several functions or blocks of functions? Do I have to declare #-(what-ever-feature) or #+(....)  for each expression or would I have t...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have the understanding that e.g. following code #-(or foo bar) (defun test-app() .....) would declare a function called test-app in any L...",
+                "fallback": "I have the understanding that e.g. following code #-(or foo bar) (defun test-app() .....) would declare a function called test-app in any L...",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1xozx1\/readtime_conditionalsevaluation_of_several\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392194260.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1xp2pd\/instantclick_a_javascript_library_to_speed_up\/|InstantClick: A JavaScript library to speed up your site>\nsubmitted by  wtd_  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1xp2pd\/instantclick_a_javascript_library_to_speed_up\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392197441.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xpcjx\/looking_for_suggestions_on_problem\/|Looking for suggestions on problem.>\nI have to write a problem where we enter the day, month,year. And then output what number day of the year it is. We also have to have a separate function called leap that checks if it is a leap year and returns 1 if true. I can&amp;#39;t look at the pdfs for the chapter since my teacher hasn&amp;#39;t uploaded them yet. So I was hoping someone might me able to point me in the right direction of what I&amp;#39;m doing wrong.  #include  int leap(int dayofyear); int day,month,year,dayofyear,finaldayofyear; int...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have to write a problem where we enter the day, month,year. And then output what number day of the year it is. We also have to have a separate funct...",
+                "fallback": "I have to write a problem where we enter the day, month,year. And then output what number day of the year it is. We also have to have a separate funct...",
+                "from_url": "http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xpcjx\/looking_for_suggestions_on_problem\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392209365.000004"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xpdse\/what_kind_of_features_can_you_extract_from_a\/|What kind of features can you extract from a single time series to use it with neural networks?>\nI&amp;#39;m new to ML, and I&amp;#39;m trying to get my head around feature extraction... So if I have a time series of &gt;1000 numbers, what kind of features I can extract from it to help improve a neural network prediction?  submitted by  zanzilove  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm new to ML, and I'm trying to get my head around feature extraction... So if I have a time series of &gt;1000 numbers, what kind of features I can ext...",
+                "fallback": "I'm new to ML, and I'm trying to get my head around feature extraction... So if I have a time series of &gt;1000 numbers, what kind of features I can ext...",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xpdse\/what_kind_of_features_can_you_extract_from_a\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392210599.000006"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xpi81\/the_development_of_the_c_programming_language_by\/|The Development of the C Programming Language by Dennis Ritchie>\nsubmitted by  adnene_ch  to  C_Programming  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/C_Programming\/comments\/1xpi81\/the_development_of_the_c_programming_language_by\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392214559.000008"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xppn3\/boostpython_not_updated_since_may_2009_what_are\/|Boost.Python not updated since May 2009. What are the alternatives?>\nsubmitted by  balkierode  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xppn3\/boostpython_not_updated_since_may_2009_what_are\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392220421.000010"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xpr5j\/state_of_the_art_repository_for_various_datasets\/|State of the Art repository for various datasets>\nsubmitted by  exellentpossum  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392222365.000012"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1xq3z5\/lisp_machine_manual_6th_edition\/|Lisp Machine Manual - 6th Edition>\nJoined searchable PDF: <https:\/\/drive.google.com\/file\/d\/0B1AjIfhQqXG_Um1sMVh5Ump2R2M\/edit?usp=sharing>  submitted by  plmday  to  lisp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Joined searchable PDF: <https:\/\/drive.google.com\/file\/d\/0B1AjIfhQqXG_Um1sMVh5Ump2R2M\/edit?usp=sharing>",
+                "fallback": "Joined searchable PDF: <https:\/\/drive.google.com\/file\/d\/0B1AjIfhQqXG_Um1sMVh5Ump2R2M\/edit?usp=sharing>",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1xq3z5\/lisp_machine_manual_6th_edition\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392228143.000013"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xq67s\/how_do_i_define_new_make_tasks_using_makefilepl\/|How do I define new make tasks, using `Makefile.PL`?>\n",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I would like my generated Makefile to have these new tasks for linting: perl: -for f in **\/*.pl; do perl -MO=Lint -cw $$f 2&gt;&amp;1 | grep -v ...",
+                "fallback": "I would like my generated Makefile to have these new tasks for linting: perl: -for f in **\/*.pl; do perl -MO=Lint -cw $$f 2&gt;&amp;1 | grep -v ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xq67s\/how_do_i_define_new_make_tasks_using_makefilepl\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392229404.000015"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xq6bp\/question_on_line_numbers_and_line_values\/|Question on line numbers $. and line values $_>\nWhile looping though a file, I am able to print the current line number and the current line using the $. and $_ variables. I was wondering is it possible to print the line value for a specified line number? I read in PerlDoc that I can adjust the $. Variable (but not actually move the seek pointer).  Basically what I am trying to accomplish is to select every nth record in a list file and then print the record and the lines (6lines) directly below the record entry. While I can print $. And $_ I...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "While looping though a file, I am able to print the current line number and the current line using the $. and $_ variables. I was wondering is it poss...",
+                "fallback": "While looping though a file, I am able to print the current line number and the current line using the $. and $_ variables. I was wondering is it poss...",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xq6bp\/question_on_line_numbers_and_line_values\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392229404.000016"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/science\/comments\/1xq78u\/scientists_have_created_nuclear_fusion\/|Scientists have created nuclear fusion.>\nsubmitted by  punkerdoodle  to  science  [link] [\ub313\uae00 69]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/science\/comments\/1xq78u\/scientists_have_created_nuclear_fusion\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392233706.000019"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/gamedev\/comments\/1xq7ic\/another_example_of_kingcom_smashing_a_small_dev\/|Another example of king.com smashing a small dev.>\nLooks like the Candy Crush guys are trying to kill another game with the word \"Candy\" in it. Despite the fact that they filed for their own trademark two years before Candy Crush came along. <http:\/\/www.candyswipe.com\/king.html>  submitted by  marrak  to  gamedev  [link] [\ub313\uae00 3]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Looks like the Candy Crush guys are trying to kill another game with the word \"Candy\" in it. Despite the fact that they filed for their own trademark...",
+                "fallback": "Looks like the Candy Crush guys are trying to kill another game with the word \"Candy\" in it. Despite the fact that they filed for their own trademark...",
+                "from_url": "http:\/\/www.reddit.com\/r\/gamedev\/comments\/1xq7ic\/another_example_of_kingcom_smashing_a_small_dev\/",
+                "id": 1
+            },
+            {
+                "text": "<http:\/\/King.com|King.com> wants to cancel the registration of the CandySwipe trademark",
+                "fallback": "<http:\/\/King.com|King.com> wants to cancel the registration of the CandySwipe trademark",
+                "from_url": "http:\/\/www.candyswipe.com\/king.html",
+                "id": 2
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392234975.000021"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xqcya\/are_chord_inversions_completely_ignored_in_guitar\/|Are chord inversions completely ignored in Guitar?>\nI&amp;#39;m in intro music theory class and we spent a lot of time going through the chord inversions, especially taking care to avoid the 6\/4 chord unless it was one of four different types. However, I have some guitar background and I don&amp;#39;t think anyone&amp;#39;s ever had me avoid a certain chord because of it&amp;#39;s bass note. Is this just something not bothered with when playing guitar?  submitted by  misingnoglic  to  musictheory  [link] [\ub313\uae00 5]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I'm in intro music theory class and we spent a lot of time going through the chord inversions, especially taking care to avoid the 6\/4 chord unless it...",
+                "fallback": "I'm in intro music theory class and we spent a lot of time going through the chord inversions, especially taking care to avoid the 6\/4 chord unless it...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xqcya\/are_chord_inversions_completely_ignored_in_guitar\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392235648.000023"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/engineering\/comments\/1xqgyf\/its_good_to_know_that_the_internet_appreciates_us\/|Its good to know that the internet appreciates us so much>\nsubmitted by  westhest  to  engineering  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/engineering\/comments\/1xqgyf\/its_good_to_know_that_the_internet_appreciates_us\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392238109.000025"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1xqn1u\/ia32_assembly_and_stack_references_and_supplements\/|IA32 assembly and stack references and supplements>\nI am currently studying IA32 and the program stack through the book Computer Systems: A Programmer&amp;#39;s Perspective by Bryant and O&amp;#39;Halleron link. I, for whatever reason, tend to find things much easier to learn if I have two separate references to go between. However, the specifics of IA32 compiled through gcc has made it difficult to find any other solid reference that is covering a similar topic. Does anyone have any good references for understanding and debugging IA32?  submitted by  bl...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am currently studying IA32 and the program stack through the book Computer Systems: A Programmer's Perspective by Bryant and O'Halleron [link](http:...",
+                "fallback": "I am currently studying IA32 and the program stack through the book Computer Systems: A Programmer's Perspective by Bryant and O'Halleron [link](http:...",
+                "from_url": "http:\/\/www.reddit.com\/r\/compsci\/comments\/1xqn1u\/ia32_assembly_and_stack_references_and_supplements\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392241153.000027"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xqvce\/question_about_userdefined_literals\/|Question about User-Defined Literals>\nHello, I was just wondering why is it possible to do things like this in C++11? Wouldn&amp;#39;t it be much safer if the operators were pure functions (maybe constexpr)? #include  using namespace std; typedef long double lld; lld state = 0.0; lld operator\"\" _def(lld a) { state++; return a + state; } int main() { lld a = 10.0_def; double b = 10.0_def; std::cout",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hello, I was just wondering why is it possible to do things like this in C++11? Wouldn't it be much safer if the operators were pure functions (maybe ...",
+                "fallback": "Hello, I was just wondering why is it possible to do things like this in C++11? Wouldn't it be much safer if the operators were pure functions (maybe ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xqvce\/question_about_userdefined_literals\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392244867.000029"
+    },
+    {
+        "user": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0K6|rodumani> has joined the channel",
+        "ts": "1392251208.000031"
+    },
+    {
+        "user": "U024SN0K6",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SN0K6|rodumani> has left the channel",
+        "ts": "1392251251.000032"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/engineering\/comments\/1xr8ra\/these_are_66w_chiponboard_leds_the_focus_of_the\/|These are 66W Chip-on-board LEDs. The focus of the next project of mine. 1.5in across for scale.>\nsubmitted by  MrBlaaaaah  to  engineering  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/engineering\/comments\/1xr8ra\/these_are_66w_chiponboard_leds_the_focus_of_the\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392255490.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1xrake\/why_is_calculus_so_emphasized_in_computer_science\/|Why is calculus so emphasized in computer science?>\nAt least for the major.  submitted by  aaka3207  to  compsci  [link] [\ub313\uae00 11]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "At least for the major.",
+                "fallback": "At least for the major.",
+                "from_url": "http:\/\/www.reddit.com\/r\/compsci\/comments\/1xrake\/why_is_calculus_so_emphasized_in_computer_science\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392256740.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1xrfl6\/i_feel_overwhelmed_by_advanced_programming_yet\/|I feel overwhelmed by advanced programming, yet I've been programming without knowing what I'm doing. Any one know how to improve on how to know what I'm doing when programming without Stackoverflow, etc?>\nMy problem is that I can manage to get something such as a fully working web application developed, but I have no idea how. I spend hours and hours Googling my problems, generally leading back and forwards to stackoverflow and using the answers provided - They work, and I have no idea how.  Arrays I have a fairly good grasp on, objects - nope, prototypes\/classes - nope. Yet I&amp;#39;ve used all of these and managed to get my programmes working by copying other peoples code and throwing it into mine...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "My problem is that I can manage to get something such as a fully working web application developed, but I have no idea how. I spend hours and hours Go...",
+                "fallback": "My problem is that I can manage to get something such as a fully working web application developed, but I have no idea how. I spend hours and hours Go...",
+                "from_url": "http:\/\/www.reddit.com\/r\/learnprogramming\/comments\/1xrfl6\/i_feel_overwhelmed_by_advanced_programming_yet\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392258012.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xrhqs\/writing_songs_without_having_a_strong_foundation\/|Writing songs without having a strong foundation in theory...>\nSo I try to write songs and I get ideas and melodies but my music foundation for theory isn&amp;#39;t where I want it to be and honestly I&amp;#39;m not sure how or where to start using theory if I had any knowledge of it. I just know chords, think up melodies and record. What should I do? Any tips or ideas? Thank you.  submitted by  larhavoc  to  musictheory  [link] [\ub313\uae00 8]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "So I try to write songs and I get ideas and melodies but my music foundation for theory isn't where I want it to be and honestly I'm not sure how or w...",
+                "fallback": "So I try to write songs and I get ideas and melodies but my music foundation for theory isn't where I want it to be and honestly I'm not sure how or w...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xrhqs\/writing_songs_without_having_a_strong_foundation\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392264944.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/math\/comments\/1xrlkr\/john_baez_writes_about_the_relationship_between\/|John Baez writes about the relationship between Pascal's triangle, e, triangular numbers, superfactorials, and the Glaisher\u2013Kinkelin constant>\nsubmitted by  BadgerPriest  to  math  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/math\/comments\/1xrlkr\/john_baez_writes_about_the_relationship_between\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392268188.000004"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1xrsye\/saying_goodbye_to_python\/|Saying Goodbye To Python>\nsubmitted by  CapeFoulmouth  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392270007.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1xs230\/jsonstubcom_a_tool_to_fake_a_backend_while\/|JsonStub.com - A tool to fake a backend while developing the frontend (video in comments)>\nsubmitted by  dadamssg  to  javascript  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392270664.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1xsc5a\/which_code_to_read_grant_mclean_blogsperlorg\/|Which code to read? | Grant McLean [blogs.perl.org]>\nsubmitted by  szabgab  to  perl  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1xsc5a\/which_code_to_read_grant_mclean_blogsperlorg\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392277527.000002"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/976175b89e4c...999d4c77c8d6|2 new commits> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/2a0c3df|2a0c3df>: Make test users to be active - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/999d4c7|999d4c7>: Changed main page - coffee",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/976175b89e4c...999d4c77c8d6|2 new commits> by coffee:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430951513.001053"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc73c \uba54\uc778\ud398\uc774\uc9c0 \uc544\uc9c1 \ub35c\ud588\uc5b4\uc694 \u315c",
+        "ts": "1430951525.001054"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc218\uba74 \ubcf4\ucda9\uc810....",
+        "ts": "1430951528.001055"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/8919c4b|1 new commit> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/8919c4b|8919c4b>: Make category poster appear with good image scaling. - Horknox",
+                "pretext": "[dejavo:develop] 1 new commit by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430958565.001056"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<http:\/\/143.248.234.79:9999\/category\/|http:\/\/143.248.234.79:9999\/category\/> \uc774\ubbf8\uc9c0\uac00 \uc2a4\ucf00\uc77c\ub9c1\uc774 \uc880 \ub354 \uc790\uc5f0\uc2a4\ub7fd\uac8c \ubc14\uafd4\ubd24\uc5b4\uc694",
+        "ts": "1430958596.001057"
+    }
+]

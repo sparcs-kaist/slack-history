@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U024SHSMT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHSMT|leeopop> has joined the channel",
+        "ts": "1396046139.000036"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uad6c\uacbd\uc654\uca84\uc5fc",
+        "ts": "1396046150.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub208\ud305\ub9cc\ud560\uac8c\uc694",
+        "ts": "1396046152.000038"
+    }
+]

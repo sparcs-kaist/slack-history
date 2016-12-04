@@ -1,0 +1,42 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/630f0097cd7e...0dade1b494ff|37 new commits> by Shavakan and 2 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8ea4e1c292288f21b8673dec269337ae6e9f541b|8ea4e1c>: changed default database to mysql - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/f3ab3e608b0c61274ea09e4f5386c8baf15a6340|f3ab3e6>: change settings to production; change url in mail - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/076add774170d82d9f694aa9c7db3d92a5fe462a|076add7>: bug fix on admin page; patch DoS vulnerability - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/e8bbc56e5fd964ed78e1ccef42fc2f79fe8de145|e8bbc56>: add test user; fix redirection vulnerability; fix automatic auth vulnerability - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/97a4d66a930f2b14f6782a784c86664dcfea37ae|97a4d66>: add media in real settings - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/7de3f7d5a649c62b7ca2018b8bd2977f0d6d4b46|7de3f7d>: remember next url - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5c3f001f9048742a451f2098c2a0cbbed5d4be7d|5c3f001>: fix bug on oauth\/info - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/dfc4a5ae356dfbe75a8ca8f0f91d269f5c4fa6e4|dfc4a5a>: display available services in the main page - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5629f497658dd503741a238393f37e4da6b687b0|5629f49>: add log settings; add notice - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/7587793dc66d0726ef99610d7aa678ec10668e6f|7587793>: change directory of production log - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/3f422909416f14651e56cd5235275309df883964|3f42290>: add ip to allowed_hosts - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/e1b229e5c97c4730890d346b12d0b2f90739204f|e1b229e>: everything changed in account, again; not working - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/28f65236d500a50210d7298d637c7448bc15cbd3|28f6523>: refactor template; bug fix on sso - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/c0a1bc1156b172bdb7157c4de41710aadb246ee6|c0a1bc1>: add service map - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4d880481f94585578dfc140a4f55e5d195a95e6d|4d88048>: add cooltime - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/3ad2a30bdf7d665c065e128dff07d09ea11756e6|3ad2a30>: modify auth email and signup frontend - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/d2290a1323aab305d7a8a05f60571af6a742fb6a|d2290a1>: modify password reset frontend - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/d6c3d128ac2237fd180041963e1b54a7115dab12|d6c3d12>: add unregister and deactivate - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/be2e00560e2e05fbf1b980ff2c0d2684cb3477d9|be2e005>: add redirection and deactivation backend - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/817ecf5d53469b16aff27acfa04525d667ae1a2b|817ecf5>: modify English sentences - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/04686a98add06c9dd06758f31742f3b19159ba50|04686a9>: move cooltime check to \/require\/; add logger - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/952214bb1d0f5ed8fd5c4aa060a53abc3d10380d|952214b>: add doc templates - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b343ebb0d80af5d1a9acdff397f97b593ae6016d|b343ebb>: show notice at login page - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/2cc227ab7b66f3d541a7959c37fab5ad5d47a245|2cc227a>: add remove user script - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/64f77c73f5a68dd5d3d64ecb0119807fac98baff|64f77c7>: test commit for kaist sso - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/da648befb0f2942d7945efe6db9fc1c76d8dd55c|da648be>: add basic of translations - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/83c0c916396c4f62b6400239e3c6127cd05b64c3|83c0c91>: add portal sso; fix modal to close; modify credits; add terms and privacy policy; add google analytics - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/1c59274e453cc19d8ed4b8afa2fadf8d47869b1a|1c59274>: merge trans support - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/58717c531294efc7dcdc8662609ec9ded1a617a0|58717c5>: language support for real settings.py - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/62d664d755d759cc651bc456123f54154eabd2a9|62d664d>: finalize KAIST SSO - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/2a6895dcc474e75178342cb4999510fcd3e29faa|2a6895d>: add ashe img\/credit; no robots on credit page - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/238e85f6e107a1f2716b66f4c8c95a1c8d778337|238e85f>: add almost korean translations - ashe-sparcs\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/ad2542fb9c729b27940eaa685d9f8841831b26f4|ad2542f>: fix merge conflict - ashe-sparcs\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/7700755b355595c143ec52034c143ec88edbb475|7700755>: modify korean translation - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/493d295262c1e1f86282a591ed5859cadd691f28|493d295>: modify korean translation - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/80e3b026d352fbe037902dc55c1f456c2fe8dbac|80e3b02>: add developer documents - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/0dade1b494ffc32c35a2a8aa0d8c19208d21f542|0dade1b>: add sparcs id field to userprofile - Sam Jo",
+                "pretext": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/630f0097cd7e...0dade1b494ff|37 new commits> by Shavakan and 2 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452849823.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4bb4f69f7000e7d3959ead0ec6acd2e0ff0ca993|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4bb4f69f7000e7d3959ead0ec6acd2e0ff0ca993|4bb4f69>: minor frontend changes - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452871062.000003"
+    }
+]

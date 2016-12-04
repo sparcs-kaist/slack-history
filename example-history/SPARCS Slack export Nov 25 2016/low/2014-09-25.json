@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/prostars.net\/53>",
+        "attachments": [
+            {
+                "service_name": "I'm Prostars",
+                "title": "C++ \uc774\uc57c\uae30 - [1] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 const_cast",
+                "title_link": "http:\/\/prostars.net\/53",
+                "text": "C++\uc758 4\uac00\uc9c0 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub2e4. \uc774\ubc88\uc740 \uadf8\uc911\uc5d0\uc11c const_cast \uc5d0 \ub300\ud574\uc11c \uc774\uc57c\uae30\ud55c\ub2e4. \ub098\uba38\uc9c0\ub3c4 \uac01\uac01 \ud55c \ubc88\uc5d0 \ud558\ub098\uc529 \uc801\uc5b4\ubcf4\ub3c4\ub85d \ud558\uaca0\ub2e4. const_cast \ub294 \ud3ec\uc778\ud130 \ub610\ub294 \ucc38\uc870\ud615\uc758 \uc0c1\uc218\uc131(const)\uc744 \uc81c\uac70\ud558\ub294 \ub370 \uc0ac\uc6a9\ub41c\ub2e4. \ub2e4\ub978 \uc6a9\ub3c4\ub85c\ub294 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uba70 \ub2e4\ub978 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\ub294 \uc0c1\uc218\uc131\uc744 \uc81c\uac70\ud560 \uc218 \uc5c6\ub2e4. \uc774\ub807\uac8c \uc815\ud574\uc9c4 \uc6a9\ub3c4\uac00 \uba85\ud655\ud55c \uac83\uc774 C++ \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc758 \ud2b9\uc9d5 \uc911 \ud558\ub098\ub2e4. \uc6a9\ub3c4\uac00 \uba85\ud655\ud55c \ub9cc\ud07c \ubcc4\ub3c4\uc758 \uc8fc\uc11d \uc5c6\uc774 \ucf54\ub4dc..",
+                "fallback": "I'm Prostars: C++ \uc774\uc57c\uae30 - [1] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 const_cast",
+                "from_url": "http:\/\/prostars.net\/53",
+                "id": 1
+            }
+        ],
+        "ts": "1411629874.000021"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/prostars.net\/55>",
+        "attachments": [
+            {
+                "service_name": "I'm Prostars",
+                "title": "C++ \uc774\uc57c\uae30 - [2] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 dynamic_cast",
+                "title_link": "http:\/\/prostars.net\/55",
+                "text": "C++\uc758 4\uac00\uc9c0 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc5d0 \ub300\ud55c \uc774\uc57c\uae30 \uc911 \ub450 \ubc88\uc9f8\ub2e4. \uc774\ubc88\uc740 \uadf8\uc911\uc5d0\uc11c dynamic_cast \uc5d0 \ub300\ud574\uc11c \uc774\uc57c\uae30\ud55c\ub2e4. dynamic_cast \ub294 \uc0c1\uc18d \uad00\uacc4 \uc548\uc5d0\uc11c \ud3ec\uc778\ud130\ub098 \ucc38\uc870\uc790\uc758 \ud0c0\uc785\uc744 \uae30\ubcf8 \ud074\ub798\uc2a4\uc5d0\uc11c \ud30c\uc0dd \ud074\ub798\uc2a4\ub85c\uc758 \ub2e4\uc6b4 \uce90\uc2a4\ud305\uacfc \ub2e4\uc911 \uc0c1\uc18d\uc5d0\uc11c \uae30\ubcf8 \ud074\ub798\uc2a4 \uac04\uc758 \uc548\uc804\ud55c \ud0c0\uc785 \uce90\uc2a4\ud305\uc5d0 \uc0ac\uc6a9\ub41c\ub2e4. \uc548\uc804\ud55c \ud0c0\uc785 \uce90\uc2a4\ud305\uc774\ub780 \ub7f0\ud0c0\uc784\uc5d0 \ud0c0\uc785 \uac80\uc0ac\ub97c \ud55c\ub2e4\ub294 \uac83\uc774\uba70 \uc544\ub798\uc5d0 \uc870\uae08 \ub354 \uc790\uc138\ud558\uac8c \ub098\uc628\ub2e4. const_cast\uc640 \uac19\uc774 \ub2e4\ub978 \uc6a9\ub3c4\ub85c\ub294 \uc0ac\uc6a9..",
+                "fallback": "I'm Prostars: C++ \uc774\uc57c\uae30 - [2] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 dynamic_cast",
+                "from_url": "http:\/\/prostars.net\/55",
+                "id": 1
+            }
+        ],
+        "ts": "1411629883.000022"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/prostars.net\/64>",
+        "attachments": [
+            {
+                "service_name": "I'm Prostars",
+                "title": "C++ \uc774\uc57c\uae30 - [3] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 static_cast",
+                "title_link": "http:\/\/prostars.net\/64",
+                "text": "C++\uc758 4\uac00\uc9c0 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc5d0 \ub300\ud55c \uc774\uc57c\uae30 \uc911 \uc138 \ubc88\uc9f8\ub2e4. \uc774\ubc88\uc740 \uadf8\uc911\uc5d0\uc11c static_cast \uc5d0 \ub300\ud574\uc11c \uc774\uc57c\uae30\ud55c\ub2e4. static_cast \ub294 \uae30\ubcf8\uc801\uc73c\ub85c C \uc2a4\ud0c0\uc77c\uc758 \uce90\uc2a4\ud305\uacfc \uac00\uc7a5 \ube44\uc2b7\ud55c \uae30\ub2a5\uc744 \ud55c\ub2e4. \ubb3c\ub860 C \uc2a4\ud0c0\uc77c\uc758 \uce90\uc2a4\ud305\ucc98\ub7fc \ub9cc\ub2a5\uc740 \uc544\ub2c8\ub2e4. 4\uac00\uc9c0\uc758 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\ub85c \ubd84\ub9ac\ub41c \ub9cc\ud07c const_cast\uc758 \uc5ed\ud560\uc778 \uc0c1\uc218\uc131\uc744 \ub0a0\ub9b0\ub2e4\uac70\ub098 \ud558\ub294 \ub4f1\uc758 \ub2e4\ub978 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc758 \uace0\uc720 \uae30\ub2a5\uc740 \uc218\ud589\ud558\uc9c0 \ubabb\ud55c\ub2e4. \ub2e4\ub978 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc640 \uac19\uc774 static_cast \ub3c4 stat..",
+                "fallback": "I'm Prostars: C++ \uc774\uc57c\uae30 - [3] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 static_cast",
+                "from_url": "http:\/\/prostars.net\/64",
+                "id": 1
+            }
+        ],
+        "ts": "1411629895.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/prostars.net\/65>",
+        "attachments": [
+            {
+                "service_name": "I'm Prostars",
+                "title": "C++ \uc774\uc57c\uae30 - [4] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 reinterpret_cast",
+                "title_link": "http:\/\/prostars.net\/65",
+                "text": "C++\uc758 4\uac00\uc9c0 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc5d0 \ub300\ud55c \uc774\uc57c\uae30 \uc911 \ub124 \ubc88\uc9f8\ub2e4. \uc774\ubc88\uc740 \uadf8\uc911\uc5d0\uc11c reinterpret_cast \uc5d0 \ub300\ud574\uc11c \uc774\uc57c\uae30\ud55c\ub2e4. \uc790...\uc774\uc81c C++ \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\uc758 \ubcf5\ubcd1\uc774 \ub4f1\uc7a5\ud55c\ub2e4. \uc774\uc804\uc5d0 static_cast \uc774\uc57c\uae30\ub97c \ud558\uba74\uc11c \uc0b4\uc9dd \uc0ac\uae30\ub97c \ucce4\ub2e4. C \uc2a4\ud0c0\uc77c\uc758 \uce90\uc2a4\ud305\uacfc \uac00\uc7a5 \ube44\uc2b7\ud55c \uae30\ub2a5\uc744 \ud558\ub294 \ubb34\uc801\uc758 \uce90\uc2a4\ud305\uc740 \uadf8 \uc774\ub984\ub3c4 \ubcf5\uc7a1\ud55c reinterpret_cast \ub2e4. \uc774 \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790\ub294 C \uc2a4\ud0c0\uc77c\uc758 \uce90\uc2a4\ud305\ub9cc\ud07c\uc740 \uc544\ub2c8\uc9c0\ub9cc \ubcc4\ubc18 \ucc28\uc774 \uc5c6\uc774 \ubb34\ubc30\ubf40\ub2e4. \uce90\uc2a4\ud305 \ub300\uc0c1\uc744..",
+                "fallback": "I'm Prostars: C++ \uc774\uc57c\uae30 - [4] \uce90\uc2a4\ud2b8 \uc5f0\uc0b0\uc790 reinterpret_cast",
+                "from_url": "http:\/\/prostars.net\/65",
+                "id": 1
+            }
+        ],
+        "ts": "1411629903.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc815\ub9ac \uc798\ud574\ub1a8\ub124\uc694",
+        "ts": "1411629936.000029"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "user": "U024SNAD0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNAD0|elaborate> has joined the channel",
+        "ts": "1409893542.000002"
+    },
+    {
+        "user": "U024SNAD0",
+        "old_name": "________",
+        "name": "the-deep-dark-fantasi",
+        "type": "message",
+        "subtype": "channel_name",
+        "text": "<@U024SNAD0|elaborate> has renamed the channel from \"________\" to \"the-deep-dark-fantasi\"",
+        "ts": "1409895396.000002"
+    }
+]

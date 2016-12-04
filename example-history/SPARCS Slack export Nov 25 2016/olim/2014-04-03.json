@@ -1,0 +1,143 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/olim] Issue created by <https:\/\/github.com\/sunguard|sunguard>",
+                "title": "#18 Make login available with AJAX",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/18",
+                "fallback": "[sparcs-kaist\/olim] <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/18|Issue created> by <https:\/\/github.com\/sunguard|sunguard>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396590212.000205"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/olim] Issue created by <https:\/\/github.com\/sunguard|sunguard>",
+                "title": "#19 Deal with \"ID\" num of \"directories and files\", not \"Name\" of them.",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/19",
+                "fallback": "[sparcs-kaist\/olim] <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/19|Issue created> by <https:\/\/github.com\/sunguard|sunguard>",
+                "text": "Because of overlapping issues with names(string)."
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396590326.000206"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "pretext": "[olim:develop] 2 new commits by Jong-Hyuk, Jung:",
+                "fallback": "[olim:develop] <https:\/\/github.com\/sparcs-kaist\/olim\/compare\/4b432ba118d5...84bff15d623a|2 new commits> by Jong-Hyuk, Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/olim\/commit\/e2a50ee0ae0d|e2a50ee0ae0d>: Refs #13: Added file download function. Added function for secured\nfiles. Completed with issue number 13. - Jong-Hyuk, Jung\n <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/84bff15d623a|84bff15d623a>: Refs #18: Made available with ajax login. - Jong-Hyuk, Jung",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396590757.000207"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "pretext": "[olim:feature\/filesys] 1 new commit by Jong-Hyuk, Jung:",
+                "fallback": "[olim:feature\/filesys] <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/84bff15d623a|1 new commit> by Jong-Hyuk, Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/olim\/commit\/84bff15d623a|84bff15d623a>: Refs #18: Made available with ajax login. - Jong-Hyuk, Jung",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396590757.000208"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "pretext": "[olim:feature\/ldap_account] 2 new commits by Jong-Hyuk, Jung:",
+                "fallback": "[olim:feature\/ldap_account] <https:\/\/github.com\/sparcs-kaist\/olim\/compare\/4b432ba118d5...84bff15d623a|2 new commits> by Jong-Hyuk, Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/olim\/commit\/e2a50ee0ae0d|e2a50ee0ae0d>: Refs #13: Added file download function. Added function for secured\nfiles. Completed with issue number 13. - Jong-Hyuk, Jung\n <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/84bff15d623a|84bff15d623a>: Refs #18: Made available with ajax login. - Jong-Hyuk, Jung",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396590758.000209"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "pretext": "[olim:master] 2 new commits by Jong-Hyuk, Jung:",
+                "fallback": "[olim:master] <https:\/\/github.com\/sparcs-kaist\/olim\/compare\/4b432ba118d5...84bff15d623a|2 new commits> by Jong-Hyuk, Jung",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/olim\/commit\/e2a50ee0ae0d|e2a50ee0ae0d>: Refs #13: Added file download function. Added function for secured\nfiles. Completed with issue number 13. - Jong-Hyuk, Jung\n <https:\/\/github.com\/sparcs-kaist\/olim\/commit\/84bff15d623a|84bff15d623a>: Refs #18: Made available with ajax login. - Jong-Hyuk, Jung",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396590758.000210"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/olim] Issue closed: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/18|#18 Make login available with AJAX> by <https:\/\/github.com\/sunguard|sunguard>",
+                "fallback": "[sparcs-kaist\/olim] Issue closed: <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/18|#18 Make login available with AJAX> by <https:\/\/github.com\/sunguard|sunguard>"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396590805.000211"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/olim] Issue created by <https:\/\/github.com\/sunguard|sunguard>",
+                "title": "#20 Modify Filesys model.",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/20",
+                "fallback": "[sparcs-kaist\/olim] <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/20|Issue created> by <https:\/\/github.com\/sunguard|sunguard>",
+                "text": "- add \"file\" foreignkey model. ( for easy maintenance )\r\n- modify \"parentdir\" component to charfield for directory id."
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396594370.000212"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026UCNA4",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/olim] Issue created by <https:\/\/github.com\/sunguard|sunguard>",
+                "title": "#21 Make File model.",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/olim\/issues\/21",
+                "fallback": "[sparcs-kaist\/olim] <https:\/\/github.com\/sparcs-kaist\/olim\/issues\/21|Issue created> by <https:\/\/github.com\/sunguard|sunguard>",
+                "text": "for easy maintenance"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1396594412.000213"
+    }
+]

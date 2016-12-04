@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SN150|bbashong> uploaded a file: <https:\/\/sparcs.slack.com\/files\/bbashong\/F02PYD7JB\/45baaa0356bf258b6d6e117e0a1d74b2.jpg|45baaa0356bf258b6d6e117e0a1d74b2.jpg>",
+        "file": {
+            "id": "F02PYD7JB",
+            "created": 1413435488,
+            "timestamp": 1413435488,
+            "name": "45baaa0356bf258b6d6e117e0a1d74b2.jpg",
+            "title": "45baaa0356bf258b6d6e117e0a1d74b2.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U024SN150",
+            "editable": false,
+            "size": 153767,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PYD7JB\/45baaa0356bf258b6d6e117e0a1d74b2.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02PYD7JB\/download\/45baaa0356bf258b6d6e117e0a1d74b2.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02PYD7JB-e28fca\/45baaa0356bf258b6d6e117e0a1d74b2_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02PYD7JB-e28fca\/45baaa0356bf258b6d6e117e0a1d74b2_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02PYD7JB-e28fca\/45baaa0356bf258b6d6e117e0a1d74b2_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "image_exif_rotation": 1,
+            "original_w": 600,
+            "original_h": 450,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/bbashong\/F02PYD7JB\/45baaa0356bf258b6d6e117e0a1d74b2.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02PYD7JB-46fe0c70bd",
+            "channels": [
+                "C02E4EFGJ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SN150",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SN150|bbashong>",
+        "bot_id": null,
+        "ts": "1413435491.000002"
+    }
+]

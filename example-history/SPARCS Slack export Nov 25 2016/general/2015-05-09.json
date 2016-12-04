@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\uc81c \ub9e5 \ud130\ubbf8\ub110\uc5d0\uc11c bash\ub97c \uce58\uba74 .git-completion.bash: No such file or directory",
+        "ts": "1431178013.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\ub77c\uace0 \ub728\ub294\ub370 \uc5b4\ub5a4 \ubb38\uc81c\uace0 \uc5b4\ub5bb\uac8c \ud574\uacb0\ud574\uc57c\ud558\ub294\uc9c0 \uad6c\uae00\ub9c1\uc744 \ud574\ub3c4 \uc798 \ubabb\ucc3e\uaca0\ub294\ub370",
+        "ts": "1431178043.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\ud639\uc2dc \ud574\uacb0\ubc29\ubc95\uc744 \uc544\uc2dc\ub294 \ubd84 \uacc4\uc2e0\uac00\uc694?",
+        "ts": "1431178073.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "bashrc  \uc5d0\uc11c",
+        "ts": "1431178506.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": ".git-completion.bash \ub97c source touch \ud558\ub098 \ubd04",
+        "ts": "1431178517.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "(by lucidash)",
+        "ts": "1431178524.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024U04DT",
+        "text": "\u3147\u314e bashrc\uc5d0 \uadf8\ub807\uac8c \ubcf4\uc774\ub294\uac8c \uc788\ub124\uc694",
+        "ts": "1431179937.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc778\ud130\ub137\uc5d0\uc11c .git-completion.bash \ucc3e\uc544\uc11c \ubc1b\uc73c\uc138\uc694",
+        "ts": "1431212616.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc800\uac70 \uae43 \uba85\ub839\uc5b4 \uc790\ub3d9\uc644\uc131\ud574\uc8fc\ub294\uac74\ub370",
+        "ts": "1431212627.000011"
+    }
+]

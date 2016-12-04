@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud3ec\ud2b8\ub294 \uc5f4\ub824\uba74 \uc544\ub9c8 \uc815\ud1b5\ud300\uc5d0 \ud5c8\ub77d\uc744 \ubc1b\uc544\uc57c \ud560 \uac83 \uac19\uc2b5\ub2c8\ub2e4 ( = \uc2dc\uac04\uc774 \uc870\uae08 \uac78\ub9b4 \uac83 \uac19\uc2b5\ub2c8\ub2e4.. \uba87\ub144\uc804\ubd80\ud130 public port \uc678\ubd80\uc811\uadfc\uc744 \ub9c9\uc544\ub194\uc11c..)",
+        "ts": "1443604054.000068"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ubc29\uae08 \uac04\ub2e8\ud788 \ud14c\uc2a4\ud2b8\ud574\ubd24\ub294\ub370 587\uc774 \ub9c9\ud600\uc788\ub294\uac83 \uac19\uc9c0\ub294 \uc54a\uad70\uc694",
+        "ts": "1443609555.000073"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\ub531\ud788 \ub9c9\uc744 \uc774\uc720\ub3c4 \uc5c6\ub294 \ub370\ub2e4\uac00.. \uc81c \uae30\uc5b5\uc774 \ub9de\ub2e4\uba74 \uc2a4\ud30d\uc2a4 \uc11c\ubc84 \uba87 \ub300\ub294 whitelist\uc778\uac78\ub85c \uc54c\uace0 \uc788\uace0.",
+        "ts": "1443609577.000074"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<@U024U2P7Y>: \ub17c\uc758 \ub05d\ub098\uace0 \ud639\uc2dc \uc801\uc6a9\ud558\ub294\uac78\ub85c \uacb0\uc815\ub418\uba74 update-exim4.conf.conf\uc5d0 dc_local_interfaces=\u2018127.0.0.1;143.248.234.102.25;143.248.234.102.587\u2019 \ub85c \uace0\uce58\uace0 sudo update-exim4.conf &amp;&amp; sudo service exim4 reload \ud558\uba74 \ub429\ub2c8\ub2e4",
+        "ts": "1443609640.000075"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud3ec\uc778\ud130\uc815\uce58!",
+        "ts": "1443609761.000076"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U02F86M4W>:",
+        "ts": "1443609764.000077"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud5e4\ud5e4",
+        "ts": "1443609771.000078"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc815\uce58\ubb34\uad00\uc2ec\ud55c \uc7ac\uc678\uad6d\ubbfc",
+        "ts": "1443614484.000079"
+    }
+]

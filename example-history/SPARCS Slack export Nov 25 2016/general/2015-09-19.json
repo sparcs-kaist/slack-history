@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "<@U024SHLFH>: \ub0b4\uc77c \uc544\uc774\uc720 \ud32c\ubbf8\ud305\uc774 \uc788\ub2e4\ub294\ub370",
+        "ts": "1442661226.001197"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc788\uc9c0\uc694",
+        "ts": "1442661269.001198"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc62c\uac74\uac00\uc694",
+        "ts": "1442661278.001199"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\ub2c8 \uac08\uac74\uac00\uc694",
+        "ts": "1442661294.001200"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\ub85c\ub80c \uba54\uc774\ubca0\ub9ac \uc815\ub9d0 \uadc0\uc5fd\ub2e4!",
+        "ts": "1442661392.001201"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "<@U024U4U5G>: \uc774\ubbf8 \ubb38\uc81c\ub97c \ud574\uacb0\ud588\uaca0\uc9c0\ub9cc...",
+        "ts": "1442669156.001202"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "&lt; $&lt; \uc5d0\uc11c \uc67c\ucabd &lt; \ub294 \uc178 \ub9ac\ub2e4\uc774\ub809\uc158 \ubb38\ubc95\uc758 \uadf8\uac83\uc774\uace0 $&lt; \ub294 %.test-in \ubd80\ubd84\uc73c\ub85c \ub300\uc751\ub41c\ub2e4\ub294...",
+        "ts": "1442669191.001203"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "<https:\/\/www.gnu.org\/software\/make\/manual\/html_node\/Automatic-Variables.html>",
+        "attachments": [
+            {
+                "text": "GNU make: Automatic Variables",
+                "fallback": "GNU make: Automatic Variables",
+                "from_url": "https:\/\/www.gnu.org\/software\/make\/manual\/html_node\/Automatic-Variables.html",
+                "id": 1
+            }
+        ],
+        "ts": "1442669210.001204"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uc608 \u314b\u314b\u314b \uc800 \uc0ac\ub78c\uc774 \ubd99\uc5ec\uc368\ub194\uc11c \uc0c8\ub85c\uc6b4 \ubb50\uc778 \uc904 \uc54c\uc558\ub294\ub370 \uc544\ub2c8\ub354\ub77c\uad6c\uc694",
+        "ts": "1442669263.001206"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4!",
+        "ts": "1442669268.001207"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": ":ok_hand:",
+        "ts": "1442669282.001208"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "\uadf8\ub098\uc800\ub098 sven\uc774\uba74... \ub098 \ub2ee\uc740 \uc6a9\uc8fc \uad70?!",
+        "ts": "1442669311.001209",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U043V6ACW",
+                    "U024U4U5G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u314b\u314b\u314b\u314b\u314b \uc608 \ub9de\uc2b5\ub2c8\ub2e4",
+        "ts": "1442669390.001210"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "makefile \uc774\uc57c\uae30\uac00 \ub098\uc640\uc11c \uadf8\ub7ec\ub294\ub370 \uc774\uac8c \ud2b9\ubcc4\ud55c \uc810\uc774 \uc788\ub098\uc694? \uc880 \ubb38\ubc95 \uac19\uc740\uac70 \uae54\ub054\ud558\uac8c \ud574\uc11c \ub354 \uc798 \ub9cc\ub4e0\uac8c \uc788\uc744 \uac83 \uac19\uc740\ub370",
+        "ts": "1442670252.001211"
+    }
+]

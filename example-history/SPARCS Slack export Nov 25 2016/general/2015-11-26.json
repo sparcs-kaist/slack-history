@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U0FC8B8E7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0FC8B8E7|honey> has joined the channel",
+        "ts": "1448573930.000226"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub9e5\uc5d0\uc11c \uc798\ub418\ub358 \uc7a5\uace0\ud504\ub85c\uc81d\ud2b8\ub97c \uadf8\ub300\ub85c bit\uc73c\ub85c \uac00\uc838\uc640\uc11c \ub7f0\uc11c\ubc84\ub97c \ud558\ub824\ub294\ub370",
+        "ts": "1448610956.000227"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc65c \uc2e0\ud0dd\uc2a4\uc5d0\ub7ec\uac00 \ub0a0\uae4c\uc694...",
+        "ts": "1448610960.000228"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc544 \uc774\ub7f0",
+        "ts": "1448611003.000229"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uac00\uc0c1\ud658\uacbd\uc774 \ud30c\uc774\uc36c 3\uc73c\ub85c \ub9cc\ub4e4\uc5b4\uc84c\uc5c8\ub124\uc694",
+        "ts": "1448611008.000230"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud788\uc78c",
+        "ts": "1448611028.000231"
+    }
+]

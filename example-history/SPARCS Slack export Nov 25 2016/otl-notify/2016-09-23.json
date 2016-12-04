@@ -1,0 +1,266 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#172 SSO v2 unregister \uad6c\ud604' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/172 by kangwon",
+                "text": "sparcs sso v2 \ud68c\uc6d0 \ud0c8\ud1f4 \uae30\ub2a5\uc744 \uad6c\ud604\ud588\uc2b5\ub2c8\ub2e4.\n\n\ubaa8\ub378\uc758 \uc218\uc815\uc744 \ud3ec\ud568\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#172 SSO v2 unregister \uad6c\ud604",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/172",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474633331.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/156|#156 unregister \uae30\ub2a5 \ucd94\uac00> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/156|#156 unregister \uae30\ub2a5 \ucd94\uac00> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474633349.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/146|#146 SPARCS SSO v2 \uc5f0\ub3d9> by <https:\/\/github.com\/kangwon|kangwon>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/146|#146 SPARCS SSO v2 \uc5f0\ub3d9> by <https:\/\/github.com\/kangwon|kangwon>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474633360.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/125d724fc546...61da003e2e2c|3 new commits> by kangwon and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/21cab40950acf2b02b209b61d0a3dfe46850995d|21cab40>`  sso v2 unregister \uae30\ub2a5 \uad6c\ud604 - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/3eebc2b85090fbed99aeb5abd7025b16c59b4522|3eebc2b>`  test\ub97c \uc704\ud574 \uc218\uc815\ud588\ub358 \uc124\uc815 \ubcf5\uc6d0 - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/61da003e2e2c9b0f58c70c01b47386319f8c0c72|61da003>`  Merge pull request #172 from kangwon\/real - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/125d724fc546...61da003e2e2c|3 new commits> by kangwon and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474633374.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/172|#172 SSO v2 unregister \uad6c\ud604> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/172|#172 SSO v2 unregister \uad6c\ud604> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474633374.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/872cbb9fd75bfddc90bb988dfbee35ae28773ecb|1 new commit> by ashe-sparcs",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/872cbb9fd75bfddc90bb988dfbee35ae28773ecb|872cbb9>`  unregister function, upload message design - ashe-sparcs",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> 1 new commit by ashe-sparcs:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474637456.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e4cecebc2a7ce45d56ce01cf285d6c4c3b2f905c|1 new commit> by ashe-sparcs",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/e4cecebc2a7ce45d56ce01cf285d6c4c3b2f905c|e4ceceb>`  change first tutorial box's width - ashe-sparcs",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> 1 new commit by ashe-sparcs:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474639064.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#173 [\uacfc\ubaa9\uc0ac\uc804] \uc0ac\ub791\ubc1b\ub294 \ud6c4\uae30 \ucd5c\ub300 \ub192\uc774 \uace0\uc815' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/173 by ashe-sparcs",
+                "text": "\ud604\uc7ac \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \uba54\uc778\ud398\uc774\uc9c0\uc5d0 \uc0ac\ub791\ubc1b\ub294 \ud6c4\uae30\ub4e4 \uc788\ub294\ub370\n\n\ub0b4\uc6a9 \uae38\uc774\uc5d0 \uc0c1\uad00\uc5c6\uc774 3\uac1c\uac00 \ub098\uc624\ub3c4\ub85d \ub418\uc5b4\uc788\ub294\ub370 \ud6c4\uae30\ubcc4\ub85c \uae38\uc774 \ucc28\uc774\uac00 \ub9ce\uc774\ub098\uc11c\n\n\uc804\uacf5\uacfc \uad50\uc591\uc758 \uae38\uc774\uac00 \uc2ec\ud558\uac8c \ub2ec\ub77c\uc9c0\ub294 \uacbd\uc6b0\uac00 \ube48\ubc88\ud788 \ubc1c\uc0dd\ud569\ub2c8\ub2e4(\uc8fc\ub85c \uad50\uc591\ucabd\uc774 \ub9ce\uc774 \uae3a)\n\n\ubcf4\uae30 \uc548\uc608\ubed0\uc11c \ucd5c\ub300 \ub192\uc774\ub97c \uc124\uc815\ud574\ub450\uace0 \uae38\uc774\uac00 \uadf8 \uc774\uc0c1\uc774\uba74 ... \uc73c\ub85c \ud558\ub358\uc9c0 \ub514\uc790\uc778\uc744 \uc815\ud574\uc11c\n\n\uc218\uc815\ud558\ub294 \uac83\uc744 \uc81c\uc548\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#173 [\uacfc\ubaa9\uc0ac\uc804] \uc0ac\ub791\ubc1b\ub294 \ud6c4\uae30 \ucd5c\ub300 \ub192\uc774 \uace0\uc815",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/173",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474646607.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#174 unregister\ud560 \ub54c csrf \ubb38\uc81c \ub300\uc751' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/174 by kangwon",
+                "text": "\uae30\uc874\uc5d0 GET\uc73c\ub85c unregister\ub97c \ucc98\ub9ac\ud574 \ubcf4\uc548\uc5d0 \ucde8\uc57d\ud588\ub358 \ubd80\ubd84\uc744 \ud328\uce58\ud588\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#174 unregister\ud560 \ub54c csrf \ubb38\uc81c \ub300\uc751",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/174",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474646853.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/174|#174 unregister\ud560 \ub54c csrf \ubb38\uc81c \ub300\uc751> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/174|#174 unregister\ud560 \ub54c csrf \ubb38\uc81c \ub300\uc751> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474646882.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/e4cecebc2a7c...afdee1617698|2 new commits> by kangwon and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/72d133111cbe5b4a83f8f7dc5d4298a5824151d5|72d1331>`  unregister\ud560 \ub54c csrf \ubb38\uc81c \ub300\uc751 - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/afdee16176985888445d4a2548b8bc05ae705333|afdee16>`  Merge pull request #174 from kangwon\/real - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/e4cecebc2a7c...afdee1617698|2 new commits> by kangwon and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474646882.000016"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/afdee1617698...d79e5b932f6b|2 new commits> by ashe-sparcs",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/ab3d96f6a727d977dd6d31406c4eaa40b8633640|ab3d96f>`  simplify development\/deployment code - ashe-sparcs\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/d79e5b932f6b0e66ab6f065d905f179ff49413e2|d79e5b9>`  Merge branch 'real' of <https:\/\/github.com\/sparcs-kaist\/otlplus> into real - ashe-sparcs",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/real|[otlplus:real]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/afdee1617698...d79e5b932f6b|2 new commits> by ashe-sparcs:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474648189.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#175 front page update(2)' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/175 by xowns5979",
+                "text": "front page \uc9c4\ud589\uc911\uc785\ub2c8\ub2e4",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/xowns5979|xowns5979>",
+                "title": "#175 front page update(2)",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/175",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474648418.000018"
+    }
+]

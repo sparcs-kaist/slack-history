@@ -1,0 +1,159 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#154 Fix #129 \uc81c\uc548: \ub530\ubd09 \uc54c\ub9bc' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/154 by xowns5979",
+                "text": " \uc88b\uc544\uc694 \ubc84\ud2bc\uc744 \ub204\ub974\uba74 Click function\uc73c\ub85c \ub4e4\uc5b4\uac00\uc11c views.py\uc758 ReviewLike() \ub85c \uba87 \uac00\uc9c0 \ub370\uc774\ud130\ub97c ajax\ub85c \ub0a0\ub9ac\ub294\ub370, \uadf8 \uc911\uc5d0 \uadf8 comment_id \uac00 \ub4e4\uc5b4\uac00 \uc788\uc5c8\ub2e4.\n\nreview\/views.py \uc758 ReviewLike()\n1)\ubc1b\uc740 comment_id\ub85c \ucf54\uba58\ud2b8 \uac1d\uccb4\ub97c \ucc3e\uc544\ub0b8\ub2e4. (Comment.objects.get(id=comment_id)\n2)\uadf8 comment\uc758 writer\ub77c\ub294 attribute\uac00 \uc788\ub2e4.(writer\ub294 UserProfile \ub97c \ubc1b\ub294 ForeignKey Field)\n3)writer.like_alarm_activate = 1(alarm on) \ub85c \ubcc0\ud654\uc2dc\ud0a8\ub2e4. ( session\/models.py\uc18d  UserProfile \ubaa8\ub378\uc758 attribute\uc5d0 like_alarm_activate  = 0 \ub97c \uadf8 \uc804\uc5d0 \ucd94\uac00\ud55c\ub2e4.(0 \uc740 alarm off))\nreview\/views.py \uc758 Search_view()\n4)\uba54\uc778 \ud398\uc774\uc9c0 \ub118\uae30\ub294 \ud568\uc218\uc778 Search_view()\uc5d0\ub2e4\uac00 json \ubcc0\uc218\ub85c like_alarm_activate \ub3c4 \uac19\uc774 \ub118\uaca8\uc900\ub2e4\ntemplate\/review\/search.html\n5)\uba54\uc778 \ud398\uc774\uc9c0 \ud15c\ud50c\ub9bf \uc548\uc758 script \ucf54\ub4dc\uc5d0\ub2e4\uac00 \ub9cc\uc57d\uc5d0 like_alarm_activate \uac00 1 \uc774\uba74 alert()\ub97c \ub744\uc6cc\uc900\ub2e4.\n\n\uc544\uc9c1 \uad6c\ud604 \uc548\ub41c \ubd80\ubd84\n1. \uc54c\ub78c\uc758 \ud615\uc2dd\uc744 \uadf8\ub0e5 alert()\ub85c \ud574\ub1a8\ub294\ub370 \uc774\uc05c\uac8c \uc788\ub098 \ucc3e\uc544\ubcf4\ub294 \uc911\uc785\ub2c8\ub2e4. \ud398\uc774\uc2a4\ubd81 \uc21c\uac04 \uc54c\ub9bc\uc774\ub098 \uc778\uc2a4\ud0c0\uadf8\ub7a8 \ucc98\ub7fc \uc7a0\uc2dc \ubcf4\uc774\uace0 \uc0ac\ub77c\uc9c0\ub294 \uc2dd\uc73c\ub85c \uc0dd\uac01\ud558\uace0 \uc788\uc5b4\uc694\n2. alert()\ub97c \ud55c \ubc88 \ubd24\uc73c\uba74 \uadf8 user\uc758 like_alarm_activate\ub294 \ub2e4\uc2dc 0\uc73c\ub85c \ucd08\uae30\ud654 \ud558\ub294 \ubd80\ubd84\n3. \uc54c\ub78c \ud615\uc2dd\uc774 \ud655\uc815\ub418\uba74 \uac70\uae30\uc5d0 \ub4e4\uc5b4\uac08 \ubb38\uad6c\ub098 \ud074\ub9ad \ud588\uc744 \ub54c \ud574\ub2f9 \uc88b\uc544\uc694 \ubc1b\uc740 \uac8c\uc2dc\ubb3c\ub85c \uc774\ub3d9\ud558\ub294 \uac83\ub3c4 \uad6c\ud604\ud574\uc57c\ud568",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/xowns5979|xowns5979>",
+                "title": "#154 Fix #129 \uc81c\uc548: \ub530\ubd09 \uc54c\ub9bc",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/154",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469780696.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by a1sams1a on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/154#issuecomment-236125180|#154: Fix #129 \uc81c\uc548: \ub530\ubd09 \uc54c\ub9bc>",
+                "text": "static\/js\/review\/components\/.review.js.swn \uc774 editor tmp \ud30c\uc77c\uc778\uac70 \uac19\uc740\ub370 \uc0ad\uc81c\ud574\uc8fc\uc138\uc694!",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by a1sams1a on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/154#issuecomment-236125180|#154: Fix #129 \uc81c\uc548: \ub530\ubd09 \uc54c\ub9bc>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469781295.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/98|#98 OTL \ud0c0\uc784\ud14c\uc774\ube14 \ubaa8\ub378 \uc791\uc131> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/98|#98 OTL \ud0c0\uc784\ud14c\uc774\ube14 \ubaa8\ub378 \uc791\uc131> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469787312.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue re-opened: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/124|#124 \uc0c8\ub85c\uc6b4 model \uc801\uc6a9\ud558\uae30> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue re-opened: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/124|#124 \uc0c8\ub85c\uc6b4 model \uc801\uc6a9\ud558\uae30> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469787342.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"timetable_issue98\" was deleted by ashe-sparcs",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"timetable_issue98\" was deleted by ashe-sparcs",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469787865.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"session\" was deleted by ashe-sparcs",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"session\" was deleted by ashe-sparcs",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469787917.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"subject\" was deleted by ashe-sparcs",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus|[otlplus]> The branch \"subject\" was deleted by ashe-sparcs",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469787927.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/124#issuecomment-236187368|#124: \uc0c8\ub85c\uc6b4 model migration \uc624\ub958 \ud574\uacb0\ud558\uae30> (assigned to <https:\/\/github.com\/kangwon|kangwon>)",
+                "text": "\ubc31\uc5d4\ub4dc \uac1c\ubc1c\uc744 \ud558\ub824\uba74 \uc774\uac8c \uc120\ud589\ub418\uc5b4\uc57c \ud574\uc11c \uc774\uac78 \ucd5c\uc6b0\uc120\uc73c\ub85c \ud574\uacb0\ud558\ub3c4\ub85d \ud569\uc2dc\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on issue <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/124#issuecomment-236187368|#124: \uc0c8\ub85c\uc6b4 model migration \uc624\ub958 \ud574\uacb0\ud558\uae30> (assigned to <https:\/\/github.com\/kangwon|kangwon>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469800699.814055"
+    }
+]

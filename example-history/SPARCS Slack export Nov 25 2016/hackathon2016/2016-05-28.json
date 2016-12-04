@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub2e4\uc74c\ubd80\ud134 \uadf8\ub0e5",
+        "ts": "1464430385.000057"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ud574\ucee4\ud1a4 \ucc44\ub110\uc744 \ud30c\uc11c",
+        "ts": "1464430392.000058"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub300\ub300\uc190\uc190 \ubb3c\ub824\uc4f0\uc8e0 \u314b\u314b",
+        "ts": "1464430396.000059"
+    },
+    {
+        "user": "U02PEJCVA",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U02PEJCVA|samjo> has left the channel",
+        "ts": "1464430656.000060"
+    }
+]

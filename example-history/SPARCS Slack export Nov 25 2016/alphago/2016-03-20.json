@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U04HUN944",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U04HUN944|kyeome> has left the channel",
+        "ts": "1458535738.000345"
+    }
+]

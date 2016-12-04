@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U025U3XRZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025U3XRZ|yasik> has joined the channel",
+        "ts": "1394014472.000003"
+    },
+    {
+        "user": "U025WHXBR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025WHXBR|boolgom> has joined the channel",
+        "ts": "1394081066.000004"
+    }
+]

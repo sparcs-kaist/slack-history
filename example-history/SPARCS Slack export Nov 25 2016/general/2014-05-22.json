@@ -1,0 +1,253 @@
+[
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uce74\ud1a1\uc7a5\uc560!",
+        "ts": "1400744339.001473"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SNG5N|panda> uploaded a file: <https:\/\/sparcs.slack.com\/files\/panda\/F02AAEKAU\/slack_for_ios_upload.jpg|Slack for iOS Upload> and commented: \uc55e\uc5d0 \uc5b8\uc5b4\uc124\uc815\ud558\uace0 install ubuntu server \uc5d4\ud130\ud558\uba74 \uc091 \ud558\uace0 \uac80\uc740\ud654\uba74\uc778 \ucc44\ub85c \uba87\ub0a0\uba70\uce60 \uac00\ub294\ub370 \uc5b4\ub5a4 \ubb38\uc81c\uc778\uac00\uc694?\u3160\u3160",
+        "file": {
+            "id": "F02AAEKAU",
+            "created": 1400744825,
+            "timestamp": 1400744825,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U024SNG5N",
+            "editable": false,
+            "size": 649711,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02AAEKAU\/slack_for_ios_upload.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02AAEKAU\/download\/slack_for_ios_upload.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02AAEKAU-ccfaaa\/slack_for_ios_upload_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02AAEKAU-ccfaaa\/slack_for_ios_upload_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02AAEKAU-ccfaaa\/slack_for_ios_upload_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "image_exif_rotation": 1,
+            "original_w": 1632,
+            "original_h": 1224,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/panda\/F02AAEKAU\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02AAEKAU-04c5e1f235",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc02A9N2F3",
+                "created": 1400744829,
+                "timestamp": 1400744829,
+                "user": "U024SNG5N",
+                "is_intro": true,
+                "comment": "\uc55e\uc5d0 \uc5b8\uc5b4\uc124\uc815\ud558\uace0 install ubuntu server \uc5d4\ud130\ud558\uba74 \uc091 \ud558\uace0 \uac80\uc740\ud654\uba74\uc778 \ucc44\ub85c \uba87\ub0a0\uba70\uce60 \uac00\ub294\ub370 \uc5b4\ub5a4 \ubb38\uc81c\uc778\uac00\uc694?\u3160\u3160",
+                "channel": ""
+            }
+        },
+        "user": "U024SNG5N",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SNG5N|panda>",
+        "bot_id": null,
+        "ts": "1400744829.001474"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc774\ubbf8\uc9c0\uc758 \ubb38\uc81c\uc774\uc9c0 \uc54a\uc744\uae4c\uc694",
+        "ts": "1400744854.001475"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc11c\ubc84\ub294 \uc0c8\uc11c\ubc84\uc5d0\uc694?",
+        "ts": "1400744859.001476"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\ub139\ub139",
+        "ts": "1400744862.001477"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "Ubuntu 14.04 ?",
+        "ts": "1400744876.001478"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc720\uc5d0\uc2a4\ube44\ub97c \uc0c8\ub85c\ub9cc\ub4e4\uae4c\uc694",
+        "ts": "1400744877.001479"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\ubb50\uc600\ub354\ub77c \ub108\ubb34 \uc61b\ub0a0\uc77c\uc778\ub370...\ud638\ub5a1\uc758 \uc870\uc5b8\uc744 \ub530\ub790\ub358 \uae30\uc5b5\uc774",
+        "ts": "1400744889.001480"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "<http:\/\/ftp.kaist.ac.kr\/ubuntu-cd\/14.04\/>",
+        "ts": "1400744937.001481"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc0c8\ub85c \ub2e4\uc6b4\ubc1b\uc544\uc11c \uad6c\uc6b0\uc2dc\uc9c0\uc694",
+        "ts": "1400744944.001482"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "12.04\ub77c\uace0 \ud569\ub2c8\ub2e4",
+        "ts": "1400744979.001483"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc0c8\ub85c\ub9cc\ub4e4\uaca0\uc74c!",
+        "ts": "1400744994.001484"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "<@U024SNAD0>: \ub124 \uc81c\uac00 \uadf8\ub8f9\uc6e8\uc5b4 \uc548\ub4dc\ub85c\uc774\ub4dc\uc571\uc744 \uc720\uc9c0\ubcf4\uc218\ud558\ub294\uac78 \ub9e1\ub2e4\uac00",
+        "ts": "1400802693.001485"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc774\ubc88\uc5d0 \uadf8\ub0e5\uc0c8\ub85c\ub9cc\ub4e4\uace0\uc788\uac70\ub4e0\uc694 \u314e\u314e\u314e\u314e\u314e",
+        "ts": "1400802698.001486"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc544\uc774\ud3f0 \ub9ac\ud37c\ubc1b\uc558\ub2e4!",
+        "ts": "1400802705.001487"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1400804179.001488"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ube62\uce5c\ub2e4 \u314e\u314e\u314e",
+        "ts": "1400804181.001489"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc778\uc99d\uc11c \uc624\ub298\uc740\uc798\ub418\ub124\uc694",
+        "ts": "1400804184.001490"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud639\uc2dc \uc5b4\uc81c <https:\/\/msgrpc.hiworks.co.kr> \ud655\uc778\ud574\ubcf4\uc2e0 \ubd84 \uacc4\uc2e0\uac00\uc694?",
+        "ts": "1400804212.001491"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc624 \uc0c8\ub85c \ub9cc\ub4e4\ub2e4\ub2c8",
+        "ts": "1400804406.001492"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub300\ub2e8\ud558\uad70 \u314e\u314e",
+        "ts": "1400804410.001493"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314e\u3131\u3147",
+        "ts": "1400804630.001494"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SNC3Y|iterator> uploaded a file: <https:\/\/sparcs.slack.com\/files\/iterator\/F02ABLJ4Z\/slack_for_ios_upload.png|Slack for iOS Upload>",
+        "file": {
+            "id": "F02ABLJ4Z",
+            "created": 1400804674,
+            "timestamp": 1400804674,
+            "name": "Slack for iOS Upload.png",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SNC3Y",
+            "editable": false,
+            "size": 61693,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02ABLJ4Z\/slack_for_ios_upload.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F02ABLJ4Z\/download\/slack_for_ios_upload.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02ABLJ4Z-56a4e5\/slack_for_ios_upload_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02ABLJ4Z-56a4e5\/slack_for_ios_upload_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F02ABLJ4Z-56a4e5\/slack_for_ios_upload_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "image_exif_rotation": 1,
+            "original_w": 640,
+            "original_h": 1136,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/iterator\/F02ABLJ4Z\/slack_for_ios_upload.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F02ABLJ4Z-2f6a847502",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SNC3Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SNC3Y|iterator>",
+        "bot_id": null,
+        "ts": "1400804677.001495"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub9e5\ud504\ub85c\uc544\uc774\ucf58\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1400804681.001496"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1400804692.001497"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "zzzz",
+        "ts": "1400804910.001498"
+    }
+]

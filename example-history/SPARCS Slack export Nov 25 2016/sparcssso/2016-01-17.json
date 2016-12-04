@@ -1,0 +1,307 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud760... pyflake \uad00\ub828\ud574\uc11c\ub294 \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694 \u315c\u315c",
+        "ts": "1453019476.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#18 KAIST PORTAL SSO \uc5f0\ub3d9 \uc5c5\ub370\uc774\ud2b8' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/18 by a1sams1a",
+                "text": "  1. \ucd5c\uc885 \uc5f0\ub3d9\uc2dc\uac04 \uae30\ub85d \ubc0f oauth\ub85c \uc804\uc1a1: \uc9c0\uc6d0 \uc11c\ube44\uc2a4\uc5d0\uc11c \uc77c\uc815 \uae30\uac04 \ub4a4 \uc7ac\uc778\uc99d\uc744 \uc694\uad6c\ud560 \uc218 \uc788\ub3c4\ub85d \ud568 \n  2. \uac31\uc2e0 \ubc84\ud2bc \ucd94\uac00: \ud559\uacfc \ubcc0\ub3d9 \ub4f1\uc5d0 \uc758\ud55c \uc815\ubcf4 \uac31\uc2e0 \ud544\uc694",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#18 KAIST PORTAL SSO \uc5f0\ub3d9 \uc5c5\ub370\uc774\ud2b8",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/18",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453019672.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#19 Point \uc0dd\uc131' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/19 by a1sams1a",
+                "text": "  1. profile table\uc5d0 \uc2e0\uaddc column (point) \ucd94\uac00\n  2. \ud3ec\uc778\ud2b8 \uc870\uc808\uc774 \uac00\ub2a5\ud55c API \ucd94\uac00 (\/oauth\/point\/, uid + secret_key)\n  3. \ud3ec\uc778\ud2b8 \uad00\ub828 \ub85c\uadf8\ub97c DB\uc5d0 \uc800\uc7a5 (\ucd5c\ub300 20\uac74, json \ud615\uc2dd\uc73c\ub85c \uc800\uc7a5 - \uc77c\uc2dc, APP, \ubcc0\ub3d9 \ud3ed, \uc0ac\uc720, \ucd5c\uc885 \ud3ec\uc778\ud2b8)\n  4. \ubcf8\uc778\uc758 \ud3ec\uc778\ud2b8 \uc774\ub825 \uc870\ud68c \uac00\ub2a5\ud55c \ud398\uc774\uc9c0 \ucd94\uac00 (\/account\/point\/)",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#19 Point \uc0dd\uc131",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/19",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453019907.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#20 \uacc4\uc815 \uc811\uadfc \ubc0f \uc218\uc815 \ub0b4\uc5ed \uad00\ub828 \ud398\uc774\uc9c0' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/20 by a1sams1a",
+                "text": "  1. \ub2e4\uc74c\uc758 \ud56d\ubaa9\uc744 \uae30\ub85d\ud568: \ub85c\uadf8\uc778, \ube44\ud65c\uc131\ud654, \uacc4\uc815 \uc5f0\ub3d9, \uac31\uc2e0, \uc5f0\ub3d9 \ud574\uc9c0, \uc9c0\uc6d0 \uc11c\ube44\uc2a4 \ub85c\uadf8\uc778, \ub4f1\ub85d \ubc0f \ud574\uc9c0 \n  2. \uacc4\uc815 \uc811\uadfc \ubc0f \uc218\uc815 \ub0b4\uc5ed \uad00\ub828 \ub85c\uadf8\ub97c DB\uc5d0 \uc800\uc7a5 (\ucd5c\ub300 30\uac74, \uc77c\uc2dc, IP, (APP), \uc811\uadfc \ubc0f \uc218\uc815 \ub0b4\uc6a9) \n  3. \uad00\ub828 \ud398\uc774\uc9c0 \ucd94\uac00(\/account\/history\/)",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#20 \uacc4\uc815 \uc811\uadfc \ubc0f \uc218\uc815 \ub0b4\uc5ed \uad00\ub828 \ud398\uc774\uc9c0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/20",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453020234.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#21 \uae30\ubcf8 \uac1c\ubc1c \ud658\uacbd \ubcc0\uac85' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/21 by a1sams1a",
+                "text": "  1. \uae30\ubcf8 settings.py\ub97c \uac1c\ubc1c \ud658\uacbd\uc758 settings.py\ub85c \ubcc0\uacbd\n  2. \uac1c\ubc1c settings &lt;-&gt; deploy settings \uc0ac\uc774\ub97c \ube60\ub974\uac8c \uc804\ud658\ud558\ub294 \uc2a4\ud06c\ub9bd\ud2b8 \uc81c\uc791",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#21 \uae30\ubcf8 \uac1c\ubc1c \ud658\uacbd \ubcc0\uac85",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/21",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453025310.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/0dade1b494ff...0023282261fd|2 new commits> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/4bb4f69f7000e7d3959ead0ec6acd2e0ff0ca993|4bb4f69>: minor frontend changes - Sam Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/0023282261fd82d09d1765c5bd4c294c5aaf3de6|0023282>: done #18, done #21 - Sam Jo",
+                "pretext": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/0dade1b494ff...0023282261fd|2 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453025360.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#22 \ub85c\uadf8\uc778 \ud398\uc774\uc9c0 \ub514\uc790\uc778 \ubcc0\uacbd' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/22 by a1sams1a",
+                "text": "\ub514\uc790\uc774\ub108\uc5d0\uac8c \ub85c\uadf8\uc778 \ud398\uc774\uc9c0\ub97c \ubc1b\uc544 \ub514\uc790\uc778\uc744 \ubcc0\uacbd\ud574\uc57c \ud568",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#22 \ub85c\uadf8\uc778 \ud398\uc774\uc9c0 \ub514\uc790\uc778 \ubcc0\uacbd",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/22",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453025706.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#23 KAIST PORTAL \uc815\ubcf4 \ucd94\uac00' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/23 by a1sams1a",
+                "text": "\ub2e4\uc74c \uc815\ubcf4\ub97c \ucd94\uac00\ub85c \uc2e0\uccad\ud574\uc57c \ud568\n  1. ku_kaist_org_id\n  2. ku_std_no",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#23 KAIST PORTAL \uc815\ubcf4 \ucd94\uac00",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/23",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453025810.000016"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<@U024SHSMT>: \ub2e4\uc2dc \ud655\uc778\ud574\ubcf4\ub2c8 pyflake \uc5c6\uc5b4\ub3c4 \ub3fc\uc694",
+        "ts": "1453034829.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#24 apps \ubc0f views.py \uc815\ub9ac' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/24 by a1sams1a",
+                "text": "  1. accouts \/ oauth\ub97c account \/ api\uc73c\ub85c \uc774\ub984 \ubcc0\uacbd\n  2. views.py \uc815\ub9ac: api\/views.py, account\/views\/static.py, account\/views\/dynamic.py, account\/views\/backends.py\n  3. url \uc815\ub9ac, \uae30\uc874 url\uc5d0 \ub300\ud55c redirect \uc81c\uacf5",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#24 apps \ubc0f views.py \uc815\ub9ac",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/24",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453038910.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/20#issuecomment-172326853|#20: \uacc4\uc815 \uc811\uadfc \ubc0f \uc218\uc815 \ub0b4\uc5ed \uad00\ub828 \ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "dep from #24 ",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/20#issuecomment-172326853|#20: \uacc4\uc815 \uc811\uadfc \ubc0f \uc218\uc815 \ub0b4\uc5ed \uad00\ub828 \ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "Comment by a1sams1a\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453038976.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/0023282261fd82d09d1765c5bd4c294c5aaf3de6|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/0023282261fd82d09d1765c5bd4c294c5aaf3de6|0023282>: done #18, done #21 - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453044162.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/16a5d91420667efd91de7da68be5f48b77cb2530|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/16a5d91420667efd91de7da68be5f48b77cb2530|16a5d91>: hot fix for #18 - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453044687.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/21|#21 \uae30\ubcf8 \uac1c\ubc1c \ud658\uacbd \ubcc0\uacbd> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/21|#21 \uae30\ubcf8 \uac1c\ubc1c \ud658\uacbd \ubcc0\uacbd> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453044872.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/18|#18 KAIST PORTAL SSO \uc5f0\ub3d9 \uc5c5\ub370\uc774\ud2b8> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/18|#18 KAIST PORTAL SSO \uc5f0\ub3d9 \uc5c5\ub370\uc774\ud2b8> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453045029.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:develop] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/16a5d91420667efd91de7da68be5f48b77cb2530|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/16a5d91420667efd91de7da68be5f48b77cb2530|16a5d91>: hot fix for #18 - Sam Jo",
+                "pretext": "[sparcssso:develop] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453045156.000024"
+    }
+]

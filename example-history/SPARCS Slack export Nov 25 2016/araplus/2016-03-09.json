@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a0ca8433a9755743fb6d1673d19917ab94f94a10|1 new commit> by sangguk2",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a0ca8433a9755743fb6d1673d19917ab94f94a10|a0ca843>: nickname-click.js indentation modifying - sangguk2",
+                "pretext": "[araplus:board] 1 new commit by sangguk2:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1457580171.000012"
+    }
+]

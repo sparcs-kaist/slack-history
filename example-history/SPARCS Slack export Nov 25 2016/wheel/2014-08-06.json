@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U02ES1KCY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02ES1KCY|onion> has joined the channel",
+        "ts": "1407319973.000005"
+    },
+    {
+        "user": "U02F86M4W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02F86M4W|chocho> has joined the channel",
+        "ts": "1407340959.000006"
+    }
+]

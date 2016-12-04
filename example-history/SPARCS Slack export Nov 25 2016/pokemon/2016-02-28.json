@@ -1,0 +1,94 @@
+[
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\ubabb\uac14\ub2e4..",
+        "ts": "1456649852.000029"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc778\ud615 \uadc0\uc5fd\ub124\uc5ec",
+        "ts": "1456650317.000030"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "3\uc778\ubd84\uc785\ub2c8\ub2e4. ",
+        "ts": "1456653197.000031"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024WGSD3|undead> uploaded a file: <https:\/\/sparcs.slack.com\/files\/undead\/F0PCC4L12\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F0PCC4L12",
+            "created": 1456653195,
+            "timestamp": 1456653195,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U024WGSD3",
+            "editable": false,
+            "size": 891408,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0PCC4L12\/slack_for_ios_upload.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0PCC4L12\/download\/slack_for_ios_upload.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_960.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0PCC4L12-e59854e1b8\/slack_for_ios_upload_1024.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 2016,
+            "original_h": 1512,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/undead\/F0PCC4L12\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0PCC4L12-89c180e588",
+            "channels": [
+                "C036C21JT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024WGSD3",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024WGSD3|undead>",
+        "bot_id": null,
+        "ts": "1456653198.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc77c\ucf54\uc5d0 \uc2e4\ud328\ud55c \uc0e4\ubc14\uce78\ub2d8.",
+        "ts": "1456659052.000033"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub108\ub54c\ubb38\uc784 ^^",
+        "ts": "1456668118.000034"
+    }
+]

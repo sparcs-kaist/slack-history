@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/4010015|1 new commit> by Horknox",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/4010015|4010015>: Implement account editing function. - Horknox",
+                "pretext": "[dejavo:develop] 1 new commit by Horknox:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1427783221.000009"
+    }
+]

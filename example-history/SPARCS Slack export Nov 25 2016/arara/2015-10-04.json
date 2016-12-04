@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U04HUN9CC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04HUN9CC|kanon> has joined the channel",
+        "ts": "1443971666.000002"
+    },
+    {
+        "user": "U04HUN9CC",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U04HUN9CC|kanon> has left the channel",
+        "ts": "1443971734.000003"
+    }
+]

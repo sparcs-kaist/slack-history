@@ -1,0 +1,28 @@
+[
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/develop|[heartbeat-server:develop]> <https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/commit\/acacdf03aa4b76bda564318024170358e69efd4f|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/commit\/acacdf03aa4b76bda564318024170358e69efd4f|acacdf0>`  add backup backends - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/heartbeat-server\/tree\/develop|[heartbeat-server:develop]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478977688.000023"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "backup backend \ucd94\uac00\ud568",
+        "ts": "1478977755.000025"
+    }
+]

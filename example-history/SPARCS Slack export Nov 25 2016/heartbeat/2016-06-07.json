@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0Y0AS2G0",
+        "attachments": [
+            {
+                "fallback": "[heartbeat\/grpc-server] 1 new commit pushed by re-l",
+                "text": "`<https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/commits\/573b7c6774f3a9b1901d058d74fea11e08712b9b|573b7c6>`  Fix bug not reseting entry count - Jeong Woon Choi ",
+                "pretext": "[heartbeat\/grpc-server] <https:\/\/bitbucket.org\/anyt-huh\/heartbeat\/branches\/compare\/573b7c6774f3a9b1901d058d74fea11e08712b9b..056285d91b67218d89839119339b3f2b04fde8e7|1 new commit> pushed by re-l",
+                "id": 1,
+                "color": "3572B0",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1465295948.000271"
+    }
+]

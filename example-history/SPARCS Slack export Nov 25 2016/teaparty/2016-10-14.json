@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "\uc6b0... \uc6b4\ub3d9\uacfc \uac74\uac15...",
+        "ts": "1476449555.000507"
+    },
+    {
+        "user": "U024U4U5G",
+        "text": "<@U024U4U5G|sven> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476450069.000508"
+    }
+]

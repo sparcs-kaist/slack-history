@@ -1,0 +1,895 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "token set",
+        "ts": "1455869538.000789"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud1a0\ud070 \uc14b\ub418\uc5b4\uc788\uc73c\uba74",
+        "ts": "1455869541.000790"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uad8c\ud55c",
+        "ts": "1455869545.000791"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadfc\ub370 token set \ub418\uc5b4\uc788\ub294\ub370",
+        "ts": "1455870679.000792"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uba87\uba87 method\ub4e4\uc740 \uacc4\uc18d authorization error\ub97c \ubc49\uc5b4\uc11c",
+        "ts": "1455870690.000793"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\uac70\uadf8\uac70\uadf8\u3153\u3131\uadf8\u3153",
+        "ts": "1455870743.000794"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "admin\uc73c\ub85c rolemapping\ud574\uc57c",
+        "ts": "1455870749.000795"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147",
+        "ts": "1455870750.000796"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "<https:\/\/docs.strongloop.com\/display\/ko\/Creating+a+default+admin+user>",
+        "ts": "1455870763.000797"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud639\uc2dc \uc774\uac70 \ub9d0\ud558\ub294\uac70?",
+        "ts": "1455870767.000798"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "that's right",
+        "ts": "1455870769.000799"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud760\ud760",
+        "ts": "1455870773.000800"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadf8\ub807\uad6c\ub9cc",
+        "ts": "1455870774.000801"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544 \uadf8\ub9ac\uace0 nickname history\uc788\uc796\uc544",
+        "ts": "1455870781.000802"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "hasMany relation\uc744 \uc8fc\ub2c8\uae4c",
+        "ts": "1455870791.000803"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "People\/{id}\/nicknamehistory",
+        "ts": "1455870801.000804"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubb50 \uc774\ub7f0 \ud615\ud0dc\ub85c rest \uc5d4\ub4dc\ud3ec\uc778\ud2b8\uac00 \uc0dd\uc131\ub418\ub294\ub370",
+        "ts": "1455870809.000805"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "dd",
+        "ts": "1455870821.000806"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadf8\ub0e5 \uc0c8\ub85c People\/changeNickname\uc778\uac00 \ubb50\uc2dc\uae30 \ub9cc\ub4e4\uc5b4\uc57c \ud560 \ud544\uc694\uac00",
+        "ts": "1455870823.000807"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc788\uc744\uae4c?",
+        "ts": "1455870825.000808"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc800\uac70\ub294",
+        "ts": "1455870832.000809"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":id\uc758 nickname history \uc804\ubd80\ub530\uc624\ub294\uac70\uc796\uc544",
+        "ts": "1455870839.000810"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "changeNickname\uc740 \ub9d0 \uadf8\ub300\ub85c",
+        "ts": "1455870845.000811"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2c9\ub124\uc784\uc744 \ubc14\uafb8\ub294\uac70\uace0",
+        "ts": "1455870847.000812"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc800\uae30\uc11c POST\ub97c \ud558\ub294\uac70 \uc790\uccb4\uac00",
+        "ts": "1455870855.000813"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub2c9\ub124\uc784 history\ub97c \ud558\ub098 \ucd94\uac00\ud558\ub294\uac74\ub370",
+        "ts": "1455870863.000814"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubc14\uafb8\ub294\uac8c \ub9de\ub294\uac70 \uc544\ub2d8??",
+        "ts": "1455870867.000815"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544 \uadfc\ub370 person\uc758",
+        "ts": "1455870907.000816"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uac54\ub294 history\ub9cc \ucd94\uac00\uae30\ub294 \ud55c\ub370",
+        "ts": "1455870909.000817"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub2c9\ub124\uc784\uc774 \uc548\ubc14\ub00c\uad6c\ub098",
+        "ts": "1455870912.000818"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147",
+        "ts": "1455870916.000819"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2c9\uc774 \uc548\ubc14\ub01c",
+        "ts": "1455870919.000820"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc800 \uc5d4\ub4dc\ud3ec\uc778\ud2b8\ub97c",
+        "ts": "1455870924.000821"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "override\ud560 \uc218 \uc788\ub294\uac74 \uc5c6\ub0d0",
+        "ts": "1455870930.000822"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5d4\ub4dc\ud3ec\uc778\ud2b8 \uc624\ubc84\ub77c\uc774\ub4dc\ub294 \ubaa8\ub974\uaca0\ub290\ub12b",
+        "ts": "1455870943.000823"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub134",
+        "ts": "1455870955.000824"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc77c\ub2e8\uc740 \uadf8\ub7fc \uc368\ub193\uc740\ub370\ub85c",
+        "ts": "1455870961.000825"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub9cc\ub4e4\uac8c\uc5fc",
+        "ts": "1455870963.000826"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "loopback\uc5d0\uc11c",
+        "ts": "1455873177.000827"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud604\uc7ac \ub85c\uadf8\uc778 \ub418\uc5b4\uc788\ub294(\uadf8\ub7ec\ub2c8\uae4c set token)\uc774 \ub418\uc5b4\uc788\ub294",
+        "ts": "1455873190.000828"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc720\uc800\ub97c \ucc3e\ub294\uac74 \uc5b4\ub5bb\uac8c \ucc3e\uc744 \uc218 \uc788\ub098\uc694??",
+        "ts": "1455873196.000829"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\uac83",
+        "ts": "1455873690.000830"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c",
+        "ts": "1455873691.000831"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\uac83\uc740",
+        "ts": "1455873693.000832"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c.....",
+        "ts": "1455873699.000833"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubb50\ub784\uae4c",
+        "ts": "1455873699.000834"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc608\uc5d0\ub07c",
+        "ts": "1455873702.000835"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc7a5\uace0\uc758 request\uac19\uc740",
+        "ts": "1455873704.000836"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc7a5\uace0\ub294 \uadf8\ub7f0\uac70 \ucc3e\ub354\ub0d0\uc544\uc544",
+        "ts": "1455873705.000837"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544",
+        "ts": "1455873709.000838"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadf8\ub7f0 \uac1d\uccb4\uac00 \uc5c6\uc744\uae4c \uc2f6\uc5b4\uc11c",
+        "ts": "1455873711.000839"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314b\u314b\u314b\uadf8\uac70\uad70",
+        "ts": "1455873711.000840"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc694\uccad\uc774 \ub4e4\uc5b4\uc624\uba74 \uc5b4\ub5a4 \uc0ac\uc6a9\uc790 \uc778\uc9c0\ub97c \uc54c\uc544\uc57c \ud558\ub2c8\uae4c \u314b\u314b",
+        "ts": "1455873733.000841"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "var ctx = loopback.getCurrentContext();\nvar accessToken = ctx.get('accessToken');",
+        "ts": "1455873756.000842"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "accessToken.userId",
+        "ts": "1455873761.000843"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3147\u314e",
+        "ts": "1455873766.000844"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "-&gt; \uc720\uc800 \uc544\uc774\ub514 \ubc49\uc74c",
+        "ts": "1455873767.000845"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4",
+        "ts": "1455873769.000846"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub8f9\ubc31",
+        "ts": "1455873777.000847"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc5b4\ub835\ub124\uc694..",
+        "ts": "1455873781.000848"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc7a5\uace0\uac00 \ucc38 \ubb38\uc11c\uac00 \uc798  \ub418\uc5b4\uc788\uc74c\uc744",
+        "ts": "1455873786.000849"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc0c8\uc0bc \ub290\ub07c\ub124",
+        "ts": "1455873787.000850"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub8f9\ubc31",
+        "ts": "1455873797.000851"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uac70\uc9c0\uc784",
+        "ts": "1455873798.000852"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uac70\uc9c0\uac19\uc74c",
+        "ts": "1455873799.000853"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3147\u3148\ud569\ub2c8\ub2e4",
+        "ts": "1455873803.000854"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub2c9\ub124\uc784 \ubcc0\uacbd\uc5d0 \uc131\uacf5\ud558\uba74",
+        "ts": "1455888145.000855"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubb34\uc5c7\uc744 \ub9ac\ud134\ud558\uba74 \ub420\uae4c\uc694?",
+        "ts": "1455888149.000856"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110380845|#39> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/56e306c1f5cc...056cef0d754f|056cef0>) of sparcs-kaist\/jangteo-api@kyeome by ktk1012 passed in 7 min 35 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110380845|#39> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/56e306c1f5cc...056cef0d754f|056cef0>) of sparcs-kaist\/jangteo-api@kyeome by ktk1012 passed in 7 min 35 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455889985.000857"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":+1:",
+        "ts": "1455889993.000858"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub9ac\ud134 \ub9d0\uace0",
+        "ts": "1455889995.000859"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "cb(null, nicknameHistory)",
+        "ts": "1455890003.000860"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud558\uc138\uc5ec",
+        "ts": "1455890004.000861"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub135",
+        "ts": "1455890066.000862"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110381733|#40> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|19435d3>) of sparcs-kaist\/jangteo-api@develop in PR <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6> by ktk1012 passed in 8 min 14 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110381733|#40> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|19435d3>) of sparcs-kaist\/jangteo-api@develop in PR <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6> by ktk1012 passed in 8 min 14 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455890249.000863"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "camelcase",
+        "ts": "1455890608.000864"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc5b4\ub514\ubd80\ubd84 \ub9d0\ud558\ub294\uac70\uc8e0??",
+        "ts": "1455890612.000865"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "Nicknamehistory\ub77c\uace0 \ub418\uc5b4\uc788\uae38\ub798",
+        "ts": "1455890636.000866"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "NicknameHistory \uc774\ub7f0\uc2dd\uc73c\ub85c\uc880 \ud574\ub2ec\ub77c\ub294 \ub9d0\uc500..",
+        "ts": "1455890645.000867"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubaa8\ub378 \uc774\ub984",
+        "ts": "1455890661.000868"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub9d0\ud558\ub294\uac70\uc784?",
+        "ts": "1455890664.000869"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147",
+        "ts": "1455890669.000870"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadfc\ub370 \uce74\uba5c\ucf00\uc774\uc2a4\uba74",
+        "ts": "1455890678.000871"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "nicknameHistory",
+        "ts": "1455890682.000872"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544\ub2cc\uac00\uc5ec",
+        "ts": "1455890683.000873"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc77c\ub2e8 NicknameHistory\ub85c",
+        "ts": "1455890952.000874"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubc14\uafe8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1455890955.000875"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub139\ub139",
+        "ts": "1455890962.000876"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubcf4\ud1b5",
+        "ts": "1455890964.000877"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uba54\uc18c\ub4dc \uc774\ub984\uc740",
+        "ts": "1455890966.000878"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub9e8 \ucc98\uc74c \uae00\uc790\uac00 \uc18c\ubb38\uc790\uad6c\uc694",
+        "ts": "1455890971.000879"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubaa8\ub378 \uc774\ub984\uc740",
+        "ts": "1455890972.000880"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub300\ubb38\uc790\ub354\ub77c\uad6c\uc694",
+        "ts": "1455890974.000881"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3147\u314e",
+        "ts": "1455890976.000882"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc220\uba39\uc5b4\uc11c \uc81c\uc815\uc2e0\uc740 \uc544\ub2c8\uc9c0\ub9cc\uc740",
+        "ts": "1455890979.000883"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5ec\ud2bc \uadf8\ub7f0\uac78\ub85c \uae30\uc5b5\uc744 \ud558\uace0 \uc788\uc2a4\ube48\ub2f9",
+        "ts": "1455890990.000884"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3147\u314e",
+        "ts": "1455890995.000885"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud30c\uc2a4\uce7c\ucf00\uc774\uc2a4\ub85c \uc4f4\ub2e4\ub294\uac74\uac00",
+        "ts": "1455890999.000886"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "PascalCase",
+        "ts": "1455891004.000887"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\uac8c \ud30c\uc2a4\uce7c\uc778\uac00",
+        "ts": "1455891009.000888"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud30c\uc54c\ubabb",
+        "ts": "1455891011.000889"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud344",
+        "ts": "1455891013.000890"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud344\ud344",
+        "ts": "1455891015.000891"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubb50 \uc5ec\ud2bc",
+        "ts": "1455891017.000892"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":+1:",
+        "ts": "1455891023.000893"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub098\uc911\uc5d0 \ud655\uc778 \ud574 \uc8fc\uc138\uc694",
+        "ts": "1455891025.000894"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110384868|#42> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|b4f8bb8>) of sparcs-kaist\/jangteo-api@develop in PR <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6> by ktk1012 failed in 4 min 43 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110384868|#42> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|b4f8bb8>) of sparcs-kaist\/jangteo-api@develop in PR <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6> by ktk1012 failed in 4 min 43 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455891028.000895"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub139",
+        "ts": "1455891029.000896"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544\uc9c1 \uc775\uc219\uce58 \uc54a\uc544\uc11c \uc5b4\ub835\ub124",
+        "ts": "1455891030.000897"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1455891032.000898"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544",
+        "ts": "1455891033.000899"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "fail\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1455891035.000900"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "fail\uc7bc",
+        "ts": "1455891037.000901"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "npm test\uc880 \ub3cc\ub9bd\uc2dc\ub2e4",
+        "ts": "1455891039.000902"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110384866|#41> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/056cef0d754f...dadadc953be5|dadadc9>) of sparcs-kaist\/jangteo-api@kyeome by ktk1012 failed in 5 min 6 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110384866|#41> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/056cef0d754f...dadadc953be5|dadadc9>) of sparcs-kaist\/jangteo-api@kyeome by ktk1012 failed in 5 min 6 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455891051.000903"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "npm test\ub3cc\ub838\uc744 \ub550",
+        "ts": "1455891058.000904"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "pass \ud588\ub294\ub370",
+        "ts": "1455891063.000905"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "jshint\ub3c4?",
+        "ts": "1455891067.000906"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024U2P7Y|suckzo_o> uploaded a file: <https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0N5PFMHR\/-.txt|Untitled>",
+        "file": {
+            "id": "F0N5PFMHR",
+            "created": 1455891094,
+            "timestamp": 1455891094,
+            "name": "-.txt",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U024U2P7Y",
+            "editable": true,
+            "size": 1162,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0N5PFMHR\/-.txt?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0N5PFMHR\/download\/-.txt?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0N5PFMHR\/-.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0N5PFMHR-880a133d19",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F0N5PFMHR\/-.txt\/edit",
+            "preview": "> jshint .\r\ncommon\/models\/web\/person.js: line 145, col 9, Unexpected '0'.\r\ncommon\/models\/web\/person.js: line 145, col 1, Expected '}' to match '{' from line 144 and instead saw '<<'.\r\ncommon\/models\/web\/person.js: line 145, col 3, Unexpected use of '<<'.\r\ncommon\/models\/web\/person.js: line 145, col 5, Expected an identifier and instead saw '<<'.\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&gt; jshint .<\/pre><\/div>\n<div><pre>common\/models\/web\/person.js: line 145, col 9, Unexpected '0'.<\/pre><\/div>\n<div><pre>common\/models\/web\/person.js: line 145, col 1, Expected '}' to match '{' from line 144 and instead saw '&lt;&lt;'.<\/pre><\/div>\n<div><pre>common\/models\/web\/person.js: line 145, col 3, Unexpected use of '&lt;&lt;'.<\/pre><\/div>\n<div><pre>common\/models\/web\/person.js: line 145, col 5, Expected an identifier and instead saw '&lt;&lt;'.<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 14,
+            "lines_more": 9,
+            "preview_is_truncated": true,
+            "channels": [
+                "C02LYRLUA"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024U2P7Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024U2P7Y|suckzo_o>",
+        "bot_id": null,
+        "ts": "1455891094.000907"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub77c\ub294\ub370",
+        "ts": "1455891098.000908"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadf8\ub7ec\ub124",
+        "ts": "1455891112.000909"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "local\uc5d0\uc120",
+        "ts": "1455891114.000910"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544\ubb34 \uc5d0\ub7ec\uac00 \uc5c6\uc5c8\ub294\ub370",
+        "ts": "1455891117.000911"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc124\uc815\uc774 \ub2e4\ub978\uac00",
+        "ts": "1455891119.000912"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub2e4\uc2dc \uc218\uc815\ud574\uc11c",
+        "ts": "1455891240.000913"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc62c\ub824\uc57c\uaca0\uad70",
+        "ts": "1455891246.000914"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110386419|#43> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/dadadc953be5...0ce0b16b1fbd|0ce0b16>) of sparcs-kaist\/jangteo-api@kyeome by ktk1012 passed in 4 min 4 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110386419|#43> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/dadadc953be5...0ce0b16b1fbd|0ce0b16>) of sparcs-kaist\/jangteo-api@kyeome by ktk1012 passed in 4 min 4 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455891394.000915"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110386421|#44> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|b6a7284>) of sparcs-kaist\/jangteo-api@develop in PR <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6> by ktk1012 passed in 4 min 49 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/110386421|#44> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|b6a7284>) of sparcs-kaist\/jangteo-api@develop in PR <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/pull\/6|#6> by ktk1012 passed in 4 min 49 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455891436.000916"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544 \uc544\uae4c \uc800\uac70 \uc2e4\uc218\ub85c conflict\ub09c \ubd80\ubd84\uc744 \uccb4\ud06c\ub97c \ubabb\ud588\uc5c8\ub358\uac70\uad6c\ub098",
+        "ts": "1455891458.000917"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3148\u3145\ud569\ub2c8\ub2e4",
+        "ts": "1455891459.000918"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub084\ub084.",
+        "ts": "1455891471.000919"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubb50 \ub4a4\uc5d0\uac74 \ud328\uc2a4\ub97c \ud588\uc73c\ub2c8...",
+        "ts": "1455891495.000920"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud5e4\ud5ff",
+        "ts": "1455891499.000921"
+    }
+]

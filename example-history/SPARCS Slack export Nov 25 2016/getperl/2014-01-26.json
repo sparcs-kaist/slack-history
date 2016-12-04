@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1390732961.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<https:\/\/medium.com\/p\/3a6db2743a1e\/>",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Coding in color",
+                "title_link": "https:\/\/medium.com\/p\/3a6db2743a1e\/",
+                "text": "How to make syntax highlighting more useful",
+                "fallback": "Medium: Coding in color",
+                "image_url": "https:\/\/d262ilb51hltx0.cloudfront.net\/max\/800\/1*CTbkJuYm0JUcHFTAgovAsg.png",
+                "from_url": "https:\/\/medium.com\/p\/3a6db2743a1e\/",
+                "image_width": 563,
+                "image_height": 440,
+                "image_bytes": 30371,
+                "id": 1
+            }
+        ],
+        "ts": "1390809365.000003"
+    }
+]

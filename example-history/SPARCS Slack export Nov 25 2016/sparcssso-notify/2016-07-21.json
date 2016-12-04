@@ -1,0 +1,319 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#103 move unregister features to client' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/103 by a1sams1a",
+                "text": "\u2022 service unregister features now initiate from client\n\u2022 add \/unregister\/ api\n\u2022 sparcssso only provides links",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#103 move unregister features to client",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/103",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469085524.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/102|#102 add more exception case for \/api\/v2\/logout> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/102|#102 add more exception case for \/api\/v2\/logout> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469090890.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/102#issuecomment-234193891|#102: add more exception case for \/api\/v2\/logout> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "no reason to change",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/102#issuecomment-234193891|#102: add more exception case for \/api\/v2\/logout> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469090890.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|dev-samjo>\" was pushed by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469091419.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/fb1d7b3b4610a6871755e5a95cd300731ac5b98d|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/fb1d7b3b4610a6871755e5a95cd300731ac5b98d|fb1d7b3>`  move unregister features to client (done #103) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469097249.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/395ad60f7a8e8f53ef8b26ffa5beccc061d76e6f|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/395ad60f7a8e8f53ef8b26ffa5beccc061d76e6f|395ad60>`  minor fixed on point api - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469100410.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#104 user cannot edit secret_key' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/104 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#104 user cannot edit secret_key",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/104",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469100488.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/22f5ebd957b487f980eaa67a8f35acccf68cdb51|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/22f5ebd957b487f980eaa67a8f35acccf68cdb51|22f5ebd>`  prevent user modifying secret key (done #104) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469100712.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#105 Minor Bug Fix on SPARCS SSO Version 2' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/105 by a1sams1a",
+                "text": "\u2022 fix statistics module (done #101)\n\u2022 use absolute path of db (done #100)\n\u2022 minor api spec change\n\u2022 move unregister features to client (done #103)\n\u2022 prevent user modifying secret key (done #104)",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#105 Minor Bug Fix on SPARCS SSO Version 2",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/105",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101063.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/105|#105 Minor Bug Fix on SPARCS SSO Version 2> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/105|#105 Minor Bug Fix on SPARCS SSO Version 2> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101068.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/0dca8ae41075...d86c4fefbcab|5 new commits> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/b45cdbe6b5ef8a3f5852ec380d5f35d6fcd2a863|b45cdbe>`  modify statistics module (done #101); change absolute path of db (done #100); minor api spec change - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/fb1d7b3b4610a6871755e5a95cd300731ac5b98d|fb1d7b3>`  move unregister features to client (done #103) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/395ad60f7a8e8f53ef8b26ffa5beccc061d76e6f|395ad60>`  minor fixed on point api - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/22f5ebd957b487f980eaa67a8f35acccf68cdb51|22f5ebd>`  prevent user modifying secret key (done #104) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/d86c4fefbcab8991b9e373f3b1cd0c82f18e1de6|d86c4fe>`  Merge pull request #105 from sparcs-kaist\/dev-samjo - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/0dca8ae41075...d86c4fefbcab|5 new commits> by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101069.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso|[sparcssso]> The branch \"dev-samjo\" was deleted by a1sams1a",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101071.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/104|#104 prevent user editing secret_key> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/104|#104 prevent user editing secret_key> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101076.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/103|#103 move unregister features to client> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/103|#103 move unregister features to client> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101080.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/100|#100 absolute path for db.sqlite3> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/100|#100 absolute path for db.sqlite3> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101083.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/101|#101 modify statistics module to ignore non 8 digit ku_std_no> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/101|#101 modify statistics module to ignore non 8 digit ku_std_no> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1469101088.000013"
+    }
+]

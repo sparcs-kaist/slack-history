@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U04HUNH5L",
+        "text": "<@U04HUNH5L|mango> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474299218.000106"
+    },
+    {
+        "type": "message",
+        "user": "U04HUNH5L",
+        "text": "\uc6b0\uc640 \uc774\ub7f0 \uacf3\uc774 \uc788\uc5c8\ub2e4\ub2c8...",
+        "ts": "1474299236.000107",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U026NDWJW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2d8-\ud558",
+        "ts": "1474300178.000108"
+    }
+]

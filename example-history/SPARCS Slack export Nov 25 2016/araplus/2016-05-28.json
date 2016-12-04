@@ -1,0 +1,61 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board|[araplus:board]> <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/55c994dc610a...9468ce672362|2 new commits> by sangguk2",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7b38e1fdeb7ec8efa831a518d5735870efbfa19a|7b38e1f>`  \ubc18\uc751\ubcf4\uae30 count \ud574\uacb0 - sangguk2\n `<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9468ce6723623cfa005b8753a9ae5b0f8e900bc8|9468ce6>`  Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - sangguk2",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board|[araplus:board]> <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/55c994dc610a...9468ce672362|2 new commits> by sangguk2:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464431720.000047"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/114|#114 \ubc18\uc751\ubcf4\uae30 \uce74\uc6b4\ud2b8 \uc548 \uc0ac\ub77c\uc9d0.> by <https:\/\/github.com\/sangguk2|sangguk2>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/114|#114 \ubc18\uc751\ubcf4\uae30 \uce74\uc6b4\ud2b8 \uc548 \uc0ac\ub77c\uc9d0.> by <https:\/\/github.com\/sangguk2|sangguk2>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464431888.000048"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment by sangguk2 on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/114#issuecomment-222301955|#114: \ubc18\uc751\ubcf4\uae30 \uce74\uc6b4\ud2b8 \uc548 \uc0ac\ub77c\uc9d0.> (assigned to <https:\/\/github.com\/sangguk2|sangguk2>)",
+                "text": "7b38e1fdeb7ec8efa831a518d5735870efbfa19a\n\n\ud55c\uc904 \uace0\uce58\ub824\uace0..",
+                "pretext": "[sparcs-kaist\/araplus] New comment by sangguk2 on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/114#issuecomment-222301955|#114: \ubc18\uc751\ubcf4\uae30 \uce74\uc6b4\ud2b8 \uc548 \uc0ac\ub77c\uc9d0.> (assigned to <https:\/\/github.com\/sangguk2|sangguk2>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464431888.000049"
+    }
+]

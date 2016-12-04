@@ -1,0 +1,48 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cb27784973191db6372bf9f58900271606be2b50|1 new commit> by sangguk2",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cb27784973191db6372bf9f58900271606be2b50|cb27784>: mainpage today&amp;weekly best - sangguk2",
+                "pretext": "[araplus:board] 1 new commit by sangguk2:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452609735.000068"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/cb2778497319...6cdeb78f5d43|2 new commits> by jara",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6013ff85aaea04f24c1bb52a8ae2e87924cdaaa4|6013ff8>: making gallery, changing css of mainpagew - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6cdeb78f5d43e49b5b5c2560c1479ba54bee37d6|6cdeb78>: changin css of mainpage - jara",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/cb2778497319...6cdeb78f5d43|2 new commits> by jara:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1452669541.000069"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc640 \uc790\ub77c\ub2d8 \ucee4\ubc0b\ub3c4 \ud558\uc2dc\ub124",
+        "ts": "1452669570.000070"
+    }
+]

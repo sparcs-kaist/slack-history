@@ -1,0 +1,303 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#63 \ubaa8\ubc14\uc77c \uc9c0\uc6d0' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/63 by a1sams1a",
+                "text": "bootstrap\uc758 \uae30\ubcf8 grid \uc2dc\uc2a4\ud15c\uc744 \uc0ac\uc6a9\ud560 \uc608\uc815",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#63 \ubaa8\ubc14\uc77c \uc9c0\uc6d0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/63",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464360139.000044"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/60|#60 \ubaa8\ubc14\uc77c \ub85c\uadf8\uc778 \ud398\uc774\uc9c0> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/60|#60 \ubaa8\ubc14\uc77c \ub85c\uadf8\uc778 \ud398\uc774\uc9c0> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464360149.000045"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/60#issuecomment-222164616|#60: \ubaa8\ubc14\uc77c \ub85c\uadf8\uc778 \ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "closed, merge to #63 ",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/60#issuecomment-222164616|#60: \ubaa8\ubc14\uc77c \ub85c\uadf8\uc778 \ud398\uc774\uc9c0> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464360149.000046"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/3b179fca7ff1b81403ee696a9223e318bddf83dc|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/3b179fca7ff1b81403ee696a9223e318bddf83dc|3b179fc>`  add mobile support (#63); add inspection tool(#55) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464360628.000047"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#64 Deploy' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/64 by a1sams1a",
+                "text": "close #63, close #55",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#64 Deploy",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/64",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464362769.000048"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/63|#63 \ubaa8\ubc14\uc77c \uc9c0\uc6d0> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/63|#63 \ubaa8\ubc14\uc77c \uc9c0\uc6d0> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464362773.000049"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/55|#55 \uc815\ubcf4 \ucd94\ucd9c \ub3c4\uad6c \ub9cc\ub4e4\uae30> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/55|#55 \uc815\ubcf4 \ucd94\ucd9c \ub3c4\uad6c \ub9cc\ub4e4\uae30> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464362773.000050"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/64|#64 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/64|#64 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464362774.000051"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/9bfe272f6d95...cfc1e1b3b4a3|2 new commits> by Sam Jo and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/3b179fca7ff1b81403ee696a9223e318bddf83dc|3b179fc>`  add mobile support (#63); add inspection tool(#55) - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/cfc1e1b3b4a389cf8350326ef8b44c55fdbbf8e6|cfc1e1b>`  Merge pull request #64 from sparcs-kaist\/develop - Sam Brad Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/9bfe272f6d95...cfc1e1b3b4a3|2 new commits> by Sam Jo and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464362774.000052"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/22#issuecomment-222176669|#22: \ub85c\uadf8\uc778 \ud398\uc774\uc9c0 \ub514\uc790\uc778 \ubcc0\uacbd> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "text": "\uc0ac\uc2e4\uc0c1 \ud2f0\uc5b4_{inf}... \uac00 \uc544\ub2c8\ub77c \ub514\uc790\uc774\ub108\uac00 \uc5c6\uc5b4\uc694 \u3160\u3160\u3160",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment by a1sams1a on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/22#issuecomment-222176669|#22: \ub85c\uadf8\uc778 \ud398\uc774\uc9c0 \ub514\uc790\uc778 \ubcc0\uacbd> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464362815.000053"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/925fd6b8ad0449fdbfb7afe63e1505209707f350|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/925fd6b8ad0449fdbfb7afe63e1505209707f350|925fd6b>`  add help page - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464378906.000054"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request submitted: '#65 Deploy' https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/65 by a1sams1a",
+                "text": "add help page",
+                "pretext": "[sparcs-kaist\/sparcssso] Pull request submitted by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#65 Deploy",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/65",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464378977.000055"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/65|#65 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "text": "[sparcs-kaist\/sparcssso] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/pull\/65|#65 Deploy> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464378983.000056"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/cfc1e1b3b4a3...5520bf1ed0ab|2 new commits> by Sam Jo and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/925fd6b8ad0449fdbfb7afe63e1505209707f350|925fd6b>`  add help page - Sam Jo\n `<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5520bf1ed0ab26461c6956437aa73c4351a4a999|5520bf1>`  Merge pull request #65 from sparcs-kaist\/develop - Sam Brad Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/master|[sparcssso:master]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/cfc1e1b3b4a3...5520bf1ed0ab|2 new commits> by Sam Jo and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464378983.000057"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/9a4bb8aa5a660bca56b2b558f60db2b0c7f27fd0|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/9a4bb8aa5a660bca56b2b558f60db2b0c7f27fd0|9a4bb8a>`  update readme.md - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|[sparcssso:develop]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464379813.000058"
+    }
+]

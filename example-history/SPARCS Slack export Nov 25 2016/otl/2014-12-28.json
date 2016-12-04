@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "<@U024SN0KW> \uc77c\ub2e8 \uc801\uc6a9\uae30\ud55c\uc774 \uc5f0\ub9d0\uae4c\uc9c0\ub77c\uace0 \ub9d0\uc740\ud588\ub294\ub370",
+        "ts": "1419755443.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "library\uac00 \uc544\uc9c1 \uc801\uc6a9\uc774 \uc548\ub41c\uac78 \ubd10\uc11c\ub294 \ub4a4\ub85c \ubbf8\ub904\uc9c8\uac83\uac19\ub124\uc694",
+        "ts": "1419755459.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uadf8\ub9ac\uace0 raw packet\uc744 \ub0a0\ub9ac\ub824\uace0 \ud588\ub294\ub370 \uc800 \ub0a0\ub9ac\ub294\uac8c SSL\ud3ec\ud2b8\ub97c \uc774\uc6a9\ud558\uc9c0 \uc54a\uc73c\uba74 \uc548\ub418\ub294\uac70 \uac19\uc544\uc11c",
+        "ts": "1419755473.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uadf8\uac78\ub85c \uc0bd\uc9c8\uc911\uc785\ub2c8\ub2e4",
+        "ts": "1419755475.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3147\u3147 urllib2 \uc368\uc11c",
+        "ts": "1419755500.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "ssl \ub85c...",
+        "ts": "1419755504.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc800\ucabd\uc5d0\uc11c Internal server error\uac00 \ub098\ub294\ub370 \uc6d0\uc778\uc774...",
+        "ts": "1419755504.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uadf8\uac74 \uc5d1\uc2a4\uc5e0\uc5d8",
+        "ts": "1419755511.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uaddc\uaca9\ub54c\ubb38\uc5d0.",
+        "ts": "1419755514.000020"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc74c \ub370\uc774\ud130\ub97c \uc798\ubabb\ub0a0\ub824\uc11c \uadf8\ub7f4\uae4c\uc694?",
+        "ts": "1419755530.000021"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\u3147\u3147 xml \uc774",
+        "ts": "1419756427.000022"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "well-formed \uac00 \uc544\ub2c8\ub77c\ub294 \uac70\uc608\uc694",
+        "ts": "1419756431.000023"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc774\uac8c SOAP xml \uc774 \uc0dd\uae34\uac8c \uc880 \uad34\ub784\ud574\uc11c",
+        "ts": "1419756437.000024"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc624\ud0c0\ub0b4\uae30\uac00 \uc26c\uc6c0",
+        "ts": "1419756443.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "xml \uc790\uccb4\uac00 well-formed \uc774\uace0 (\uc591\uc2dd\uc5d0 \ub9de\uace0) \uac12\uc774 \uc5c9\ud130\ub9ac\ub85c \ub4e4\uc5b4\uc788\uc73c\uba74",
+        "ts": "1419757025.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ubc18\ud658\uac12\uc744 \uc548 \uc8fc\ub294\ub370",
+        "ts": "1419757027.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "xml \uc790\uccb4\uac00 \ubb50 \uc0ac\uc18c\ud55c \uc624\ud0c0 (\ub744\uc5b4\uc4f0\uae30 \uac19\uc740 \uac70) \ub54c\ubb38\uc5d0 \ud574\ub3c5\uc774 \uc548 \ub418\uba74",
+        "ts": "1419757036.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "(\uac00\uc7a5 \ud754\ud55c \uc608\uc81c: &gt; \ub791 &lt; \uc0ac\uc774\uc5d0 \ube48\uce78 \uc5c6\ub294 \uac70)",
+        "ts": "1419757047.000029"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc544\ub2c8\ub2e4",
+        "ts": "1419757053.000030"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "&gt;\ub791 &lt; \uc0ac\uc774 \ube48\uce78\uc740 \uad1c\ucc2e\uc558\ub358 \uac70 \uac19\uace0",
+        "ts": "1419757058.000031"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ubb50\uc600\uc9c0 \uae30\uc5b5\uc774 \uc815\ud655\ud788 \uc548 \ub098\ub294\ub370",
+        "ts": "1419757063.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\ud3ec\ub9f7\uc790\uccb4\uac00 \uae00\ub7ec\uba39\uc73c\uba74 \uadf8\ub0e5 \ub9dd...",
+        "ts": "1419757077.000033"
+    }
+]

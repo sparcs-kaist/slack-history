@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U024SNC3Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNC3Y|iterator> has joined the channel",
+        "ts": "1407717438.000029"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud328\uce58\ud558\uace0\ub098\uc11c iOS8\uc5d0\uc11c \uac00\ub054 \ud295\uaca8\uc694 \u315c",
+        "ts": "1407739343.000030"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uac8c\uc784 \uc2dc\uc791\ud558\uae30 \uc804\uc5d0 \ud295\uaca8\uc11c \ud669\uae08\uc5f4\uc1e0 \uba87\uac1c \ub0a0\ub9bc \u315c",
+        "ts": "1407739353.000031"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadf8\uac70 \uba54\ubaa8\ub9ac\ubd80\uc871\uc774\ub798",
+        "ts": "1407739368.000032"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc800\uc0ac\uc591\uc635\uc158\uc73c\ub85c\ud574",
+        "ts": "1407739371.000033"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc73d \u315c",
+        "ts": "1407739374.000034"
+    }
+]

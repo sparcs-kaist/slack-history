@@ -1,0 +1,110 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/view] 1 new commit by zoonoo:",
+                "fallback": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/97691f0d5f7c|1 new commit> by zoonoo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/97691f0d5f7c|97691f0d5f7c>: edit views.py - zoonoo",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1406536324.000063"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/97691f0d5f7c...04930a845618|26 new commits>:",
+                "fallback": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/97691f0d5f7c...04930a845618|26 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/ecf159793096|ecf159793096>: account APP \uc0dd\uc131 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/543db737c30e|543db737c30e>: INSTALLED_APP account app \ucd94\uac00 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/64367e9ead79|64367e9ead79>:  #1 login urls.py \uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/a9b5dd7fb992|a9b5dd7fb992>:  #1 login view\uae30\ub2a5 \uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/98cd8da1c2bd|98cd8da1c2bd>:  #1 login front \uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9084d9078771|9084d9078771>:  #1 login view docstring \ucd94\uac00 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/67dffea06da3|67dffea06da3>: Merge branch 'develop' into dev\/account - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/89ee8cf64b20|89ee8cf64b20>: Merge branch 'feat\/login' into dev\/account - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8768432ce6e1|8768432ce6e1>:  #4 logout \uae30\ub2a5\uad6c\ud604 - yumgyun\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/541ac072b61b|541ac072b61b>: new_registration \uae30\ucd08 - onionionion\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/ccc9cbe0edb8|ccc9cbe0edb8>: Merge pull request #9 from onionionion\/dev\/registration - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/65b63db818a2|65b63db818a2>:  #10 account model\uc5d0 UserProfile \uc0dd\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dae2458412ef|dae2458412ef>: Merge pull request #12 from mjy0503\/dev\/account - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e946b7f1ad47|e946b7f1ad47>: Merge branch 'dev\/board' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/04667d97a0fc|04667d97a0fc>: Merge branch 'develop' into dev\/registration - onionionion\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/275386f61a99|275386f61a99>: Remove incompatibality of django 1.6 - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/03df5538501c|03df5538501c>: Save dummy Article obejcts - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/342772465e12|342772465e12>: Merge pull request #1 from horknox\/dev\/registration - onionionion\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/2cd022de5dc2|2cd022de5dc2>: Add validation part, Change user input html to get data - onionionion\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8a803b8091c8|8a803b8091c8>: Merge pull request #15 from onionionion\/dev\/registration - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6c357bb3469d|6c357bb3469d>: Merge branch 'dev\/board' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/441ea36fcd51|441ea36fcd51>: README, requirements \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9790acf593b7|9790acf593b7>: README, requirements \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/a9078149c740|a9078149c740>: settings.py\uc758 IMAGEFIT_ROOT \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/29c679f96c38|29c679f96c38>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/04930a845618|04930a845618>: Merge branch 'dev\/board' of github.com:sparcs-kaist\/zabo into feat\/view - zoonoo",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1406536489.000064"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:feat\/view] 1 new commit by zoonoo:",
+                "fallback": "[zabo:feat\/view] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e21dd6c75aba|1 new commit> by zoonoo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e21dd6c75aba|e21dd6c75aba>: edit templates due to model changes - zoonoo",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1406537321.000065"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/29c679f96c38...e21dd6c75aba|3 new commits> by zoonoo:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/29c679f96c38...e21dd6c75aba|3 new commits> by zoonoo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/97691f0d5f7c|97691f0d5f7c>: edit views.py - zoonoo\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/04930a845618|04930a845618>: Merge branch 'dev\/board' of github.com:sparcs-kaist\/zabo into feat\/view - zoonoo\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e21dd6c75aba|e21dd6c75aba>: edit templates due to model changes - zoonoo",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1406537454.000066"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/a9078149c740...e21dd6c75aba|5 new commits>:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/a9078149c740...e21dd6c75aba|5 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/441ea36fcd51|441ea36fcd51>: README, requirements \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/29c679f96c38|29c679f96c38>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/97691f0d5f7c|97691f0d5f7c>: edit views.py - zoonoo\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/04930a845618|04930a845618>: Merge branch 'dev\/board' of github.com:sparcs-kaist\/zabo into feat\/view - zoonoo\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e21dd6c75aba|e21dd6c75aba>: edit templates due to model changes - zoonoo",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1406537454.000067"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] 1 new commit by coffee:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/d38fab6257fc|1 new commit> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/d38fab6257fc|d38fab6257fc>: change board url - coffee",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1406547327.000068"
+    }
+]

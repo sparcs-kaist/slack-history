@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U02C7ERBV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02C7ERBV|mania> has joined the channel",
+        "ts": "1420421993.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02C7ERBV",
+        "text": "\uc6a9\uc8fc \ud574\ud53c\ub274\uc774\uc5b4\u314b\u314b",
+        "ts": "1420422019.000003"
+    }
+]

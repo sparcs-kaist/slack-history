@@ -1,0 +1,154 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc2a4\ud1b0\uc708\ub4dc \uc0c1\uacf5....\uacbd\ube44\ubcd1....\uc2eb\ub2e4.....",
+        "ts": "1395299817.000014"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc2e4\ubc84\ubb38 \uad1c\ucc2e\uc744\uac70\uac19\ub2e4!",
+        "ts": "1395299830.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc0ac\ub78c\ub3c4\uc5c6\uace0",
+        "ts": "1395299831.000016"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\u315c",
+        "ts": "1395299832.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\uc65c\uc0ac\ub78c\uc5c6\uc9c0\u3160\uc608\uc05c\ub370",
+        "ts": "1395299836.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub098\uadf8\ub780\ub4dc \ud22c\uae30\uc7a5",
+        "ts": "1395305024.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\ub0a0\uc8fd\uc77c\uc148\uc774\uad70",
+        "ts": "1395305383.000020"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\u314d\u314d",
+        "ts": "1395305385.000021"
+    },
+    {
+        "type": "message",
+        "user": "U024SNG5N",
+        "text": "\u315c\u315c",
+        "ts": "1395305389.000022"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\ud558\uc2a4\uc2a4\ud1a4 3\uc2b9 \ud588\ub294\ub370",
+        "ts": "1395311671.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uadc0\ud658\ub9c8\uac00 \uacc4\uc18d \ub0a0\ub77c\uc624\uba74",
+        "ts": "1395311675.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc5b4\ub5a1\ud558\ub098\uc694",
+        "ts": "1395311677.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc9c0\uae08 \ud558\ub098 \uc368\uc11c \uc704\uc5c5 \ub543\ub294\ub370 4\uac1c \ub0a8\uc74c\uc694....",
+        "ts": "1395311686.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ubc84\ub824\uc694...",
+        "ts": "1395324533.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\u314f\ub3c4 \uadf8\ub7ac\uc5b4",
+        "ts": "1395324534.000028"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0251JXSR|coffee> uploaded a file: <https:\/\/sparcs.slack.com\/files\/coffee\/F026S9U6D\/wowscrnshot_032114_022851.jpg|WoWScrnShot_032114_022851.jpg>",
+        "file": {
+            "id": "F026S9U6D",
+            "created": 1395336570,
+            "timestamp": 1395336570,
+            "name": "WoWScrnShot_032114_022851.jpg",
+            "title": "WoWScrnShot_032114_022851.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U0251JXSR",
+            "editable": false,
+            "size": 546533,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F026S9U6D\/wowscrnshot_032114_022851.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F026S9U6D\/download\/wowscrnshot_032114_022851.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F026S9U6D-5283d6\/wowscrnshot_032114_022851_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F026S9U6D-5283d6\/wowscrnshot_032114_022851_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F026S9U6D-5283d6\/wowscrnshot_032114_022851_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "image_exif_rotation": 1,
+            "original_w": 1920,
+            "original_h": 1080,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/coffee\/F026S9U6D\/wowscrnshot_032114_022851.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F026S9U6D-82146a81cd",
+            "channels": [
+                "C024SJBPB"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0251JXSR",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0251JXSR|coffee>",
+        "bot_id": null,
+        "ts": "1395336574.000029"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uceac 3\uc6a9\ub9e4",
+        "ts": "1395336577.000030"
+    },
+    {
+        "user": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SJ7R9|sunguard> has left the channel",
+        "ts": "1395362831.000031"
+    }
+]

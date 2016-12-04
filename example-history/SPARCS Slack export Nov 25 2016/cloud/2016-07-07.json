@@ -1,0 +1,155 @@
+[
+    {
+        "user": "U0VDGPAHW",
+        "text": "<@U0VDGPAHW|null> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467883300.000231"
+    },
+    {
+        "type": "message",
+        "user": "U0VDGPAHW",
+        "text": "!\uad6c\ub984 \ub4f1\ub85d ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAppftIEUdNpsAEUJHocHjJkvb4p3jDWFwadWKrK9GCp42PD88EVkIz2Xr+MPzLpG2c2H0RDVqOT8cITrcT3VMbQfHRY+MsEol51bQXnPmoK+35fwsnnhAKphg9gZm8oRDW4BwbhSDU+yntGsUw0cyRvgTf62r+4uuv3a0OZN12ffd+KX8rnFPfSdaGIl+FyJzpULQJfm+qFOlLS4QfXzR7BptXrA9qOU1GXg1k3TcjneI9PDwxti\/zyNA+y\/+ZTtI53CMZxGTCyDtR7Rx2BnLOr4DZk6ZGjf4qJZTB32vywJCaMh9SQMUiIhYc6QVaP3Ew0EyE7A1GGro2JcD8YQ16w== rsa-key-20160707",
+        "ts": "1467883350.000232"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uacf5\uac1c\ud0a4 \ub4f1\ub85d\uc774 \uc644\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1467883350.000233"
+    },
+    {
+        "type": "message",
+        "user": "U0VDGPAHW",
+        "text": "!\uad6c\ub984 \uc0dd\uc131",
+        "ts": "1467892502.000234"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc778\uc2a4\ud134\uc2a4 durian \uc0dd\uc131 \uc644\ub8cc. null@durian.sparcs",
+        "ts": "1467892511.000235"
+    },
+    {
+        "user": "U0B6LUY3C",
+        "text": "<@U0B6LUY3C|bes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467897096.000236"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LUY3C",
+        "text": "!\uad6c\ub984 \ub4f1\ub85d ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAmLWu5HvW8m06+LksrrtF1QAdOp1fPqnqW2EE5gkq6VOYByOKaT0hV71EhNfWf70xLPuu6pGCCQ5pM1yN7UcwmdhUyYi3f5gODKvUOyBZ7Z8PC4OWF+he3PqePMLNJ18vpY0gV+uVAlZQPi6D4adVOX+t5wJhyxrXnk7eG5cF9fNuTwzc7ZcU8+QkDQk\/7w8b3WAohGnHFWgeasNnUnMyrvfkajkpSEnVKp2Ghw84oYO1XGEAlzE+mPxDBmebStIVCtKmsN+Qbmu0JjgJ8QczX9+R1y5r8pp3bKDXqOByLRJm9STN7zA\/BbvgA0uPsbrgGjeQIqKqltRrb0K8N9PCXQ== rsa-key-20160707",
+        "ts": "1467897119.000237"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uacf5\uac1c\ud0a4 \ub4f1\ub85d\uc774 \uc644\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1467897119.000238"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LUY3C",
+        "text": "!\uad6c\ub984 \uc9c0\uc5ed",
+        "ts": "1467897754.000239"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc9c0\uc5ed \uc870\ud68c \uc2e4\ud328",
+        "ts": "1467897755.000240"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LUY3C",
+        "text": "!\uad6c\ub984 \uc0dd\uc131",
+        "ts": "1467897788.000241"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc778\uc2a4\ud134\uc2a4 coconut \uc0dd\uc131 \uc644\ub8cc. bes@coconut.sparcs",
+        "ts": "1467897795.000242"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LUY3C",
+        "text": "!\uad6c\ub984 \ubaa9\ub85d",
+        "ts": "1467897809.000243"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "bes \ub2d8\uc758 \uc778\uc2a4\ud134\uc2a4 \ubaa9\ub85d (1 \uac1c)",
+        "ts": "1467897809.000244"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc778\uc2a4\ud134\uc2a4 coconut @ sparcs: bes@coconut.sparcs",
+        "ts": "1467897810.000245"
+    },
+    {
+        "user": "U046N9CV2",
+        "text": "<@U046N9CV2|hood> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467918641.000246"
+    },
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "!\uad6c\ub984 \ub4f1\ub85d ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAheBqvArAo7ComwbHJ+l0nRrpzg6t+S8R6oj8osPBQyC7nA9RmREQXkAkWQObC+Rkn9oTTWC2dyVVenIQOsE9GGSXH+F9LQsz1jqYWhZx\/l0JKGt\/JR2emnkvKl+\/9OE2UJW2JOp7D2FkVUhcs7glJLtS1HFleiFE2HYFoolx8pmMwz6RfZNxJCdEKuz6CK9qPLP73wu3o+X\/2W\/JdEOF0nhhkrvaqReKBY4S5bXjqqXqKQaAyY7GMzWN8jpXz4sjAnsG3sBNOQbFsSuveDwmx7rhu8bBQ9Jzc\/f6PgAp4UyGrxD7EKhjV9PE3ITXSO6fV2cTYBTfbMcCUUSssxmZYQ== rsa-key-20160708",
+        "ts": "1467918651.000247"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uacf5\uac1c\ud0a4 \ub4f1\ub85d\uc774 \uc644\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+        "ts": "1467918651.000248"
+    },
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "!\uad6c\ub984 \uc9c0\uc5ed",
+        "ts": "1467918665.000249"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc9c0\uc5ed \uc870\ud68c \uc2e4\ud328",
+        "ts": "1467918666.000250"
+    },
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "!\uad6c\ub984 \uc0dd\uc131",
+        "ts": "1467918698.000251"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc778\uc2a4\ud134\uc2a4 tangerine \uc0dd\uc131 \uc644\ub8cc. hood@tangerine.sparcs",
+        "ts": "1467918706.000252"
+    },
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "!\uad6c\ub984 \ubaa9\ub85d",
+        "ts": "1467919029.000253"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "hood \ub2d8\uc758 \uc778\uc2a4\ud134\uc2a4 \ubaa9\ub85d (1 \uac1c)",
+        "ts": "1467919029.000254"
+    },
+    {
+        "type": "message",
+        "user": "U0KDL4448",
+        "text": "\uc778\uc2a4\ud134\uc2a4 tangerine @ sparcs: hood@tangerine.sparcs",
+        "ts": "1467919030.000255"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U04582KRA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04582KRA|his> has joined the channel",
+        "ts": "1452424212.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024SKR87",
+        "text": "<@U024SNAD0>",
+        "ts": "1452428738.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024SKR87",
+        "text": "API \ubc18\uc601\ud574\uc8fc\uc2dc\uba74 \ubc14\ub85c \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \uc544\ub77c\uc5d0\uc11c \uc9dc\uace0 \uc788\uc5b4\uc694~",
+        "ts": "1452428862.000029"
+    }
+]

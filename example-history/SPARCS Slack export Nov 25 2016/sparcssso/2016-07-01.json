@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "reminder: <@U0B6LPVSM>, <@U024SKR87>, <@U071EU7B3>, <@U0VU4TX7C>, <@U0V6NC6UV> Credit \uc0ac\uc9c4\uc744 \ube60\ub974\uac8c \uad00\ub9ac\ud558\uae30 \uc704\ud574 gravatar\ub97c \uc0ac\uc6a9\ud574 \uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4. [\ubcf8\uc778 \uc544\uc774\ub514]@sparcs.org\uc758 \uc774\ubbf8\uc9c0\ub97c \ub4f1\ub85d\uc2dc\ucf1c\uc8fc\uc138\uc694. \uc774\ubc88\uc8fc \uc77c\uc694\uc77c 23:59\ubd84\uae4c\uc9c0 \ubcc0\uacbd\ud574 \uc8fc\uc138\uc694",
+        "edited": {
+            "user": "U02PEJCVA",
+            "ts": "1467357739.000000"
+        },
+        "ts": "1467357725.000018"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ub139...",
+        "ts": "1467360065.000020"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "SPARCS SSO Version 2 API SPECIFICATION - DRAFT 1",
+        "ts": "1467384347.000021"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U02PEJCVA|samjo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/samjo\/F1N5B61PS\/sparcssso.spec.txt|sparcssso.spec.txt>",
+        "file": {
+            "id": "F1N5B61PS",
+            "created": 1467384353,
+            "timestamp": 1467384353,
+            "name": "sparcssso.spec.txt",
+            "title": "sparcssso.spec.txt",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U02PEJCVA",
+            "editable": true,
+            "size": 7202,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1N5B61PS\/sparcssso.spec.txt?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1N5B61PS\/download\/sparcssso.spec.txt?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "permalink": "https:\/\/sparcs.slack.com\/files\/samjo\/F1N5B61PS\/sparcssso.spec.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1N5B61PS-6a9fc31354",
+            "edit_link": "https:\/\/sparcs.slack.com\/files\/samjo\/F1N5B61PS\/sparcssso.spec.txt\/edit",
+            "preview": "=SPARCS SSO Version 2 Specification=\n\nMade By Sungwon Cho(samjo), 2016-07-01T11:42+09:00\nVersion DRAFT 1 - 2016-07-01T11:42+09:00\n",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>=SPARCS SSO Version 2 Specification=<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>Made By Sungwon Cho(samjo), 2016-07-01T11:42+09:00<\/pre><\/div>\n<div><pre>Version DRAFT 1 - 2016-07-01T11:42+09:00<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 176,
+            "lines_more": 171,
+            "preview_is_truncated": true,
+            "channels": [
+                "C0E32R0KG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U02PEJCVA",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U02PEJCVA|samjo>",
+        "bot_id": null,
+        "ts": "1467384353.000022"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ubc1c\uc0dd\ud560 \uc218 \uc788\ub294 \ubcf4\uc548 \uc704\ud611, \ub354 \ucd94\uac00\ud574\uc57c \ud560 \uae30\ub2a5\ub4e4\uc5d0 \ub300\ud574 \ud53c\ub4dc\ubc31\uc8fc\uc2dc\uba74 \uac80\ud1a0 \ud6c4 \ubc18\uc601\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+        "ts": "1467384391.000023"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc6d4\uc694\uc77c 7\uc2dc \uc5b4\ub5bb\uc2b5\ub2c8\uae4c: <@U0VU4TX7C> <@U0V6NC6UV>",
+        "ts": "1467424600.000024"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544\uc544 \uc8c4\uc1a1\ud569\ub2c8\ub2e4 9\uc2dc \uac00\ub2a5\ud569\ub2c8\uae4c?",
+        "ts": "1467432954.000025"
+    },
+    {
+        "type": "message",
+        "user": "U0VU4TX7C",
+        "text": "\uc804 \uac00\ub2a5\ud574\uc694",
+        "ts": "1467436702.000026"
+    }
+]

@@ -1,0 +1,496 @@
+[
+    {
+        "text": "<http:\/\/www.nextree.co.kr\/p6362\/|JavaScript: \uae30\ubd84\uc88b\uc740 \uc18c\uc2a4\ucf54\ub4dc>\n1 \u00a0 \u00a0\uac1c\uc694 JavaScript\ub294 \uc6f9 \uae30\ubc18\uc758 \uc2a4\ud06c\ub9bd\ud2b8 \uc5b8\uc5b4\ub85c \ub9e4\uc6b0 \ub3d9\uc801\uc778 \ud2b9\uc131\uc744 \uac00\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4. [\u2026]",
+        "username": "\ub125\uc2a4\ud2b8\ub9ac | NEXTREE",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "JavaScript\uc5b8\uc5b4\uc758 \ud2b9\uc131\uc744 \uc774\ud574\ud558\uace0 \uc88b\uc740 \ucf54\ub4dc \ub9cc\ub4dc\ub294\ubc95\uc744 \uc54c\uc544\ubcf8\ub2e4.",
+                "fallback": "JavaScript\uc5b8\uc5b4\uc758 \ud2b9\uc131\uc744 \uc774\ud574\ud558\uace0 \uc88b\uc740 \ucf54\ub4dc \ub9cc\ub4dc\ub294\ubc95\uc744 \uc54c\uc544\ubcf8\ub2e4.",
+                "from_url": "http:\/\/www.nextree.co.kr\/p6362\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392451465.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/programming\/comments\/1xysy3\/git_190_released\/|Git 1.9.0 Released>\nsubmitted by  shadowycore  to  programming  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/programming\/comments\/1xysy3\/git_190_released\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392453144.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/Python\/comments\/1xyz0s\/autokeypy3_can_now_click_on_buttons_for_you_just\/|autokey-py3 can now click on buttons for you, just give it a pattern PNG!>\nsubmitted by  anonggg  to  Python  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/Python\/comments\/1xyz0s\/autokeypy3_can_now_click_on_buttons_for_you_just\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392457334.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1xz4db\/the_best_google_glass_description_yet\/|The best google glass description yet>\nsubmitted by  sothisisreal  to  google  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1xz4db\/the_best_google_glass_description_yet\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392464958.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1xz29g\/youtube_shows_top_tracks_and_album_playlists_when\/|YouTube Shows Top Tracks and Album Playlists When Searching for Music>\nsubmitted by  alinasofia001  to  google  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1xz29g\/youtube_shows_top_tracks_and_album_playlists_when\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392464958.000003"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1xz5pp\/best_chart_library\/|Best chart library>\nHi, what is the best charting library (either free or paid) for doing candle stick charts? Features I&amp;#39;m looking for: IE8+ support, fast, supports real time updates, styling, supports adding secondary series to the chart (and adding secondary panels). This is needed to support displaying of various studies (SMA, MACD, Bollinger bands, etc). I&amp;#39;m currently using HighStock which just doesn&amp;#39;t perform and has serious trouble handling updates. I feel like it&amp;#39;s to generic (as it supports...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi, what is the best charting library (either free or paid) for doing candle stick charts? Features I'm looking for: IE8+ support, fast, supports rea...",
+                "fallback": "Hi, what is the best charting library (either free or paid) for doing candle stick charts? Features I'm looking for: IE8+ support, fast, supports rea...",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1xz5pp\/best_chart_library\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392470841.000006"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xz82r\/about_groove_and_do_all_instrument_share_the_same\/|about groove, and do all instrument share the same groove during a song?>\nim not an instrumentalist, i compose and produce in a sequencer, but i still take a lot of time adjusting the groove of instruments, by groove i mean their emphasized note volumes and the few millisecond delays that each note has from the strait grid. basically humanizing my sequenced performances to make them as enjoyable as sequenced music can be. im not necessarily talking about swing, i would think even strait patterns are inevitably played with groove if played by a human. anyway i was wond...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "im not an instrumentalist, i compose and produce in a sequencer, but i still take a lot of time adjusting the groove of instruments, by groove i mean ...",
+                "fallback": "im not an instrumentalist, i compose and produce in a sequencer, but i still take a lot of time adjusting the groove of instruments, by groove i mean ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1xz82r\/about_groove_and_do_all_instrument_share_the_same\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392471680.000008"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/opensource\/comments\/1xza6a\/free_desktop_virtualization_alternatives_to_citrix\/|Free Desktop Virtualization alternatives to Citrix?>\nI am currently researching options for clients to make a switch to open source software (at least to the extent that is possible), i have already found suitable alternatives to the most commonly used applications for their users and am currently designing the architecture for their entire business backend and frontend. The idea is to become more efficient (resources), flexible (scalability and constraints for future development). Right now I am a bit stumped on the choices available regarding De...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am currently researching options for clients to make a switch to open source software (at least to the extent that is possible), i have already foun...",
+                "fallback": "I am currently researching options for clients to make a switch to open source software (at least to the extent that is possible), i have already foun...",
+                "from_url": "http:\/\/www.reddit.com\/r\/opensource\/comments\/1xza6a\/free_desktop_virtualization_alternatives_to_citrix\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392472518.000010"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xzasl\/evolution_is_a_special_kind_of_machine_learning\/|Evolution is a special kind of (machine) learning>\nsubmitted by  alexeyr  to  MachineLearning  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/MachineLearning\/comments\/1xzasl\/evolution_is_a_special_kind_of_machine_learning\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392472518.000011"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/math\/comments\/1xzatm\/evolution_is_a_special_kind_of_machine_learning\/|Evolution is a special kind of (machine) learning>\nsubmitted by  alexeyr  to  math  [link] [\ub313\uae00 1]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/math\/comments\/1xzatm\/evolution_is_a_special_kind_of_machine_learning\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392480157.000014"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1xzfbt\/announcing_java_me_8_early_access_2\/|Announcing Java ME 8 Early Access #2>\nsubmitted by  henk53  to  java  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1xzfbt\/announcing_java_me_8_early_access_2\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392480157.000015"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xzlf5\/transitioning_to_c\/|Transitioning to C++>\nI have recently been programming in Python, and I want to learn programming in C++. What would be your recommended way to make this transition? Would you recommend learning C++ from a book, because I am planning to use Accelerated C++ by Koenig? How helpful would that book be for someone who programmed in Python and is just starting to program in C++?  submitted by  redmoon1224  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I have recently been programming in Python, and I want to learn programming in C++. What would be your recommended way to make this transition? Would ...",
+                "fallback": "I have recently been programming in Python, and I want to learn programming in C++. What would be your recommended way to make this transition? Would ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xzlf5\/transitioning_to_c\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392481828.000018"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/google\/comments\/1xzm9r\/google_and_vmware_give_chromebooks_access_to\/|Google and VMWare give Chromebooks access to Windows apps>\nsubmitted by  mylifemyrules  to  google  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/google\/comments\/1xzm9r\/google_and_vmware_give_chromebooks_access_to\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392487716.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1xzv6m\/better_to_work_for_one_company_or_to_be_a\/|Better to work for one company, or to be a freelancer?>\nI.E Which is funner\/tougher\/less stressful\/more profitable? Experience posts are the best!!  submitted by  HerpesAunt  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I.E Which is funner\/tougher\/less stressful\/more profitable? Experience posts are the best!!",
+                "fallback": "I.E Which is funner\/tougher\/less stressful\/more profitable? Experience posts are the best!!",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1xzv6m\/better_to_work_for_one_company_or_to_be_a\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392489448.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y03ku\/curious_noob_here_learning_chords\/|Curious noob here learning chords>\nCan someone please tell me what this chord is. I only know my majors and minors. C E A. Thank you.  submitted by  Robbybrar  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Can someone please tell me what this chord is. I only know my majors and minors. C E A. Thank you.",
+                "fallback": "Can someone please tell me what this chord is. I only know my majors and minors. C E A. Thank you.",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y03ku\/curious_noob_here_learning_chords\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392493659.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y05qx\/are_there_any_alternative_systems_of_music_theory\/|Are there any alternative systems of music theory other than using letters of the alphabet or numerals?>\nI was wondering if anyone has independently created a system of identifying notes or pitch value? I have a basic understanding of music theory, I mean I&amp;#39;ve memorized all the major, minor and a few exotic scales, understand circle of fifths, how to determine time signatures etc, but all in all, it seems like a very antiquated system.   submitted by  creep_show  to  musictheory  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I was wondering if anyone has independently created a system of identifying notes or pitch value? I have a basic understanding of music theory, I mean...",
+                "fallback": "I was wondering if anyone has independently created a system of identifying notes or pitch value? I have a basic understanding of music theory, I mean...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y05qx\/are_there_any_alternative_systems_of_music_theory\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392495347.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/compsci\/comments\/1y0a56\/compiler_in_haskell_or_c\/|Compiler in Haskell or C>\nHey there, This semester in my \"Language Processing\" class we&amp;#39;re going to develop a compiler and my teacher let us choose the language we want to use. Because most of my projects were in Java, I&amp;#39;ll choose between C and Haskell, but I really can&amp;#39;t decide(I&amp;#39;m more fluent in C).  I&amp;#39;ve some C projects but in Haskell I don&amp;#39;t have anything besides the exercises from other classes, so I think it would be interesting to develop in it. So my question is: what are the advantages an...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hey there, This semester in my \"Language Processing\" class we're going to develop a compiler and my teacher let us choose the language we want to use....",
+                "fallback": "Hey there, This semester in my \"Language Processing\" class we're going to develop a compiler and my teacher let us choose the language we want to use....",
+                "from_url": "http:\/\/www.reddit.com\/r\/compsci\/comments\/1y0a56\/compiler_in_haskell_or_c\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392499525.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/java\/comments\/1y0beb\/under_what_circumstances_do_you_tell_people_you\/|Under what circumstances do you tell people you are a 'programmer' verses a 'software engineer'?>\nsubmitted by  perhaps_i_suppose  to  java  [link] [\ub313\uae00 2]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/java\/comments\/1y0beb\/under_what_circumstances_do_you_tell_people_you\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392500350.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/perl\/comments\/1y0g00\/getoptlong_and_complicated_arguments\/|Getopt::Long and complicated arguments>\nI am parsing kml into csv. I find myself in a case where I want to say: parser.xml --column_headers Location color --column_xpath (\/root\/onefish OR \/root\/twofish) \/root\/color Has anyone seen a good way to pass this into Getopt::Long? Or a good way to specify this on the command line? I know you can do --column_xpath \/root\/onefish --column_xpath \/root\/twofish --column_xpath \/root\/color But then I have an array of two, and an array of three, and no idea how to line them up. Thoughts?  submitted by...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "I am parsing kml into csv. I find myself in a case where I want to say: parser.xml --column_headers Location color --column_xpath (\/root\/onefish OR \/...",
+                "fallback": "I am parsing kml into csv. I find myself in a case where I want to say: parser.xml --column_headers Location color --column_xpath (\/root\/onefish OR \/...",
+                "from_url": "http:\/\/www.reddit.com\/r\/perl\/comments\/1y0g00\/getoptlong_and_complicated_arguments\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392501991.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1y0gp2\/open_source_project_need_people_c11\/|Open source project, need people. c++11, metaprogramming, neural networks.>\nHi all, I am in a middle of work with an interesting project. Neural networks implementation with c++11 and stl compatible interfaces. Unfortunately I can&amp;#39;t find people who could support this project. <https:\/\/code.google.com\/p\/tnnlib\/> If somebody is interesting please contact me at <mailto:alekstheod@gmail.com|alekstheod@gmail.com>  submitted by  alekstheod  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hi all, I am in a middle of work with an interesting project. Neural networks implementation with c++11 and stl compatible interfaces. Unfortunately ...",
+                "fallback": "Hi all, I am in a middle of work with an interesting project. Neural networks implementation with c++11 and stl compatible interfaces. Unfortunately ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1y0gp2\/open_source_project_need_people_c11\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392502829.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/cpp\/comments\/1y0ica\/blog_using_refqualifiers_a_use_case_i_found\/|[blog] Using ref-qualifiers (a use case I found)>\nsubmitted by  patchhill  to  cpp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/cpp\/comments\/1y0ica\/blog_using_refqualifiers_a_use_case_i_found\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392505343.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y0p5a\/random_row_generator\/|Random Row Generator>\nHello. Earlier this week I started learning JavaScript at Codecademy and as kind of a first, baby project I worked out a little random twelve-tone row generator. I often like using random twelve-tone rows to screw around with novel harmonic\/pitch ideas, so this is useful to me; hopefully some of you might find it useful too. I put the code up (I&amp;#39;m sure it&amp;#39;s clumsy) in case you&amp;#39;re interested. Feel free to comment I guess, though the code is not really music theory-related.  submitted ...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Hello. Earlier this week I started learning JavaScript at [Codecademy](<http:\/\/www.codecademy.com>) and as kind of a first, baby project I worked out a ...",
+                "fallback": "Hello. Earlier this week I started learning JavaScript at [Codecademy](<http:\/\/www.codecademy.com>) and as kind of a first, baby project I worked out a ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y0p5a\/random_row_generator\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392509431.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/javascript\/comments\/1y15uh\/react_community_roundup_16\/|React Community Round-up #16>\nsubmitted by  vjeux  to  javascript  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/javascript\/comments\/1y15uh\/react_community_roundup_16\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392525615.000000"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/gamedev\/comments\/1y1fln\/the_monthly_showcase_1_please_show_up\/|The Monthly Showcase 1: Please show up!>\nWelcome to the very first \/r\/gamedev monthly showcase! Developers, you may now create your booth below. Remember, one booth per developer, introduce yourself and your game(s), and stick around to answer questions. The goal is to attract players; make it interesting and easy to digest! Good luck!  About the Showcase The Monthly \/r\/gamedev Showcase is a new experimental event designed to help indie game developers and players connect. Unlike previous events, this is the first time we are openly in...",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Welcome to the very first \/r\/gamedev monthly showcase! Developers, you may now create your booth below. Remember, one booth per developer, introduce ...",
+                "fallback": "Welcome to the very first \/r\/gamedev monthly showcase! Developers, you may now create your booth below. Remember, one booth per developer, introduce ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/gamedev\/comments\/1y1fln\/the_monthly_showcase_1_please_show_up\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392528983.000002"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y1hdw\/do_scales_correspond_with_certain_emotions\/|Do scales correspond with certain emotions?>\nClearly major sounds happier and minor sounds sadder, but more specifically what type of emotion does a song written in C major have that one written in F major not have? From my own experimentation from transposing some of my songs it doesn&amp;#39;t seem to make a difference, however I have preferences that just seem to be random. Any thoughts?  submitted by  mvcEDM  to  musictheory  [link] [\ub313\uae00 5]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "Clearly major sounds happier and minor sounds sadder, but more specifically what type of emotion does a song written in C major have that one written ...",
+                "fallback": "Clearly major sounds happier and minor sounds sadder, but more specifically what type of emotion does a song written in C major have that one written ...",
+                "from_url": "http:\/\/www.reddit.com\/r\/musictheory\/comments\/1y1hdw\/do_scales_correspond_with_certain_emotions\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392534076.000004"
+    },
+    {
+        "text": "<http:\/\/www.reddit.com\/r\/lisp\/comments\/1y1ocm\/the_language_common_lisp\/|The Language : Common Lisp>\nsubmitted by  lispm  to  lisp  [link] [\ub313\uae00 \ub2ec\uae30]",
+        "username": "reddit: the front page of the internet",
+        "icons": {
+            "image_48": "https:\/\/slack.global.ssl.fastly.net\/12765\/img\/services\/rss_48.png"
+        },
+        "bot_id": "B024Y0J7F",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/lisp\/comments\/1y1ocm\/the_language_common_lisp\/",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1392535769.000006"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "user": "U025EC52V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U025EC52V|zzongaly> has joined the channel",
+        "ts": "1395886983.000002"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] 1 new commit by chaos:",
+                "fallback": "[zabo:develop] 1 new commit by chaos",
+                "text": "\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/60ec654676c8|60ec654676c8>: manage.py \uc704\uce58 \uc218\uc815\uc5d0 \ub530\ub978 settings.py\uc218\uc815 - chaos",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395887659.000003"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:master] 1 new commit by chaos:",
+                "fallback": "[zabo:master] 1 new commit by chaos",
+                "text": "\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/60ec654676c8|60ec654676c8>: manage.py \uc704\uce58 \uc218\uc815\uc5d0 \ub530\ub978 settings.py\uc218\uc815 - chaos",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395887659.000004"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:master] 1 new commit by chaos:",
+                "fallback": "[zabo:master] 1 new commit by chaos",
+                "text": "\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8fd0cb0c0769|8fd0cb0c0769>: manage.py \uc704\uce58\uc218\uc815\uc5d0 \ub530\ub978 wsgi.py \uc218\uc815 - chaos",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395890066.000005"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] 1 new commit by chaos:",
+                "fallback": "[zabo:develop] 1 new commit by chaos",
+                "text": "\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/8fd0cb0c0769|8fd0cb0c0769>: manage.py \uc704\uce58\uc218\uc815\uc5d0 \ub530\ub978 wsgi.py \uc218\uc815 - chaos",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395890066.000006"
+    },
+    {
+        "user": "U024SJ7R9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SJ7R9|sunguard> has joined the channel",
+        "ts": "1395890522.000007"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9084d9078771dc29ac369e54bcde6a3f79484a91|feat\/login>\" was pushed by ot8844",
+                "text": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/9084d9078771dc29ac369e54bcde6a3f79484a91|feat\/login>\" was pushed by ot8844",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395890774.000008"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/89ee8cf64b20e3c09a553a007b18856e3ce4008e|dev\/account>\" was pushed by ot8844",
+                "text": "[zabo] New branch \"<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/89ee8cf64b20e3c09a553a007b18856e3ce4008e|dev\/account>\" was pushed by ot8844",
+                "color": "4183c4"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1395890796.000009"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "Wsgi\ub294",
+        "ts": "1395893772.000010"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "Master\uc5d0\uc11c \uc218\uc815\ud558\ub294\uac70\uc57c?",
+        "ts": "1395893787.000011"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc74c \uc65c \ub450 \ube0c\ub79c\uce58\uac00 \ub458 \ub2e4 \ubcf4\uc774\uc9c0 \uc74c",
+        "ts": "1395893823.000012"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "<@U025EC52V>: Master\uc5d0\uc11c\ub3c4 \uae30\ubcf8 \uc138\ud305\uae4c\uc9c0\ub294 \ud574\ub193\uc73c\ub824\uace0 \uc800\ub807\uac8c \ud588\uc5b4\uc694",
+        "ts": "1395899449.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uc544\ub9c8 \uae30\ubcf8 \uc138\ud305\uc774 \ub05d\ub0ac\uc744 \ud14c\ub2c8(?) Master\ub294 \uba48\ucdb0\uc788\uace0 Develop\ub9cc \uc6c0\uc9c1\uc77c\uac70\uc5d0\uc694",
+        "ts": "1395899475.000014"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc74c?",
+        "ts": "1395900098.000015"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uac19\uc740 \ud589\ub3d9\uc744 \ub450 \ube0c\ub79c\uce58\uc5d0\uc11c \ud568?",
+        "ts": "1395900114.000016"
+    },
+    {
+        "type": "message",
+        "user": "U025EC52V",
+        "text": "\uc544\ub2c8\uba74 \ud55c\ucabd\uc5d0\uc11c \ud558\uace0 \uba38\uc9c0\ud568?",
+        "ts": "1395900121.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub7ec\uac8c \uc800\ub7ec\uba74 \ub098\uc911\uc5d0 \ub9c8\uc2a4\ud130\ub791 \ub514\ubca8\ub86d\uc774\ub791 \uba38\uc9c0\ud560\ub54c \ub611\uac19\uc740 \ucf54\ub4dc \ub450\uc904\ub420\ub4ef",
+        "ts": "1395902605.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<@U026A6BEJ> \uadf8\ub9ac\uace0 \uae30\ud6c8\uc544 git username \uc124\uc815\uc880 \ud574\uc8fc\ub77c~",
+        "ts": "1395902844.000019"
+    }
+]

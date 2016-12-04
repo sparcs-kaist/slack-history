@@ -1,0 +1,82 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f91fb06|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f91fb06|f91fb06>: delete\ub97c POST\ub85c \uc218\uc815. \uc0ad\uc81c\ub41c \uae00\uc5d0 \ub313\uae00\uc774 \uc4f8 \uc218 \uc788\uc5c8\ub358 \ubb38\uc81c \ud574\uacb0. - rlaalstn5383",
+                "pretext": "[araplus:board_refactoring] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437816889.000133"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0ab3e8a|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0ab3e8a|0ab3e8a>: \uae00\uc774 \uc5c5\ub370\uc774\ud2b8 \ub420 \uacbd\uc6b0 \uac8c\uc2dc\ubb3c \uc55e\uc5d0 U \ud45c\uc2dc. BoardContent\uc5d0 modified_time - rlaalstn5383",
+                "pretext": "[araplus:board_refactoring] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437836453.000134"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39|#39 \uc77d\uc9c0 \uc54a\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39|#39 \uc77d\uc9c0 \uc54a\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437836467.000135"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39#issuecomment-124852374|#39: \uc77d\uc9c0 \uc54a\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc>",
+                "text": "0ab3e8a91696d3b92c586f8f3e26c417d4cd9fc4",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39#issuecomment-124852374|#39: \uc77d\uc9c0 \uc54a\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc>",
+                "title": "Comment by rlaalstn5383\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437836467.000136"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/0a4f7489b80b...973468df7c54|6 new commits>:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/0a4f7489b80b...973468df7c54|6 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6b07e3fbc3e1|6b07e3fbc3e1>: Modify views and html of article registration. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bc2c1e203e4c|bc2c1e203e4c>: Change url to have coherent name. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b46f9ae4f91e|b46f9ae4f91e>: Override default LOGIN_URL value to approprate url. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/218364734b52|218364734b52>: Create file_handelr jquery plugin. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/85d7a280b4c3|85d7a280b4c3>: Merge pull request #22 from horknox\/dev\/registration - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/973468df7c54|973468df7c54>: Merge branch 'dev\/registration' into develop - chaos",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407583213.000091"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/dc4d6945b4a6...e5fe7fe4b7cd|11 new commits>:",
+                "fallback": "[zabo:dev\/board] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/dc4d6945b4a6...e5fe7fe4b7cd|11 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/6b07e3fbc3e1|6b07e3fbc3e1>: Modify views and html of article registration. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/bc2c1e203e4c|bc2c1e203e4c>: Change url to have coherent name. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/b46f9ae4f91e|b46f9ae4f91e>: Override default LOGIN_URL value to approprate url. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e1b1d6d2da10|e1b1d6d2da10>:  account model \uc218\uc815 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/93cda7869a84|93cda7869a84>: account fixture \uc791\uc131 - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/0a4f7489b80b|0a4f7489b80b>: Merge branch 'dev\/account' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/218364734b52|218364734b52>: Create file_handelr jquery plugin. - elaborate\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/85d7a280b4c3|85d7a280b4c3>: Merge pull request #22 from horknox\/dev\/registration - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/973468df7c54|973468df7c54>: Merge branch 'dev\/registration' into develop - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/816ef78dd1ef|816ef78dd1ef>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e5fe7fe4b7cd|e5fe7fe4b7cd>: board fixture \ucd94\uac00 - chaos",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407595767.000092"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "pretext": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/973468df7c54...e5fe7fe4b7cd|16 new commits>:",
+                "fallback": "[zabo:develop] <https:\/\/github.com\/sparcs-kaist\/zabo\/compare\/973468df7c54...e5fe7fe4b7cd|16 new commits>",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/d38fab6257fc|d38fab6257fc>: change board url - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/1d96b90dca12|1d96b90dca12>: created layout page - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/fcfa3f9cd742|fcfa3f9cd742>: erased search form outline - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/fdd31748b2d4|fdd31748b2d4>: make main page to extend layout - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/36c3d1ad879a|36c3d1ad879a>: make redirection '\/' to '\/main\/' - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e4b558e8a918|e4b558e8a918>: created dropdown category menu - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/77b84388e8f4|77b84388e8f4>: layout height changed to 50px - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/13f4596fa0b2|13f4596fa0b2>: Merge branch 'feat\/layout' into dev\/board - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/18ac7cd081e7|18ac7cd081e7>: category - onionionion\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/197d6eb6a00b|197d6eb6a00b>: Merge pull request #21 from onionionion\/dev\/board - JaeEui Ma\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/4583107e8ac4|4583107e8ac4>: layout height changed to 50px again, added club_info block - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/98c5bb63a011|98c5bb63a011>: Merge branch 'feat\/layout' into dev\/board - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/2a8a142f788f|2a8a142f788f>: club info added - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/dc4d6945b4a6|dc4d6945b4a6>: Merge branch 'feat\/club_page' into dev\/board - coffee\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/816ef78dd1ef|816ef78dd1ef>: Merge branch 'develop' into dev\/board - chaos\n <https:\/\/github.com\/sparcs-kaist\/zabo\/commit\/e5fe7fe4b7cd|e5fe7fe4b7cd>: board fixture \ucd94\uac00 - chaos",
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1407595767.000093"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "fixture\ub97c \ub4dc\ub514\uc5b4 \ucd94\uac00\ud588\uc2b5\ub2c8\ub2e4",
+        "ts": "1407595973.000094"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "develop\uc5d0 \ucd5c\uc2e0 \ubc84\uc804\uc774 \uc788\uace0",
+        "ts": "1407595984.000095"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "python manage.py syncdb\ub97c \ud55c \ud6c4\npython manage.py loaddata test\ub97c \ud558\uba74 \ub9cc\ub4e0 db\uac00 \uc804\ubd80 \ub4e4\uc5b4\uac11\ub2c8\ub2e4",
+        "ts": "1407596000.000096"
+    },
+    {
+        "type": "message",
+        "user": "U024SL5UT",
+        "text": "\uadfc\ub370 \uc9c0\uae08 jpg\uac00 \uc548\ubcf4\uc774\ub294 \ubb38\uc81c\uac00 \uc788\uae34 \ud55c\ub370 \ud574\uacb0\ud574\ubcf4\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1407596021.000097"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc624\ud638",
+        "ts": "1407597795.000098"
+    }
+]

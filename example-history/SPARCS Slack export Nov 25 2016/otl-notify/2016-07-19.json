@@ -1,0 +1,239 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#130 BlockColor model \uc791\uc131' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/130 by kangwon",
+                "text": "issue #110 \uc5d0 \uad00\ub828\ub41c \uc774\uc288\uc785\ub2c8\ub2e4.\n\ntimetable app model.py\uc5d0 \ub4e4\uc5b4\uac00\ub3c4 \uc88b\uaca0\uc9c0\ub9cc, \ud604\uc7ac timetable app\uc774 \uc5c6\ub294 \uad00\uacc4\ub85c session app\uc5d0\ub2e4\uac00 \ub123\uc5b4\ub193\uc744\uac8c\uc694.\n\nuser \uc815\ubcf4\ub77c session app\uc5d0 \ub4e4\uc5b4\uc788\uc5b4\ub3c4 \uc798 \uc5b4\uc6b8\ub9b4\uac70\uc5d0\uc694.",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#130 BlockColor model \uc791\uc131",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/130",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468939036.000002"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Reminder: \ud480\ub9ac\ud018 \ub4c0 24\uc2dc\uac04 \uc804",
+        "ts": "1468940400.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/123|#123 setup test DB> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/123|#123 setup test DB> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940510.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/a67cb05b1ad6...89b68ad9f501|3 new commits> by kangwon and 1 other",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/56438ac7aec869de13a69ac601f573763591f948|56438ac>`  setup test DB - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/87a6672bc412beaa08a39d5c88df4f5a9ca76e16|87a6672>`  BlockColor model \uc791\uc131 - kangwon\n `<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/89b68ad9f50142471aef5718aad65a5a64d8e55a|89b68ad>`  Merge pull request #123 from kangwon\/review - Kim, Jae-Sung",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/tree\/review|[otlplus:review]> <https:\/\/github.com\/sparcs-kaist\/otlplus\/compare\/a67cb05b1ad6...89b68ad9f501|3 new commits> by kangwon and 1 other:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940510.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/130|#130 BlockColor model \uc791\uc131> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/130|#130 BlockColor model \uc791\uc131> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940594.000006"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue re-opened: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/130|#130 BlockColor model \uc791\uc131> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue re-opened: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/130|#130 BlockColor model \uc791\uc131> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940610.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/93|#93 \uc774\ubbf8 \uc88b\uc544\uc694\ub97c \ub204\ub978 \uae00\uc5d0 \ub300\ud55c \ud53c\ub4dc\ubc31> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/93|#93 \uc774\ubbf8 \uc88b\uc544\uc694\ub97c \ub204\ub978 \uae00\uc5d0 \ub300\ud55c \ud53c\ub4dc\ubc31> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940691.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/99|#99 \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \ub9ac\ubdf0 \uc7a5\uace0\uc5c5\uadf8\ub808\uc774\ub4dc> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/99|#99 \uc624\ud2f0\uc5d8\ud50c\ub7ec\uc2a4 \ub9ac\ubdf0 \uc7a5\uace0\uc5c5\uadf8\ub808\uc774\ub4dc> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940698.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/102|#102 \ud3ec\ud0c8 \uc5f0\ub3d9 \uc548\ub418\uc5b4 \uc788\uc744 \ub54c \uc5f0\uacb0 \ud398\uc774\uc9c0 \ub9c1\ud06c text \uc218\uc815> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/102|#102 \ud3ec\ud0c8 \uc5f0\ub3d9 \uc548\ub418\uc5b4 \uc788\uc744 \ub54c \uc5f0\uacb0 \ud398\uc774\uc9c0 \ub9c1\ud06c text \uc218\uc815> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940713.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/91|#91 credit page> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "text": "[sparcs-kaist\/otlplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/91|#91 credit page> by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468940809.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Issue created: '#131 [\ud0c0\uc784\ud14c\uc774\ube14] \ud0c0\uc784\ud14c\uc774\ube14 \ud504\ub860\ud2b8\uc5d4\ub4dc' https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/131 by ashe-sparcs",
+                "text": "\ub514\uc790\uc778\ub3c4 \ubaa8\ub378\ub3c4 \ub098\uc624\uc9c0 \uc54a\uc558\uc9c0\ub9cc \uc6b0\uc120 \ubd80\ud2b8\uc2a4\ud2b8\ub7a9\uc744 \uc368\uc11c \uc55e\ub2e8\uc774\ub77c\ub3c4 \uc9dc\ubd05\uc2dc\ub2e4.\n\n1. \uacfc\ubaa9\ub9ac\uc2a4\ud2b8\n     \uacfc\ubaa9 \ub9ac\uc2a4\ud2b8 \ubcf4\uc5ec\uc8fc\uae30\n     \uac70\uc758 \uadf8\ub300\ub85c \uc720\uc9c0\n     OTL \ud3c9\uade0 \ud3c9\uac00 \uc810\uc218 \uc6b0\uc218\ud55c \uacfc\ubaa9\uc5d0 \ubc43\uc9c0 \ub2ec\uc544\uc8fc\uae30 \uc810\uc218 \ub0ae\uc740 \uacfc\ubaa9\uc740 \uadf8\ub0e5 \ub450\uae30.\n     \uc81c\uc548 : \uacfc\ubaa9 \ub9ac\uc2a4\ud2b8 \uc704\uc5d0\uc11c \ub9c8\uc6b0\uc2a4 \ud720 \ub3cc\ub9ac\uba74 (\ub9ac\uc2a4\ud2b8\uc758) \ub2e4\uc74c \ud398\uc774\uc9c0\ub85c \uc774\ub3d9.\n     *\ubcf4\uc5ec\uc904 \uacfc\ubaa9\uc740 \uc801\ub2f9\ud788 \uba87\uac1c\ub97c \ub123\uc5b4\uc8fc\uc138\uc694. \uc774\ub984\ub9cc \uc788\uc73c\uba74 \ub429\ub2c8\ub2e4. \ud398\uc774\uc9c0\ub124\uc774\uc158\ub3c4 \ud574\uc8fc\uc138\uc694.\n2. \uc2dc\uac04\ud45c\uc640 \ube14\ub85d.\n     \ube14\ub85d \ucd94\uac00 : \ub9ac\uc2a4\ud2b8\uc5d0\uc11c \ud574\ub2f9\ud558\ub294 \uacfc\ubaa9\uc744 \ud074\ub9ad\n     \ube14\ub85d \uc0ad\uc81c : X \ud45c \ud074\ub9ad\n     \uc2dc\uac04\ud45c \ube14\ub85d\uc5d0 X \ud45c \ub123\uae30 : \ub9c8\uc6b0\uc2a4 \uc62c\ub9b4 \uc2dc \ub450 \ube14\ub85d \ubaa8\ub450 \ud558\uc774\ub77c\uc774\ud2b8\ud558\uace0 X \ud45c\ub294 \ub9c8\uc6b0\uc2a4 \uc62c\ub9b0 \ube14\ub85d\uc758 \uc6b0\uce21 \uc0c1\ub2e8\uc5d0\ub9cc\n     *\ub514\ube44\uc5d0 \uc801\uc6a9\ud560 \ud544\uc694\ub294 \uc5c6\uace0 \ub098\ud0c0\ub0ac\ub2e4\uac00 \uc0ac\ub77c\uc9c0\ub294 \uac83\ub9cc \uad6c\ud604\ud574\uc8fc\uc138\uc694.\n3. \uc2dc\uac04\ud45c \uacf5\uc720\n     \uc2dc\uac04\ud45c\uc5d0 \ud574\ub2f9\ud558\ub294 \uc601\uc5ed(\uc2e4\uc81c\ub85c \uc2dc\uac04\ud45c\ub294 \uc5c6\uc9c0\ub9cc)\uc744 \uc774\ubbf8\uc9c0 \ud30c\uc77c\ub85c \uc800\uc7a5\ud558\uae30\/\uc800\uc7a5\ud55c \uc774\ubbf8\uc9c0\ud30c\uc77c SNS\uc5d0 \uc5c5\ub85c\ub4dc \ub4f1\ub4f1\uc744 \ud574\ubd05\uc2dc\ub2e4.\n4. \ucee4\uc2a4\ud140 \uc77c\uc815 \ucd94\uac00\n     \ub514\ube44\uc5d0 \uc800\uc7a5\ub418\uc9c0\ub294 \uc54a\uace0 \ubcf4\uc5ec\uc8fc\uae30\ub9cc \ub418\ub294 \ucee4\uc2a4\ud140 \uc77c\uc815 \ucd94\uac00 \uae30\ub2a5\uc744 \ub123\uc5b4\ubd05\uc2dc\ub2e4.\n5. \uacfc\ubaa9 \ube14\ub85d \ud074\ub9ad\uc2dc \uc0c1\uc138\uc815\ubcf4 \n     \uc0c1\uc138\uc815\ubcf4\ub97c \ub514\ube44\uc5d0\uc11c \ubd88\ub7ec\uc624\uc9c0 \ub9d0\uace0 \uc9c1\uc811 \uc785\ub825\ud574\uc11c \ubcf4\uc5ec\uc8fc\uae30\ub9cc \uac00\ub2a5\ud55c \uc0c1\uc138\uc815\ubcf4 \ubdf0\ub97c \uc9dc\ubd05\uc2dc\ub2e4.\n\n\uc774\uc288\ub97c \uc5ec\ub7ec\uac1c\ub85c \uac01\uc790 \ub098\ub204\uc154\ub3c4 \ub418\uace0 \uc5ec\uae30\uc5d0 \uc5ec\ub7ec\uba85\uc774 assign\ub418\uc5b4\ub3c4 \ub429\ub2c8\ub2e4. \ud480\ub9ac\ud018\ub9cc \ud558\ub098\uc529 \ub0a0\ub824\uc8fc\uc2dc\uba74.",
+                "pretext": "[sparcs-kaist\/otlplus] Issue created by <https:\/\/github.com\/ashe-sparcs|ashe-sparcs>",
+                "title": "#131 [\ud0c0\uc784\ud14c\uc774\ube14] \ud0c0\uc784\ud14c\uc774\ube14 \ud504\ub860\ud2b8\uc5d4\ub4dc",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/issues\/131",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468941614.000012"
+    },
+    {
+        "text": "set up a reminder \u201c@channel: \ud480\ub9ac\ud018 \ub4c0 24\uc2dc\uac04 \uc804\u201d in this channel at midnight every Wednesday, Japan Standard Time.",
+        "type": "message",
+        "subtype": "reminder_add",
+        "user": "U0B6LPVSM",
+        "ts": "1468975891.000005"
+    },
+    {
+        "text": "set up a reminder \u201c@channel: \ud480\ub9ac\ud018 \ub4c0 12\uc2dc\uac04 \uc804\u201d in this channel at noon every Wednesday, Japan Standard Time.",
+        "type": "message",
+        "subtype": "reminder_add",
+        "user": "U0B6LPVSM",
+        "ts": "1468975934.000007"
+    },
+    {
+        "text": "set up a reminder \u201c@channel: \ud480\ub9ac\ud018\uac00 \ub05d\ub0ac\uc2b5\ub2c8\ub2e4 \ucf54\ub4dc \ub9ac\ubdf0\ub97c \uc2dc\uc791\ud574\uc8fc\uc138\uc694\u201d in this channel at midnight every Thursday, Japan Standard Time.",
+        "type": "message",
+        "subtype": "reminder_add",
+        "user": "U0B6LPVSM",
+        "ts": "1468975995.000009"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Reminder: <!channel>: \ud480\ub9ac\ud018 \ub4c0 12\uc2dc\uac04 \uc804",
+        "ts": "1468983600.000011"
+    },
+    {
+        "user": "U02PEJCVA",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468989100.000012"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U02L5U32R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02L5U32R|minggu> has joined the channel",
+        "ts": "1411138723.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02L5U32R",
+        "text": "\uc548\ub155\ud558\uc138\uc694 \uc704\uc758 \uae00\ub4e4\uc744 \uc77d\uc5b4\ubcf4\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+        "ts": "1411141111.000003"
+    },
+    {
+        "user": "U026NDWJW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U026NDWJW|apple> has joined the channel",
+        "ts": "1411179951.000002"
+    }
+]

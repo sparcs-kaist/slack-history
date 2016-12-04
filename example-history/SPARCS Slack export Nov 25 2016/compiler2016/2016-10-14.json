@@ -1,0 +1,280 @@
+[
+    {
+        "user": "U02F86M4W",
+        "text": "<@U02F86M4W|chocho> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476466751.000002"
+    },
+    {
+        "user": "U02F86M4W",
+        "purpose": "CS420 Compiler Design",
+        "text": "<@U02F86M4W|chocho> set the channel purpose: CS420 Compiler Design",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1476466752.000003"
+    },
+    {
+        "user": "U02PEJCVA",
+        "inviter": "U02F86M4W",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476466752.000004"
+    },
+    {
+        "user": "U026NDWJW",
+        "inviter": "U02F86M4W",
+        "text": "<@U026NDWJW|apple> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476466752.000005"
+    },
+    {
+        "user": "U02LDHPL1",
+        "inviter": "U02F86M4W",
+        "text": "<@U02LDHPL1|leejeok> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476466752.000006"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub028\ub0e5&gt;&lt;",
+        "ts": "1476466758.000007"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\ucef4\ud30c\uc77c\ub7ec\ub0e5",
+        "ts": "1476466763.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "&gt;&lt;",
+        "ts": "1476466764.000009"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "&gt;&gt;&lt;",
+        "ts": "1476466770.000010"
+    },
+    {
+        "user": "U02PEJCVA",
+        "topic": "\ucef4\ud30c\uc77c\ub7ec\ub0e5&gt;&lt;",
+        "text": "<@U02PEJCVA|samjo> set the channel topic: \ucef4\ud30c\uc77c\ub7ec\ub0e5&gt;&lt;",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1476466776.000011"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "'\u2019\u2019&gt;&lt;\u2019\u2019'",
+        "ts": "1476466776.000012"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "'\u2019&gt;&lt;\u2019'",
+        "ts": "1476466781.000013"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "'&gt;&lt;'",
+        "ts": "1476466783.000014"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\ubb50\uc9d5",
+        "ts": "1476466786.000015"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub294 \uc0ac\uc2e4 \ud14c\uc2a4\ud2b8 \ub9ce\uc774 \uc548\ud574\ubd24\ub0e5",
+        "ts": "1476466796.000016"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1476466801.000017"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uc77c\ub2e8 \ub0b4\uac00 \uac00\uc9c4\uac78 \uacf5\uc720\ud558\uaca0\uc5b4",
+        "ts": "1476466806.000018"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\u3147\u3153\ub5bb\uac8c \uacf5\uc720\ud558\ub294\uac8c \uac00\uc7a5",
+        "ts": "1476466822.000019"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\ud6a8\uacfc\uc801\uc774\uc9c0",
+        "ts": "1476466825.000020"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub0d0\uc559... \u3160",
+        "ts": "1476466846.000021"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ube44\uacf5\uac1c git",
+        "ts": "1476466850.000022"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "4\uba85 \ucd08\ub300",
+        "ts": "1476466853.000023"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\ud638\uc639",
+        "ts": "1476466862.000024"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud559\uc0dd \ud06c\ub808\ub527 \uc788\uc73c\uba74 \ub9cc\ub4e4 \uc218 \uc788\ub0e5!",
+        "ts": "1476466868.000025"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uc788\ub0e5!",
+        "ts": "1476466873.000026"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\ub098 \uc788\ub0e5!",
+        "ts": "1476466876.000027"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "a1sams1a",
+        "ts": "1476466882.000028"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc624\ub298\uc740 SBSE\ud558\uace0",
+        "ts": "1476466916.000029"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc790\uace0 \uc77c\uc5b4\ub098\uc11c \ucef4\ud30c\uc77c\ub7ec \ub2e4\uc2dc \ubcfc\uac8c\uc5ec",
+        "ts": "1476466924.000030"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\ubc29\uae08 \uad6c\uae00\ub9c1\uc744 \ud574\ubcf4\ub2c8",
+        "ts": "1476467004.000031"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uc9c0\ud601\uc624\ube60\uaebc \uc788\ub139",
+        "ts": "1476467009.000032"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "<https:\/\/github.com\/jhnaldo\/mini-c-compiler\/tree\/master\/test_inputs>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "jhnaldo\/mini-c-compiler",
+                "title_link": "https:\/\/github.com\/jhnaldo\/mini-c-compiler\/tree\/master\/test_inputs",
+                "text": "mini-c-compiler - compiler of mini-c",
+                "fallback": "GitHub: jhnaldo\/mini-c-compiler",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/6766660?v=3&s=400",
+                "from_url": "https:\/\/github.com\/jhnaldo\/mini-c-compiler\/tree\/master\/test_inputs",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476467010.000033"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uadf8\ub098\uc800\ub098 \ud30c\uc774\uc36c \uc9f1\uc9f1\ub9e8!",
+        "ts": "1476467022.000034"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub0e5&gt;&lt;",
+        "ts": "1476467508.000035"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc27d\ub0e5&gt;&lt;",
+        "ts": "1476467510.000036"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uac13\uac13",
+        "ts": "1476510141.000038"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc774\ub7f0 \uccb4\ub110\uc774 \uc788\ub2e4\ub2dd",
+        "ts": "1476510148.000039"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc544 \uc5ec\uae30\ub294 \ub0e5\uccb4\ub85c \uc368\uc57c\ub418\ub0e5",
+        "ts": "1476510157.000040"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ubab0\ub790\ub0e5 \u3160",
+        "ts": "1476510165.000041"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<https:\/\/github.com\/a1sams1a\/cs420-testcase>",
+        "ts": "1476513277.000046"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud14c\uc2a4\ud2b8\ucf00\uc774\uc2a4 \uacf5\uc720 repo\ub0e5!",
+        "ts": "1476513282.000047"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ucd08\ub300\ud588\ub0e5&gt;&lt;",
+        "ts": "1476513284.000048"
+    }
+]

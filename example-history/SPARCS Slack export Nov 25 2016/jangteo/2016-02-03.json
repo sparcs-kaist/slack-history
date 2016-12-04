@@ -1,0 +1,867 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc774\uac70 \uac1c\ubc1c\uc740 fork\ud574\uc11c PR \ub0a0\ub9ac\ub294\uac78\ub85c \ud574\uc57c \ud558\ub098\uc694?",
+        "ts": "1454491427.001556"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud3ec\ud06c \uadc0\ucc2e\uc73c\ub2c8",
+        "ts": "1454494617.001557"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "samjo\ube0c\ub79c\uce58\ub97c \ub9cc\ub4e4\uace0",
+        "ts": "1454494625.001558"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac19\uc740\ub9ac\ud3ec\uc5d0\uc11c",
+        "ts": "1454494630.001559"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "samjo to develop\ub85c \ubbf8\ub294\uac78\ub85c \ud569\uc2dc\ub2e4",
+        "ts": "1454494640.001560"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uadf8\ub7fc \uac1c\ubc1c\uc790\ub4e4\ub3c4 \ub2e4\ub978 \uac1c\ubc1c\uc790\ub4e4\uc758 \ub0b4\uc6a9\uc744",
+        "ts": "1454494661.001561"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc218\uc2dc\ub85c develop\ub85c ff\ud560 \uc218 \uc788\uaca0\uc8e0",
+        "ts": "1454494671.001562"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc5ec\uae30\uc11c\uc758 \ubb38\uc81c\ub294 \uba38\uc9c0\uac00 \uc544\ub9c8 ff\uac00 \uc544\ub2c8\uace0 \uba38\uc9c0\ucee4\ubc0b\uc774 \ub420\ud150\ub370",
+        "ts": "1454494707.001563"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub098\ub984 \ucee4\ubc0b\uc758 \ub2e8\uc704\ub97c \ub098\ub204\ub294 \uae30\uc900\uc73c\ub85c \ubcfc \uc218 \uc788\uc5b4\uc11c \ub098\uc058\ub2e4\uace0\ub9cc\uc740 \ubcfc \uc218 \uc5c6\uc744\uac70\uac19\uc544\uc694",
+        "ts": "1454494732.001564"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "** tong\uc5d0 docker \uc124\uce58\ud574\ub193\uc558\uc2b5\ub2c8\ub2f9. \uc0ac\uc6a9\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4 **",
+        "ts": "1454495390.001565"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<@U024U2P7Y>:",
+        "ts": "1454495394.001566"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ube0c\ub79c\uce58-&gt;PR\uc815\ub3c4?",
+        "ts": "1454498744.001567"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\u3147\u3147\uadf8\uac70\ub9d0\ud55c\uac70\uc784",
+        "ts": "1454500816.001568"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/106728869|#12> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/e9a12a9a064b|e9a12a9>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo failed in 4 min 1 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/106728869|#12> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/e9a12a9a064b|e9a12a9>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo failed in 4 min 1 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454505096.001569"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc0d8\uc870\uc528?",
+        "ts": "1454510230.001570"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "API_BASE_URL",
+        "ts": "1454510295.001571"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uac00 \uc8fc \ubb38\uc81c\uac19\uace0",
+        "ts": "1454510298.001572"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "camelcase\ub294 \uc124\ub9c8 \uacbd\uace0\uac00 \uc544\ub2c8\uace0 \uc5d0\ub7ec\ub85c \ucde8\uae09\ud558\ub098",
+        "ts": "1454510309.001573"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub3c4\ucee4\ub3c4",
+        "ts": "1454510327.001574"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc4f0\ub294\uad6c\ub098",
+        "ts": "1454510331.001575"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc5b4.... mocha fail\uc774 \ubb38\uc81c\uac00 \uc544\ub2c8\uc5c8\uad6c\ub098...",
+        "ts": "1454512289.001576"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/106761337|#13> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/e9a12a9a064b...61c95805b2a2|61c9580>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo failed in 3 min 55 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/106761337|#13> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/e9a12a9a064b...61c95805b2a2|61c9580>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo failed in 3 min 55 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454513555.001577"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "request\ub97c package.json? \uc5d0 \ucd94\uac00\ud574\uc57c \ud558\ub294\uac70 \uac19\uc740\ub370",
+        "ts": "1454513608.001578"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc5b4\ub5bb\uac8c \ud574\uc57c \ud558\ub098\uc694?",
+        "ts": "1454513611.001579"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud3ec\ub9f7\uc744",
+        "ts": "1454513737.001580"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubb3b\ub294\uac74\uac00",
+        "ts": "1454513738.001581"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "pip freeze &gt; requirements.txt \uc758 nodejs \ubc84\uc804\uc774\uc694",
+        "ts": "1454513855.001582"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uadf8\ub7f0\uac70",
+        "ts": "1454514068.001583"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5c6\uc9c0\uc54a\ub098..",
+        "ts": "1454514071.001584"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc800\ub294 \ubab0\ub77c\uc694&gt;&lt;",
+        "ts": "1454514295.001585"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc774\ub798\uc11c",
+        "ts": "1454514410.001586"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud30c\uc774\uc36c\uc744 \uc368\uc57c..",
+        "ts": "1454514413.001587"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub610\uace0...",
+        "ts": "1454514696.001588"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "npm install\ud560\ub54c --save \uc635\uc158\uc744 \uc8fc\uba74 \ub420\uac78..?",
+        "ts": "1454518864.001589"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uac13 \ucd08\ucd08...",
+        "ts": "1454553243.001590"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uac13\ucd08\uac13\ucd08",
+        "ts": "1454553246.001591"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud06c...",
+        "ts": "1454553248.001592"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uac13\ud30d\uc2a4 \u3137",
+        "ts": "1454553252.001593"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "npm install [something] --save",
+        "ts": "1454553267.001594"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc81c\ubc1c \uc774\ubc88\uc5d0\ub294 \ud14c\uc2a4\ud2b8\uac00 \uc798 \uc2e4\ud328\ud574\uc57c \ud558\ub294\ub370...",
+        "ts": "1454553302.001595"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "?_?",
+        "ts": "1454553384.001596"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ub85c\uadf8\uc778 \uc815\ubcf4 \uac00\uc838\uc624\ub294\uac70 \uc5b4\ub5bb\uac8c \ud14c\uc2a4\ud2b8\ud574\uc57c \ud560\uc9c0 \ub2f5\uc774 \uc5c6\uc5b4\uc11c",
+        "ts": "1454553404.001597"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc77c\ub2e8 \ubb34\uc870\uac74 fail\ud558\uac8c \ub9cc\ub4e4\uc5b4\ub193\uc740 \ud14c\uc2a4\ud2b8\uac00 \uc788\uc5b4\uc5ec",
+        "ts": "1454553413.001598"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "mocha \ud14c\uc2a4\ud2b8 \uc791\uc131\uc774\ub77c\ub3c4 \ud568?",
+        "ts": "1454553425.001599"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\ud55c\ubc88 \ud574\ubd24\uc5b4\uc5ec",
+        "ts": "1454553431.001600"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u314e\u3147\u314e",
+        "ts": "1454553434.001601"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc758\ubbf8\uc5c6\ub294 \ud14c\uc2a4\ud2b8\uc9c0\ub9cc...",
+        "ts": "1454553437.001602"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc2e0\ud0dd\uc2a4 \uc874\ub098 \uc6c3\uae30\uc9c0 \uc54a\ub0d0",
+        "ts": "1454553439.001603"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "&gt;&gt;&lt;",
+        "ts": "1454553451.001604"
+    },
+    {
+        "text": "",
+        "bot_id": "B0KS48F3P",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/106893849|#14> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/61c95805b2a2...6288a77d7854|6288a77>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo failed in 3 min 21 sec",
+                "text": "Build <https:\/\/travis-ci.org\/sparcs-kaist\/jangteo-api\/builds\/106893849|#14> (<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/compare\/61c95805b2a2...6288a77d7854|6288a77>) of sparcs-kaist\/jangteo-api@samjo by Sam Jo failed in 3 min 21 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1454553492.001605"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc624 \uc131\uacf5\uc774\ub2e4!",
+        "ts": "1454553507.001606"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc124\ub9c8 \ub9c8\uc2a4\ud130\uc5d0 \ud478\uc2dc\ub97c?",
+        "ts": "1454553548.001607"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314f\uc544\ub2c8\uad70",
+        "ts": "1454553563.001608"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uacc4\uc18d samjo\uc5d0 \ud558\uace0 \uc788\uc5b4\uc694",
+        "ts": "1454553564.001609"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "good",
+        "ts": "1454553566.001610"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ubaa8\ub378 \uc791\uc131\ud560 \ub54c",
+        "ts": "1454557597.001611"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "model-config.json\uc744 \uac74\ub4dc\ub9ac\ub294\uac74\uac00\uc5ec",
+        "ts": "1454557603.001612"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<http:\/\/frientrip.github.io|frientrip.github.io>",
+        "ts": "1454563204.001613"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uac04\ub2e8\ud55c \ud29c\ud1a0\ub9ac\uc54c\uc774 \uc900\ube44\ub418\uc5b4\uc788\uc2b4\ub2e4",
+        "ts": "1454563210.001614"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U04HUN944>:",
+        "ts": "1454563214.001615"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc640\uc6b0",
+        "ts": "1454563215.001616"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uac13\uc11d\ucbb8",
+        "ts": "1454563219.001617"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ucc28\ub0e5\ud574",
+        "ts": "1454563220.001618"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc8fc\ub9d0\uc5d0 \ube61\uacf5\ud560\uac8c\uc5fc",
+        "ts": "1454563223.001619"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc8fc\ub9d0===\uc124\ub0a0?",
+        "ts": "1454563237.001620"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uceac === \ubcf4\uc18c",
+        "ts": "1454563243.001621"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc774\ubd84 \ud504\ub860\ud2b8 \uc7a5\uc778 \ub418\uc168\ub124",
+        "ts": "1454563247.001622"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "JS\ub9c8\uc2a4\ud130\ub124",
+        "ts": "1454563252.001623"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud504\ub860\ud2b8\ub294 \ubaac\ud558\ub294\ub370 \u315c\u315c",
+        "ts": "1454563257.001624"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud504\ub860\ud2b8 \ub9d0\uace0 JS\ub85c \ud558\uc8e0",
+        "ts": "1454563263.001625"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "JS\ub9c8\uc2a4\ud130",
+        "ts": "1454563266.001626"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "JSJS === \u2018JavaScript Jonjal Suckzoo'",
+        "ts": "1454563300.001627"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "pypy\uc2a4\ub7fd\ub2e4",
+        "ts": "1454563310.001628"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc758\ub3c4\ud588\uc9c0",
+        "ts": "1454563314.001629",
+        "reactions": [
+            {
+                "name": "octocat",
+                "users": [
+                    "U024U2P7Y",
+                    "U02PEJCVA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "1 \uc625\ud1a0\ucea3 \ub4dc\ub9bd\ub2c8\ub2e4",
+        "ts": "1454563456.001630"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u314b\u314b\u314b",
+        "ts": "1454563465.001631"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc625\ud1a0\ucea3 \ud558\ub2c8\uae4c",
+        "ts": "1454563536.001632"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc7e4\ub97c \ub9e8\ub0a0 \uc2e4\ub8e8\uc5e3\ub85c\ub9cc \ubd10\uc11c \ucca8\uc5d4 \uadf8\ub0e5 \uace0\uc591\uc778\uc904 \uc54c\uc558\ub294\ub370",
+        "ts": "1454563549.001633"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubb38\uc5b4+\uace0\uc591\uc774\uc784",
+        "ts": "1454563554.001634"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc625\ud1a0\ucea3\uc774\ub77c\uae38\ub798 \ubb54 \uadf8\ub7f0 \ubcd1\uc2e0\uac19\uc740",
+        "ts": "1454563556.001635"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc625\ud1a0\ud37c\uc2a4+\ucea3=\uc625\ud1a0\ucea3",
+        "ts": "1454563559.001636"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3147\u3147 \uc54c\uc9c0",
+        "ts": "1454563563.001637"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadfc\ub370 \uae43\ud5d9 \uc0ac\uc774\ud2b8\ub098 \uadf8\ub7f0\ub370\ub294 \uc2e4\ub8e8\uc5e3\ubc16\uc5d0 \uc5c6\uc5b4\uc11c",
+        "ts": "1454563574.001638"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314b\u314b",
+        "ts": "1454563580.001639"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3147\u3147",
+        "ts": "1454563580.001640"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc67c\ucabd \uc800 \ubd80\ubd84\uc774 \uaf2c\ub9b0\uc904",
+        "ts": "1454563581.001641"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc54c\uc558\uc9c0",
+        "ts": "1454563583.001642"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uadfc\ub370 \ubb38\uc5b4\ub2e4\ub9ac\uc600\uc74c",
+        "ts": "1454563587.001643"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314b\u314b\u314b\u314b",
+        "ts": "1454563587.001644"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u314b\u314b\u314b",
+        "ts": "1454563588.001645"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ube0c\ub79c\uce58\ub85c",
+        "ts": "1454563593.001646"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ubb38\uc5b4\ubc1c\uc744 \ub9cc\ub4e4\uc5b4\ub77c",
+        "ts": "1454563595.001647"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub77c\ub294 \ub73b",
+        "ts": "1454563595.001648"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3147\u314e",
+        "ts": "1454563597.001649"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "(\ub0a9\ub4dd)",
+        "ts": "1454563604.001650"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc0bc\uc131\uc740 \ube0c\ub79c\uce58\ub85c \ubb38\uc5b4\ubc1c\uc2dd \uc0ac\uc5c5\uc744 \ud558\ub2c8\uae4c",
+        "ts": "1454563609.001651"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc0bc\uc131\ub85c\uace0\ub3c4",
+        "ts": "1454563611.001652"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc625\uc0bc\uc131\uc73c\ub85c \ubc14\uafd4\uc57c\uaca0\ub124",
+        "ts": "1454563616.001653"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc0bc\uc131\uc815\ub3c4\ub85c \uc548\ub418\uc9c0\uc694",
+        "ts": "1454563622.001654"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud314\uc131 \uad6c\uc131 \ud574\uc57c\uc9c0\uc694",
+        "ts": "1454563625.001655"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud06c...",
+        "ts": "1454563629.001656"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "Octosung",
+        "ts": "1454563632.001657"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "OS...",
+        "ts": "1454563639.001658"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3145\u3142",
+        "ts": "1454563643.001659"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u314b\u314b\u314b",
+        "ts": "1454563649.001660"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544",
+        "ts": "1454563654.001661"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ube68\ub9ac OS \ub4e3\uace0 \uc878\uc5c5\ud574\uc57c\uc9c0",
+        "ts": "1454563657.001662"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc544 OS \ub450\ub835\ub2e4",
+        "ts": "1454563659.001663"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc660\uc9c0 \uc774\ubc88\uc5d0\ub3c4 \ud0c8\uc8fc\uac01\uc77c\uac70 \uac19\uad70",
+        "ts": "1454563667.001664"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3132\u3132\u3132\u3132",
+        "ts": "1454563671.001665"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uac8c\ub2e4\uac00 \uc774\uc820 \ub4dc\ub78d\uc774 7\uc8fc\uae4c\uc9c0 \ub418\ub2c8",
+        "ts": "1454563694.001666"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "w\ub294 \uc0ac\ub77c\uc9c0\uc9c0 \uc54a\ub294\uac74\uac00",
+        "ts": "1454563704.001667"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "wwwwwwwwww",
+        "ts": "1454563822.001668"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc0ac\uc2e4 \uc131\uc801\ud45c\uc5d0 w\ub294",
+        "ts": "1454563829.001669"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ube44\uc6c3\ub294\uac70\uc784",
+        "ts": "1454563830.001670"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "OS wwww",
+        "ts": "1454563830.001671"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc77c\ubcf8\uc2dd\uc73c\ub85c",
+        "ts": "1454563833.001672"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "wwwwwwwww",
+        "ts": "1454563835.001673"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc54e",
+        "ts": "1454563836.001674"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u314b\u314b",
+        "ts": "1454563837.001675"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "(\uc47b)",
+        "ts": "1454563837.001676"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "OS wwwwww",
+        "ts": "1454563846.001677"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u7b11",
+        "ts": "1454563850.001678"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "OS wwwwwwwww",
+        "ts": "1454563854.001679"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "OS\uac00 \ub098\ub97c \ube44\uc6c3\ub294\uad70",
+        "ts": "1454563855.001680"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud6d7 \ub108\ub530\uc704\uac00 \uac10\ud788 \ud540\ud1a0\uc2a4\ub97c \ud558\uaca0\ub2e4\uace0?",
+        "ts": "1454563864.001681"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u315c\u315c",
+        "ts": "1454563867.001682"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud540\uc1a1\ud569\ub2c8\ub2e4",
+        "ts": "1454563869.001683"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u315c\u315c",
+        "ts": "1454563870.001684"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud540\ud1a0\uc2a4: wwwwwww",
+        "ts": "1454563873.001685"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uae40\ud0dc\uacb8: wwwwwww",
+        "ts": "1454563877.001686"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uac19\uc740 w\uc778\ub370",
+        "ts": "1454563880.001687"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ub2e4\ub978 \uc758\ubbf8",
+        "ts": "1454563882.001688"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1454563889.001689"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc0bc\ub77c\ub9cc\uc0c1\uc774 \ub2f4\uaca8\uc788\uc9c0...",
+        "ts": "1454563906.001690"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2e4\uc2dc \uc77c\ud558\ub7ec \uac11\ub2c8\ub2e4",
+        "ts": "1454563968.001691"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3142\u3142",
+        "ts": "1454563969.001692"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3142\u3142",
+        "ts": "1454563974.001693"
+    }
+]

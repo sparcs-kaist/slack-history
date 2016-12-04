@@ -1,0 +1,252 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/7ecfc4a23b08...2b3ce5a678eb|3 new commits> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c1de0f4|c1de0f4>: \uad8c\ud55c \uc5c6\ub294 \uc0ac\uc6a9\uc790\uac00 \ub313\uae00 \uc218\uc815 \uc2dc\ub3c4 \ud560 \uc2dc\uc5d0 \ub418\ub3cc\ub9ac\ub3c4\ub85d \ud568 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4cf1271|4cf1271>: boardcontent\uc758 *str*funtion \uc5d0\uc11c 3\ubc88 \uc9f8 \ucf58\ud150\uce20\ub97c 2nd\ub85c \ud45c\ud604\ud558\ub358 \ubb38\uc81c \ud574\uacb0 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b3ce5a|2b3ce5a>: Merge branch 'template_decorate' into board - ktk1012",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/7ecfc4a23b08...2b3ce5a678eb|3 new commits> by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436083360.000093"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/587af4d|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/587af4d|587af4d>: \ub313\uae00\uc758 Down \ubc84\ud2bc\uc758 id\uac00 up\uc73c\ub85c \ub418\uc5b4\uc788\uc5b4 internal error\uac00 \ubc1c\uc0dd\ud558\ub358 \ubb38\uc81c \uc218\uc815 - ktk1012",
+                "pretext": "[araplus:board] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436085349.000094"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f409db2|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f409db2|f409db2>: up\/down \ud45c\uc2dc \uad6c\ud604 - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436102275.000095"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d7831be|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d7831be|d7831be>: up\/down \ud45c\uc2dc \uad6c\ud604, BoardContent\uc5d0 get_vote method \ucd94\uac00 - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436103335.000096"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2930978|1 new commit> by suckzoo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2930978|2930978>: board list page added - suckzoo",
+                "pretext": "[araplus:board] 1 new commit by suckzoo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436112128.000097"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/1|#1 Apps\/Session register, login, logout \uae30\ub2a5 \uad6c\ud604> by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "text": "[sparcs-kaist\/araplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/1|#1 Apps\/Session register, login, logout \uae30\ub2a5 \uad6c\ud604> by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436116721.000098"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/836fb47ffa4a...ad301a3f7bd0|11 new commits> by Shavakan and 1 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6da39b7|6da39b7>: created model UserProfile and Message - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/db94299|db94299>: Implemented login and logout function - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/16a6e8e|16a6e8e>: implemented registration with Django default user model - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/eabaef9|eabaef9>: applied UserProfile model to register - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/23a24ad|23a24ad>: Merge branch 'apps\/session' of <https:\/\/github.com\/mightydeveloper\/araplus> into apps\/session - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/29d733f|29d733f>: Created base.html - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d45f623|d45f623>: Merge branch 'apps\/session' of <git:\/\/github.com\/mightydeveloper\/araplus> into mightydeveloper-apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2079283|2079283>: Merge branch 'mightydeveloper-apps\/session' into apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6e2ef50|6e2ef50>: Merge branch 'master' into apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/db83b79|db83b79>: fixed indentations resolved as tab, respected pep8 - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ad301a3|ad301a3>: added nickname to userprofile model - Shavakan",
+                "pretext": "[araplus:apps\/session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/836fb47ffa4a...ad301a3f7bd0|11 new commits> by Shavakan and 1 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436116721.000099"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:master] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b70e73c|1 new commit> by Shavakan",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b70e73c|b70e73c>: added pyflakes and its dependencies to requirements.txt - Shavakan",
+                "pretext": "[araplus:master] 1 new commit by Shavakan:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436117268.000100"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b162825|1 new commit> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b162825|b162825>: display the typeable length - storykim",
+                "pretext": "[araplus:grill] 1 new commit by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436150143.000101"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:master] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/72a9a3c|1 new commit> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/72a9a3c|72a9a3c>: fixed typo in templates\/base.html - zazang",
+                "pretext": "[araplus:master] 1 new commit by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436163612.000102"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|develop> was branched from \"master\" and pushed by Shavakan",
+                "text": "[sparcssso] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/develop|develop> was branched from \"master\" and pushed by Shavakan",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436164482.000103"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc798 \ubd99\uc5c8\uad70",
+        "ts": "1436164505.000104"
+    },
+    {
+        "type": "message",
+        "user": "U071EU7B3",
+        "text": "\uc2dc\ubb34\ub8e9",
+        "ts": "1436164818.000105"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9cedf6c|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9cedf6c|9cedf6c>: \ucd94\ucc9c\/\ubc18\ub300 \ucde8\uc18c \ucd94\uac00 - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436164847.000106"
+    }
+]

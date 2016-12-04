@@ -1,0 +1,28 @@
+[
+    {
+        "text": "",
+        "bot_id": "B2CUEGH98",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/server|[heartbeat:server]> <https:\/\/github.com\/sparcs-kaist\/heartbeat\/compare\/eee3c3fa3963...cb3f46eb78f1|2 new commits> by Jeong Woon Choi",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/1720e0840a8e14552791560f3002c4158d08bebc|1720e08>`  core: fix wrong model fields - Jeong Woon Choi\n `<https:\/\/github.com\/sparcs-kaist\/heartbeat\/commit\/cb3f46eb78f15a7942b6948976e01a7743b52bb8|cb3f46e>`  Merge branch 'server' of <https:\/\/github.com\/sparcs-kaist\/heartbeat> into server - Jeong Woon Choi",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/heartbeat\/tree\/server|[heartbeat:server]> <https:\/\/github.com\/sparcs-kaist\/heartbeat\/compare\/eee3c3fa3963...cb3f46eb78f1|2 new commits> by Jeong Woon Choi:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1476469277.000002"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "api update\ud574\ub2f9\ud558\ub294 view\ub294 \uc870\ub9cc\uac04 \ucee4\ubc0b\ud558\ub3c4\ub85d \ud560\uac8c\uc694. \ubc18\uc815\ub3c4 \ub9cc\ub4e4\uc5c8\uc5b4\uc694",
+        "ts": "1476469597.000003"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNE2E|kuss> has joined the channel",
+        "ts": "1390273602.000002"
+    },
+    {
+        "user": "U024SNE2E",
+        "purpose": "\uac1c\ubc1c \ubed8\uc18c\ub9ac \uba58\ubd95",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U024SNE2E|kuss> set the channel purpose: \uac1c\ubc1c \ubed8\uc18c\ub9ac \uba58\ubd95",
+        "ts": "1390273603.000003"
+    },
+    {
+        "user": "U024SHLFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SHLFH|hodduc> has joined the channel",
+        "ts": "1390275756.000004"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U0251JXSR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0251JXSR|coffee> has joined the channel",
+        "ts": "1406988395.000002"
+    },
+    {
+        "user": "U0251JXSR",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U0251JXSR|coffee> has left the channel",
+        "ts": "1406988459.000003"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024U2P7Y|suckzo_o> has left the channel",
+        "ts": "1406988498.000004"
+    }
+]

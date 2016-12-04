@@ -1,0 +1,469 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/main|main>\" was pushed by Shavakan",
+                "text": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/main|main>\" was pushed by Shavakan",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436943857.000046"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/16d31c50e8df...11c4346ea411|48 new commits> by story and 4 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5da815a|5da815a>: make models &amp; some steps on view.py,urls.py and templates - story\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/bf3766a|bf3766a>: \uadf8\ub9b4 \ubaa9\ub85d\uc870\ud68c \ubc0f \uc0c8 \uadf8\ub9b4 \uc791\uc131 - story\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2669b8a|2669b8a>: \ud544\uc694\uc5c6\ub294 \uc8fc\uc11d \uc81c\uac70 - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/32d43c4|32d43c4>: display grill's information on each grill's webpage - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b41e7bb|b41e7bb>: recognize tags in each comments with some problems - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c5a945a|c5a945a>: change tag recognization - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96638c6|96638c6>: PEP coding convention - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8c39c9d|8c39c9d>: add comment with ajax - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/438e790|438e790>: add proper id to comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/232f639|232f639>: delete db - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/135196b|135196b>: implement real time updating - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b48a94a|b48a94a>: change the max length of comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e634574|e634574>: apply foreign key on GrillComment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/310b708|310b708>: timer reset when new comment added - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2683ee1|2683ee1>: add GrillCommentVote model without userprofile - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8a172f6|8a172f6>: add user referencing - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e110f19|e110f19>: implement vote_up with real time update!!! - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0c4914b|0c4914b>: bug fix: attach event handler to dynamic objects - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b162825|b162825>: display the typeable length - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5ee1b93|5ee1b93>: add css &amp; some design - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f8039c0|f8039c0>: upload missing files - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/fa44c4c|fa44c4c>: refresh with css - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6dc96b1|6dc96b1>: grill_refresher.js unnecessary comment remove - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8d05549|8d05549>: Merge branch 'session' into master branch - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/de5df40|de5df40>: user.author changed to user.author.nickname and user login resolved - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e769255|e769255>: user.author changed to user.author.nickname and user login resolved real - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/efc7e5d|efc7e5d>: grill content represent and grill comment highlight - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cefd84c|cefd84c>: #12 : prevent XSS by replacing &lt;, &gt;, &amp; - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/437e889|437e889>: user.author changed to user.author.nickname and user login resolved real - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/1f96f7a|1f96f7a>: Merge branch 'develop' into grill - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/1f87e48|1f87e48>: grill content represent and grill comment highlight - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8240194|8240194>: #12 : prevent XSS by replacing &lt;,&gt;,&amp; - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/1e9ffef|1e9ffef>: Merge branch 'grill_rebase_resolved' into grill - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/82b52b6|82b52b6>: #10 : Refresh With WEBSOCKET(should apply to vote up &amp; down, too) - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/fa55da9|fa55da9>: \uccab \ucf54\uba58\ud2b8 \uac00\uae30 \ubc84\ud2bc \ucd94\uac00 &amp; \ucf54\uba58\ud2b8 \uc2a4\ud06c\ub864 \uae30\ub2a5 \ucd94\uac00 - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/57c3ceb|57c3ceb>: display current typing text length - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/48977b6|48977b6>: \ubc18\ub300 \uc5f4\uae30 \uae30\ub2a5 \uad6c\ud604 - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d277a07|d277a07>: Merge branch 'grill' of <https:\/\/github.com\/sparcs-kaist\/araplus> into websocket - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/08ac1d0|08ac1d0>: minor bug fix : there was no vote_down button on new comments - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d80fb25|d80fb25>: add some annotations - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e88d137|e88d137>: Merge branch 'develop' into grill - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/03ad165|03ad165>: login required with session - TaeHyun\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8c983e1|8c983e1>: startapp main - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/52b1565|52b1565>: formatting improved for readability, no changes to functionality - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/fc1736e|fc1736e>: created &amp; revised main page w\/ links to other apps - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d1bc31|0d1bc31>: created empty credits page - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aeccf8d|aeccf8d>: removed 'apps\/main' from settings: no models used - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/11c4346|11c4346>: Merge branch 'main' into develop - Shavakan",
+                "pretext": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/16d31c50e8df...11c4346ea411|48 new commits> by story and 4 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436944374.000047"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/8c92fa31d091...c55a3d3dcf4a|2 new commits> by Young Seok Tony Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/fb99abd|fb99abd>: added Group class - Young Seok Tony Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c55a3d3|c55a3d3>: implemented unblock - Young Seok Tony Kim",
+                "pretext": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/8c92fa31d091...c55a3d3dcf4a|2 new commits> by Young Seok Tony Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436947122.000048"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/32#issuecomment-121522556|#32: (session\/message) Message Block \ucde8\uc18c> (assigned to <https:\/\/github.com\/mightydeveloper|mightydeveloper>)",
+                "text": "c55a3d3dcf4a0820757ae00b8b5f2be3cf2ed7b7\n\ub530\ub85c \uba54\uc2dc\uc9c0 block\uc744 \ucde8\uc18c\ud558\ub294 \ud398\uc774\uc9c0\ub97c \ub9cc\ub4e4\uc9c0 \uc54a\uace0 block list\ub97c \ubcf4\ub294 \ud398\uc774\uc9c0\uc5d0\uc11c \ube14\ub77d\uc744 \uc5c6\uc560\ub294 \ubc84\ud2bc\uc744 \ub9cc\ub4e4\uc5c8\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/32#issuecomment-121522556|#32: (session\/message) Message Block \ucde8\uc18c> (assigned to <https:\/\/github.com\/mightydeveloper|mightydeveloper>)",
+                "title": "Comment by mightydeveloper\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436947231.000049"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/32|#32 (session\/message) Message Block \ucde8\uc18c> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/32|#32 (session\/message) Message Block \ucde8\uc18c> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436947240.000050"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/33#issuecomment-121522651|#33: \ub0b4\uac00 Block\ud55c \uc0ac\ub78c\ub4e4\uc758 \ub9ac\uc2a4\ud2b8\ub97c \ubcf4\uc5ec\uc8fc\uae30> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "text": "c55a3d3dcf4a0820757ae00b8b5f2be3cf2ed7b7\n\ub9ac\uc2a4\ud2b8\uc5d0\uc11c Block\ub4e4\uc744 \uc0ad\uc81c\ud560 \uc218 \uc788\uac8c \ud558\uc600\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/33#issuecomment-121522651|#33: \ub0b4\uac00 Block\ud55c \uc0ac\ub78c\ub4e4\uc758 \ub9ac\uc2a4\ud2b8\ub97c \ubcf4\uc5ec\uc8fc\uae30> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "title": "Comment by mightydeveloper\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436947272.000051"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/c55a3d3dcf4a...f6f339c4e116|2 new commits> by Young Seok Tony Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/33bb9ba|33bb9ba>: Edited URL naming - Young Seok Tony Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f6f339c|f6f339c>: PEP8 Edit - Young Seok Tony Kim",
+                "pretext": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/c55a3d3dcf4a...f6f339c4e116|2 new commits> by Young Seok Tony Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436947756.000052"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso] New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/oauth|oauth>\" was pushed by StoryKim",
+                "text": "[sparcssso] New branch \"<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/oauth|oauth>\" was pushed by StoryKim",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436948288.000053"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a804d88|1 new commit> by Young Seok Tony Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a804d88|a804d88>: message\ub97c \uc791\uc131\ud558\uac70\ub098 block\uc744 \ud55c \ud6c4 \uae30\uc874 \ud398\uc774\uc9c0\uc5d0 \uc788\ub3c4\ub85d \ud568. - Young Seok Tony Kim",
+                "pretext": "[araplus:message] 1 new commit by Young Seok Tony Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436948815.000054"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/5|#5 OAuth Provider> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/5|#5 OAuth Provider> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436949052.000055"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/5#issuecomment-121528129|#5: OAuth Provider> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "text": "araplus \uc571\uc744 \ub4f1\ub85d\ud568\uc73c\ub85c\uc368 \uc774\uc81c \ud1a0\ud070\uc744 \ubc1b\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/5#issuecomment-121528129|#5: OAuth Provider> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "title": "Comment by StoryKim\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436949053.000056"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9a7cdc2|1 new commit> by Young Seok Tony Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9a7cdc2|9a7cdc2>: Fixed issue #27. - Young Seok Tony Kim",
+                "pretext": "[araplus:message] 1 new commit by Young Seok Tony Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436949859.000057"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/27#issuecomment-121532842|#27: (session) \ub85c\uadf8\uc778\ub41c \uc0c1\ud0dc\uc5d0\uc11c \/session\/login \uc811\uadfc \uac00\ub2a5> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "text": "9a7cdc2a1d8f8fa2fbeb290e7acbfa553094fa37\n\uc5d0\uc11c \uc218\uc815\ud558\uc600\uc2b5\ub2c8\ub2e4. \ub85c\uadf8\uc778\ub418\uba74 id password form\uc774 \ub098\uc624\uc9c0 \uc54a\uace0 \ub85c\uadf8\uc778\uc774 \ub418\uc5c8\ub2e4\uace0 \ub098\uc624\ub3c4\ub85d \uc218\uc815\ud558\uc600\uace0, \n\ub85c\uadf8\uc778\uc744 \ud55c \ud6c4 \ub514\ud3f4\ud2b8 \ud398\uc774\uc9c0\uac00 '\/' \uac00 \uc544\ub2cc '\/session\/login'\uc73c\ub85c \uc784\uc2dc\ub85c \ubc14\uafb8\uc5b4\ub450\uc5c8\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/27#issuecomment-121532842|#27: (session) \ub85c\uadf8\uc778\ub41c \uc0c1\ud0dc\uc5d0\uc11c \/session\/login \uc811\uadfc \uac00\ub2a5> (assigned to <https:\/\/github.com\/zealotzealot|zealotzealot>)",
+                "title": "Comment by mightydeveloper\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436949945.000058"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/27|#27 (session) \ub85c\uadf8\uc778\ub41c \uc0c1\ud0dc\uc5d0\uc11c \/session\/login \uc811\uadfc \uac00\ub2a5> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/27|#27 (session) \ub85c\uadf8\uc778\ub41c \uc0c1\ud0dc\uc5d0\uc11c \/session\/login \uc811\uadfc \uac00\ub2a5> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436949945.000059"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud639\uc2dc OAuth 2.0\uc5d0\uc11c authorization code\uc640 access token\uc758 \ucc28\uc774\uac00 \ubb54\uc9c0 \uc544\uc2dc\ub294 \ubd84 \uacc4\uc2e0\uac00\uc694 \u315c\u315c",
+        "ts": "1436956157.000060"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board_refactoring|board_refactoring> was branched from \"master\" and pushed by rlaalstn5383",
+                "text": "[araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/board_refactoring|board_refactoring> was branched from \"master\" and pushed by rlaalstn5383",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436965851.000061"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/72a9a3cd4c8b...fa95d1b5855d|93 new commits> by kyome and 6 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/23b6c09|23b6c09>: board\/models.py - kyome\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/33a8451|33a8451>: Merge branch 'master' into board - kyome\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2668549|2668549>: \ubcf4\ub4dc models.py \uc791\uc131 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aaeb9e4|aaeb9e4>: Update models.py - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6230da0|6230da0>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6146c8d|6146c8d>: \ubbfc\uc218\ub294 \uc544\ubb34\uac83\ub3c4.. - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d5fc2c0|d5fc2c0>: tab size \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/936d613|936d613>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f8e8cfe|f8e8cfe>: \uc624\ub958 \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/18ce39d|18ce39d>: not null policy \uc218\uc815. column name \ubcc0\uacbd. - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a545352|a545352>: board post form templates - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dd71ff9|dd71ff9>: Revert \"board post form templates\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b735ec1|b735ec1>: Revert \"Revert \"board post form templates\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d19eb8|0d19eb8>: Revert \"Revert \"Revert \"board post form templates\"\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c3211ea|c3211ea>: board post, write template - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/371d995|371d995>: post url\ucd94\uac00, read url\ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/42e9f14|42e9f14>: board_read, board_write - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9ca596b|9ca596b>: BoardPost.is_notice Defualt \uac12 \ucd94\uac00, board \ud14c\uc2a4\ud2b8 \uc704\ud574 \uc77c\ubd80 \uc8fc\uc11d\ucc98\ub9ac - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b715402|b715402>: board read,write - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ea67dff|ea67dff>: Merge branch 'master' into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5e448af|5e448af>: session applied to board branch - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d548bac|d548bac>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6be52a2|6be52a2>: \uc775\uba85 \uae30\ub2a5 \ucd94\uac00, username \ud45c\uc2dc - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aadfb59|aadfb59>: author_id \uac12 \ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b86c23|2b86c23>: BoardContent\uc640 Board \ubaa8\ub378\uc744 admin\uc5d0 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/58c6248|58c6248>: Implemented modification - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8f0fb3f|8f0fb3f>: Implemented modification of board_post, anonymous \ubcc0\uacbd\ub418\ub294 \uc624\ub958 \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4b4d93c|4b4d93c>: \ub313\uae00 \uc791\uc131 \uad6c\ud604 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cf3e448|cf3e448>: \ub313\uae00 \uc218\uc815 \uae30\ub2a5 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c1de0f4|c1de0f4>: \uad8c\ud55c \uc5c6\ub294 \uc0ac\uc6a9\uc790\uac00 \ub313\uae00 \uc218\uc815 \uc2dc\ub3c4 \ud560 \uc2dc\uc5d0 \ub418\ub3cc\ub9ac\ub3c4\ub85d \ud568 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7ecfc4a|7ecfc4a>: Implemented post list page, up\/down button(ajax). - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4cf1271|4cf1271>: boardcontent\uc758 *str*funtion \uc5d0\uc11c 3\ubc88 \uc9f8 \ucf58\ud150\uce20\ub97c 2nd\ub85c \ud45c\ud604\ud558\ub358 \ubb38\uc81c \ud574\uacb0 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b3ce5a|2b3ce5a>: Merge branch 'template_decorate' into board - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/587af4d|587af4d>: \ub313\uae00\uc758 Down \ubc84\ud2bc\uc758 id\uac00 up\uc73c\ub85c \ub418\uc5b4\uc788\uc5b4 internal error\uac00 \ubc1c\uc0dd\ud558\ub358 \ubb38\uc81c \uc218\uc815 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f409db2|f409db2>: up\/down \ud45c\uc2dc \uad6c\ud604 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d7831be|d7831be>: up\/down \ud45c\uc2dc \uad6c\ud604, BoardContent\uc5d0 get_vote method \ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2930978|2930978>: board list page added - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9cedf6c|9cedf6c>: \ucd94\ucc9c\/\ubc18\ub300 \ucde8\uc18c \ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/834984b|834984b>: views\uc5d0\uc11c render\ud560 \ub54c json\uc73c\ub85c \ub118\uae30\uac8c \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8002fcf|8002fcf>: refactored vote ajax code - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4c366ae|4c366ae>: Merge branch 'board' of <https:\/\/github.com\/sparcs-kaist\/araplus> into board - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b0b245a|b0b245a>: \uc131\uc778\uae00 \uad6c\ud604, \uc131\uc778\uae00 \ud544\ud130 \uad6c\ud604 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b3785a|2b3785a>: \uac8c\uc2dc\ud310\ubcc4\ub85c \uac8c\uc2dc\uae00 \ubcf4\uae30 \uae30\ub2a5 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c4d2844|c4d2844>: \uc131\uc778\uae00 \ud544\ud130\ub9c1 \uae30\ub2a5\uacfc \ud1b5\ud569 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c5e4a33|c5e4a33>: \uc131\uc778\uae00 \ud544\ud130\ub9c1 \ubc84\ud2bc \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b5114bf|b5114bf>: implemented deleting &amp; showing important buttons by checking user - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dd4e8ed|dd4e8ed>: Merge branch 'board' of <https:\/\/github.com\/sparcs-kaist\/araplus> into board - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c76b4ac|c76b4ac>: \uc0ad\uc81c \ubc84\ud2bc \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/87cb245|87cb245>: PEP8 convention\ub9de\ucdb0\uc11c \uc218\uc815 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d818f3|0d818f3>: delete\ud560 \ub54c  \uad8c\ud55c \ud655\uc778, post_list\uc5d0\uc11c \uc0ad\uc81c\ub41c \uae00 \"--Deleted--\"\ub85c \ud45c\uc2dc - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e9d9fcd|e9d9fcd>: resolve merge conflictions - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b523638|b523638>: PEP8 convention \uc218\uc815 \ubc0f \uc0ad\uc81c \uae30\ub2a5 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e10ff43|e10ff43>: \uac8c\uc2dc\ud310 \ubcc4\ub85c \uae00 \ubcf4\uae30 \uae30\ub2a5 \ucd94\uac00 adult filtering \ubc84\ud2bc \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/eb23a2d|eb23a2d>: \uae00 \uc0ad\uc81c\uc2dc \ub367\uae00 \uc785\ub825\ucc3d \uc548 \ubcf4\uc774\uac8c \uc218\uc815, \ub367\uae00 \uc0ad\uc81c \uae30\ub2a5 \ucd94\uac00, \uc0ad\uc81c \ubc84\ud2bc \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b9bc3bc|b9bc3bc>: \uad8c\ud55c \uc788\ub294 \uc0ac\uc6a9\uc790\ub9cc \ub313\uae00 \ubcc0\uacbd \ubc84\ud2bc \ubcf4\uc774\ub3c4\ub85d \uc218\uc815 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/31bfb48|31bfb48>: Merge confliction \uc218\uc815 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/fafebd7|fafebd7>: Delete\ub41c \ucee8\ud150\uce20\uc758 modification \ub9c9\uae30 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b6dcaf8|b6dcaf8>: \uc131\uc778\uae00, \uc815\uce58\uae00 \uc2e0\uace0 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/37d43ec|37d43ec>: \uac8c\uc2dc\uae00 \uc791\uc131 \ud560 \uc2dc \uc6d0\ud558\ub294 \ubcf4\ub4dc \uc120\ud0dd \uae30\ub2a5 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/00b3252|00b3252>: \uac8c\uc2dc\uae00 \uc791\uc131 \uc2dc \uc6d0\ud558\ub294 \ubcf4\ub4dc \uc120\ud0dd \uac00\ub2a5\ud558\ub3c4\ub85d \ubcc0\uacbd - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2a7feee|2a7feee>: \ud2b9\uc815 \ubcf4\ub4dc\uc5d0\uc11c \uae00 \uc4f0\uae30 \ud398\uc774\uc9c0 \uc811\uc18d \uc2dc default \uac12\uc774 \uc815\ud574\uc838 \uc788\uc9c0 \uc54a\uc740 \uc624\ub958 \uc218\uc815 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ef56235|ef56235>: implement simple  paginations of each boards - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2eb28c3|2eb28c3>: Merge branch 'board' of <https:\/\/github.com\/sparcs-kaist\/araplus> into board - jara\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/65437cf|65437cf>: \uc815\uce58\uae00 \uc131\uc778\uae00 \uc2e0\uace0 \ub4dc\ub78d\ub2e4\uc6b4 \uc81c\uc791 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/50ff8e4|50f\u2026",
+                "pretext": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/72a9a3cd4c8b...fa95d1b5855d|93 new commits> by kyome and 6 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436967845.000062"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN9CC",
+        "text": "\uc774\ub807\uac8c \uc4f0\ub294\uac8c \uc544\ub2cc \uac83 \uac19\uc740\ub370.. \uc8c4\uc1a1\ud569\ub2c8\ub2e4 \u315c\u315c",
+        "ts": "1436968378.000063"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/7|Issue created> by <https:\/\/github.com\/StoryKim|StoryKim> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "text": "SPARCS SSO\uc758 Access Token\uacfc \ud568\uaed8 \uc694\uccad\uc774 \uc62c \uacbd\uc6b0 \uc720\uc800\uc758 \uae30\ubcf8 \uc815\ubcf4\ub97c \ubc18\ud658\ud574\uc8fc\ub294 API\ub97c \ub9cc\ub4e0\ub2e4.",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/StoryKim|StoryKim> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "title": "#7 \uc720\uc800 \uc815\ubcf4\ub97c \uc5bb\uc5b4\uc624\ub294 API \ub9cc\ub4e4\uae30",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/7",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436974194.000064"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U024WGSD3",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[July 15th, 2015 3:29 AM] story: \ud639\uc2dc OAuth 2.0\uc5d0\uc11c authorization code\uc640 access token\uc758 \ucc28\uc774\uac00 \ubb54\uc9c0 \uc544\uc2dc\ub294 \ubd84 \uacc4\uc2e0\uac00\uc694 \u315c\u315c",
+                "ts": "1436956157.000060",
+                "author_subname": "story",
+                "channel_id": "C071D362F",
+                "channel_name": "araplus",
+                "is_msg_unfurl": true,
+                "text": "\ud639\uc2dc OAuth 2.0\uc5d0\uc11c authorization code\uc640 access token\uc758 \ucc28\uc774\uac00 \ubb54\uc9c0 \uc544\uc2dc\ub294 \ubd84 \uacc4\uc2e0\uac00\uc694 \u315c\u315c",
+                "author_name": "Donghwa Kim",
+                "author_link": "https:\/\/sparcs.slack.com\/team\/story",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/842129676f5e36645fff974d49194f87.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0014-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U024WGSD3|undead> pinned a message to this channel.",
+        "ts": "1437016732.000065"
+    },
+    {
+        "user": "U024WGSD3",
+        "topic": "\ud639\uc2dc OAuth 2.0\uc5d0\uc11c authorization code\uc640 access token\uc758 \ucc28\uc774\uac00 \ubb54\uc9c0 \uc544\uc2dc\ub294 \ubd84 \uacc4\uc2e0\uac00\uc694 \u315c\u315c",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U024WGSD3|undead> set the channel topic: \ud639\uc2dc OAuth 2.0\uc5d0\uc11c authorization code\uc640 access token\uc758 \ucc28\uc774\uac00 \ubb54\uc9c0 \uc544\uc2dc\ub294 \ubd84 \uacc4\uc2e0\uac00\uc694 \u315c\u315c",
+        "ts": "1437016740.000066"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:oauth] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/74a3e81|1 new commit> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/74a3e81|74a3e81>: add oauth scope description - storykim",
+                "pretext": "[sparcssso:oauth] 1 new commit by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437027637.000067"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/fef25f1|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/fef25f1|fef25f1>: \ubaa8\ub378\uc758 related \ub124\uc784 \uc218\uc815 - ktk1012",
+                "pretext": "[araplus:board_refactoring] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437027721.000068"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/36|Issue created> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "\uba54\uc2dc\uc9c0 \ud655\uc778\uc744 \ud560 \ub54c \ud2b9\uc815 \uc0ac\ub78c\uc5d0 \ub300\ud574 thread\ud615\uc2dd\uc73c\ub85c \ubcf4\uc774\uac8c \ud558\uae30",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "title": "#36 (Session\/message) \uba54\uc2dc\uc9c0 \ud655\uc778\uc744 \ud560 \ub54c \ud2b9\uc815 \uc0ac\ub78c\uc5d0 \ub300\ud574 thread\ud615\uc2dd\uc73c\ub85c \ubcf4\uc774\uac8c \ud558\uae30",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/36",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437027966.000069"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:revert] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/2ebae9c146ec...993d904747af|2 new commits> by Sam Brad Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/9f82639|9f82639>: add social signup and login - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/993d904|993d904>: merge - Sam Brad Jo",
+                "pretext": "[sparcssso:revert] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/2ebae9c146ec...993d904747af|2 new commits> by Sam Brad Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437029819.000070"
+    }
+]

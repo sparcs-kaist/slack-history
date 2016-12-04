@@ -1,0 +1,878 @@
+[
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "vimrc  \ub2e4\uc774\uc5b4\ud2b8...",
+        "ts": "1476950885.006592"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc65c \uc81c vimrc \uccab\uc904\uc740 \n```set nocompatible\n\n\"\" {{{{{{{{{{{\n\"\" Arrow No map\nmap &lt;leader&gt;src :source ~\/.vimrc&lt;CR&gt;\ninoremap  &lt;Up&gt;     &lt;NOP&gt;\ninoremap  &lt;Down&gt;   &lt;NOP&gt;\ninoremap  &lt;Left&gt;   &lt;NOP&gt;\ninoremap  &lt;Right&gt;  &lt;NOP&gt;\nnoremap   &lt;Up&gt;     &lt;NOP&gt;\nnoremap   &lt;Down&gt;   &lt;NOP&gt;\nnoremap   &lt;Left&gt;   &lt;NOP&gt;\nnoremap   &lt;Right&gt;  &lt;NOP&gt;```",
+        "ts": "1476950960.006593",
+        "reactions": [
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U024SPDHG",
+                    "U024SNC3Y",
+                    "U02PEJCVA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc774\ub530\uc704\ub85c \uc0dd\uacbc\uc8e0?\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1476950965.006594"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1476950976.006595"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1476951035.006596"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ub0a8\uc790\uc758 vimrc\uad70\uc694",
+        "ts": "1476951044.006597",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U024SPDHG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ub118\ub098 \uba4b\uc9c4\uac83",
+        "ts": "1476951046.006598"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1476951047.006599"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ubc29\ud5a5\ud0a4 \ub530\uc704 X\ub098\uc918\ubc84\ub824!!",
+        "ts": "1476951051.006600"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc544 \uc624\ub79c\ub9cc\uc5d0 \uc5f4\uc5b4\ubd10\uc11c",
+        "ts": "1476951052.006601"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc800\ub807\uac8c \ud574\ub193\uace0 \uc4f0\ub294\uc904\ub3c4 \ubab0\ub790\ub294\ub370 \u314b\u314b\u314b\u314b",
+        "ts": "1476951061.006602"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ud604\uc5ed \ud6c4\ubc30\ub2d8\ub4e4 \ubcf8\ubc1b\uc73c\uc138\uc694 \u314b\u314b",
+        "ts": "1476951067.006603"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc800\uac8c \uc65c \uadf8\ub7f0\uc9c0 \ubaa8\ub974\uaca0\ub294\ub370",
+        "ts": "1476951084.006604"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "inomap \ud574\ub3c4",
+        "ts": "1476951088.006605"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1476951112.006606"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "insert mode \uc5d0\uc11c",
+        "ts": "1476951119.006607"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ubc29\ud5a5\ud0a4\ub97c \ub9c9\uc744 \uc218\ub294 \uc5c6\ub124\uc694",
+        "ts": "1476951122.006608"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "NOP \ub300\uc2e0 silent \ub97c \ud558\uba74 \ub418\ub098",
+        "ts": "1476951129.006609"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "```au FileType ruby map &lt;F5&gt; &lt;ESC&gt;:w&lt;CR&gt;:!ruby %&lt;CR&gt;\nau FileType python map &lt;F5&gt; &lt;ESC&gt;:w&lt;CR&gt;:!python %&lt;CR&gt;\nau FileType cpp map &lt;F4&gt; &lt;ESC&gt;:w&lt;CR&gt;:!g++ -O2 -std=gnu++11 % &amp;&amp; .\/a.out \nau FileType cpp map &lt;F5&gt; &lt;ESC&gt;:w&lt;CR&gt;:!g++ -O2 -std=gnu++11 % &amp;&amp; .\/a.out &lt; in &lt;CR&gt;\nau FileType c map &lt;F5&gt; &lt;ESC&gt;:w&lt;CR&gt;:!gcc %&lt;CR&gt;&lt;CR&gt;:!.\/a.out &lt; input.txt&lt;CR&gt;\nimap &lt;F2&gt; &lt;ESC&gt;:w&lt;CR&gt;\nmap &lt;F3&gt; &lt;ESC&gt;:!cat %\\|pbcopy&lt;CR&gt;```",
+        "ts": "1476951163.006610"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u2026\u2026.",
+        "ts": "1476951173.006611"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc774\uac74 \ub610 \ubb50\uc57c",
+        "ts": "1476951175.006612"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b vim \uc744 IDE \ucc98\ub7fc \uc4f0\uace0 \uc2f6\uc5c8\ub098 \ubd05\ub2c8\ub2e4.",
+        "ts": "1476951193.006613"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "<@U02KS7NU5>  Plug \uc88b\uc544\ubcf4\uc774\ub124\uc694 \u2026 \uc804 \uc544\uc9c1 \uad6c\uc11d\uae30\uc2dc\ub300\uc758 vim-pathogen\u2026 \uc744 \uc4f0\ub294\ub370 \u3160",
+        "ts": "1476951337.006614"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uba40\ud2f0\uc2a4\ub808\ub4dc\ub85c \uc124\uce58\ud558\ub294\ub370 \uc88b\uc2b5\ub2c8\ub2e4..",
+        "ts": "1476951353.006615"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc800\ub7f0 \ucee4\uc2a4\ud130\ub9c8\uc774\uc9d5\uc774 \ub418\ub2c8\uae4c vim\uc774 \uc88b\uc740\uac70\uc8e0! \u314b\u314b",
+        "ts": "1476951382.006616"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "```\" Tab navigations\nnnoremap &lt;C-n&gt;     :tabnew&lt;CR&gt;\nnnoremap &lt;leader&gt;l  :tabnext&lt;CR&gt;\nnnoremap &lt;leader&gt;h  :tabprev&lt;CR&gt;\nmap &lt;leader&gt;1 1gt\nmap &lt;leader&gt;2 2gt\nmap &lt;leader&gt;3 3gt\nmap &lt;leader&gt;4 4gt\nmap &lt;leader&gt;5 5gt\nmap &lt;leader&gt;6 6gt\nmap &lt;leader&gt;7 7gt\nmap &lt;leader&gt;8 8gt\nmap &lt;leader&gt;9 9gt\nmap &lt;leader&gt;0 :tablast&lt;CR&gt;```",
+        "ts": "1476951431.006617"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b  \uc880 \ub354 \ud3b8\ud558\uac8c \ud560 \uc218 \uc788\uc5c8\uc744\uae4c \uc774\uac74...",
+        "ts": "1476951445.006618"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "NOP \u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1476951716.006619"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc52c\ube61\ud558\uace0 \uc308\ube61\ud55c  \uc190\uac00\ub77d\uc774 \ube75\uae0b\ud558\ub294  vim \uc138\ud305\uc740 \ubb50\uac00 \uc788\uc744\uae4c\uc694",
+        "ts": "1476951798.006620"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc74c",
+        "ts": "1476951887.006621"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc800\uac70\ub294",
+        "ts": "1476951891.006622"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc77c\ub2e8 vim \uc758 tab\uc740",
+        "ts": "1476951899.006623"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc57d\uac04 IDE workspace \uac19\uc740 \uac1c\ub150\uc774\uace0",
+        "ts": "1476951909.006624"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "vim\uc758 buffer \uac00 \uc2e4\uc81c \ub2e4\ub978 IDE\uc758 \ud0ed\uacfc \uac19\uc740 \uac1c\ub150\uc774\uc5d0\uc694",
+        "ts": "1476951922.006625"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc800\ub294 \uadf8\ub798\uc11c buffer \ub97c \ud0ed\ucc98\ub7fc \ubcf4\uc5ec\uc8fc\ub294 `Plug 'vim-airline\/vim-airline\u2019` \ub97c \uc4f0\uace0",
+        "ts": "1476951965.006626"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "```\nmap &lt;s-w&gt; :bw&lt;CR&gt;\nmap &lt;c-l&gt; :bn&lt;CR&gt;\nmap &lt;c-h&gt; :bN&lt;CR&gt;\n```",
+        "ts": "1476951980.006627",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U024SPDHG",
+                    "U2D4R9FDJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc774\ub807\uac8c \uc138\uac00\uc9c0 \ud0a4\ub9f5\ud551\uc73c\ub85c \uc0ac\uc6a9\ud569\ub2c8\ub2e4",
+        "ts": "1476951987.006628"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "Shift-W \uac00 \ud604\uc7ac \ubc84\ud37c \ub2eb\ub294\uac70",
+        "ts": "1476951994.006629"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "c-l, c-h \ub85c \ubc84\ud37c\ub97c \ud0ed\ucc98\ub7fc \ub2e4\uc74c\ubc84\ud37c, \uc774\uc804\ubc84\ud37c \uc774\ub3d9",
+        "ts": "1476952010.006630"
+    },
+    {
+        "type": "message",
+        "user": "U14H0G2JZ",
+        "text": "\ud760 mac\uc5d0\uc11c\ub294 atom\uc4f0\uace0 \uc788\uae34 \ud55c\ub370, \uc18c\uc2a4 \ucf54\ub4dc \ubcf4\ub294 \ube44\uc911\uc740 windows\uc5d0\uc11c visual studio\ub85c \ubcf4\ub294\uac8c \ud6e8\uc52c \ub192\uc544\uc11c =_=",
+        "ts": "1476954774.006631"
+    },
+    {
+        "type": "message",
+        "user": "U14H0G2JZ",
+        "text": "\ub2e4\ub978 \ud300\uc6d0\ub4e4\uc740 sublime \ub9ce\uc774 \uc4f0\ub294\ub4ef",
+        "ts": "1476954787.006632"
+    },
+    {
+        "type": "message",
+        "user": "U14H0G2JZ",
+        "text": "sublime\uc4f0\ub294 \uce5c\uad6c\ub294 atom\uc774 node.js\ub77c \ub290\ub9ac\ub2e4\uace0 \uae4c\ub358\ub370 =_=\u314b",
+        "ts": "1476954824.006633"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "airline\uc744 \ubcf4\ub2c8 airlover \ud615\uc774 \uc0dd\uac01\ub098\ub124\uc694...",
+        "ts": "1476959660.006634"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud798\uc138\uace0 \uac15\ud55c \uc790\uc815\uc785\ub2c8\ub2e4",
+        "ts": "1476975192.006635"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub9cc\uc77c \ub0b4\uac8c \ubb3b\ub294\ub2e4\uba74 \uc81c \uc774\ub984\uc740 \ud68c\uc0ac\uc758 \uc11d\uc8fc\uc785\ub2c8\ub2e4",
+        "ts": "1476975202.006636"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc57c-\uadfc-\ub9e8!",
+        "ts": "1476975207.006637"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc5b4\uc775\ud6c4..",
+        "ts": "1476975211.006638"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud558\ud558 \ud1f4\uadfc\ud574\uc57c\uc8e0",
+        "ts": "1476975228.006639"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "....",
+        "ts": "1476975906.006640"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ub098\ub3c4 \ub531 12\uc2dc \ub9de\ucdb0\uc11c \uc624\ub298 \ud574\uacb0\ud558\ub824\ub358 \uc774\uc288 \ud574\uacb0",
+        "ts": "1476975917.006641"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ud1f4\uadfc\uc740 \ud588\uc9c0\ub9cc \uc9d1\uc5d0\uc11c \uc77c\ud558\ub294 \uc911",
+        "ts": "1476975923.006642"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u3160\u3160\u3160\u3160\u3160\u3160\u3160\u3160",
+        "ts": "1476975927.006643"
+    },
+    {
+        "type": "message",
+        "user": "U2Q3N38FP",
+        "text": " \ub2f4\uc8fc\uc5d0 \uc5f4\ub9ac\ub294 DeView \ub4f1\ub85d \uae30\uac04\uc774 \uc9c0\ub0ac\ub294\ub370, \ub2f9\uc77c \uc811\uc218 \uac00\ub2a5 \ud560\uae4c\uc694\u3160\u3160?",
+        "ts": "1477020531.006644"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc548\ub429\ub2c8\ub2e4",
+        "ts": "1477020581.006645"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ud45c \uad6c\ud588\ub294\ub370 \uc548\/\ubabb\uac00\ub294 \uc0ac\ub78c\uc744 \ucc3e\uc544\ubcf4\uc138\uc694",
+        "ts": "1477020609.006646"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub2f9\uc77c \uc811\uc218 \ubd88\uac00 \uacf5\uc9c0: <https:\/\/deview.kr\/2016\/faq>",
+        "attachments": [
+            {
+                "title": "DEVIEW 2016",
+                "title_link": "https:\/\/deview.kr\/2016\/faq",
+                "text": "DEVIEW\ub294 \uad6d\ub0b4\uc678 \uac1c\ubc1c\uc790\ub4e4\uc774 \uc11c\ub85c\uc758 \uc9c0\uc2dd\uc744 \ub098\ub204\uace0, \ud0c1\uc6d4\ud568\uc744 \ucd94\uad6c\ud558\uba70, \ud568\uaed8 \uc131\uc7a5\ud558\ub294 \uad6d\ub0b4 \ucd5c\ub300 \uac1c\ubc1c\uc790 \ucee8\ud37c\ub7f0\uc2a4 \uc785\ub2c8\ub2e4. DEVIEW2016, 10.24 - 25, COEX GrandBallroom",
+                "fallback": "DEVIEW 2016",
+                "image_url": "https:\/\/deview.kr\/2016\/img\/img_SNS_kakao.png",
+                "from_url": "https:\/\/deview.kr\/2016\/faq",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 46242,
+                "service_name": "deview.kr",
+                "id": 1
+            }
+        ],
+        "ts": "1477020647.006647"
+    },
+    {
+        "type": "message",
+        "user": "U2Q3N38FP",
+        "text": "\uc624! \ud639\uc2dc \uc5ec\uae30 \uacc4\uc2e0 \ubd84\ub4e4 \uc911 \uccab\ub0a0 (24\uc77c) \ucc38\uc11d \ubabb \ud558\ub294 \ubd84 \ucc3e\uc2b5\ub2c8\ub2e4~",
+        "ts": "1477020648.006648"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\ubc1c\ud45c\uc790\ub294 \ucd08\ub300\uad8c \uc870\uae08 \uc788\uc744\ud150\ub370 \u314b\u314b",
+        "ts": "1477021471.006650"
+    },
+    {
+        "type": "message",
+        "user": "U2Q3N38FP",
+        "text": "\uc124\ub9c8 ... \uc81c\uac00 \uc544\ub294\ubd84\uc911\uc5d0 \ubc1c\ud45c\uc790\uac00 \uacc4\uc2e4\uae4c\uc694...?",
+        "ts": "1477022510.006651"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubc1c\ud45c\uc790 \ubaa9\ub85d \uacf5\uac1c\ub410\uc73c\ub2c8 \ud655\uc778\ud574 \ubcf4\uc138\uc694",
+        "ts": "1477022964.006652"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uac13\ub5a1!",
+        "ts": "1477023057.006653"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "<@U02KS7NU5>  \uc131\uc9c4\uc774\ud615 \ud639\uc2dc",
+        "ts": "1477024201.006654"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "ctrlP",
+        "ts": "1477024205.006655"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc4f0\uc2dc\ub098\uc694",
+        "ts": "1477024206.006656"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\u3147\u3147",
+        "ts": "1477024249.006657"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "<@U2Q3N38FP> \ubc1c\ud45c\uc790 \ubaa9\ub85d\ubcf4\uace0 \uadf8\uc911\uc5d0 \ud55c\uba85 \uc7a1\uc544\uc11c \uce5c\ud574\uc9c0\uc790 \u314b\u314b\u314b\u314b\n",
+        "ts": "1477024268.006658",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U2Q3N38FP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uadf8\uac74... \ubb54\uac00 \uc880...",
+        "ts": "1477024426.006659"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\n",
+        "ts": "1477024448.006660"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "Working directory \uc5d0",
+        "ts": "1477024462.006661"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud30c\uc77c\uc774 \ub108\ubb34 \ub9ce\uc544\uc11c",
+        "ts": "1477024464.006662"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ub290\ub824\uc11c \ub2f5\ub2f5\ud55c\ub370 \uc774\uac70 \uac1c\uc120 \ubc29\ubc95\uc774 \uc5c6\uc744\uae4c\uc694",
+        "ts": "1477024476.006663"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<@U026JLU7V> \uc74c...",
+        "ts": "1477024508.006664"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc5b4\ub5a4 \ud30c\uc77c\uc774 \ub9ce\uc544\uc11c \uadf8\ub7f0\uac70\uc57c?",
+        "ts": "1477024512.006665"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": ".js .json",
+        "ts": "1477024518.006666"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc774 \uc8fc\uc778\ub370",
+        "ts": "1477024530.006667"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc774\uac8c \uc6cc\ud0b9\ub514\ub809\ud1a0\ub9ac\ubcc4\ub85c",
+        "ts": "1477024538.006668"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "let g:ctrlp_custom_ignore = '\\v[\\\/]\\.(git|hg|svn)$'\nlet g:ctrlp_custom_ignore = {\n  \\ 'dir':  '\\v[\\\/]\\.(git|hg|svn)$',\n  \\ 'file': '\\v\\.(exe|so|dll)$',\n  \\ 'link': 'some_bad_symbolic_links',\n  \\ }",
+        "ts": "1477024550.006669"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ub098\uac19\uc740 \uacbd\uc6b0 node_modules\/venv \ub54c\ubb38\uc5d0 \ub290\ub824\uc9c0\uae38\ub798",
+        "ts": "1477024551.006670"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<https:\/\/github.com\/serialx\/dotfiles\/blob\/master\/init.vim#L78>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "serialx\/dotfiles",
+                "title_link": "https:\/\/github.com\/serialx\/dotfiles\/blob\/master\/init.vim#L78",
+                "text": "dotfiles - serialx's configuration files",
+                "fallback": "GitHub: serialx\/dotfiles",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/395732?v=3&s=400",
+                "from_url": "https:\/\/github.com\/serialx\/dotfiles\/blob\/master\/init.vim#L78",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1477024552.006671"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc774\uac78 \uae00\ub85c\ubc8c\ub85c \uc548\ud558\uace0",
+        "ts": "1477024554.006673"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc774\ub807\uac8c \ud574\uc11c \uc4f0\uace0\uc788\uc74c",
+        "ts": "1477024556.006674"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc544..",
+        "ts": "1477024565.006675"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "```\nlet g:ctrlp_custom_ignore = '\\v[\\\/]\\.(git|hg|svn)|node_modules|venv$\u2019\n```",
+        "edited": {
+            "user": "U02KS7NU5",
+            "ts": "1477024580.000000"
+        },
+        "ts": "1477024568.006676"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uae00\ub85c\ubc8c\ub85c \uc548\ud558\uace0 \uc2f6\uc5c8\ub358 \uac70\uc5d0\uc694 \u314b\u314b\u314b\u314b",
+        "ts": "1477024569.006677"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ubb54\uac00 \u2026 \ud2b9\uc815 \ud504\ub85c\uc81d\ud2b8\ub9cc\uc744 \uc704\ud574 \ub098\uc758 \uc0ac\ub791\ud558\ub294 vimrc \uc5d0  let g \ud558\uace0 \uc2f6\uc9c0 \uc54a\uc740 \ub9c8\uc74c\uc774\ub784\uae4c\u2026\u2026...",
+        "ts": "1477024592.006679"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc74c..",
+        "ts": "1477024603.006680"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "`autocmd BufNewFile,BufRead \/path\/to\/files\/* set nowrap tabstop=4 shiftwidth=4`",
+        "ts": "1477024652.006681"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc774\ub7f0 \ubc29\ubc95\uc774 \uc788\ub2e4\ub124",
+        "ts": "1477024656.006682"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ucc3e\uc544\ubcf4\ub2c8\uae4c",
+        "ts": "1477024660.006683"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud5d9...",
+        "ts": "1477024678.006684"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": ".js, .json \uc774\uba74 node_modules \uc544\ub0d0?",
+        "ts": "1477024711.006685"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uadf8\ub807\uc8e0",
+        "ts": "1477024714.006686"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uadf8\uac70 \uc5b4\ucc28\ud53c \ub77c\uc774\ube0c\ub7ec\ub9ac\ub77c \ube7c\uba74 \ub418\uc9c0\uc54a\ub098 \u314e",
+        "ts": "1477024718.006687"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ube7c\uba74 \ub418\ub294\ub370 \u314b\u314b\u314b",
+        "ts": "1477024723.006688"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uadf8\ub0e5 \uad1c\ud55c \ucc1d\ucc1d\ud568\uc774\uc8e0 \ubb50",
+        "ts": "1477024729.006689"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ub2e4\ub978 \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \ubb54\uac00 \ube44\uc2b7\ud55c \ub514\ub809\ud1a0\ub9ac\uba85\uc73c\ub85c \uacb9\uce60\uc77c\uc740 \uc5c6\uc744\uac70 \uac19\uc544\uc11c",
+        "ts": "1477024750.006690"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc0ac\uc2e4 \uc81c\uc77c \uac04\ub2e8\ud558\uace0 \uae54\ub054\ud55c \ubc29\ubc95\uc774 \ub9de\uae34\ud55c\ub370 \u314b\u314b",
+        "ts": "1477024754.006691"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ub09c \uadf8\ub0e5 \uae00\ub85c\ubc8c\ub85c \ud574\uc11c \uc4f0\uace0\uc788\uac70\ub4e0 \u314b\u314b",
+        "ts": "1477024757.006692"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uadc0\ucc28\ub2a0..",
+        "ts": "1477024770.006693"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "nerdtree \ub3c4 \uc4f0\uc2dc\uc8e0",
+        "ts": "1477024774.006694"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc694\uc998\uc5d4 \uc548\uc500",
+        "ts": "1477024784.006695"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud5d9\u2026.",
+        "ts": "1477024788.006696"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<https:\/\/github.com\/serialx\/dotfiles\/blob\/master\/init.vim#L2>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "serialx\/dotfiles",
+                "title_link": "https:\/\/github.com\/serialx\/dotfiles\/blob\/master\/init.vim#L2",
+                "text": "dotfiles - serialx's configuration files",
+                "fallback": "GitHub: serialx\/dotfiles",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/395732?v=3&s=400",
+                "from_url": "https:\/\/github.com\/serialx\/dotfiles\/blob\/master\/init.vim#L2",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1477024797.006697"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ud50c\ub7ec\uadf8\uc778 \ub2e4\uc774\uc5b4\ud2b8\ub97c \ub9ce\uc774 \ud574\uc11c \uc694\uc998\uc5d4 \uc774\uc815\ub3c4",
+        "ts": "1477024802.006699"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "YCM \u314b\u3145\u314b",
+        "ts": "1477024816.006700"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc800\uac70 \ud558\ub098 \ube7c\ub294\uac8c",
+        "ts": "1477024821.006701"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ub2e4\uc774\uc5b4\ud2b8 \ud6a8\uacfc\ub294 \ub354 \uc88b\uc9c0\ub9cc...",
+        "ts": "1477024827.006702"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uadf8\uac70.. go \uc5d0\uc11c \ucef4\ud50c\ub9bf\uc158\uc774 \ub108\ubb34 \uc18c\uc911\ud574\uc11c..",
+        "ts": "1477024842.006703"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc880 \uacfc\uc7a5\ud558\uba74 \ube44\uc96c\uc5bc \uc2a4\ud29c\ub514\uc624\uae09 \uc778\ud154\ub9ac\uc13c\uc2a4..",
+        "ts": "1477024857.006704"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uadf8\ub9ac\uace0 \ube44\uc96c\uc5bc \uc2a4\ud29c\ub514\uc624\uae09 \uc6a9\ub7c9",
+        "ts": "1477024864.006705"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1477024865.006706"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc740 \uc544\ub2c8\uc9c0\ub9cc",
+        "ts": "1477024869.006707"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud6cc\ub96d\ud558\uc8e0 \u314b\u314b",
+        "ts": "1477024879.006708"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc88b\uc8e0",
+        "ts": "1477024882.006709"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "nerdtree \ub294",
+        "ts": "1477024900.006710"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud30c\uc77c\uc2dc\uc2a4\ud15c \uba54\ub274\uac00 \uc88b\uc544\uc11c",
+        "ts": "1477024909.006711"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ubabb \ub193\uaca0\ub294\ub370  \ubb38\uc81c\ub294  \ud30c\uc77c\uc2dc\uc2a4\ud15c\uba54\ub274\uac00 \ub728\ub294\ub370 \ub108\ubb34 \uc624\ub798\uac78\ub9bc \u3160\u3160",
+        "ts": "1477024922.006712"
+    },
+    {
+        "type": "message",
+        "user": "U2Q3N38FP",
+        "text": "<@U0GRXSW8J>: \ud558\ud558... \u315c\u3160 <@U0FK63YR2> \uc774\ubbf8 \ubc1c\ud45c\uc790 \ub9ac\uc2a4\ud2b8\ub294 \ubcf4\uc558\uc9c0\ub9cc \uc81c\uac00 \uc544\ub294 \uc774\ub984\uc740 \ubcf4\uc774\uc9c0 \uc54a\uc558\uc5b4\uc6ac\u314b\u314b",
+        "ts": "1477024923.006713"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U026JLU7V|lucidash> uploaded a file: <https:\/\/sparcs.slack.com\/files\/lucidash\/F2SAH7X6K\/_____________2016-10-21________1.42.12.png|\uc2a4\ud06c\ub9b0\uc0f7 2016-10-21 \uc624\ud6c4 1.42.12.png>",
+        "file": {
+            "id": "F2SAH7X6K",
+            "created": 1477024945,
+            "timestamp": 1477024945,
+            "name": "\uc2a4\ud06c\ub9b0\uc0f7 2016-10-21 \uc624\ud6c4 1.42.12.png",
+            "title": "\uc2a4\ud06c\ub9b0\uc0f7 2016-10-21 \uc624\ud6c4 1.42.12.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U026JLU7V",
+            "editable": false,
+            "size": 46784,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2SAH7X6K\/_____________2016-10-21________1.42.12.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2SAH7X6K\/download\/_____________2016-10-21________1.42.12.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2SAH7X6K-4cd8aaccac\/_____________2016-10-21________1.42.12_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2SAH7X6K-4cd8aaccac\/_____________2016-10-21________1.42.12_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2SAH7X6K-4cd8aaccac\/_____________2016-10-21________1.42.12_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 78,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2SAH7X6K-4cd8aaccac\/_____________2016-10-21________1.42.12_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 443,
+            "original_h": 96,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/lucidash\/F2SAH7X6K\/_____________2016-10-21________1.42.12.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F2SAH7X6K-a42d1df495",
+            "channels": [
+                "C024SHLFM"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U026JLU7V",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U026JLU7V|lucidash>",
+        "bot_id": null,
+        "ts": "1477024946.006714"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\u3160\u3160\u3160\u3160\n",
+        "ts": "1477025167.006715"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "<#C2SAL51AT|overwatch>: Fight For the Future",
+        "ts": "1477026107.006717"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc6cc\ub4dc \uc5d0\ub514\ud130 \uc911\uc5d0\uc11c\ub3c4 IDE \ucc98\ub7fc word autocomplete \ub418\ub294\uac70 \uc788\ub098\uc694? \ubd88\uac00\ub2a5\ud558\ub824\ub098..",
+        "ts": "1477032080.006719"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc801\uc5b4\ub3c4 \uc55e\uc5d0\uc11c \uc37c\ub358\uac70\ub294 \uc800\uc7a5\ud574\ub480\ub2e4\uac00 \ud560 \uc218\ub294 \uc788\uc744\uac70 \uac19\uc740\ub370",
+        "ts": "1477032097.006720"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uac70\uc758 \u2026 \ub2e4\u2026.",
+        "ts": "1477032834.006721"
+    }
+]

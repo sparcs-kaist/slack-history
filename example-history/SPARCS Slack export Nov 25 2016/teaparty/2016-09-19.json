@@ -1,0 +1,248 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc73c\uc5b4",
+        "ts": "1474270112.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc11c\uc6b8 \ud2f0\ud30c\ud2f0 \ud638\uc751\uc774",
+        "ts": "1474270121.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc0dd\uac01\ubcf4\ub2e4 \uc88b\uc73c\ub124\uc694",
+        "ts": "1474270123.000011"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud638\uc639\uc774",
+        "ts": "1474270133.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc9c4\uc9c0\ud558\uac8c \uace0\ubbfc\uc744 \ud574\uc57c...",
+        "ts": "1474270134.000014"
+    },
+    {
+        "user": "U025WHXBR",
+        "text": "<@U025WHXBR|boolgom> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474274975.000016",
+        "reactions": [
+            {
+                "name": "clap::skin-tone-5",
+                "users": [
+                    "U024SPDHG",
+                    "U024U2P7Y",
+                    "U026NDWJW",
+                    "U024WGSD3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc624\uc624 \uc9c0\uc2dd \uacf5\uc720",
+        "ts": "1474275008.000017"
+    },
+    {
+        "user": "U024SKR87",
+        "text": "<@U024SKR87|zoonoo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474275273.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud310\uc774\u2026\ucee4\uc9c4\ub2e4\uc544\u2026.",
+        "ts": "1474275626.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\/\ud3ed\ubc1c",
+        "ts": "1474275633.000020",
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U024SPDHG",
+                    "U024WGSD3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U026JLU7V",
+        "text": "<@U026JLU7V|lucidash> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474275710.000021"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc548\ub155\ud558\uc138\uc694",
+        "ts": "1474275721.000022"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc5c7 \uaddc\ubbfc\uc774\ud615\ub3c4 \uacc4\uc2dc\ub124\uc694",
+        "ts": "1474275729.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc11c\uc6b8 \ud2f0\ud30c\ud2f0 \uc5f4\ub9ac\uba74",
+        "ts": "1474275827.000024"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\ube44\uc815\uae30\uc801\uc73c\ub85c \ub180\ub7ec\uac00\ub3c4 \ub418\ub098\uc6a4",
+        "ts": "1474275831.000025"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "of course \uc544\ub2d0\uae4c\uc694",
+        "ts": "1474275866.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\uac74 \ubb3c\ub860 \ub2f9\uc5f0\ud788 \ub429\ub2c8\ub2e4\ub9cc",
+        "ts": "1474275893.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "\uc624\uc608",
+        "ts": "1474276124.000028"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc6b0\uc640 \uc124\ub819\ub2c8\ub2e4.",
+        "ts": "1474276660.000029"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uaddc\ubbfc\uc774\ud615 \ubc25 \uc0ac\uc8fc\uc138\uc694",
+        "ts": "1474276662.000030"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "<@U025WHXBR>",
+        "ts": "1474276666.000031"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ud5db",
+        "ts": "1474278203.000032"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1474278204.000033"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\uc0c1\ud6c8\ud615\ub2d8\uc65c\uadf8\ub7ec\uc2ed\ub2c8\uae4c",
+        "ts": "1474278218.000034"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1474278219.000035"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc544\u2026\uc65c \uac11\uc790\uae30 \u2026.  \uc5c5\uc9c4\uc0b4\uc5d0 \uaf42\ud614\uc9c0",
+        "ts": "1474278516.000036"
+    },
+    {
+        "user": "U043V6ACW",
+        "text": "<@U043V6ACW|pcpenpal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474281290.000037"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud760",
+        "ts": "1474287714.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc11c\uc6b8\uc740 \ub9e5\uc2dc\uba48 20\uba85\ucbe4 \uc628\ub2e4\uace0 \uc0dd\uac01\ud558\uba74 \ub418\uaca0\uad70\uc694",
+        "edited": {
+            "user": "U024U2P7Y",
+            "ts": "1474287758.000000"
+        },
+        "ts": "1474287726.000039"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud56b\ud558\ub124\uc694",
+        "ts": "1474287732.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "15\uba85\uc73c\ub85c \uc7a1\uc544\uc57c\ud558\ub098",
+        "ts": "1474287745.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0B6FN5MH",
+        "text": "so hot!!",
+        "ts": "1474287991.000043"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud558\ud0dc\ud56b\ud0dc",
+        "ts": "1474288343.000044"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\uc815\ub3c4 \ub418\ub294 \uc778\uc6d0\uc774\uba74 \uc7a5\uc18c\uac00 \uc5b4\ub514\uac00 \uc88b\uc744\uc9c0 \ubaa8\ub974\uac9f\ub124\uc694",
+        "ts": "1474288585.000045"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c...",
+        "ts": "1474288588.000046"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1474335656.000047"
+    }
+]

@@ -1,0 +1,346 @@
+[
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc548\ub155\ud558\uc138\uc694 \uc774\ubc88 wheel seminar\uc5d0\uc11c <@U0B6LPVSM> \ub2d8\uacfc \uac19\uc774 Docker\uc5d0 \ub300\ud55c \uc124\uba85\uc744 \ub9e1\uac8c \ub41c <@U0VBXNPNF>",
+        "ts": "1468487029.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc774\ub7f0;; \uc4f0\ub2e4\uac00 \uc62c\ub77c\uac14\ub124\uc694",
+        "ts": "1468487036.000050"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ub77c\uace0 \ud569\ub2c8\ub2e4. \uba70\uce60\uc804\uc5d0 \uc138\ubbf8\ub098 \uc900\ube44\ub97c \uc704\ud574 tong\uc5d0\uc11c Docker\ub97c \uc124\uce58\ud558\ub824\uace0 \ud588\ub294\ub370, \uc124\uce58\uac00 \uc81c\ub300\ub85c \ub418\uc9c0 \uc54a\ub354\ub77c\uad6c\uc694. \ud639\uc2dc \ub3c4\uc6c0\uc744 \uc8fc\uc2e4 \uc218 \uc788\ub294 \ubd84\uc774 \uc788\ub098\uc694?",
+        "ts": "1468487099.000051"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\uc5b4\ub5bb\uac8c \uc548\ub418\uace0\uc788\ub098\uc694?",
+        "ts": "1468488448.000052"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "?.?",
+        "ts": "1468493793.000053"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U0VBXNPNF>: ?",
+        "ts": "1468493805.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc557 \uc624\ub298 \uc601\uc5b4\uc218\uc5c5 \ubc1c\ud45c\uac00 \ub05d\ub098\uace0 \uafc0\uc7a0 \uc790\uace0 \uc788\uc5c8\uc5b4\uc694 \u3160\u3160",
+        "ts": "1468496425.000055"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "sudo service docker start\ub77c \uc785\ub825\ud558\uba74 Job for docker.service failed because the control process exited with error code. See \"systemctl status docker.service\" and \"journalctl -xe\" for details.",
+        "ts": "1468496446.000056"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ub77c\uace0 \ub739\ub2c8\ub2e4! <@U024SHLFH>",
+        "ts": "1468496453.000057"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ub2d8, <@U024SN0KW> \ub2d8.",
+        "ts": "1468496465.000058"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "journalctl -xe \ud574\ubcf4\uba74 \uc5b4\ub5a4 \uc5d0\ub7ec\uac00 \ub728\ub098\uc694?",
+        "ts": "1468496474.000059"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "-- Unit docker.service has failed.\n--\n-- The result is failed.\nJul 14 11:39:38 dragonfruit systemd[1]: docker.service: Unit entered failed stat\nJul 14 11:39:38 dragonfruit systemd[1]: docker.service: Failed with result 'exit\nJul 14 11:39:38 dragonfruit systemd[1]: docker.service: Start request repeated t\nJul 14 11:39:38 dragonfruit systemd[1]: Failed to start Docker Application Conta\n-- Subject: Unit docker.service has failed\n-- Defined-By: systemd\n-- Support: <http:\/\/lists.freedesktop.org\/mailman\/listinfo\/systemd-devel>",
+        "ts": "1468496519.000060"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "-- Unit docker.service has failed.\n--\n-- The result is failed.\nJul 14 11:39:38 dragonfruit systemd[1]: docker.socket: Unit entered failed state.\nJul 14 11:40:01 dragonfruit CRON[13857]: pam_unix(cron:session): session opened for user jambo by (uid=0)\nJul 14 11:40:01 dragonfruit CRON[13858]: (jambo) CMD (sh \/home\/jambo\/cron.sh)\nJul 14 11:40:01 dragonfruit CRON[13857]: (CRON) info (No MTA installed, discarding output)\nJul 14 11:40:01 dragonfruit CRON[13857]: pam_unix(cron:session): session closed for user jambo\nJul 14 11:41:01 dragonfruit CRON[13860]: pam_unix(cron:session): session opened for user jambo by (uid=0)\nJul 14 11:41:01 dragonfruit CRON[13861]: (jambo) CMD (sh \/home\/jambo\/cron.sh)\nJul 14 11:41:01 dragonfruit CRON[13860]: (CRON) info (No MTA installed, discarding output)\nJul 14 11:41:01 dragonfruit CRON[13860]: pam_unix(cron:session): session closed for user jambo",
+        "ts": "1468496533.000061"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ub77c\uace0 \ub728\ub124\uc694.",
+        "ts": "1468496552.000062"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ucd94\uac00\ub85c systemctl status docker.service\ub294",
+        "ts": "1468497129.000063"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\u25cf docker.service - Docker Application Container Engine\n   Loaded: loaded (\/lib\/systemd\/system\/docker.service; enabled; vendor preset: enabled)\n   Active: failed (Result: exit-code) since Thu 2016-07-14 11:39:38 UTC; 11min ago\n     Docs: <https:\/\/docs.docker.com>\n  Process: 13839 ExecStart=\/usr\/bin\/docker daemon -H fd:\/\/ $DOCKER_OPTS (code=exited, status=1\/FAILURE)\n Main PID: 13839 (code=exited, status=1\/FAILURE)\n\nJul 14 11:39:38 dragonfruit systemd[1]: Starting Docker Application Container Engine...\nJul 14 11:39:38 dragonfruit docker[13839]: time=\"2016-07-14T11:39:38.389107449Z\" level=error msg=\"[graphdriver] prior storage driver \\\"aufs\\\" failed: permission denied\"\nJul 14 11:39:38 dragonfruit docker[13839]: time=\"2016-07-14T11:39:38.389225572Z\" level=fatal msg=\"Error starting daemon: error initializing graphdriver: permission denied\"\nJul 14 11:39:38 dragonfruit systemd[1]: docker.service: Main process exited, code=exited, status=1\/FAILURE\nJul 14 11:39:38 dragonfruit systemd[1]: Failed to start Docker Application Container Engine.\nJul 14 11:39:38 dragonfruit systemd[1]: docker.service: Unit entered failed state.\nJul 14 11:39:38 dragonfruit systemd[1]: docker.service: Failed with result 'exit-code'.\nJul 14 11:39:38 dragonfruit systemd[1]: docker.service: Start request repeated too quickly.\nJul 14 11:39:38 dragonfruit systemd[1]: Failed to start Docker Application Container Engine.\nroot@dragonfruit:~#",
+        "attachments": [
+            {
+                "service_name": "Docker",
+                "title": "Docker Docs",
+                "title_link": "https:\/\/docs.docker.com",
+                "fallback": "Docker: Docker Docs",
+                "image_url": "https:\/\/www.docker.com\/sites\/default\/files\/social\/docker-twitter-share.png",
+                "ts": 1464596303,
+                "from_url": "https:\/\/docs.docker.com",
+                "image_width": 625,
+                "image_height": 250,
+                "image_bytes": 49214,
+                "service_icon": "https:\/\/docs.docker.com\/.\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468497136.000064"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ub77c\uace0 \ub728\ub124\uc694 \u3160\u3160",
+        "ts": "1468497147.000066"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uadf8\ub798\ud504 \ub4dc\ub77c\uc774\ubc84...?",
+        "ts": "1468497181.000067"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc911\uac04\uc758 \ud37c\ubbf8\uc158 \ub514\ub098\uc774\ub4dc\ub294 \uc5b4\ub5a4 \uac70\uc608\uc6a9?",
+        "ts": "1468497192.000068"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "kernel \ubc84\uc804\uc774?",
+        "ts": "1468497769.000069"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "\/var\/lib\/docker\/aufs \uc5d0 \uc811\uadfc \uac00\ub2a5\ud55c\uc9c0\ub3c4 \ud655\uc778\uc880..",
+        "ts": "1468497781.000070"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "kernel version\uc740\n\nroot@dragonfruit:~# cat \/proc\/version\nLinux version 4.4.0-28-generic (buildd@lcy01-13) (gcc version 5.3.1 20160413 (Ubuntu 5.3.1-14ubuntu2.1) ) #47-Ubuntu SMP Fri Jun 24 10:09:13 UTC 2016",
+        "ts": "1468498090.000071"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc774\uace0\uc694.\n\/var\/lib\/docker\/aufs\ub294 \uc811\uc18d \ub418\ub294\ub370 \uc8fc\uc11d\ucc98\ub9ac\ub41c \uc904\ub4e4(\uc124\uba85\ub4e4)\uc774\ub791\n\n.\/\n\/\n\ub9cc \uc4f0\uc5ec\uc838\uc788\ub124\uc694.",
+        "ts": "1468498142.000072"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc911\uac04\uc758 \ud37c\ubbf8\uc158 \ub514\ub098\uc774\ub4dc\ub294 \uc798 \ubaa8\ub974\uaca0\uc2b5\ub2c8\ub2e4 \u3160\u3160",
+        "ts": "1468498221.000073"
+    },
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "rm -rf \/var\/lib\/docker\/aufs \ub97c \uc2dc\uc804\ud574\ubcf4\uba74?",
+        "ts": "1468498381.000074"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc9c0\uae08 \ud720\uc138\ubbf8\ub098 \ub3c4\uc911\uc774\ub77c\uc11c \uc870\uae08\ub9cc \uc774\ub530 \ud574\ubcf4\uace0 \ub2f5 \ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4!!",
+        "ts": "1468498730.000075"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\ub0b4\uc77c \uc544\uce68\uae4c\uc9c0 \ud574\ubcf4\uace0 \ub2f5 \ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4 \uc9c0\uae08 \ubc16\uc5d0 \ub098\uc640\uc11c\uc694 \u315c\u315c",
+        "ts": "1468501584.000076"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<http:\/\/andrea.corbellini.name\/2016\/04\/13\/docker-swarm-inside-lxc\/>",
+        "ts": "1468522719.000077"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "rm -rf \/var\/lib\/docker\/aufs \ub97c \uc2dc\uc804\ud574\ub3c4 \ud070 \ucc28\uc774\ub294 \uc5c6\ub124\uc694",
+        "ts": "1468523932.000078"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "-- Subject: Unit docker.service has begun start-up\n-- Defined-By: systemd\n-- Support: <http:\/\/lists.freedesktop.org\/mailman\/listinfo\/systemd-devel>\n--\n-- Unit docker.service has begun starting up.\nJul 14 19:12:42 dragonfruit docker[21173]: time=\"2016-07-14T19:12:42.228767121Z\" level=fatal msg=\"Error starting daemon: error initializing graphdriver: permission denied\"\nJul 14 19:12:42 dragonfruit systemd[1]: docker.service: Main process exited, code=exited, status=1\/FAILURE\nJul 14 19:12:42 dragonfruit systemd[1]: Failed to start Docker Application Container Engine.\n-- Subject: Unit docker.service has failed\n-- Defined-By: systemd\n-- Support: <http:\/\/lists.freedesktop.org\/mailman\/listinfo\/systemd-devel>\n--\n-- Unit docker.service has failed.\n--\n-- The result is failed.\nJul 14 19:12:42 dragonfruit systemd[1]: docker.service: Unit entered failed state.\nJul 14 19:12:42 dragonfruit systemd[1]: docker.service: Failed with result 'exit-code'.\nJul 14 19:13:01 dragonfruit CRON[21196]: pam_unix(cron:session): session opened for user jambo by (uid=0)\nJul 14 19:13:01 dragonfruit CRON[21197]: (jambo) CMD (sh \/home\/jambo\/cron.sh)\nJul 14 19:13:01 dragonfruit CRON[21196]: pam_unix(cron:session): session closed for user jambo\nJul 14 19:14:01 dragonfruit CRON[21210]: pam_unix(cron:session): session opened for user jambo by (uid=0)\nJul 14 19:14:01 dragonfruit CRON[21211]: (jambo) CMD (sh \/home\/jambo\/cron.sh)\nJul 14 19:14:01 dragonfruit CRON[21210]: pam_unix(cron:session): session closed for user jambo\n\ub85c journalctl -xe\ub97c \ucce4\uc744\ub54c \uc5d0\ub7ec \uba54\uc2dc\uc9c0\uac00 \uc870\uae08 \ubc14\ub00c\ub294 \ucc28\uc774\uac00 \uc788\uc5c8\uc2b5\ub2c8\ub2e4",
+        "ts": "1468523965.000079"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "<@U024SHSMT> \ub2d8\uc774 \uc62c\ub824\uc8fc\uc2e0 <http:\/\/andrea.corbellini.name\/2016\/04\/13\/docker-swarm-inside-lxc\/> \uc5d0 \ub098\uc640\uc788\ub294 \ud29c\ud1a0\ub9ac\uc5bc\uc744 \ub530\ub77c\uac00\uba74 \ub420\uae4c\uc694?",
+        "ts": "1468524046.000080"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc544\ub1e8 \ub2f9\uc5f0\ud788 \uc0c1\ud669\uc5d0 \ub9de\uac8c \uace0\uccd0\uc11c..",
+        "ts": "1468524067.000081"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F1RQZQHS7\/pasted_image_at_2016_07_15_04_21_am.png|Pasted image at 2016-07-15, 4:21 AM>",
+        "file": {
+            "id": "F1RQZQHS7",
+            "created": 1468524104,
+            "timestamp": 1468524104,
+            "name": "Pasted image at 2016_07_15 04_21 AM.png",
+            "title": "Pasted image at 2016-07-15, 4:21 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 24146,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1RQZQHS7\/pasted_image_at_2016_07_15_04_21_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1RQZQHS7\/download\/pasted_image_at_2016_07_15_04_21_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RQZQHS7-76cb0469ab\/pasted_image_at_2016_07_15_04_21_am_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RQZQHS7-76cb0469ab\/pasted_image_at_2016_07_15_04_21_am_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RQZQHS7-76cb0469ab\/pasted_image_at_2016_07_15_04_21_am_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 79,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RQZQHS7-76cb0469ab\/pasted_image_at_2016_07_15_04_21_am_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 105,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RQZQHS7-76cb0469ab\/pasted_image_at_2016_07_15_04_21_am_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RQZQHS7-76cb0469ab\/pasted_image_at_2016_07_15_04_21_am_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 157,
+            "image_exif_rotation": 1,
+            "original_w": 774,
+            "original_h": 169,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F1RQZQHS7\/pasted_image_at_2016_07_15_04_21_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1RQZQHS7-6b04917aca",
+            "channels": [
+                "C02DT8RQ7"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1468524106.000082"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\uc774\uac8c \ud575\uc2ec\uc778\uac70\uac19\uc740\ub370 \uc800\ub3c4 \uc880 \ub354 \ubcf4\uace0\uc694",
+        "ts": "1468524111.000083"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024SHSMT|leeopop> uploaded a file: <https:\/\/sparcs.slack.com\/files\/leeopop\/F1RSA2UH2\/pasted_image_at_2016_07_15_04_24_am.png|Pasted image at 2016-07-15, 4:24 AM>",
+        "file": {
+            "id": "F1RSA2UH2",
+            "created": 1468524244,
+            "timestamp": 1468524244,
+            "name": "Pasted image at 2016_07_15 04_24 AM.png",
+            "title": "Pasted image at 2016-07-15, 4:24 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024SHSMT",
+            "editable": false,
+            "size": 79070,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1RSA2UH2\/pasted_image_at_2016_07_15_04_24_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1RSA2UH2\/download\/pasted_image_at_2016_07_15_04_24_am.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RSA2UH2-5034a1d644\/pasted_image_at_2016_07_15_04_24_am_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RSA2UH2-5034a1d644\/pasted_image_at_2016_07_15_04_24_am_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RSA2UH2-5034a1d644\/pasted_image_at_2016_07_15_04_24_am_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 217,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RSA2UH2-5034a1d644\/pasted_image_at_2016_07_15_04_24_am_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 290,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RSA2UH2-5034a1d644\/pasted_image_at_2016_07_15_04_24_am_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1RSA2UH2-5034a1d644\/pasted_image_at_2016_07_15_04_24_am_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 435,
+            "image_exif_rotation": 1,
+            "original_w": 835,
+            "original_h": 504,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/leeopop\/F1RSA2UH2\/pasted_image_at_2016_07_15_04_24_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1RSA2UH2-b961d99ca3",
+            "channels": [
+                "C02DT8RQ7"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024SHSMT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024SHSMT|leeopop>",
+        "bot_id": null,
+        "ts": "1468524246.000084"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ub300\ucda9 \uc798 \ub418\ub294\uac70\uac19\ub124\uc694",
+        "ts": "1468524248.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "<@U0VBXNPNF>: \uc7ac\ubd80\ud305\ud55c\ubc88\ub9cc\ud560\uac8c\uc694",
+        "ts": "1468524722.000086"
+    },
+    {
+        "type": "message",
+        "user": "U0VBXNPNF",
+        "text": "\uc6b0\uc640 \u314e\u314e \uac10\uc0ac\ud569\ub2c8\ub2e4. \ub530\ub77c\uc11c \ud574\ubcf4\uace0 \uc548\ub418\uba74 \ub2e4\uc2dc \uc9c8\ubb38\ub4dc\ub9b4\uac8c\uc694!",
+        "ts": "1468526421.000087"
+    }
+]

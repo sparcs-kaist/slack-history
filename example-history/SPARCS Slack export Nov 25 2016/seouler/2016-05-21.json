@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0KW|combacsa> has joined the channel",
+        "ts": "1463887887.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<@U025KCACZ>: \uc11c\uc6b8\ub7ec?",
+        "ts": "1463887894.000003"
+    }
+]

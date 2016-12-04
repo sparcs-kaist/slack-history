@@ -1,0 +1,42 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:session] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c32f50fee6092d971b2b21379d24f2fedee2840f|1 new commit> by Jeong Woon Choi",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/c32f50fee6092d971b2b21379d24f2fedee2840f|c32f50f>: Added next redirection feature, change user username - Jeong Woon Choi",
+                "pretext": "[otlplus:session] 1 new commit by Jeong Woon Choi:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453007643.000075"
+    },
+    {
+        "text": "",
+        "bot_id": "B0DBWDXQU",
+        "attachments": [
+            {
+                "fallback": "[otlplus:review] <https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/5571ef3ad02fb8f30d0f2ed3aa791fd0ff223c9c|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/otlplus\/commit\/5571ef3ad02fb8f30d0f2ed3aa791fd0ff223c9c|5571ef3>: implemented taken_lecture_list script - TaeHyun",
+                "pretext": "[otlplus:review] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1453011022.000076"
+    }
+]

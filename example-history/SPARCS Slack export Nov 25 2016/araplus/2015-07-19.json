@@ -1,0 +1,393 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/1354237|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/1354237|1354237>: naive datetime... \ubb38\uc81c \ud574\uacb0, \ud14c\uc2a4\ud2b8 \ucf54\ub4dc \uc0ad\uc81c, \ub300\ub313\uae00 \uc785\ub825\ucc3d \uc704\uce58 \ubcc0\uacbd. - rlaalstn5383",
+                "pretext": "[araplus:board_refactoring] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437302694.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/19961f3|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/19961f3|19961f3>: \ub313\uae00 \uc791\uc131, \uc218\uc815, \ub300\ub313\uae00 \uc791\uc131\uc2dc \ucffc\ub9ac\uc2a4\ud2b8\ub9c1 \uc720\uc9c0\ub418\uac8c \uc218\uc815. - rlaalstn5383",
+                "pretext": "[araplus:board_refactoring] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437303562.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38|Issue created> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "text": "\uc77c\uc815 \ucd94\ucc9c\uc218 \uc774\uc0c1\uc758 \uae00\uc744 \uc790\ub3d9\uc73c\ub85c \ubaa8\uc544\uc8fc\ub294 \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310\uc744 \ub9cc\ub4e0\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "title": "#38 \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437304451.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39|Issue created> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "text": "\uc774\ubbf8 \uc77d\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc\n(\uae00 \uc55e\uc5d0 N, U \ud45c\uc2dc)",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "title": "#39 \uc774\ubbf8 \uc77d\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437311165.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/19961f3c59a4...df8d9694f5a4|2 new commits> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b0ef247|b0ef247>: model \ubcc0\ud654\ub85c delete \uc548 \ub418\ub358 \ubb38\uc81c \ud574\uacb0, refactored. - rlaalstn5383\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/df8d969|df8d969>: \uc77d\uc9c0 \uc54a\uc740 \uac8c\uc2dc\ubb3c \uc55e\uc5d0 N \ud45c\uc2dc, BoardPostIs_read \ubaa8\ub378 \ucd94\uac00. - rlaalstn5383",
+                "pretext": "[araplus:board_refactoring] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/19961f3c59a4...df8d9694f5a4|2 new commits> by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437313503.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39#issuecomment-122662601|#39: \uc774\ubbf8 \uc77d\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc>",
+                "text": "N \ud45c\uc2dc\ub9cc \uad6c\ud604 \ud588\uc2b5\ub2c8\ub2e4.\ndf8d9694f5a4a83cefe2c4010c71819fea62439e",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/39#issuecomment-122662601|#39: \uc774\ubbf8 \uc77d\uc740 \uac8c\uc2dc\ubb3c\/ \uc5c5\ub370\uc774\ud2b8 \ub41c \uac8c\uc2dc\ubb3c \ud45c\uc2dc>",
+                "title": "Comment by rlaalstn5383\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437313551.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/40|Issue created> by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "text": "\uba54\uc2dc\uc9c0\uc640 \uac1c\uc778 \uc815\ubcf4\ub97c \uad00\ub9ac\ud560 \uc218 \uc788\ub294 \ub9c1\ud06c\ub97c \ud3ec\ud568\ud55c \uba54\uc778 \ud398\uc774\uc9c0 \uc791\uc131",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "title": "#40 Session \uba54\uc778 \ud398\uc774\uc9c0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/40",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437318003.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:revert] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/7933893ce098...a2cc14be8b88|2 new commits> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/901037e|901037e>: Password reset (now working) - zazang\n <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/a2cc14b|a2cc14b>: Merge - zazang",
+                "pretext": "[sparcssso:revert] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/compare\/7933893ce098...a2cc14be8b88|2 new commits> by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437330071.000016"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:revert] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8db320c|1 new commit> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8db320c|8db320c>: Password Reset - zazang",
+                "pretext": "[sparcssso:revert] 1 new commit by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437335697.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:revert] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/03f537a|1 new commit> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/03f537a|03f537a>: requirements.txt - zazang",
+                "pretext": "[sparcssso:revert] 1 new commit by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437372244.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:revert] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/6cd1b11|1 new commit> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/6cd1b11|6cd1b11>: Changed model and view about Auth\/Reset pw token. - zazang",
+                "pretext": "[sparcssso:revert] 1 new commit by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437373655.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/8#issuecomment-122774352|#8: \uc774\uba54\uc77c\uc744 \uc774\uc6a9\ud55c \ud328\uc2a4\uc6cc\ub4dc \uc7ac\uc124\uc815 \uae30\ub2a5> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "text": "6cd1b1183f4af7f751c6330ff2415c2d7b586fd8",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on issue <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/8#issuecomment-122774352|#8: \uc774\uba54\uc77c\uc744 \uc774\uc6a9\ud55c \ud328\uc2a4\uc6cc\ub4dc \uc7ac\uc124\uc815 \uae30\ub2a5> (assigned to <https:\/\/github.com\/ghghgh777|ghghgh777>)",
+                "title": "Comment by ghghgh777\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437373674.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/8|#8 \uc774\uba54\uc77c\uc744 \uc774\uc6a9\ud55c \ud328\uc2a4\uc6cc\ub4dc \uc7ac\uc124\uc815 \uae30\ub2a5> by <https:\/\/github.com\/ghghgh777|ghghgh777>",
+                "text": "[sparcs-kaist\/sparcssso] Issue closed: <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/8|#8 \uc774\uba54\uc77c\uc744 \uc774\uc6a9\ud55c \ud328\uc2a4\uc6cc\ub4dc \uc7ac\uc124\uc815 \uae30\ub2a5> by <https:\/\/github.com\/ghghgh777|ghghgh777>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437373674.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ce7b338#commitcomment-12246667|ce7b338>",
+                "text": "\uc544\ub798\uc5d0\uc11c page=1\uc744 \ucc98\ub9ac\ud574\uc8fc\uae30\ub54c\ubb38\uc5d0 \uc774\ubd80\ubd84\uc740 \uc5c6\uc5b4\ub3c4 \ub420 \uac83 \uac19\ub124\uc694.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ce7b338#commitcomment-12246667|ce7b338>",
+                "title": "Comment on line 37 by StoryKim\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437373831.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/9|Issue created> by <https:\/\/github.com\/ghghgh777|ghghgh777>",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/ghghgh777|ghghgh777>",
+                "title": "#9 Coding Convention &amp; Code Refactoring",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/9",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437373847.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/41|Issue created> by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "text": "\uba54\uc2dc\uc9c0\uc640 \uac1c\uc778 \uc815\ubcf4\ub97c \uad00\ub9ac\ud560 \uc218 \uc788\ub294 \ub9c1\ud06c\ub97c \ud3ec\ud568\ud55c \uba54\uc778 \ud398\uc774\uc9c0 \uc791\uc131",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "title": "#41 Session \uba54\uc778 \ud398\uc774\uc9c0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/41",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437374015.000024"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/41#issuecomment-122774745|#41: Session \uba54\uc778 \ud398\uc774\uc9c0>",
+                "text": "duplicate issue #40 ",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/41#issuecomment-122774745|#41: Session \uba54\uc778 \ud398\uc774\uc9c0>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437374041.000025"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/41|#41 Session \uba54\uc778 \ud398\uc774\uc9c0> by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/41|#41 Session \uba54\uc778 \ud398\uc774\uc9c0> by <https:\/\/github.com\/Shavakan|Shavakan>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437374041.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8261866|1 new commit> by hsh0908y",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8261866|8261866>: message \uad00\ub828 \ubaa8\ub4e0 \ud398\uc774\uc9c0\uc5d0\uc11c message \uba54\ub274\ubc14\ub97c \ubcfc \uc218 \uc788\uac8c \ubcc0\uacbd - hsh0908y",
+                "pretext": "[araplus:message] 1 new commit by hsh0908y:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437375598.000027"
+    }
+]

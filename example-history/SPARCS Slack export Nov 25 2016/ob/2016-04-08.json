@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "<@U024SPDHG>: zsh \uc88b\uc74c?",
+        "ts": "1460120757.000002"
+    },
+    {
+        "user": "U024SPDHG",
+        "inviter": "U02F4BE42",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SPDHG|daybreaker> has joined the channel",
+        "ts": "1460120769.000003"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc800\uae30\uc11c \uc7a1\ub2f4\ud558\uae30 \ubbf8\uc548\ud574\uc11c \u314b\u314b",
+        "ts": "1460120783.000004"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc544\ub2c8 \uc774\ub7f0 \ucc44\ub110\uc774 \uc788\uc5c8\ub2e4\ub2c8...",
+        "ts": "1460125023.000005"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "zsh \uc88b\uc544\uc694 \u314b\u314b",
+        "ts": "1460125027.000006"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc0ac\uc2e4 \uae30\uc220\uc801\uc73c\ub85c zsh \ub418\ub294 \uac8c bash\uc5d0\uc11c\ub3c4 \ub2e4 \ub418\ub294 \uac83\uc774\uae34 \ud560 \uac83 \uac19\uc740\ub370",
+        "ts": "1460125043.000007"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "oh-my-zsh\ub77c\ub294 \ud0ac\ub7ec\uc571(?)\uc774 \uc788\uc5b4\uc11c...",
+        "ts": "1460125055.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc694\uc998 \ub4e4\uc5b4\uc11c \uc5ed\uc2dc \ub514\ud3f4\ud2b8\uac00 \uc911\uc694\ud558\ub2e4\ub294 \uc0dd\uac01\uc744..",
+        "ts": "1460125074.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "zsh...!",
+        "ts": "1460125982.000010"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc624\ud64d",
+        "ts": "1460127804.000011"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\u314b\u314b\u314b\u314b",
+        "ts": "1460127805.000012"
+    }
+]

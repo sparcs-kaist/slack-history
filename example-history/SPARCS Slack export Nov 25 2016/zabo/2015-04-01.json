@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03H8L275|daedoo> uploaded a file: <https:\/\/sparcs.slack.com\/files\/daedoo\/F0486R9B9\/_____________-1.jpg|\ud504\uc0ac\uccb4\uc778\uc9c0>",
+        "file": {
+            "id": "F0486R9B9",
+            "created": 1427878234,
+            "timestamp": 1427878234,
+            "name": "\uc81c\ubaa9 \uc5c6\uc74c-1.jpg",
+            "title": "\ud504\uc0ac\uccb4\uc778\uc9c0",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03H8L275",
+            "editable": false,
+            "size": 27163,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0486R9B9\/_____________-1.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F0486R9B9\/download\/_____________-1.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0486R9B9-4582c9b4d4\/_____________-1_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0486R9B9-4582c9b4d4\/_____________-1_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0486R9B9-4582c9b4d4\/_____________-1_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 100,
+            "thumb_360_h": 100,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F0486R9B9-4582c9b4d4\/_____________-1_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 100,
+            "original_h": 100,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/daedoo\/F0486R9B9\/_____________-1.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F0486R9B9-2a79a1acdc",
+            "channels": [
+                "C026ZD3GT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03H8L275",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U03H8L275|daedoo>",
+        "bot_id": null,
+        "ts": "1427878235.000043"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uad7f\ubaa8\ub2dd \ud53c\ud50c",
+        "ts": "1427887054.000044"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/74e5a11538f2...20eb585b1e6a|2 new commits> by coffee",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/7175850|7175850>: Modify ajax request with accept setting for debug - coffee\n <https:\/\/github.com\/sparcs-kaist\/dejavo\/commit\/20eb585|20eb585>: Overflow title hided in category page - coffee",
+                "pretext": "[dejavo:develop] <https:\/\/github.com\/sparcs-kaist\/dejavo\/compare\/74e5a11538f2...20eb585b1e6a|2 new commits> by coffee:",
+                "id": 1,
+                "color": "4183c4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1427898657.000045"
+    },
+    {
+        "text": "",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/14|#14 account image\uc640 host image rendering \uc218\uc815> by <https:\/\/github.com\/poap|poap>",
+                "text": "[sparcs-kaist\/dejavo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/dejavo\/issues\/14|#14 account image\uc640 host image rendering \uc218\uc815> by <https:\/\/github.com\/poap|poap>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1427898692.000046"
+    }
+]

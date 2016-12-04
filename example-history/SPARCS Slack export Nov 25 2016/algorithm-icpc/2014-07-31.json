@@ -1,0 +1,37 @@
+[
+    {
+        "user": "U026NDWJW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U026NDWJW|apple> has joined the channel",
+        "ts": "1406833410.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "ts": "1406874243.000002"
+    },
+    {
+        "user": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024U2P7Y|suckzo_o> has left the channel",
+        "ts": "1406874257.000003"
+    },
+    {
+        "user": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0KW|combacsa> has joined the channel",
+        "ts": "1406876119.000002"
+    },
+    {
+        "user": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SN0KW|combacsa> has left the channel",
+        "ts": "1406876134.000003"
+    }
+]

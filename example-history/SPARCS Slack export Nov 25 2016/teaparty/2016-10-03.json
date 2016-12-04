@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "user": "U02CPPE8C",
+        "text": "\uc5b4... \uc774\ubc88 \uc8fc \uc77c\uc694\uc77c\uc740 \uc800\ub294 \ucc38\uc11d \uc5b4\ub824\uc6b8 \uc218\ub3c4 \uc788\uc5b4\uc694. \uc800 \uc0c1\uad00\uc5c6\uc774 \uccab \ubaa8\uc784 \uc9c4\ud589\ud558\uc2dc\ub294\uac8c \ub098\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4~",
+        "ts": "1475478077.000208"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "OTLPLUS \ud68c\uc758\uac00 \uc77c\uc694\uc77c \ubc24\uc5d0 \uc788\uc5b4\uc11c \uc800\ub294 \ud2f0\ud30c\ud2f0 \ucc38\uc11d\uc774 \uc5b4\ub824\uc6b8 \uac83 \uac19\uc544\uc694.",
+        "ts": "1475478630.000209"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub354 \uc2dc\uac04\uc744 \ub4e4\uc5ec\ub3c4 \ub354 \uad1c\ucc2e\uc740 \ub300\uc548\uc774 \ub098\uc62c \uac83 \uac19\uc9c0\ub294 \uc54a\uc73c\ub2c8 \uc800\ub294 \uc774\ubc88 \ud559\uae30 \ud2f0\ud30c\ud2f0\ub294 \ube60\uc9c0\ub294 \uac78\ub85c \ud560\uac8c\uc694 \u3160\u3160",
+        "ts": "1475478654.000210"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uad6c\uacbd\uc774\ub77c\ub3c4 \ud558\uac8c \uc790\ub8cc \uc798 \uc62c\ub824\uc8fc\uc138\uc694!",
+        "ts": "1475478683.000211"
+    },
+    {
+        "user": "U046N9CV2",
+        "text": "<@U046N9CV2|hood> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475559458.000212"
+    }
+]

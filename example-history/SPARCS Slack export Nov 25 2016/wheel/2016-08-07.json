@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "squeeze\ub294 apt-get\uc774 \uc559\ub41c\ub2f5\ub2c8\ub2e4 \u314e\u314e",
+        "ts": "1470579789.000087"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "otl\uc740 otlplus\uac00 \ud65c\ubc1c\ud788 \uac1c\ubc1c\ub418\uace0 \uc788\uc5b4 \ubc14\ub85c plus\ub85c \uac08\uc544\ud0c8 \uc608\uc815\uc774\uace0",
+        "ts": "1470579816.000088"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "ara\ub294 araplus \uc9c4\ud589 \uc0c1\ud669\uc744 \ud55c \ubc88 \ubcf4\uace0 \uc6b4\uc601\uccb4\uc81c \uc5c5\uadf8\ub808\uc774\ub4dc\ub97c \ud560\uc9c0 \ub2e4\uc74c \ubc84\uc804\uc73c\ub85c \ub118\uc5b4\uac08\uc9c0 \uacb0\uc815\ud574\uc57c\ub418\uc694",
+        "ts": "1470579851.000089"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ud65c\ubc1c\ud788 (x) \ub290\ub9bf\ub290\ub9bf (o) \uc778\ub370 \u315c\u315c",
+        "ts": "1470580022.000090"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U04HUNH5L|mango> uploaded a file: <https:\/\/sparcs.slack.com\/files\/mango\/F1Z1G443G\/_____________2.png|\uba54\uc77c\ub9c1_\ub9ac\uc2a4\ud2b8>",
+        "file": {
+            "id": "F1Z1G443G",
+            "created": 1470591587,
+            "timestamp": 1470591587,
+            "name": "\uc81c\ubaa9 \uc5c6\uc74c2.png",
+            "title": "\uba54\uc77c\ub9c1_\ub9ac\uc2a4\ud2b8",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U04HUNH5L",
+            "editable": false,
+            "size": 86691,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1Z1G443G\/_____________2.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1Z1G443G\/download\/_____________2.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 191,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 255,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 383,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_960.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 511,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1Z1G443G-60943acdb2\/_____________2_1024.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 545,
+            "image_exif_rotation": 1,
+            "original_w": 1237,
+            "original_h": 658,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/mango\/F1Z1G443G\/_____________2.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1Z1G443G-bba175734d",
+            "channels": [
+                "C02DT8RQ7"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U04HUNH5L",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U04HUNH5L|mango>",
+        "bot_id": null,
+        "ts": "1470591590.000091"
+    },
+    {
+        "type": "message",
+        "user": "U04HUNH5L",
+        "text": "wheel \uba54\uc77c\ub85c \uc6d0\ub798 \uc2a4\ud338\uc774 \ub9ce\uc774 \uc624\ub098\uc694?",
+        "edited": {
+            "user": "U04HUNH5L",
+            "ts": "1470591640.000000"
+        },
+        "ts": "1470591596.000092"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\ub124",
+        "ts": "1470629577.000094"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uadf8\ub798\uc11c \ud56d\uc0c1 gmail \uc2a4\ud338\ud568\uc5d0 \uac00 \ubcf4\uba74 \uc794\ub729\uc794\ub729 \uc640 \uc788\ub354\ub77c\uad6c\uc694 \u3160\u3160",
+        "ts": "1470629592.000095"
+    }
+]

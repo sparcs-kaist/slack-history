@@ -1,0 +1,678 @@
+[
+    {
+        "user": "U024U2P7Y",
+        "text": "<@U024U2P7Y|suckzo_o> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474257629.000002"
+    },
+    {
+        "user": "U026JLU7V",
+        "text": "<@U026JLU7V|lucidash> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474257631.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "hello world! \u00af\\_(\u30c4)_\/\u00af",
+        "ts": "1474257643.000004"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ud5ec\ub85c\ud5ec\ub85c~",
+        "ts": "1474257658.000005"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ud5ec\ub85c\uc6b0",
+        "ts": "1474257659.000006"
+    },
+    {
+        "user": "U0GRXSW8J",
+        "text": "<@U0GRXSW8J|minwoo.lee> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474257667.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1474257671.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc99d\uba85\uc740",
+        "ts": "1474257685.000009"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c...",
+        "ts": "1474257685.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5c4...",
+        "ts": "1474257687.000011"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "json [12:54 PM]  \nN\uac1c\uc758 \uc22b\uc790\ub4e4\uc774 \uad6c\ubcc4\ud560 \uc218 \uc5c6\ub294 M \uac1c\uc758 \uc9d1\ud569\uc5d0 \ub4e4\uc5b4\uc788\uace0\ne.g. {1, 3, 6}, {2}, {4, 5}\n\n[12:54]  \n\ubaa9\ud45c\ub85c \ud558\ub294 \ubc30\uc815 \uc0c1\ud0dc\uac00 \uc8fc\uc5b4\uc9c4\ub2e4\uace0 \ud588\uc744 \ub54c\ne.g. {1, 2, 4}, {3, 5, 6}, {}\n\n[12:54]  \nelement\ub97c \uc62e\uae30\ub294(\ud55c \uc9d1\ud569\uc5d0\uc11c \uc81c\uac70\ud558\uace0 \ub2e4\ub978 \uc9d1\ud569\uc5d0 \ub123\ub294) \ud69f\uc218\ub97c \ucd5c\uc18c\ub85c \ud558\ub824\uba74 \uc5b4\ub5bb\uac8c \ud574\uc57c \ud560\uae4c\uc694?",
+        "ts": "1474257687.000012"
+    },
+    {
+        "user": "U024SKNH9",
+        "text": "<@U024SKNH9|whitegold> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474257687.000013"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc74c...",
+        "ts": "1474257687.000014"
+    },
+    {
+        "user": "U0VND23FW",
+        "text": "<@U0VND23FW|json> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474257713.000015"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "allocation\uc774 \uc0c1\uad00 \uc5c6\ub2e4\ub294 \uce21\uba74\uc5d0\uc11c",
+        "ts": "1474257717.000016"
+    },
+    {
+        "user": "U024SNC3Y",
+        "text": "<@U024SNC3Y|iterator> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474257717.000017"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc67c\ucabd \ub178\ub4dc\ub4e4\uc740",
+        "ts": "1474257723.000018"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624\ub978\ucabd M\uac1c \ub178\ub4dc\ub85c \uac00\ub294 \uc5d7-\uc9c0\ub97c \uc804\ubd80 \uac16\ub294\u2026?",
+        "ts": "1474257737.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544 \uc99d\uba85 \uc5b4\ub835\ub124\uc694",
+        "ts": "1474257771.000020"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc9d1\ud569 \uc21c\uc11c\uac00 \uc0c1\uad00\uc774 \uc5c6\ub294\uac70\uad6c\ub098",
+        "ts": "1474257789.000021"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uc5e3\uc9c0 \uac00\uc911\uce58\ub97c \ubb58\ub85c\ud574? \uc67c\ucabd \ub178\ub4dc state\ub97c \ub9e4\uce6d \ub418\ub294 \uc624\ub978\ucabd \ub178\ub4dc state\ub85c \ubc14\uafb8\ub294\ub370 \ud544\uc694\ud55c operation \uac2f\uc218?",
+        "ts": "1474257801.000022"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc22b\uc790 \uc911\ubcf5\uc740 \uc5c6\ub098\uc694?",
+        "ts": "1474257822.000023"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\ub124 \uc911\ubcf5\ub418\ub294 \uc22b\uc790\ub294 \uc5c6\uad6c\uc694 \u314e\u314e",
+        "ts": "1474257830.000024"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud558",
+        "ts": "1474257834.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\uac8c \uc62e\uae30\ub294\uac70\ub77c \uc880 \ub354 \ube61\uce58\ub294 \ubb38\uc81c\uad70\uc694",
+        "ts": "1474257838.000026"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "123\uc744 134\ub85c \ubc14\uafb8\ub824\uba74 2\ub97c \ube7c\uace0 4\ub97c \ub123\uc73c\ub2c8\uae4c",
+        "ts": "1474257868.000027"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub300\uce6d\ucc28\uc9d1\ud569?\uc758 \ud06c\uae30\uac00 \ub418\ub294\ub370",
+        "ts": "1474257880.000028"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "`{1, 3, 6}, {2}, {4, 5}  -&gt;  {1, 2, 4}, {3, 5, 6}, {}`",
+        "ts": "1474257914.000029"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc774\uac70\uc758 \uacbd\uc6b0 \ub2f5\uc774 \ubb50\uc8e0? 4\uc778\uac00",
+        "ts": "1474257921.000030"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "1\uacfc 4\ub97c {2} \ub85c \uc62e\uae30\uace0 5\ub97c {6} \uc73c\ub85c \ud558\uba74 \ub418\ub2c8 3 \uc544\ub2d0\uae4c\uc694",
+        "ts": "1474257954.000031"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub124 \uc800\ub3c4 \uadf8\ub807\uac8c \uacc4\uc0b0",
+        "ts": "1474257978.000032"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\ub124 3 \uc774\uc694",
+        "ts": "1474257986.000033"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc544 3\uc774\uad6c\ub098",
+        "ts": "1474258024.000034"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub9e4\uce6d\uc740 136-356, 2-124, 45-\/ \uc774\uace0",
+        "ts": "1474258082.000035"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ud69f\uc218\ub9cc \ud544\uc694\ud55c\uac00\uc694 \uc62e\uae30\ub294 \ubc29\ubc95\ub3c4 \ud544\uc694\ud55c\uac00\uc694?",
+        "ts": "1474258084.000036"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "cost\ub294 2+2+2",
+        "ts": "1474258109.000037"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uc62e\uae30\ub294 \ubc29\ubc95\ub3c4\uc694. \ud69f\uc218\ub9cc \uad6c\ud558\uba74 \uc26c\uc6cc\uc9c0\ub098\uc694?",
+        "ts": "1474258115.000038"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ubb50 \uadf8\uac74 \uc0dd\uac01\ud574\ubd10\uc57c \uc54c\uc8e0\u314b\u314b\u314b\u314b...",
+        "ts": "1474258135.000039"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uc11d\uc8fc\ucc98\ub7fc Max Cardinality Bipartite Matching \uc73c\ub85c \ud480\uc5b4\ubcfc\uae4c \ud588\ub294\ub370 \uac00\uc911\uce58\ub97c \uc62e\uae30\ub294 \ud69f\uc218\ub85c \ud558\uba74 \ud558\ub098 \uac04\uc120 \uc120\ud0dd\ud558\ub294\uac8c \ub2e4\ub978 \uac04\uc120 \uac12\uc5d0 \uc601\ud5a5\uc744 \uc918\uc11c \uc880 \ubcf5\uc7a1\ud574\uc9c0\ub354\ub77c\uad6c\uc694",
+        "ts": "1474258175.000040"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc65c?",
+        "ts": "1474258193.000041"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub2e4 \ub41c \uac70 \uac19\uc740\ub370...",
+        "ts": "1474258226.000042"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "Network Flow\ub97c \ubaa8\ub974\ub2c8\uae4c \ub300\ud654\uac00 \uc548\ub418\ub294\uad6c\ub9cc \u3160_\u3160 \ud751\ud751.. \uc9dc\uc838\uc57c\uaca0\ub2f9..",
+        "ts": "1474258248.000043"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uac1c\ub150\uc740 \uc548\uc5b4\ub824\uc6b0\ub2c8\uae4c \uac80\uc0c9\ud558\uace0\uc640\u314b\u314b",
+        "ts": "1474258281.000044"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc5b4\ub5bb\uac8c \ucc3e\uc544\ubcf4\ub294\uac8c \uc88b\uc744\uae4c\uc694? \uac80\uc0c9\ud574\ubcf4\uba74 <https:\/\/en.wikipedia.org\/wiki\/Matching_(graph_theory)> \uc774\ub7f0\uac70 \ub098\uc624\ub294\ub370 \ub108\ubb34 generic \ud55c \ud398\uc774\uc9c0\uc778\uac70 \uac19\uc544\uc694",
+        "ts": "1474258318.000045"
+    },
+    {
+        "user": "U02PEJCVA",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474258342.000046"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\ub098\ub294 \uc5b4\ub514\uc11c\ubd24\uc5c8\uc9c0\u3160\u3160\n",
+        "ts": "1474258386.000047"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "wikipedia flow network\n",
+        "ts": "1474258418.000048"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u315c\u315c",
+        "ts": "1474258427.000049"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\ud5d0 2013\ub144\uc5d0 O(mn) \uc54c\uace0\ub9ac\uc998\uc774 \ub098\uc654\uad70\uc694\n",
+        "ts": "1474258457.000050"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "\uc5b4\ub835\ub2e4 \uc124\uba85\uc774\u3160\u3160\n",
+        "ts": "1474258486.000051"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc624 \uc774\ub7f0\uac83\ub4e4\ub3c4 \ube44\uad50\uc801 \ucd5c\uadfc\uc5d0\ub3c4 \uac1c\uc120\ub41c \uc54c\uace0\ub9ac\uc998\uc774 \ub098\uc624\ub294\uad70\uc694",
+        "ts": "1474258506.000052"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc720\uba85\ud55c \ubb38\uc81c\ub4e4\uc740 \ubc1c\uc804 \uac00\ub2a5\uc131\uc774 \uc788\ub2e4 \ud574\ub3c4 \ub9e4\ud2b8\ub9ad\uc2a4 \uacf1 \uc54c\uace0\ub9ac\uc998 \uac1c\uc120\ud558\ub294 \uc218\uc900\uc778\uc904 \uc54c\uc558\ub294\ub370.. \u314e\u314e",
+        "ts": "1474258528.000053"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc9d1\ud569\uc758 \ub9e4\uce6d\uc774 \uacb0\uc815\ub418\uba74",
+        "ts": "1474258661.000054"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc62e\uae30\ub294 \ubc29\ubc95\ub3c4 \uc720\uc77c\ud558\uac8c \uacb0\uc815\ub418\uc9c0 \uc54a\ub098\uc694",
+        "ts": "1474258674.000055"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "&gt; {1}{2} -&gt; {1,2} {} \n\uc758 \uacbd\uc6b0 1\uc744 {2}\ub85c \uc62e\uacbc\uc744 \uc218 \uc788\uace0 2\ub97c {1}\ub97c \uc62e\uacbc\uc744 \uc218 \uc788\uc9c0 \uc54a\ub098\uc694? \uc544\ub2c8\uba74 \uc0c1\uad00\uc774 \uc5c6\ub098\uc694? (\uc81c\uac00 \ubb38\uc81c\ub97c \uc798\ubabb \uc774\ud574\ud588\uc744\uc218\ub3c4)",
+        "ts": "1474258766.000056"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub807\uc8e0?",
+        "ts": "1474258767.000057"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U026NDWJW>: \ub178\uc0c1\uad00\uc785\ub2c8\ub2f9",
+        "ts": "1474258782.000058"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uae00\ucfe4\uc5ec",
+        "ts": "1474258787.000059"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\ub124 \ub9e4\uce6d\uc774 \uacb0\uc815\ub418\uba74 \ubc14\ub85c \uc54c \uc218 \uc788\ub294\ub370",
+        "ts": "1474258792.000060"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\ub9e4\uce6d\uc744 N! \uc73c\ub85c \uacb0\uc815\ud560\uc218\ub294 \uc5c6\uc73c\ub2c8..",
+        "ts": "1474258797.000061"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "<@U0FK63YR2> \ub9e4\uce6d\uc744 \uc5b4\ub5bb\uac8c \uacb0\uc815\ud560\uc9c0\ub97c \uc544\uc9c1 \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694. Maximum matching\uc73c\ub85c \uc774 \ubb38\uc81c\ub97c \uc5b4\ub5bb\uac8c \uc811\uadfc\ud574\uc57c\ub418\ub098\uc694? \uc62e\uae30\ub294 \uac78 \ucd5c\uc18c\ub85c \ud574\uc57c \ud558\ub294\ub370 \uac00\uc911\uce58\ub791 \uc67c\ucabd \uc624\ub978\ucabd \ub178\ub4dc state\ub97c \ubb58\ub85c\ud574\uc57c \ub420\uc9c0 \uc798 \uac10\uc774 \uc548\uc7a1\ud788\ub124\uc694",
+        "ts": "1474258799.000062"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "state\ub294 \uc9d1\ud569 \uc790\uccb4\uace0",
+        "ts": "1474258831.000063"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc9d1\ud569 A\uc640 B\ub97c \uc5f0\uacb0\ud558\ub294 \uc120\uc758 \uac00\uc911\uce58\ub294 |A-B|+|B-A|",
+        "ts": "1474258925.000064"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544",
+        "ts": "1474258954.000065"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc774\ub3d9 \ud69f\uc218\ub294 \uac00\uc911\uce58 \ud569\uc758 \ubc18\uc774\uc8e0",
+        "ts": "1474258955.000066"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8\ub0e5 \uc0ad\uc81c\ub791 \uc0bd\uc785\uc744 \ub2e4 \uc138\uace0",
+        "ts": "1474258963.000067"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub098\ub204\uae30 2\ud558\uba74 \ub418\ub124\uc694",
+        "ts": "1474258968.000068"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ub124\ub124",
+        "ts": "1474258970.000069"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\ud574\ud588\uc5b4\uc694 \uc800\ub294 \uc624\uc608",
+        "ts": "1474259003.000070"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc0bd\uc785\uc0ad\uc81c \ub2f5\uacfc \uc774\ub3d9 \ub2f5\uc774 \uc77c\ub300\uc77c\ub300\uc751\uc774\ubbc0\ub85c \uc774\ub3d9\uc73c\ub85c \ud480\ub824\uace0 \ud560 \ud544\uc694 \uc5c6\uc5b4\uc694",
+        "ts": "1474259068.000071"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uadf8\ub7fc \uc774\uc81c \uc9d1\ud569\uc758 \ub9e4\uce6d\uc744 \uacb0\uc815\ud558\ub294\uac8c \uc5b4\ub824\uc6b4 \ud30c\ud2b8\uc778\uac00\ubcf4\ub124\uc694",
+        "ts": "1474259193.000072"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uadf8\uac74 \ud5dd\uac00\ub9ac\uc548 \uba54\uc18c\ub4dc\ub85c... \ub9de\ub098?",
+        "edited": {
+            "user": "U0FK63YR2",
+            "ts": "1474259223.000000"
+        },
+        "ts": "1474259213.000073"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\ub124 \uadf8\ub7f4\ub4ef\uc694?",
+        "ts": "1474259221.000074"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc800\ub807\uac8c \uadf8\ub798\ud504 \ub9cc\ub4e4\uace0 \ubbfc\ucf54\uc2a4\ud2b8 \ub9e5\uc2a4\ud50c\ub85c\uc6b0 \ub3cc\ub9ac\uba74 \ub420\ub4ef...",
+        "ts": "1474259232.000076"
+    },
+    {
+        "user": "U024SL5UT",
+        "text": "<@U024SL5UT|chaos> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474259240.000077"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "(\uc9dc\ub77c\uace0 \ud558\uba74 \ubabb\uc9dc\uc9c0\ub9cc \uc785\uc73c\ub85c\ub294 \ud480\uc218\uc788\ub2e4)",
+        "ts": "1474259254.000078"
+    },
+    {
+        "user": "U0B6LPVSM",
+        "text": "<@U0B6LPVSM|stein> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474259272.000079"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "network flow\ub294 \uc124\uba85\uc740 \uc27d\uace0 \ucf54\ub529\uc740 \ubabb\ud558\ub294 \ub300\ud45c\uc801\uc778\ubb38\uc81c\u314b\u314b\u314b",
+        "ts": "1474259272.000080"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1474259277.000081"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ud2b9\ud788 \ud5dd\uac00\ub9ac\uc548\uc774",
+        "ts": "1474259280.000082"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc624 \uc2e0\uae30\ud558\ub2e4 \uadf8\ub7f0\uac83\ub3c4\uc788\uad70\uc694",
+        "ts": "1474259283.000083"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ucf54\ub529\uc774 \uc815\ub9d0 \ub354\ub7fd\ub2e4\uace0 \uc54c\uace0\uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1474259286.000084"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "\uc694\uc998 Flow \uc54c\uace0\ub9ac\uc998\ub3c4 \uc5c4\uccad \ub9ce\uc544\uc11c..",
+        "ts": "1474259289.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc9c4\uc9dc \uc81c\uc77c PS\uc798\ud560\ub54c\ub3c4 \ud55c\ubc88\uc5d0\uc9e0\uc801\uc774 \uc5c6\ub294\uac70\uac19\uc544\uc694...",
+        "ts": "1474259293.000086"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uad6c\ud604 \uadf9\ud610...",
+        "ts": "1474259298.000087"
+    },
+    {
+        "type": "message",
+        "user": "U024SKNH9",
+        "text": "Dinic \uc774\ub77c\ub4e0\uc9c0",
+        "ts": "1474259301.000088"
+    },
+    {
+        "user": "U024SL8FK",
+        "text": "<@U024SL8FK|rohjoon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474259356.000089"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "<@U0FK63YR2> \uadf8\ub7f0\ub370 \uc800\ub807\uac8c \ub9cc\ub4e4\uace0 max flow \ub3cc\ub824\uc11c Max cardinality bipartite matching \uad6c\ud558\uba74 \uc800 \uc0bd\uc785 \uc0ad\uc81c \ube44\uc6a9\uc744 \ucd5c\ub300\ub85c \ub9cc\ub4e4\uc5b4\ubc84\ub9ac\ub294 \ub9e4\uce6d\uc774 \ub098\uc624\uac8c \ub418\uc9c0 \uc54a\ub098\uc694?",
+        "ts": "1474259426.000090"
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "miinmum cardinality matching\uc774\ub780 \uac1c\ub150\uc774 \uc788\ub098\uc694 \u314b\u314b \ubb54\uac00 \uc5ec\uae30\uc11c \uc880 \ud5f7\uac08\ub9ac\ub124\uc694",
+        "ts": "1474259438.000091"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "min cost max flow\uc785\ub2c8\ub2f9!",
+        "ts": "1474259460.000092"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "<http:\/\/egloos.zum.com\/musicdiary\/v\/4213579>",
+        "attachments": [
+            {
+                "title": "Network Flow (2)",
+                "title_link": "http:\/\/egloos.zum.com\/musicdiary\/v\/4213579",
+                "text": "\uac00\uc911\uce58 \ubc29\ud5a5\uadf8\ub798\ud504\uc5d0\uc11c \ud55c \uc9c0\uc810\uc5d0\uc11c \ub2e4\ub978\uc9c0\uc810\uae4c\uc9c0 \uac00\ub294 \ucd5c\ub2e8 \uacbd\ub85c\ub97c \ucc3e\ub294 \ubc29\ubc95\uc5d4 \uc5ec\ub7ec \uac00\uc9c0\uac00 \uc788\ub2e4. \uadf8\ub7f0\ub370 \uac04\uc120\uc758 \uac00\uc911\uce58\uac00 \uc591\uc218, \uc74c\uc218\uac00 \uc11e\uc5ec\uc788\uc744 \uacbd\uc6b0\uc5d0\ub294 Dijkstra \uc54c\uace0\ub9ac\uc998\uc740 \uc4f8 \uc218 \uc5c6\uace0 \ubcf4\ud1b5 Bellman-Ford \uc54c\uace0\ub9ac\uc998\uc744 \uc4f0\uac8c \ub41c\ub2e4. \ub2e8 \uc774\uac83\ub3c4 '\uac00\uc911\uce58\ub4e4\uc758 \ucd1d\ud569\uc774 \uc74c\uc218\uac00 \ub418\ub294 \uc0ac\uc774\ud074'\uc774 \uadf8\ub798\ud504 \ub0b4\uc5d0 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc544\uc57c \ud55c\ub2e4\ub294 \uc804\uc81c \uc870\uac74\uc774 \uc788\uc5b4\uc57c\ud55c\ub2e4.",
+                "fallback": "Network Flow (2)",
+                "image_url": "http:\/\/thumbnail.egloos.net\/460x0\/http:\/\/pds24.egloos.com\/pds\/201204\/24\/23\/d0091423_4f9693cded151.png",
+                "from_url": "http:\/\/egloos.zum.com\/musicdiary\/v\/4213579",
+                "image_width": 312,
+                "image_height": 250,
+                "image_bytes": 63285,
+                "service_icon": "http:\/\/egloos.zum.com\/favicon.ico",
+                "service_name": "egloos.zum.com",
+                "id": 1
+            }
+        ],
+        "ts": "1474259463.000093"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "json: \uac00\uc911\uce58 \ubd80\ud638\ub97c \ubc18\ub300\ub85c",
+        "ts": "1474259463.000094"
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "\uc694\uac78 \ubcf4\uc2dc\uba74 \ub420\ub4ef!",
+        "ts": "1474259476.000096",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U026NDWJW",
+                    "U0VND23FW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024SNC3Y",
+        "text": "cost \uadf8\ub798\ud504\ub791 flow \uadf8\ub798\ud504 \ub450\uac1c\uac00 \uc788\uc5b4\uc694",
+        "ts": "1474259483.000097"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "cost=cardinality\ub85c \ubcf4\uc2dc\ubbc4 \ub420 \ub4ef \ud574\uc694",
+        "ts": "1474259499.000098"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc544\ub2c8 \uc774\uac74 flow\ub3c4 \uc544\ub2c8\uace0 \uadf8\ub0e5 assignment problem\uc774\uc5d0\uc694",
+        "ts": "1474259525.000099"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubb38\uc81c\ub97c \ubc14\uafb8\uace0 \ub098\uc11c\ub294 \uc5b4\ub824\uc6b8 \uac8c \uc5c6\uc74c",
+        "ts": "1474259539.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U024U2P7Y",
+                    "U0GRXSW8J",
+                    "U0VND23FW",
+                    "U024SKNH9"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U0VND23FW",
+        "text": "\uadf8\ub807\uad70\uc694 \uc790\uc138\ud55c \ub2f5 \uac10\uc0ac\ud569\ub2c8\ub2e4~",
+        "ts": "1474259646.000101"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "(\uc9dc\ub77c\uace0 \ud558\uba74 \ubabb\uc9dc\uc9c0\ub9cc \uc785\uc73c\ub85c\ub294 \ud480\uc218\uc788\ub2e4 2)",
+        "ts": "1474260771.000102"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc785\ucf54\ub529",
+        "ts": "1474260773.000103"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc800\ub294 scipy.optimize \ub97c \ud638\ucd9c\ud560 \uac70\ub77c",
+        "ts": "1474261458.000104"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc785\ucf54\ub529 \uc544\ub2d9\ub2c8\ub2e4? \u314e\u314e",
+        "ts": "1474261476.000105",
+        "reactions": [
+            {
+                "name": "suckzoo",
+                "users": [
+                    "U024U2P7Y",
+                    "U026JLU7V",
+                    "U024SNC3Y",
+                    "U026NDWJW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

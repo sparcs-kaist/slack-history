@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":suckzoo-face: ",
+        "ts": "1468237255.000019"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": ":chocho: :ohcohc: ",
+        "ts": "1468237282.000020"
+    },
+    {
+        "type": "message",
+        "user": "U041VNW3G",
+        "text": "2\ucd08\ucd08\uc704\uc5d0 \uad70\ub9bc\ud558\ub294 \uc11d\uc8fc",
+        "ts": "1468238924.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/develop|[araplus:develop]> <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/83b69ade333b5c3e1db8e1e06b3999bbcd21a068|1 new commit> by jara",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/83b69ade333b5c3e1db8e1e06b3999bbcd21a068|83b69ad>`  modify css problem of comments in the grill view page - jara",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/develop|[araplus:develop]> 1 new commit by jara:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1468253337.000022"
+    }
+]

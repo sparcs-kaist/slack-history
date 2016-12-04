@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHLFH",
+        "text": "<http:\/\/jsonresume.org\/> JSON backended resume",
+        "ts": "1404779003.000004"
+    },
+    {
+        "user": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SN0KW|combacsa> has joined the channel",
+        "ts": "1404786697.000005"
+    },
+    {
+        "user": "U024SN0KW",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SN0KW|combacsa> has left the channel",
+        "ts": "1404786710.000006"
+    }
+]

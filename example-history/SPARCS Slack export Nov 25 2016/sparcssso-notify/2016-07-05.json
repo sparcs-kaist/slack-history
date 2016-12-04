@@ -1,0 +1,191 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#91 Edit README.md' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/91 by a1sams1a",
+                "text": "edit env settings",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#91 Edit README.md",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/91",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467711382.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#92 Add new app - dev' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/92 by a1sams1a",
+                "text": "Due to #86. following new app - dev should be developed\n\nmodel: none\nurl prefix: \/dev\/\nfeatures:\n\u2022 enable \/ disable test features\n\u2022 browse \/ edit test point\n\u2022 dev docs\n\u2022 browse \/ add \/ edit \/ remove test services",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#92 Add new app - dev",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/92",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467711732.000003"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#93 startapp dev' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/93 by a1sams1a",
+                "text": "\u2022 make dev app\n\u2022 create url routing: \/dev\/main\/, \/dev\/doc\/\n\u2022 move test enable \/ disable features to dev\/main page\n\u2022 add view \/ edit test point featues",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#93 startapp dev",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/93",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467717096.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#94 test service' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/94 by a1sams1a",
+                "text": "\u2022 add url routing: \/dev\/service\/add\/, \/dev\/service\/{id}\n\u2022 service list to \/dev\/main\/\n\u2022 service add to \/dev\/service\/add\/\n\u2022 service detail view \/ edit \/ delete to GET, POST, DELETE \/dev\/service\/{id}\/",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#94 test service",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/94",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467717197.000005"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "!\uad6c\ub984 \ub4f1\ub85d ssh-rsa                                                                         AAAAB3NzaC1yc2EAAAADAQABAAABAQCYWP14Jrk3AxsEwErI9lpwdf7QsQhJe7o7sPkfUlYKaf0m2Dt MMvN2vAkg5ZGUsaYU0ql1PRtUXCp9maaD0d5jU2Y7GsZsZZaiL2xbyio1J7bwZHCSHFUikuFNcgHG9K Zes2UvauLt6IT3jRNisu7aaymKWJUH3V+2TS7FK6S6Cw3Pk5h+hC4C\/                         YzClulUAkMhKP5MA5HTonefJ0K09Hl460BcoOWdcXIpftSf9OWLUGELaNjHYLNRG5pRYBOLpCN4v5Mr +                                                                               8Z7PAfPmbB4c1KkroXIJZ1L27l0KNfEWJdBSNEzzK0HI8kwhH1rulkNr9M5Lc18YMn08nINgw5qkPqP  madstein@Madsteinui-MacBook-Pro.local",
+        "ts": "1467724113.000006"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\ud5d0",
+        "ts": "1467724127.000007"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4",
+        "ts": "1467724128.000008"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/cea878c192ed39a086a61eb34d78dbc2684bad55|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/cea878c192ed39a086a61eb34d78dbc2684bad55|cea878c>`  model change (done #86); startapp dev (done #93, ref #92) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467732330.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/6c0ff88a3f71f4fe5f21e3acef662d08c51139a0|1 new commit> by Sam Jo",
+                "text": "`<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/6c0ff88a3f71f4fe5f21e3acef662d08c51139a0|6c0ff88>`  CRUD test services (done #94); complete dev app (done #92) - Sam Jo",
+                "pretext": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/tree\/dev-samjo|[sparcssso:dev-samjo]> 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467739530.000010"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#95 implement v2 api' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/95 by a1sams1a",
+                "text": "\u2022 GET version\/\n\u2022 GET token\/require\/\n\u2022 POST token\/info\/\n\u2022 GET logout\/\n\u2022 POST point\/\n\u2022 GET notice\/\n\u2022 GET email\/\n\u2022 GET stats\/",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#95 implement v2 api",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/95",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467739683.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] Issue created: '#96 disable GET \/account\/logout\/' https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/96 by a1sams1a",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a> (assigned to <https:\/\/github.com\/a1sams1a|a1sams1a>)",
+                "title": "#96 disable GET \/account\/logout\/",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/96",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1467739721.000012"
+    }
+]

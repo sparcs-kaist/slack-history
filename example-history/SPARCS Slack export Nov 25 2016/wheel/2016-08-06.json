@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "StartCom \uc778\uc99d\uc11c \uac31\uc2e0 \uba54\uc77c\uc774 \ud720\ub85c \ub3cc\ub358\ub370",
+        "ts": "1470489108.000082"
+    },
+    {
+        "type": "message",
+        "user": "U02EBLXSU",
+        "text": "\uc74c... Let's Encrypt \uc368 \ubcf4\uc2e4 \uc0dd\uac01\uc740 \uc5c6\ub098\uc694",
+        "ts": "1470489116.000083"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc11c\ubc84 \ubc84\uc804\uc774 \ub0ae\uc544 letsencrypt\uac00 \uc548\uae54\ub9ac\ub294 \uacf3 \ube7c\uace0\ub294 \uac31\uc2e0\ub54c letsencrypt\ub97c \ub3c4\uc785\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4!",
+        "ts": "1470540390.000084",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U024SPDHG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "16.04\ubd80\ud130\uc778\uac00",
+        "ts": "1470541122.000085"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "apt-get \uc73c\ub85c \uae54\ub9bc",
+        "ts": "1470541124.000086"
+    }
+]

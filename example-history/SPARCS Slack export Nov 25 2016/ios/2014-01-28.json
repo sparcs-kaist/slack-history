@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U024SNE2E|kuss> has joined the channel",
+        "ts": "1390964829.000007"
+    },
+    {
+        "user": "U024SNE2E",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U024SNE2E|kuss> has left the channel",
+        "ts": "1390964838.000008"
+    }
+]

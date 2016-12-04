@@ -1,0 +1,817 @@
+[
+    {
+        "type": "message",
+        "user": "U024SJ7R9",
+        "text": "\"\ub2f9\ubd84\uac04\"",
+        "ts": "1400721806.001346"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\u314e\u3131\u3147",
+        "ts": "1400721869.001347"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\ub514\uc544 \ub4dc\ub78d\ub960 \ub450\ubc30 \uc720\uc9c0 \uac1c\ub3cb",
+        "ts": "1400722785.001348"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1400724177.001349"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ubc14\uc73d\u3141",
+        "ts": "1400724180.001350"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud68c\uc0ac\uc5d0\uc11c",
+        "ts": "1400724182.001351"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc6c5\uc131\uc6c5\uc131",
+        "ts": "1400724185.001352"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc6c5\uc131\uc6c5\uc131",
+        "ts": "1400724250.001353"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uc789\uac78\ubd88\uc740 \uc5b8\uc81c\ub098\uc624\ub294\uac00",
+        "ts": "1400724306.001354"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "<@U024SHLFH>:  \ud638\ub5a1\ud615",
+        "ts": "1400732309.001355"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \u3147\u3147?",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732354.001356"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud639\uc2dc MySQL many connection errors \ub098\ub294\uac70",
+        "ts": "1400732375.001357"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc65c\uadf8\ub7f0\uc9c0 \uc544\uc138\uc694?",
+        "ts": "1400732377.001358"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; max connection\uc774 \uc791\uac8c \uc124\uc815\ub418\uc5b4\uc788\ub294\uac70 \uc544\ub2c8\uace0?",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732437.001359"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\uac78 \ub298\ub824\ub3c4",
+        "ts": "1400732505.001360"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc9c0\uc18d\uc801\uc73c\ub85c \uc5d0\ub7ec\uac00 \ub098\uc694",
+        "ts": "1400732507.001361"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uc74c..",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732543.001362"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ucc3e\uc544\ubcf4\ub2c8 \u2013skip-name-resolve",
+        "ts": "1400732562.001363"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc774\uac78 \ud558\uba74 \uc5c6\uc5b4\uc9c4\ub2e4\uace0\ub3c4 \ud558\ub294\ub370",
+        "ts": "1400732566.001364"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc6d0\uc778\uc744 \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694",
+        "ts": "1400732571.001365"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \u3147\u314e",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732624.001366"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; too many connections\uac00 \uc544\ub2c8\uace0",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732628.001367"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; many connections \uc5d0\ub7ec\uba74",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732632.001368"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; <http:\/\/dev.mysql.com\/doc\/refman\/5.0\/en\/server-system-variables.html#sysvar_max_connect_errors> \uc774\ucabd\uc778\uac00\ubcf4\ub124",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732634.001369"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub124",
+        "ts": "1400732668.001370"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uae30\ubcf8\uc774 10\uc778\ub370",
+        "ts": "1400732678.001371"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "10000\uae4c\uc9c0 \uc62c\ub824\ub3c4",
+        "ts": "1400732684.001372"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc790\uafb8 flush-hosts \ud558\ub77c\uace0 ...",
+        "ts": "1400732689.001373"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uadf8 ACL\uc744 \ubd10\uc57c\ub420\uac70\uac19\uc740\ub370",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732700.001374"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uc678\ubd80\uc811\uc18d\uc774 \uc788\ub294 DB\uc11c\ubc84\uba74",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732757.001375"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uc678\ubd80\uc811\uc18d \uc624\ub294 host\ub97c \ub2e4 \/etc\/hosts\uc5d0 \ubc15\uc544\ub450\ub294\uac8c...",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732769.001376"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uac19\uc740\uc11c\ubc84\uc5d0 DB\ub791 Tomcat\uc774 \uc62c\ub77c\uac00\uc788\ub294\ub370",
+        "ts": "1400732772.001377"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "localhost\ub85c \uc548\ubcf4\uace0",
+        "ts": "1400732792.001378"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "public ip\ub85c \ubb3c\uace0 \ub4e4\uc5b4\uc624\uac70\ub4e0\uc694",
+        "ts": "1400732801.001379"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uc815\uc0c1\uc801\uc73c\ub85c \uc798 \ub420 \ub54c\ub3c4 \uc788\uace0?",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400732909.001380"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub124",
+        "ts": "1400732914.001381"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "flush-hosts\ud558\uba74",
+        "ts": "1400732922.001382"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud55c\ub3d9\uc548 \uc7a0\uc7a0\ud558\ub2e4\uac00",
+        "ts": "1400732925.001383"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uac11\uc790\uae30 \ub610 \ub514\ube44 \ucee4\ub125\uc158 \uc548\ub418\uc11c \uc5d0\ub7ec\ub098\uace0..",
+        "ts": "1400732934.001384"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uac4d \uc27d\uac8c \uc0dd\uac01\ub098\ub294\uac74 DNS\uc11c\ubc84 \uc7a5\uc560\uac00 \uc77c\uc5b4\ub098\uba74 DB\uc11c\ubc84\ub3c4 \uc7a5\uc560\uac00 \uc77c\uc5b4\ub0a0\uac83\uc774\ub2e4-\uc778\ub370",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733003.001385"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; DNS\uc11c\ubc84 \uc0c1\ud0dc\ub97c \ubd10\uc57c\uaca0\ub124 \uadf8\ub7ec\uba74",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733005.001386"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uadfc\ub370 \uadf8\ub0e5 \/etc\/hosts\uc5d0 localhost PUBLIC IP \ubc15\uc544\ub450\ub294\uac8c \uae54\ub054",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733029.001387"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadfc\ub370 \uc774\uac8c \uc65c DNS \uc11c\ubc84\uc640 \uad00\ub828\uc774 \uc788\ub294\uac70\uc5d0\uc694?",
+        "ts": "1400733031.001388"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc811\uc18d\ud560\ub54c DNS lookup\ud558\ub2e4\uac00 MySQL\uc5d0\uc11c \ucee4\ub125\uc158\uc774 \ub04a\uae30\ub294\uac70\uc5d0\uc694?",
+        "ts": "1400733046.001389"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uc74c \ub108\uac00 users \ucd94\uac00\ud560\ub54c \ubcf4\ud1b5 CREATE USER 'hodduc'@'localhost' \uba38 \uc774\ub807\uac8c \ud558\uc796\uc544",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733050.001390"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uadf8\ub2c8\uae4c IP\ub85c \uc811\uc18d\uc774 \ub4e4\uc5b4\uc624\uba74 reverse lookup\uc744 \ud558\ub294\uac70\uc9c0",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733060.001391"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544\ud558",
+        "ts": "1400733066.001392"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uadf8\ub7ec\ub2e4 DNS \uc7a5\uc560\ub098\uba74 DB\ub3c4 \uc7a5\uc560\ub098\ub294\uac70\uace0..?",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733069.001393"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "DNS\uac00 \ud558\ub098\ub9cc \uc801\ud600\uc788\ub124\uc694 =_=",
+        "ts": "1400733076.001394"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "ucloud DNS\uc778\uac00 \ubcf8\ub370",
+        "ts": "1400733086.001395"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \u3147\u314e ucloud\uad6c\ub9cc",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733094.001396"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub135",
+        "ts": "1400733101.001397"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; ucloud DNS\uac00 \uadf8\ub807\uac8c \uc790\uc8fc \uc7a5\uc560\uac00 \ub098\ub824\ub098.... \uadf8\uac74 \uc880 \uc774\uc0c1\ud55c\ub370",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733112.001398"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uc5ec\ud2bc DNS lookup\uc744 \uc544\uc608 \uc548\ud558\ub294\uac8c \uc131\ub2a5\uc0c1\uc73c\ub85c\ub3c4",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733119.001399"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \ub9de\uae34 \ub9de\ub294\uac70\uac19\uc74c...",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400733122.001400"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc77c\ub2e8 \uc608\ube44 DNS\ucd94\uac00\ud574\uc8fc\uace0 \ub2e4\uc2dc \uc880 \uae30\ub2ec\ub824\ubcf4\uc8e0 \ubb50",
+        "ts": "1400733163.001401"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uac10\uc0ac\ud569\ub2c8\ub2e4 :grinning:",
+        "ts": "1400733207.001402"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub124\ud2b8\uc6cc\ud06c",
+        "ts": "1400733874.001403"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc9c8\ubb38\uc774\uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1400733877.001404"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\u314e\u314e\u314e",
+        "ts": "1400733878.001405"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "ssl \uc778\uc99d\uc11c\uac00 \ud558\ub098\uc788\ub294\ub370",
+        "ts": "1400733952.001406"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "GlobalSign Domain Validation CA - G2 \uc694\uae30 \uc77c\ubc18\uc774\ub984\uc774\uace0",
+        "ts": "1400733959.001407"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "GlobalSign nv-sa \uc774\uac8c \ubc1c\uae09\uae30\uad00 \uc774\ub984\uc785\ub2c8\ub2e4",
+        "ts": "1400733969.001408"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadfc\ub370 pc\uc5d0\uc11c\ub294",
+        "ts": "1400733974.001409"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc778\uc99d\uc11c\uac00 \uc798\uc791\ub3d9\ud558\ub294\ub370",
+        "ts": "1400733978.001410"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc548\ub4dc\ub85c\uc774\ub4dc \ud578\ub4dc\ud3f0\uc5d0\uc120",
+        "ts": "1400733985.001411"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc778\uc99d\uc744 \uc2e4\ud328\ud574\uc694 \u314e\u314e\u314e",
+        "ts": "1400733991.001412"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "Root ca \ub97c \ucc3e\ub294\ub370 \uc2e4\ud328\ud588\ub2e4\ub294 \uc5d0\ub7ec\ub97c \ub744\uc6b0\uba74\uc11c",
+        "ts": "1400734008.001413"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadf8\ub798\uc11c \uac15\uc81c\ub85c crt\ud30c\uc77c\uc744 \ubc1b\uc544\uc11c",
+        "ts": "1400734025.001414"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc0bd\uc785\uc2dc\ucf1c\uc8fc\uba74 \uc798\uc791\ub3d9\uc744\ud558\ub294\ub370",
+        "ts": "1400734030.001415"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "Android \uc5d0\uc11c \uc2e0\ub8b0\ud558\uc9c0 \ubabb\ud558\ub294 CA\uc778\uac00 \ubcf4\ub124\uc694",
+        "ts": "1400734034.001416"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadfc\ub370\ubb38\uc81c\ub294",
+        "ts": "1400734036.001417"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc800\uac74 <http:\/\/msgrpc.hiworks.co.kr|msgrpc.hiworks.co.kr>",
+        "ts": "1400734045.001418"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc778\ub370",
+        "ts": "1400734047.001419"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "<http:\/\/www.hiworks.co.kr|www.hiworks.co.kr>",
+        "ts": "1400734051.001420"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc5d0\uc11c\ub3c4 \ub611\uac19\uc740! \uc778\uc99d\uc11c\ub97c",
+        "ts": "1400734054.001421"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc0ac\uc6a9\ud558\ub294\ub370",
+        "ts": "1400734056.001422"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "<https:\/\/www.hiworks.co.kr\uc740> \uc798\ub41c\ub2e4\ub294\uac70\uc8e0!",
+        "ts": "1400734066.001423"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc664\uae4c\uc694",
+        "ts": "1400734081.001424"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc65c \ub611\uac19\uc740\uc778\uc99d\uc11c\uc778\ub370 \uc0ac\uc774\ud2b8\ub9c8\ub2e4 \ub42c\ub2e4\uc548\ub42c\ub530\ud560\uae4c\uc694",
+        "ts": "1400734088.001425"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc774\uac78\uc65c  \uac15\uc81c\ub85c crt\ud30c\uc77c \ub123\uc5b4\uc11c \uc798\ud574\uacb0\ud588\ub294\ub370 \uace0\ubbfc\ud558\ub0d0\uace0 \ubb3c\uc73c\uc2e0\ub2e4\uba74",
+        "ts": "1400734108.001426"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "HtttpsUrlConnection\uc744\uc4f8\ub550 \uc798\ub418\uc9c0\ub9cc",
+        "ts": "1400734122.001427"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "Google Volley\uc5d0\uc120 \uc548\ub4dc\ub85c\uc774\ub4dc 2.3\ubbf8\ub9cc\uc77c \ub584 \uc790\ub3d9\uc73c\ub85c hrul \ub300\uc2e0 httpclient\ub97c \uc4f0\uae30\ub54c\ubb38\uc5d0",
+        "ts": "1400734144.001428"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc800\uac78 \uc77c\uc77c\ud788 \uc218\uc815\ud558\uae30\uac00 \ub290\ubbc0\uadc0\ucc2e\uc544\uc11c",
+        "ts": "1400734158.001429"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadc0\ucc2e\ub2e4\uae30\ubcf4\ub2e8 \uae54\ub054\ud558\uc9c0\ubabb\ud574\uc11c",
+        "ts": "1400734169.001430"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ud574\uacb0\ud560\ubc29\ubc95\uc774\uc5c6\ub098\uc2f6\ub124\uc694.",
+        "ts": "1400734174.001431"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "..",
+        "ts": "1400734175.001432"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uadf8\ub2c8\uae4c \ud55c\uc904 \uc815\ub9ac\ud558\uba74",
+        "ts": "1400734184.001433"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub611\uac19\uc740 \uc778\uc99d\uc11c\uc778\ub370 (\uc548\ub4dc\ub85c\uc774\ub4dc\ud3f0\uc5d0\uc11c )\uc65c <http:\/\/www.hiworks.co.kr|www.hiworks.co.kr> \uc740 \uc798\ub418\uace0 msgrpc.hiworks.co.kr\uc740 \uc548\ub418\ub294\uac00?",
+        "ts": "1400734209.001434"
+    },
+    {
+        "text": "&lt;h`odduc^talk&gt; \uc2e0\uae30\ud558\ub139",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400734322.001435"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc65c\uadf8\ub807\uc8e0 \uc9c4\uc9dc",
+        "ts": "1400734347.001436"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud574\uacb0\ud558\uba74 \ud6c4\uae30\uc880",
+        "ts": "1400734350.001437"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc2e4\uc81c\ub85c \uc548\ub4dc\ub85c\uc774\ub4dc\ud3f0\uac00\uc9c0\uc2e0\ubd84\ub4e4\uc740",
+        "ts": "1400734351.001438"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc811\uc18d\ud574\ubcf4\uba74\uc548\ub420\uac78\uc694",
+        "ts": "1400734353.001439"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\ub0e5 \uc778\ud130\ub137 \ube0c\ub77c\uc6b0\uc800\ub3c4 \uadf8\ub798\uc694?",
+        "ts": "1400734363.001440"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc778\ud130\ub137\ube0c\ub77c\uc6b0\uc800 \ub9d0\ud55c\uac70\uc784",
+        "ts": "1400734368.001441"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc5b4\ub77c \uadf8\ub7ec\ub124",
+        "ts": "1400734387.001442"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\u314b",
+        "ts": "1400734390.001443"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\ub611\uac19\uc740\ub370 www\ub294\uc798\ub428",
+        "ts": "1400734395.001444"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ud639\uc2dc \uc778\uc99d\uc11c\uac00 \ud5c8\ub77d\ubc1b\uc740 \ub3c4\uba54\uc778\uc774 \uc815\ud655\ud788 <http:\/\/www.hiworks.co.kr|www.hiworks.co.kr> \uc740 \uc544\ub2cc\uc9c0?",
+        "ts": "1400734423.001445"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "wildcard\uac00 \uc544\ub2d0\uc218 \uc788\uc796\uc544",
+        "ts": "1400734433.001446"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "*.<http:\/\/hiworks.co.kr|hiworks.co.kr>  \uc778\uc99d\uc11c\ub354\ub77c\uad6c\uc694",
+        "ts": "1400734436.001447"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "*",
+        "ts": "1400734455.001448"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc544 \uadf8\ub7ec\ud558\ub2e4 \u314e\u314e",
+        "ts": "1400734458.001449"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "11 21 3C 70 44 03 E7 DA 44 D1 DD 9D 1E F1 AC 25 E2 11 \uc2ec\uc9c0\uc5b4 \uc77c\ub82c\ubc88\ud638\ub3c4 \ub612\uac19\uc740\ub370",
+        "ts": "1400734465.001450"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc2e0\ub8b0\ub418\uc9c0 \uc54a\ub294 \uae30\uad00...",
+        "ts": "1400734481.001451"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "GlobalSign nv-sa \/ GlobalSign Domain Validation CA - G2",
+        "ts": "1400734528.001452"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ub611\uac19\uc740\ub370",
+        "ts": "1400734530.001453"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\u314b\u314b",
+        "ts": "1400734533.001454"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "\uc11c\ubc84\ucabd\uc740 \ub0b4\uac00\uac1c\ubc1c\ud558\ub294\uac8c\uc544\ub2c8\ub77c \ubb50\uc5b4\ub5bb\uac8c \uae4c\ubcfc\uc218\ub3c4\uc5c6\ub124 \u314e\u314e",
+        "ts": "1400734554.001455"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "global sign\uc5d0\uc11c Android (inclusion carrier specific) \uc774\ub807\uac8c \uc801\uc5b4\ub450\uae34 \ud588\ub124\uc694",
+        "ts": "1400734592.001456"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc74c... \ubb54\uac00 \uc678\uc801\uc778 \uc774\uc720\uac00 \uc788\ub294\uac74\uac00? \uc124\uc815\uc774 \ubaa8\ubc14\uc77c\uc740 \ub2e4\ub974\ub2e4\ub358\uac00",
+        "ts": "1400734593.001457"
+    },
+    {
+        "type": "message",
+        "user": "U024SN150",
+        "text": "inclusion carrier specific\uc774\ubb54\ub9d0\uc774\uc9c0?",
+        "ts": "1400734676.001458"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "<@U024WGSD3>:",
+        "ts": "1400734787.001459"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud574\uc11d\uc880",
+        "ts": "1400734789.001460"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "inclusion carrier specific",
+        "ts": "1400734792.001461"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc544\ub9c8 \uce90\ub9ac\uc5b4\ub098 \uc81c\uc870\uc0ac\uc5d0 \ub530\ub77c \uc870\uae08\uc529 \ub2e4\ub974\ub2e4 \ub77c\ub294 \uc758\ubbf8\uc77c\ud150\ub370",
+        "ts": "1400734815.001462"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uadfc\ub370 hiworks\ub294 \uae09 \uc65c?",
+        "ts": "1400734984.001463"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uac00\ube44\uc544\uc5d0\uc11c \ub9cc\ub4e4\uc5c8\uae30 \ub54c\ubb38\uc774\uc8e0",
+        "ts": "1400735028.001464"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc544\ud56d",
+        "ts": "1400735081.001465"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "bbashong: \uc774 \ub9de\uc740 \uac8c \uc774\ubc88\uc5d0\ub294 \uadf8\ub8f9\uc6e8\uc5b4 \uac19\uc740\uac74\uac00 \ubcf4\ub124?",
+        "ts": "1400735770.001466"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc74c \uc798 \ubaa8\ub974\uaca0\ub2e4",
+        "ts": "1400736047.001467"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "<http:\/\/getnotifyr.com\/>",
+        "attachments": [
+            {
+                "title": "Notifyr",
+                "title_link": "http:\/\/getnotifyr.com\/",
+                "text": "Notifyr lets you receive all iOS notifications on your Mac.",
+                "fallback": "Notifyr",
+                "thumb_url": "http:\/\/getnotifyr.com\/img\/icon.png",
+                "from_url": "http:\/\/getnotifyr.com\/",
+                "thumb_width": 120,
+                "thumb_height": 120,
+                "id": 1
+            }
+        ],
+        "ts": "1400736124.001468"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ubcf4\uc790\ub9c8\uc790 \uc0ac\ubc84\ub838..",
+        "ts": "1400736130.001470"
+    },
+    {
+        "text": "&lt;j`Bot&gt; [\u25b3 <http:\/\/getnotifyr.com|getnotifyr.com>] Notifyr",
+        "username": "ss",
+        "bot_id": "B024UVC29",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1400736139.001471"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud56d\uc0c1 \uc0dd\uac01\ud558\ub358\uac8c \uc694\uae30\uc788\ub124",
+        "ts": "1400736141.001472"
+    }
+]

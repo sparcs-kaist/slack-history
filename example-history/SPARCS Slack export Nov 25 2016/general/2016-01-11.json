@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U0J5M611D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0J5M611D|gyunt> has joined the channel",
+        "ts": "1452516415.001110"
+    },
+    {
+        "type": "message",
+        "user": "U0J5M611D",
+        "text": "\uc548\ub155\ud558\uc138\uc694",
+        "ts": "1452516429.001111"
+    },
+    {
+        "type": "message",
+        "user": "U0J5M611D",
+        "text": "07 \uae40\uc885\uade0\uc785\ub2c8\ub2e4.",
+        "ts": "1452516442.001112"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "03 \uc11c\uc0c1\ud604\uc774\uc5d0\uc694",
+        "ts": "1452516607.001113"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubc18\uac11\uc2b5\ub2c8\ub2e4",
+        "ts": "1452516609.001114"
+    },
+    {
+        "type": "message",
+        "user": "U0J5M611D",
+        "text": "\uc624 \uc0c1\ud604\uc774\ud615 \uc624\ub79c\ub9cc\uc774\uc5d0\u315b",
+        "ts": "1452517301.001115"
+    },
+    {
+        "type": "message",
+        "user": "U0J5M611D",
+        "text": "\uc774\uc5d0\uc694",
+        "ts": "1452517302.001116"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc624 \uc548\ub1fd\ud558\uc138\uc6a9",
+        "ts": "1452519945.001117"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "REST API \ub9cc\ub4e4\uae30 \uc88b\uc740 \ud504\ub808\uc784\uc6cc\ud06c\ub098 \ud639\uc740 \uc2dc\ub3c4\ud574\ubcfc\ub9cc\ud55c \ud504\ub808\uc784\uc6cc\ud06c\uac00 \uc788\uc744\uae4c\uc694?",
+        "ts": "1452524802.001118"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub294 <#C02LYRLUA>\uc5d0\uc11c \uc911\uace0\ub300\ub529\ub098\ub77c \ud504\ub85c\uc81d\ud2b8\ub97c \ub2e4\uc2dc \uc2dc\uc791\ud558\ub824\uace0 \ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4!",
+        "ts": "1452528036.001119"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "REST API\ub85c \uc0ac\uace0 \ud30c\ub294 \uc804\ubc18\uc801\uc778 \uae30\ub2a5\uc744 \ubc29\ud559\uc911\uc5d0 \uad6c\ud604\ud558\ub824\uace0 \ud569\ub2c8\ub2e4!",
+        "ts": "1452528057.001120"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uad00\uc2ec \uc788\uc73c\uc2e0 \ubd84\ub4e4\uc740 \ubaa9\uc694\uc77c 11\uc2dc\uc5d0 slack <#C02LYRLUA>\uc5d0\uc11c \ubd59\uaca0\uc2b5\ub2c8\ub2e4!",
+        "ts": "1452528068.001121"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ub178\ub4dc",
+        "ts": "1452564262.001122"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ub178\ub4dc",
+        "ts": "1452564263.001123"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ub178\ub4dc",
+        "ts": "1452564264.001124"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ub610 \ub178\ub4dc!",
+        "ts": "1452564268.001125"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "Node.js!",
+        "ts": "1452564282.001126"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud639\u2026\ud639\uc2dc Java\ub3c4 \uad1c\ucc2e\ub2e4\uba74 Spring\u2026",
+        "ts": "1452564291.001127"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "node \ub9cc \uac00\uc9c0\uace0 \ud558\uba74 \uc880 \uc2ac\ud504\uace0 express.js \ub85c \u3131\u3131",
+        "ts": "1452564294.001128"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\ud558\uc9c0\ub9cc \uc124\uc815\ud558\ub2e4 \uc790\uc0b4\ud560\uaebc\uac19\ub2e4",
+        "ts": "1452564296.001129"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ub09c \ub9e8\ub0a0 \uc774\ud074\ub9bd\uc2a4 \uae54\ub2e4 \ud0c8\uc8fc\ud568",
+        "ts": "1452564309.001130"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "IntelliJ !",
+        "ts": "1452564314.001131"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "cpu \ub2d8\uc774 \ud0c8\uc8fc\ud568",
+        "ts": "1452564324.001132"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "11\uc2dc\ub294 \uc624\ud6c4\uc778\uac00\uc694",
+        "ts": "1452564359.001133"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\ub807\uc9c0 \uc54a\uc744\uae4c\uc694",
+        "ts": "1452564367.001134"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "\ud558\uae34..",
+        "ts": "1452564371.001135"
+    },
+    {
+        "type": "message",
+        "user": "U0GRXSW8J",
+        "text": "React!?",
+        "ts": "1452564569.001136"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "Node - Express - Flux - React",
+        "ts": "1452564584.001137"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uc644\ubcbd\ud55c \uc2a4\ud0dd",
+        "ts": "1452564586.001138"
+    },
+    {
+        "type": "message",
+        "user": "U025WHXBR",
+        "text": "react \u3131\u3131",
+        "ts": "1452564599.001139"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "11\uc2dc=23\uc2dc\uc785\ub2c8\ub2e4",
+        "ts": "1452565523.001140"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "==",
+        "ts": "1452565524.001141"
+    }
+]

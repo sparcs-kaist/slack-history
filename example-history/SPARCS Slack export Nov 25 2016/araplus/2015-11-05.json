@@ -1,0 +1,42 @@
+[
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/28f65236d500a50210d7298d637c7448bc15cbd3|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/28f65236d500a50210d7298d637c7448bc15cbd3|28f6523>: refactor template; bug fix on sso - Sam Jo",
+                "pretext": "[sparcssso:master] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446752472.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96c547dcec95610c35916b7919e48e0d4b35d983|1 new commit> by jara",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96c547dcec95610c35916b7919e48e0d4b35d983|96c547d>: grill \ud504\ub860\ud2b8\uc564\ub4dc \uc791\uc5c5 - jara",
+                "pretext": "[araplus:board] 1 new commit by jara:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1446794611.000002"
+    }
+]

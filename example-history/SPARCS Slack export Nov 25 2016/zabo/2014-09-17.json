@@ -1,0 +1,127 @@
+[
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "E3E4E6",
+                "text": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/30|#30 \uacc4\uc815 \uad00\ub9ac \ud398\uc774\uc9c0 \uc791\uc131> by <https:\/\/github.com\/poap|poap>",
+                "fallback": "[sparcs-kaist\/zabo] Issue closed: <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/30|#30 \uacc4\uc815 \uad00\ub9ac \ud398\uc774\uc9c0 \uc791\uc131> by <https:\/\/github.com\/poap|poap>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410957413.000892"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "title": "Comment by poap\n",
+                "pretext": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/36#issuecomment-55887224|#36: #modalOpen \uc0c1\ud0dc\uc5d0\uc11c \uc0c8\ub85c\uace0\uce68\ud558\uc600\uc744 \ub54c\uc5d0 \ube44\uc5b4\uc788\ub294 modal\uc774 \ub098\ud0c0\ub098\ub294 \ubb38\uc81c \uc218\uc815.>",
+                "fallback": "[sparcs-kaist\/zabo] New comment on issue <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/36#issuecomment-55887224|#36: #modalOpen \uc0c1\ud0dc\uc5d0\uc11c \uc0c8\ub85c\uace0\uce68\ud558\uc600\uc744 \ub54c\uc5d0 \ube44\uc5b4\uc788\ub294 modal\uc774 \ub098\ud0c0\ub098\ub294 \ubb38\uc81c \uc218\uc815.>",
+                "color": "FAD5A1",
+                "text": "\ud604\uc7ac \uac8c\uc2dc\uae00\uc5d0 \ub300\ud574\uc11c permanent link\uac00 \ub9cc\ub4e4\uc5b4\uc838 \uc788\ub294 \uc0c1\ud0dc\uc774\ub2e4\n\nmodalview\ub97c \uc5f4\ub54c url\uc774 \ud574\ub2f9 \ub9c1\ud06c\ub85c \ubc14\ub00c\ub3c4\ub85d \ud558\uace0\n\uc0c8\ub85c\uace0\uce68\uc744 \ud558\uba74 permanent link\ub85c \uc774\ub3d9\ud558\ub3c4\ub85d \ub9cc\ub4e4\uc5b4\uc57c \ud55c\ub2e4\n",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410957630.000893"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/poap|poap>",
+                "title": "#45 \uac8c\uc2dc\uae00 permanent link \ud398\uc774\uc9c0 \uad6c\uc131",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/45",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/45|Issue created> by <https:\/\/github.com\/poap|poap>",
+                "text": "\ud604\uc7ac permanent link\ub294 \uc81c\ubaa9, \uc0ac\uc9c4, \ub0b4\uc6a9, \uae30\uac04\ub9cc \ub514\uc790\uc778 \uc5c6\uc774 \uac04\ub7b5\ud558\uac8c \ubcf4\uc5ec\uc8fc\uace0 \uc788\ub2e4\n\uc774\ub97c \ub514\uc790\uc778\uc744 \uc785\ud788\uace0 \ucd94\uac00\ub85c \ubcf4\uc5ec\uc8fc\uc5b4\uc57c \ud560 \ub0b4\uc6a9\ub4e4\uc744 \ucd94\uac00\ud574\uc57c \ud55c\ub2e4\n\n\ucd94\uac00\ub85c \uac8c\uc2dc\uae00\uc758 owner\uc77c \uacbd\uc6b0\uc5d0\ub294 \uac8c\uc2dc\uae00\uc744 \uc218\uc815\ud560 \uc218 \uc788\ub3c4\ub85d \ud574\uc57c \ud55c\ub2e4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410957769.000894"
+    },
+    {
+        "username": "github",
+        "bot_id": "B026ZKVP6",
+        "attachments": [
+            {
+                "color": "F29513",
+                "pretext": "[sparcs-kaist\/zabo] Issue created by <https:\/\/github.com\/poap|poap>",
+                "title": "#46 \uacc4\uc815 \uad00\ub9ac\ud398\uc774\uc9c0 \uad6c\uc131 \ubc0f \ub514\uc790\uc778 \uc785\ud788\uae30",
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/46",
+                "fallback": "[sparcs-kaist\/zabo] <https:\/\/github.com\/sparcs-kaist\/zabo\/issues\/46|Issue created> by <https:\/\/github.com\/poap|poap>",
+                "text": "\ud604\uc7ac My Page\uc5d0 \ub4e4\uc5b4\uac00\uba74 \ub3d9\uc544\ub9ac \uc18c\uac1c\uae00, \ube44\ubc00\ubc88\ud638 \uc218\uc815\uc744 \ud560 \uc218 \uc788\uac8c \ub418\uc5b4\uc788\uace0 \uac8c\uc2dc\uae00 \uad00\ub9ac\ub97c \uc704\ud574 \uc791\uc131\ud55c \uac8c\uc2dc\uae00\ub4e4\uc774 \ub098\uc5f4\ub418\uc5b4\uc788\ub2e4\n\n\uc774 \ud398\uc774\uc9c0\uc5d0 \ub514\uc790\uc778\uc744 \uc785\ud788\uace0 \uac8c\uc2dc\uae00 \uc0ad\uc81c \ubc0f \ub2e4\ub978 \ucd94\uac00\uc801\uc778 \uae30\ub2a5\ub4e4\uc744 \ub123\uc5b4\uc57c \ud55c\ub2e4",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1410958311.000895"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "\uc0c8\ub85c \uac1c\ubc1c\uc5d0 \ucc38\uc5ec\ud558\uc2dc\ub294 \ubd84\ub4e4\uc740 github username\uc744 \uc54c\ub824\uc8fc\uc2dc\uba74 \ucd94\uac00\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4",
+        "ts": "1410958523.000896"
+    },
+    {
+        "type": "message",
+        "user": "U0251JXSR",
+        "text": "<!channel>:",
+        "ts": "1410958561.000897"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ucc44\ub110 \uc18c\ud658!",
+        "ts": "1410958626.000898"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "Shavakan",
+        "ts": "1410958776.000899"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc544\ub9c8 \ub09c \uc774\ubbf8 \uad8c\ud55c\uc774 \uc788\uaca0\uc9c0",
+        "ts": "1410958796.000900"
+    },
+    {
+        "type": "message",
+        "user": "U02HV8AGZ",
+        "text": "\uc640 \ucc44\ub110\uc18c\ud658...",
+        "ts": "1410958999.000901"
+    },
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "leeopop",
+        "ts": "1410961652.000902"
+    },
+    {
+        "user": "U02KZSK9L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02KZSK9L|story> has joined the channel",
+        "ts": "1411019465.000903"
+    }
+]

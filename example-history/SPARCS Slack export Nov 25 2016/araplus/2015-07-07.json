@@ -1,0 +1,1312 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d818f3|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d818f3|0d818f3>: delete\ud560 \ub54c  \uad8c\ud55c \ud655\uc778, post_list\uc5d0\uc11c \uc0ad\uc81c\ub41c \uae00 \"--Deleted--\"\ub85c \ud45c\uc2dc - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436253437.000151"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/6|Issue created> by <https:\/\/github.com\/taehyun9|taehyun9>",
+                "text": "login\uc744 \uc694\ud558\ub294 \uae30\ub2a5\uc5d0\uc11c login\uc73c\ub85c redirect \ud6c4, login\uc744 \ud588\uc744 \ub54c \uae30\uc874 \uae30\ub2a5\uc73c\ub85c \ub3cc\uc544\uac00\ub294 \uac83 \ud544\uc694",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/taehyun9|taehyun9>",
+                "title": "#6 Login \ud6c4 redirect",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/6",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436253740.000152"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/0d818f3f5c83...b523638992ef|7 new commits> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b3785a|2b3785a>: \uac8c\uc2dc\ud310\ubcc4\ub85c \uac8c\uc2dc\uae00 \ubcf4\uae30 \uae30\ub2a5 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c4d2844|c4d2844>: \uc131\uc778\uae00 \ud544\ud130\ub9c1 \uae30\ub2a5\uacfc \ud1b5\ud569 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c5e4a33|c5e4a33>: \uc131\uc778\uae00 \ud544\ud130\ub9c1 \ubc84\ud2bc \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c76b4ac|c76b4ac>: \uc0ad\uc81c \ubc84\ud2bc \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/87cb245|87cb245>: PEP8 convention\ub9de\ucdb0\uc11c \uc218\uc815 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e9d9fcd|e9d9fcd>: resolve merge conflictions - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b523638|b523638>: PEP8 convention \uc218\uc815 \ubc0f \uc0ad\uc81c \uae30\ub2a5 \ucd94\uac00 - ktk1012",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/0d818f3f5c83...b523638992ef|7 new commits> by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436254316.000153"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/message|message>\" was pushed by mightydeveloper",
+                "text": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/message|message>\" was pushed by mightydeveloper",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436254540.000154"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6dc96b15e6fa...de5df40259a0|21 new commits> by Shavakan and 6 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6da39b7|6da39b7>: created model UserProfile and Message - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/db94299|db94299>: Implemented login and logout function - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dc21906|dc21906>: created model UserProfile and Message - Chang Won Lee\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/16a6e8e|16a6e8e>: implemented registration with Django default user model - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/eabaef9|eabaef9>: applied UserProfile model to register - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/23a24ad|23a24ad>: Merge branch 'apps\/session' of <https:\/\/github.com\/mightydeveloper\/araplus> into apps\/session - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/46d277d|46d277d>: Delete db.sqlite3 - Chang Won LEE\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/836fb47|836fb47>: Merge branch 'master' into apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/29d733f|29d733f>: Created base.html - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d45f623|d45f623>: Merge branch 'apps\/session' of <git:\/\/github.com\/mightydeveloper\/araplus> into mightydeveloper-apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2079283|2079283>: Merge branch 'mightydeveloper-apps\/session' into apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6e2ef50|6e2ef50>: Merge branch 'master' into apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/db83b79|db83b79>: fixed indentations resolved as tab, respected pep8 - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ad301a3|ad301a3>: added nickname to userprofile model - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b70e73c|b70e73c>: added pyflakes and its dependencies to requirements.txt - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/72a9a3c|72a9a3c>: fixed typo in templates\/base.html - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a488a52|a488a52>: updated gitignore - Young Seok Tony Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dab06b2|dab06b2>: Implemented send_message - Young Seok Tony Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/84c3dcc|84c3dcc>: Implemented send_message with PEP8 applied - Young Seok Tony Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8d05549|8d05549>: Merge branch 'session' into master branch - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/de5df40|de5df40>: user.author changed to user.author.nickname and user login resolved - TaeHyun",
+                "pretext": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6dc96b15e6fa...de5df40259a0|21 new commits> by Shavakan and 6 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436254627.000155"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/7|Issue created> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "\ucf54\uc5b4 Feature \uc911\n  1. B \uc0ac\uc6a9\uc790\ub294 \ubc1b\uc740 \uba54\uc2dc\uc9c0\ub97c \ud655\uc778\ud55c\ub2e4.\n     \uae30\ub2a5\uc785\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "title": "#7 (Session)Message \uae30\ub2a5 \uc911 \uba54\uc138\uc9c0 \ud655\uc778\ud558\ub294 \uae30\ub2a5 \uad6c\ud604",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/7",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436254659.000156"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/7|#7 (Session)Message \uae30\ub2a5 \uc911 \uba54\uc138\uc9c0 \ud655\uc778\ud558\ub294 \uae30\ub2a5 \uad6c\ud604> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/7|#7 (Session)Message \uae30\ub2a5 \uc911 \uba54\uc138\uc9c0 \ud655\uc778\ud558\ub294 \uae30\ub2a5 \uad6c\ud604> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436254711.000157"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/7#issuecomment-119105118|#7: (Session)Message \uae30\ub2a5 \uc911 \uba54\uc138\uc9c0 \ud655\uc778\ud558\ub294 \uae30\ub2a5 \uad6c\ud604>",
+                "text": "6959a2cce49ff7b29cd4e152d20f9b0de454f8e9\n\uc704\uc758 \ucee4\ubc0b\uc5d0\uc11c \uad6c\ud604 \uc644\ub8cc\ud558\uc600\uc2b5\ub2c8\ub2e4.\n(\uc774\ubc88\uc5d0\ub294 PEP8\ub3c4 \uc801\uc6a9\ud568)",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/7#issuecomment-119105118|#7: (Session)Message \uae30\ub2a5 \uc911 \uba54\uc138\uc9c0 \ud655\uc778\ud558\ub294 \uae30\ub2a5 \uad6c\ud604>",
+                "title": "Comment by mightydeveloper\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436254711.000158"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e769255|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e769255|e769255>: user.author changed to user.author.nickname and user login resolved real - TaeHyun",
+                "pretext": "[araplus:grill] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436254877.000159"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d818f3#commitcomment-12033637|0d818f3>",
+                "text": "test \ucf54\ub4dc\uac00 \uc313\uc774\uba74 \ub098\uc911\uc5d0 \ud798\ub4e4 \uc218 \uc788\uc73c\ub2c8 \ub2e4\uc74c\ubd80\ud130\ub294 \uc9c0\uc6b0\uace0 \ucee4\ubc0b\ud574\uc8fc\uc138\uc694.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d818f3#commitcomment-12033637|0d818f3>",
+                "title": "Comment on line 220 by zzongaly\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436256219.000160"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e10ff43|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e10ff43|e10ff43>: \uac8c\uc2dc\ud310 \ubcc4\ub85c \uae00 \ubcf4\uae30 \uae30\ub2a5 \ucd94\uac00 adult filtering \ubc84\ud2bc \ucd94\uac00 - ktk1012",
+                "pretext": "[araplus:board] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436256513.000161"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/8|Pull request submitted> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "Implemented check message\nand erased unnecessary print function in views.py",
+                "pretext": "[sparcs-kaist\/araplus] Pull request submitted by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "title": "#8 Implemented checking message",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/8",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436256728.000162"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6959a2c|1 new commit> by Young Seok 'Tony' Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6959a2c|6959a2c>: Implemented checking message - Young Seok 'Tony' Kim",
+                "pretext": "[araplus:develop] 1 new commit by Young Seok 'Tony' Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436256958.000163"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/8|#8 Implemented checking message> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "[sparcs-kaist\/araplus] Pull request closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/8|#8 Implemented checking message> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436257027.000164"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/8#issuecomment-119114301|#8: Implemented checking message>",
+                "text": "Mistake T_T",
+                "pretext": "[sparcs-kaist\/araplus] New comment on pull request <https:\/\/github.com\/sparcs-kaist\/araplus\/pull\/8#issuecomment-119114301|#8: Implemented checking message>",
+                "title": "Comment by mightydeveloper\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436257027.000165"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/efc7e5d|1 new commit> by TaeHyun",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/efc7e5d|efc7e5d>: grill content represent and grill comment highlight - TaeHyun",
+                "pretext": "[araplus:grill] 1 new commit by TaeHyun:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436257123.000166"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/loginRedirectFix|loginRedirectFix>\" was pushed by mightydeveloper",
+                "text": "[araplus] New branch \"<https:\/\/github.com\/sparcs-kaist\/araplus\/tree\/loginRedirectFix|loginRedirectFix>\" was pushed by mightydeveloper",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436258213.000167"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6959a2cce49f...75acc0743e09|2 new commits> by Young Seok 'Tony' Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c2b6261|c2b6261>: Fixed login redirect issue - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/75acc07|75acc07>: PEP8 fix - Young Seok 'Tony' Kim",
+                "pretext": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6959a2cce49f...75acc0743e09|2 new commits> by Young Seok 'Tony' Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436258436.000168"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/6#issuecomment-119123124|#6: Login \ud6c4 redirect> (assigned to <https:\/\/github.com\/mightydeveloper|mightydeveloper>)",
+                "text": "c2b626133d392a3dcbc2b55480b2e086c990f731\n\uc704\uc758 \ucee4\ubc0b\uc5d0\uc11c \uc218\uc815\ud558\uc600\uace0\n\ucd94\uac00\ub85c PEP 8 \uc218\uc815 \ucee4\ubc0b \ud6c4 develop \ube0c\ub80c\uce58\uc5d0 merge\ud558\uc600\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/6#issuecomment-119123124|#6: Login \ud6c4 redirect> (assigned to <https:\/\/github.com\/mightydeveloper|mightydeveloper>)",
+                "title": "Comment by mightydeveloper\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436258487.000169"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/6|#6 Login \ud6c4 redirect> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/6|#6 Login \ud6c4 redirect> by <https:\/\/github.com\/mightydeveloper|mightydeveloper>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436258487.000170"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/1|Issue created> by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "pretext": "[sparcs-kaist\/sparcssso] Issue created by <https:\/\/github.com\/a1sams1a|a1sams1a>",
+                "title": "#1 Facebook \ub85c\uadf8\uc778 \uc5f0\ub3d9",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/sparcssso\/issues\/1",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436258523.000171"
+    },
+    {
+        "user": "U0798F52B",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U0798F52B|zealot> has joined the channel",
+        "ts": "1436264040.000172"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/eb23a2d|1 new commit> by kanon",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/eb23a2d|eb23a2d>: \uae00 \uc0ad\uc81c\uc2dc \ub367\uae00 \uc785\ub825\ucc3d \uc548 \ubcf4\uc774\uac8c \uc218\uc815, \ub367\uae00 \uc0ad\uc81c \uae30\ub2a5 \ucd94\uac00, \uc0ad\uc81c \ubc84\ud2bc \uc218\uc815 - kanon",
+                "pretext": "[araplus:board] 1 new commit by kanon:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436273571.000173"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8d05549#commitcomment-12051319|8d05549>",
+                "text": "44-46: UserProfile.objects.create(user=new_user, nickname=nickname) ?",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8d05549#commitcomment-12051319|8d05549>",
+                "title": "Comment on line 47 by acuros\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436314859.000174"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8d05549#commitcomment-12051338|8d05549>",
+                "text": "if requiest.method != \"POST\":\n    return render(request, 'session\/register.html')\nusername = request ...\n\n\uc73c\ub85c \ud558\uba74 flow\ub97c \ub354 \ubcf4\uae30 \uc27d\uac8c\ub9cc\ub4e4\uace0 indentation\uc744 \uc904\uc77c \uc218 \uc788\uc74c",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8d05549#commitcomment-12051338|8d05549>",
+                "title": "Comment on line 29 by acuros\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436314958.000175"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dab06b2#commitcomment-12051356|dab06b2>",
+                "text": "UserProfile\uacfc User\uac00 OneToOne\uc774\uae30 \ub54c\ubb38\uc5d0 request.user.userprofile\ub85c \uc811\uadfc\uac00\ub2a5\ud568",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dab06b2#commitcomment-12051356|dab06b2>",
+                "title": "Comment on line 54 by acuros\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436315045.000176"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12051422|bd4be9e>",
+                "text": "migrations\ub3c4 \uad00\ub9ac\ub3fc\uc57c\ud558\uc9c0 \uc54a\ub098\uc694?",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12051422|bd4be9e>",
+                "title": "Comment by acuros\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436315483.000177"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12051608|bd4be9e>",
+                "text": "\ub7f0\uce6d \uc804\uae4c\uc9c0\ub294 \ub9c8\uc774\uadf8\ub808\uc774\uc158\uc740 \ubb34\uc2dc\ud574\ub3c4 \ub418\uc9c0 \uc54a\uc744\uae4c \ud558\ub294\ub370... \uc544\ub2d0\uae4c\uc694?",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12051608|bd4be9e>",
+                "title": "Comment by Suckzoo\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436316580.000178"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12051654|bd4be9e>",
+                "text": "\ub2f9\uc7a5 \ubaa8\ub378 \uc218\uc815\ud560 \uc77c\ub3c4 \ub9ce\uc744\uac70\uace0 \ud504\ub85c\uc81d\ud2b8 \ucc38\uc5ec\uc6d0\ub4e4 \ub300\ubd80\ubd84 \uae43 \uc0ac\uc6a9\ub3c4 \ub2e4\ub4e4 \ub2a5\uc219\uce58 \uc54a\uc744\ud150\ub370 \uc790\uae30\uac00 \uac74\ub4dc\ub9b0 \ud30c\uc77c\ub3c4 \uc544\ub2cc \ub514\ub809\ud1a0\ub9ac\uae4c\uc9c0 \ucee8\ud50c\ub9ad\n\uc77c\uc73c\ud0a4\ub294 \uac83\ubcf4\ub2e4\ub294 \ub098\uc744 \uac83 \uac19\uc544\uc11c \uc77c\ubd80\ub7ec \ube7c\ub450\uc5c8\uc2b5\ub2c8\ub2e4. \uc880 \ub354 \uc801\uc5b4\ub458\uac78 \uadf8\ub7ac\ub124\uc694.\n\n\ubb38\uc81c\uac00 \ub41c\ub2e4\uba74 \ub418\ub3cc\ub9ac\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4\n  1.   1.   1. \uc624\uc804 9:49\uc5d0 \"Seokju Hong\" <mailto:notifications@github.com|notifications@github.com>\ub2d8\uc774 \uc791\uc131:\n\n&gt; \ub7f0\uce6d \uc804\uae4c\uc9c0\ub294 \ub9c8\uc774\uadf8\ub808\uc774\uc158\uc740 \ubb34\uc2dc\ud574\ub3c4 \ub418\uc9c0 \uc54a\uc744\uae4c \ud558\ub294\ub370... \uc544\ub2d0\uae4c\uc694?\n&gt;\n&gt; \u2014\n&gt; Reply to this email directly or view it on GitHub\n&gt; <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e7c445f50c7a757a8565d210d8f2411564#commitcomment-12051608>\n&gt; .",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12051654|bd4be9e>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436316904.000179"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12054200|bd4be9e>",
+                "text": "\uc5c9 \uadfc\ub370 \uc774\uac70 araplus\uac00 \uc544\ub2c8\uace0 sparcssso\uc600\ub124\n\uc5ec\uae30\ub294 \uadf8\ub0e5 araplus\ub791 \ub611\uac19\uc774 \uc124\uc815\ud574\ub480\uc5b4\uc694",
+                "pretext": "[sparcs-kaist\/sparcssso] New comment on commit <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/bd4be9e#commitcomment-12054200|bd4be9e>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436335884.000180"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "<@U026NDWJW>: \ub098\uc640\ub77c",
+        "ts": "1436335993.000181"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "?!!",
+        "ts": "1436336109.000182"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub108 \uc5b4\ub514\ub2c8",
+        "ts": "1436336132.000183"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc800 \ubc16\uc774\uc694",
+        "ts": "1436336173.000184"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc18c\ud658\uc7a5",
+        "ts": "1436336175.000185"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\ub2f9\uc7a5 \uc624\uc9c0 \uc54a\uc744\uacbd\uc6b0",
+        "ts": "1436336178.000186"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc5c4\ubc8c\uc5d0 \ucc98\ud568",
+        "ts": "1436336180.000187"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\ub77c\ub294 \uc758\ubbf8\uc608\uc694.",
+        "ts": "1436336183.000188"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1436336192.000189"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc65c \ub0b4 \ub9c8\uc2a4\ud130\ube0c\ub79c\uce58\uc5d0 \ub625\uc2f8\uc9c8\ub7ec\ub193\uace0 \ud290 \u3161\u3161",
+        "ts": "1436336242.000190"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc77c\ub534\uc740 \uac08\uac8c\uc694",
+        "ts": "1436336250.000191"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc544\ub0d0 \uc548\uc640\ub3c4 \ub3fc",
+        "ts": "1436336255.000192"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub0e5 \uac70\uae30\uc11c \ub450\uc190 \ub4e4\uace0 \uc11c\uc788\uc5b4",
+        "ts": "1436336259.000193"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "?",
+        "ts": "1436336259.000194"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc5b4\uc81c \ub9c8\uc2a4\ud130\uc5d0",
+        "ts": "1436336268.000195"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc138\uc158\ud569\uce5c\uac70",
+        "ts": "1436336270.000196"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub54c\ubb38\uc5d0 \uadf8\ub7ec\uc2dc\ub294..",
+        "ts": "1436336277.000197"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc77c\ub534\ud569\uce58\ub77c\ub9e4 \u315c\u315c",
+        "ts": "1436336281.000198"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub514\ubca8\ub86d\uc5d0 \uc62c\ub9ac\uc2dc\uc9c0",
+        "ts": "1436336286.000199"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u315c\u315c",
+        "ts": "1436336287.000200"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uadf8\ub798\uc11c \ubb3c\uc5b4\ubd24\ub294\ub370",
+        "ts": "1436336292.000201"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc5ec\ub7ec\ubc88",
+        "ts": "1436336305.000202"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ud751",
+        "ts": "1436336308.000203"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uadf8",
+        "ts": "1436336343.000204"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ud0dc\ud604\uc774\uac00 \uc138\uc158 \uba38\uc9c0\ud558\ub294\ub370 \ud544\uc694\ud558\ub2e4\ud574\uc11c \uac4d \ud574\uc900\uac74\ub514 \u315c\u315c",
+        "ts": "1436336368.000205"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\u3148\u3145\u3147",
+        "ts": "1436336382.000206"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc2a4\ud1a0\ub9ac\ud55c\ud0dc\ub3c4 \ubb3c\uc5b4\ubcf4\uace0 \ud55c\uac74\ub381",
+        "ts": "1436336392.000207"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc14b\ub2e4 \uc190\ub4e4\uace0 \uc11c\uc788\uc5b4",
+        "ts": "1436336401.000208"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub09c \uc9c4\uadfc\uc774\ud615\ubcf4\ub2e8 \ucc29\ud574\uc11c \ubb34\ub98e\uafc7\uace0 \uc190\ub4e4\uace0 \uc11c\uc788\uc73c\ub77c\uace0\ub294 \uc548\ud568",
+        "ts": "1436336427.000209"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024U2P7Y|suckzo_o> uploaded a file: <https:\/\/sparcs.slack.com\/files\/suckzo_o\/F07ASDT6Z\/___.jpg|\uc9e0.jpg>",
+        "file": {
+            "id": "F07ASDT6Z",
+            "created": 1436336447,
+            "timestamp": 1436336447,
+            "name": "\uc9e0.jpg",
+            "title": "\uc9e0.jpg",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024U2P7Y",
+            "editable": false,
+            "size": 651575,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F07ASDT6Z\/___.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F07ASDT6Z\/download\/___.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASDT6Z-4a7680fd79\/____64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASDT6Z-4a7680fd79\/____80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASDT6Z-4a7680fd79\/____360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 252,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASDT6Z-4a7680fd79\/____480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 336,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASDT6Z-4a7680fd79\/____160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASDT6Z-4a7680fd79\/____720.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 504,
+            "image_exif_rotation": 1,
+            "original_w": 894,
+            "original_h": 626,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F07ASDT6Z\/___.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F07ASDT6Z-2e6c16a784",
+            "channels": [
+                "C071D362F"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024U2P7Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024U2P7Y|suckzo_o>",
+        "bot_id": null,
+        "ts": "1436336452.000210"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc9e0~ \ub9c8\uc2a4\ud130\uc5d0 \ud478\uc26c\uac00 \ub418\uc5c8\uc2b5\ub2c8\ub2e4!",
+        "ts": "1436336453.000211"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub530\ub780",
+        "ts": "1436336464.000212"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uba38\uc9c0 \ud3f4\ub9ac\uc2dc\ub97c \ud655\uc2e4\ud558\uac8c \uc815\ud558\uc8e0",
+        "ts": "1436336465.000213"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\u314d\u314e\u314e\u314e\u314e\u314e\u314e\u314e\u314e\u314e\u314e\u314e\u314e",
+        "ts": "1436336466.000214"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc544\ub2c8\uba74 \uac4d PR\ub85c ",
+        "ts": "1436336472.000215"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc790\uc2e0\uc774 \uc5c6\ub2e4\uba74",
+        "ts": "1436336477.000216"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "PR\uc774 \uc801\ud569\ud558\uc9c0 \uc54a\ub098\uc694",
+        "ts": "1436336480.000217"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\u314d\u314e\u314e",
+        "ts": "1436336481.000218"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "1. master\uc5d0\ub294 develop\uc5d0\uc11c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4",
+        "ts": "1436336514.000219"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "2. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 \ub2e4\ub978 \uc0ac\ub78c\uc774 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch \uc640 \uba38\uc9c0\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4",
+        "ts": "1436336535.000220"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "3. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 develop\uc73c\ub85c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4",
+        "ts": "1436336545.000221"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub05d",
+        "ts": "1436336546.000222"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc774\uac8c \ub2e4",
+        "ts": "1436336549.000223"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uac04\ub2e8\uba85\ub8cc",
+        "ts": "1436336552.000224"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc138\uc158\uc5d0\uc11c \uc791\uc5c5\ud55c\uac70 \uac00\uc838\uc62c\uc904 \ubaa8\ub974\ub294",
+        "ts": "1436336555.000225"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ubb34\ub2a5\ud55c \uae43\uc54c\ubabb\ub4e4",
+        "ts": "1436336558.000226"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc538\ud50c\uc5d0\uc988\ub313",
+        "ts": "1436336559.000227"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub54c\ubb38\uc785\ub2c8\ub2e4",
+        "ts": "1436336559.000228"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\u315c\u315c",
+        "ts": "1436336560.000229"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\u3134\u3134 \uc138\uc158\uc5d0\uc11c \uc791\uc5c5\ud55c\uac70 \uadf8\ub300\ub85c \uadf8\ub9b4\ub85c \uc548\uac00\uc838\uac11\ub2c8\ub2e4",
+        "ts": "1436336572.000230"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024U2P7Y|suckzo_o> uploaded a file: <https:\/\/sparcs.slack.com\/files\/suckzo_o\/F07ASF7U5\/linus-eff-you-640x363.png|linus-eff-you-640x363.png>",
+        "file": {
+            "id": "F07ASF7U5",
+            "created": 1436336572,
+            "timestamp": 1436336572,
+            "name": "linus-eff-you-640x363.png",
+            "title": "linus-eff-you-640x363.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024U2P7Y",
+            "editable": false,
+            "size": 218140,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F07ASF7U5\/linus-eff-you-640x363.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F07ASF7U5\/download\/linus-eff-you-640x363.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASF7U5-417cb67e23\/linus-eff-you-640x363_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASF7U5-417cb67e23\/linus-eff-you-640x363_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASF7U5-417cb67e23\/linus-eff-you-640x363_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 202,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASF7U5-417cb67e23\/linus-eff-you-640x363_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 269,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07ASF7U5-417cb67e23\/linus-eff-you-640x363_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 640,
+            "original_h": 359,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F07ASF7U5\/linus-eff-you-640x363.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F07ASF7U5-1beed12a36",
+            "channels": [
+                "C071D362F"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024U2P7Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024U2P7Y|suckzo_o>",
+        "bot_id": null,
+        "ts": "1436336576.000231"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\ub7f0 \uae43\uc54c\ubabb\ub4e4",
+        "ts": "1436336577.000232"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ub514\ubca8\ub86d\uc73c\ub85c \uba38\uc9c0\ud55c\ub2e4\uc74c",
+        "ts": "1436336585.000233"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub124\ub5a1\ud560\ub54c",
+        "ts": "1436336585.000234"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub9ce\uc774 \ubd5c\ub358",
+        "ts": "1436336588.000235"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc138\uc158\uc5d0\uc11c \uc5b4\ub290\uc815\ub3c4 \uc644\uc131\ub418\uba74 \ub514\ubca8\ub86d\uc73c\ub85c \uc62c\ub9ac\uace0",
+        "ts": "1436336588.000236"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc591\ubc18\uc774\ub124",
+        "ts": "1436336589.000237"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\ub514\ubca8\ub86d\uc5d0\uc11c \uadf8\ub9b4\ub85c \ubc1b\uc544\uc635\ub2c8\ub2e4",
+        "ts": "1436336596.000238"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\ub514\ubca8\ub86d\uc744 \uac00\uc838\uc640\uc11c \ud604 \uadf8\ub9b4\uacfc \uba38\uc9c0",
+        "ts": "1436336598.000239"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uadf8\ub7fc \uadf8\ub9b4\uc744 \uc791\uc5c5\ud558\uace0 \uacc4\uc2e0 <@U02KZSK9L> \uc640 <@U041VNW3G> \ub294 \ud604\uc7ac HEAD\uac00 \uc5b4\ub5bb\uac8c\ub418\uc2dc\ub098\uc694",
+        "ts": "1436336647.000240"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc55e\uc73c\ub85c \uba38\uc9c0\ud560\ub550 \ub0b4\uac00 \uc548\ud574\uc57c\uc9c0",
+        "ts": "1436336655.000241"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ud5e4\ub4dc\ub77c \ud558\uc2ec\uc740..",
+        "ts": "1436336659.000242"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U024U2P7Y|suckzo_o> uploaded a file: <https:\/\/sparcs.slack.com\/files\/suckzo_o\/F07AS60N6\/popcorn.jpg|popcorn.jpg>",
+        "file": {
+            "id": "F07AS60N6",
+            "created": 1436336675,
+            "timestamp": 1436336675,
+            "name": "popcorn.jpg",
+            "title": "popcorn.jpg",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U024U2P7Y",
+            "editable": false,
+            "size": 16318,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F07AS60N6\/popcorn.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F07AS60N6\/download\/popcorn.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07AS60N6-e6b46bb0be\/popcorn_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07AS60N6-e6b46bb0be\/popcorn_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07AS60N6-e6b46bb0be\/popcorn_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 198,
+            "thumb_360_h": 254,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F07AS60N6-e6b46bb0be\/popcorn_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 198,
+            "original_h": 254,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/suckzo_o\/F07AS60N6\/popcorn.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F07AS60N6-9f5a894cde",
+            "channels": [
+                "C071D362F"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U024U2P7Y",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U024U2P7Y|suckzo_o>",
+        "bot_id": null,
+        "ts": "1436336676.000243"
+    },
+    {
+        "type": "message",
+        "user": "U026NDWJW",
+        "text": "\uc5ec\ud2bc \uc81c \uc798\ubabb\uc774 \ud07d\ub2c8\ub2e4 \uc8c4\uc1a1\ud569\ub2c8\ub2e4 (--) (__) \uafb8\ubc85",
+        "ts": "1436336692.000244"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "git log\ub97c \ub54c\ub838\uc744 \ub54c \uac00\uc7a5 \uc704\uc5d0 \uc788\ub294 \ucee4\ubc0b\uc774 \uc5b4\ub514\uc774\uba70 \ud604\uc7ac \ucd5c\uc885\ucee4\ubc0b\uc5d0\uc11c \uc218\uc815\ud55c \ub0b4\uc5ed\uc774 \uc788\ub294\uc9c0 \uc5c6\ub294\uc9c0\ub97c \ubb3b\uc2b5\ub2c8\ub2e4",
+        "edited": {
+            "user": "U024WGSD3",
+            "ts": "1436336709.000000"
+        },
+        "ts": "1436336696.000245"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "efc7e5d766bf4ff71cc20850e71566fc90653897 \uc5ec\uae30 \uc788\uace0",
+        "ts": "1436336781.000247"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc800\uac8c \ucd5c\uc2e0\uc774\uc5d0\uc601",
+        "ts": "1436336784.000248"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc774\ub807\uac8c \ub9d0\ud558\uba74\ub418\ub098",
+        "ts": "1436336792.000249"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc73c\uc5d0.. \ub3d9\ud654\ub294 \uc544\ubb34\uac83\ub3c4...",
+        "ts": "1436336797.000250"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "0. *** \ud14c\uc2a4\ud2b8\ub97c \uac70\uce58\uace0 \ub3d9\uc791\ud558\ub294\uac8c \ud655\uc778\ub41c \ucf54\ub4dc\ub9cc \ucee4\ubc0b\ud569\ub2c8\ub2e4. ***\n1. master\uc5d0\ub294 develop\uc5d0\uc11c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4.\n2. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 \ub2e4\ub978 \uc0ac\ub78c\uc774 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch \uc640 \uba38\uc9c0\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.\n3. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 develop\uc73c\ub85c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4.\n\n\ub057, \uc538\ud50c \uc5d0\uc988 \ub313",
+        "ts": "1436337329.000251"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U024WGSD3",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[July 7th, 2015 11:35 PM] undead: 0. *** \ud14c\uc2a4\ud2b8\ub97c \uac70\uce58\uace0 \ub3d9\uc791\ud558\ub294\uac8c \ud655\uc778\ub41c \ucf54\ub4dc\ub9cc \ucee4\ubc0b\ud569\ub2c8\ub2e4. ***\n1. master\uc5d0\ub294 develop\uc5d0\uc11c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4.\n2. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 \ub2e4\ub978 \uc0ac\ub78c\uc774 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch \uc640 \uba38\uc9c0\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.\n3. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 develop\uc73c\ub85c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4.\n\n\ub057, \uc538\ud50c \uc5d0\uc988 \ub313",
+                "ts": "1436337329.000251",
+                "author_subname": "undead",
+                "channel_id": "C071D362F",
+                "channel_name": "araplus",
+                "is_msg_unfurl": true,
+                "text": "0. *** \ud14c\uc2a4\ud2b8\ub97c \uac70\uce58\uace0 \ub3d9\uc791\ud558\ub294\uac8c \ud655\uc778\ub41c \ucf54\ub4dc\ub9cc \ucee4\ubc0b\ud569\ub2c8\ub2e4. ***\n1. master\uc5d0\ub294 develop\uc5d0\uc11c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4.\n2. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 \ub2e4\ub978 \uc0ac\ub78c\uc774 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch \uc640 \uba38\uc9c0\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.\n3. \uac01\uc790 \uc791\uc5c5\ud558\uace0 \uc788\ub294 branch\ub294 develop\uc73c\ub85c\ub9cc \uc62c\ub77c\uac11\ub2c8\ub2e4.\n\n\ub057, \uc538\ud50c \uc5d0\uc988 \ub313",
+                "author_name": "Chang Won Lee",
+                "author_link": "https:\/\/sparcs.slack.com\/team\/undead",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/fa54c94c0596c502708821a9e5e1dfc4.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0016-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U024WGSD3|undead> pinned a message to this channel.",
+        "ts": "1436337461.000252"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dab06b2#commitcomment-12054448|dab06b2>",
+                "text": "\uc9c0\uc801 \uac10\uc0ac\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dab06b2#commitcomment-12054448|dab06b2>",
+                "title": "Comment on line 54 by mightydeveloper\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436337494.000253"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:session] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8cbde59|1 new commit> by Sam Brad Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8cbde59|8cbde59>: add socialaccount library into apps\/; broken build + invalid coding style - Sam Brad Jo",
+                "pretext": "[sparcssso:session] 1 new commit by Sam Brad Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436337602.000254"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/84c3dccb654e...75acc0743e09|3 new commits> by Young Seok 'Tony' Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6959a2c|6959a2c>: Implemented checking message - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c2b6261|c2b6261>: Fixed login redirect issue - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/75acc07|75acc07>: PEP8 fix - Young Seok 'Tony' Kim",
+                "pretext": "[araplus:session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/84c3dccb654e...75acc0743e09|3 new commits> by Young Seok 'Tony' Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436338335.000255"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus] The branch \"loginRedirectFix\" was deleted by Shavakan",
+                "text": "[araplus] The branch \"loginRedirectFix\" was deleted by Shavakan",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436338420.000256"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:session] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5ec437b|1 new commit> by Sam Brad Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/5ec437b|5ec437b>: remove unused providers, remove south_migrations - Sam Brad Jo",
+                "pretext": "[sparcssso:session] 1 new commit by Sam Brad Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436338680.000257"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6959a2cce49f...75acc0743e09|2 new commits> by Young Seok 'Tony' Kim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c2b6261|c2b6261>: Fixed login redirect issue - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/75acc07|75acc07>: PEP8 fix - Young Seok 'Tony' Kim",
+                "pretext": "[araplus:message] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/6959a2cce49f...75acc0743e09|2 new commits> by Young Seok 'Tony' Kim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1436338726.000258"
+    }
+]

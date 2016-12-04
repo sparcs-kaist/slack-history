@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "<https:\/\/medium.com\/p\/c86d35fbb21d>",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "C\uc5b8\uc5b4\ub85c \uc9dc\ub3c4 \uc131\uacf5\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5",
+                "title_link": "https:\/\/medium.com\/p\/c86d35fbb21d",
+                "text": "\uc544\ud30c\uce58 \ubaa8\ub4c8\ub85c \uac1c\ubc1c\ub41c API \uc11c\ubc84, \uc774\uc74c \ubca0\uc774\ub860\uc744 \uc18c\uac1c\ud569\ub2c8\ub2e4. C\uc5b8\uc5b4\ub85c API \uc11c\ubc84 \uac1c\ubc1c, \uc0dd\uac01\ubcf4\ub2e4 \ub098\uc058\uc9c0 \uc54a\uc544\uc694 \ub0b4\uac00 \uc0dd\uac01\ud558\ub294 \uc774\ubc88 \uc774\uc74c \uc0ac\ud0dc(?)\uc758 \ubb38\uc81c\uc810\uc740 \ud55c\uad6d\uc5d0\uc11c \u2018\uc6f9&amp;\ubaa8\ubc14\uc77c \uc11c\ube44\uc2a4\ub97c C\ub85c \uad6c\ucd95\ud574\ub3c4 \ubb38\uc81c\uc5c6\u2026",
+                "fallback": "Medium: C\uc5b8\uc5b4\ub85c \uc9dc\ub3c4 \uc131\uacf5\ud558\ub294 \uc2a4\ud0c0\ud2b8\uc5c5",
+                "image_url": "https:\/\/d262ilb51hltx0.cloudfront.net\/max\/800\/1*x8uMx6AKL3jw5HQ3Yr6JEg.png",
+                "from_url": "https:\/\/medium.com\/p\/c86d35fbb21d",
+                "image_width": 598,
+                "image_height": 450,
+                "image_bytes": 389588,
+                "id": 1
+            }
+        ],
+        "ts": "1390478107.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024SJ5TM",
+        "text": "\uad00\ub828 \uae00\ub4e4\ub3c4 \ub098\uc624\uae30\uc2dc\uc791\ud587\ub098",
+        "ts": "1390478118.000004"
+    }
+]

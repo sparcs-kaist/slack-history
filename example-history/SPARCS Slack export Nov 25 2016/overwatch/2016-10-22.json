@@ -1,0 +1,260 @@
+[
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc74c....",
+        "ts": "1477120335.000144"
+    },
+    {
+        "user": "U2SM07DV2",
+        "inviter": "U02PEJCVA",
+        "text": "<@U2SM07DV2|nugu-nyang> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477120340.000145"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc74c..",
+        "ts": "1477120342.000146"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c\ub0e5 samjo",
+        "ts": "1477120347.000147"
+    },
+    {
+        "text": "samjo's information\n\t\uc774\ub984: \uc870\uc131\uc6d0\n\t\ud559\ubc88: 14\n\t\uc18c\uc18d: KAIST SoC\n\t\ubc30\ud2c0\ub137: SamJo#31658",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477120348.000148"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c\ub0e5",
+        "ts": "1477120353.000149"
+    },
+    {
+        "text": "!\ub204\uad6c V0.1 by samjo\n\t!\ub204\uad6c &lt;id&gt;: id\uac00 \uc815\ud655\ud788  text\uc778 \uc0ac\ub78c\uc758 \uc815\ubcf4\ub97c \ubcf4\uc5ec\uc90d\ub2c8\ub2e4.\n\t!\ub204\uad6c \uac80\uc0c9 &lt;text&gt;: \uc774\ub984 \ub610\ub294 id\uc5d0 text\uac00 \ud3ec\ud568\ub41c \uc0ac\ub78c\uc758 \uc815\ubcf4\ub97c \ubcf4\uc5ec\uc90d\ub2c8\ub2e4.\n\t!\ub204\uad6c \uc218\uc815 &lt;json&gt;: \ubcf8\uc778\uc758 \uc815\ubcf4\ub97c \uc5c5\ub370\uc774\ud2b8\ud569\ub2c8\ub2e4.\n\t!\ub204\uad6c \ub3c4\uc6c0: \uc774 \ub3c4\uc6c0\ub9d0\uc744 \ud45c\uc2dc\ud569\ub2c8\ub2e4.",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477120354.000150"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c \uac80\uc0c9 \uc131\uc6d0",
+        "ts": "1477120362.000151"
+    },
+    {
+        "text": "samjo's information\n\t\uc774\ub984: \uc870\uc131\uc6d0\n\t\ud559\ubc88: 14\n\t\uc18c\uc18d: KAIST SoC\n\t\ubc30\ud2c0\ub137: SamJo#31658",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477120362.000152"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "\uc6b0\uc640\uc544",
+        "ts": "1477120366.000153"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c \uc218\uc815",
+        "ts": "1477120371.000154"
+    },
+    {
+        "text": "\uc778\uc790\uac00 \ud544\uc694\ud558\ub0e5! \uc778\uc790\ub294 {\"name\": \"\ub028\ub0e5\uc774\", \"ent_year\": 14, \"org\": \"KAIST SoC\",\n\"phone\": \"010-xxxx-xxxx\", \"birth\": \"1996-01-01\", \"dorm\": \"\ubbf8\ub974\uad00 101\ud638\",\n\"facebook_id\": \"abc\", \"twitter_id\": \"@abc\", \"github_id\": \"abc\",\n\"battlenet_id\": \"abc#12345\", \"website\": \"<https:\/\/abc.com>\"} \ud615\uc2dd\uc774\ub0e5!",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477120372.000155"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c \uc218\uc815 {\"github_id\": \"a1sams1a\"}",
+        "ts": "1477120394.000156"
+    },
+    {
+        "text": "\uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\ub0e5!",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477120394.000157"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c\ub0e5 samjo",
+        "ts": "1477120402.000158"
+    },
+    {
+        "text": "samjo's information\n\t\uc774\ub984: \uc870\uc131\uc6d0\n\t\ud559\ubc88: 14\n\t\uc18c\uc18d: KAIST SoC\n\tGithub: a1sams1a\n\t\ubc30\ud2c0\ub137: SamJo#31658",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477120404.000159"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544\uc9c1 \ubca0\ud0c0\ub77c... \uc5b8\uc81c \ud130\uc9c8\uc9c0 \ubaa8\ub985\ub2c8\ub2e4",
+        "ts": "1477120426.000160"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "+ \uc6d0\ub798 nugu\ub791\uc740 \uc5f0\ub3d9 \uc548\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4",
+        "ts": "1477120561.000161"
+    },
+    {
+        "user": "U02LDHPL1",
+        "text": "<@U02LDHPL1|leejeok> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477120929.000162"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "!\ub204\uad6c\ub0e5 leejeok",
+        "ts": "1477120938.000163"
+    },
+    {
+        "text": "\uacb0\uacfc\uac00 \uc5c6\ub0e5.. \ub028...",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477120940.000164"
+    },
+    {
+        "type": "message",
+        "user": "U02LDHPL1",
+        "text": "!\ub204\uad6c\ub0e5 samjo",
+        "ts": "1477121787.000165"
+    },
+    {
+        "text": "samjo's information\n\t\uc774\ub984: \uc870\uc131\uc6d0\n\t\ud559\ubc88: 14\n\t\uc18c\uc18d: KAIST SoC\n\t\uc0dd\uc77c: 1996-08-24\n\tGithub: a1sams1a\n\t\ubc30\ud2c0\ub137: SamJo#31658",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477121788.000166"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "!\ub204\uad6c\ub0e5 serialx",
+        "ts": "1477123017.000167"
+    },
+    {
+        "text": "\uacb0\uacfc\uac00 \uc5c6\ub0e5.. \ub028...",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477123018.000168"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ub028..",
+        "ts": "1477123022.000169"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uadf8\ub0e5 \uc81c \uc11c\ubc84\uc5d0\uc11c \ub3cc\ub9ac\ub294\uac70\ub77c",
+        "ts": "1477123209.000170"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc9c1\uc811 \ub4f1\ub85d\ud574\uc57c \ud569\ub2c8\ub2e4",
+        "ts": "1477123212.000171"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uc544\uc9c1 sparcs db\ub791 \uc5f0\ub3d9 \uc548\ud588\uc5b4\uc694",
+        "ts": "1477123232.000172"
+    },
+    {
+        "user": "U045EMA87",
+        "text": "<@U045EMA87|george> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477127875.000173"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "!\ub204\uad6c\ub0e5",
+        "ts": "1477127929.000174"
+    },
+    {
+        "text": "!\ub204\uad6c V0.1 by samjo\n\t!\ub204\uad6c &lt;id&gt;: id\uac00 \uc815\ud655\ud788  text\uc778 \uc0ac\ub78c\uc758 \uc815\ubcf4\ub97c \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \ubaa9\ub85d: \ub4f1\ub85d\ub41c \ubaa8\ub4e0 \uc0ac\uc6a9\uc790\uc758 \ubaa9\ub85d\uc744 \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \uac80\uc0c9 &lt;text&gt;: \uc774\ub984 \ub610\ub294 id\uc5d0 text\uac00 \ud3ec\ud568\ub41c \uc0ac\ub78c\uc744 \ubcf4\uc5ec\uc8fc\ub0e5!\n\t!\ub204\uad6c \uc218\uc815 &lt;json&gt;: \ubcf8\uc778\uc758 \uc815\ubcf4\ub97c \uc5c5\ub370\uc774\ud2b8\ud558\ub0e5!.\n\t!\ub204\uad6c \ub3c4\uc6c0: \uc774 \ub3c4\uc6c0\ub9d0\uc744 \ud45c\uc2dc\ud558\ub0e5!",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477127929.000175"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "!\ub204\uad6c\ub0e5 \ubaa9\ub85d",
+        "ts": "1477127935.000176"
+    },
+    {
+        "text": "samjo (\uc870\uc131\uc6d0, 14)",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477127936.000177"
+    },
+    {
+        "type": "message",
+        "user": "U0B6LPVSM",
+        "text": "!\ub204\uad6c ashe",
+        "ts": "1477133294.000178"
+    },
+    {
+        "text": "\uacb0\uacfc\uac00 \uc5c6\ub0e5.. \ub028...",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477133295.000179"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "!\ub204\uad6c \uac80\uc0c9 \uc7ac\uc131",
+        "ts": "1477133534.000180"
+    },
+    {
+        "text": "ashe's information\n\t\uc774\ub984: \uae40\uc7ac\uc131\n\t\ud559\ubc88: 14",
+        "username": "bot",
+        "bot_id": "B2SMG10QZ",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1477133534.000181"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#185 [\uac70\uc758 \uc644\uc131] ResearchLecture\ub97c \uc800\uc7a5\ud558\ub294 script' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/185 by jihoon-ko",
+                "text": "OTL Timetable\uc5d0\uc11c \ud544\uc694\uc5c6\uc5b4\uc11c \uc81c\uac70\uc2dc\ucf30\ub358 \uc5f0\uad6c \uacfc\ubaa9\ub4e4\uc758 \uc815\ubcf4\ub97c timetable.models\uc758 ResearchLecture\uc5d0 \uc800\uc7a5\uc2dc\ud0a4\ub294 \uc2a4\ud06c\ub9bd\ud2b8\uc785\ub2c8\ub2e4.\nProfessor \uc815\ubcf4\ub97c \uc81c\uc678\ud558\uace0\ub294 \uc798 \ubc1b\uc544\uc634\uc744 \ud655\uc778\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. (\uc774\uac83\uc740 \ube60\ub974\uac8c \uc218\uc815\ud558\ub3c4\ub85d \ud558\uaca0\uc2b5\ub2c8\ub2e4.)",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/jihoon-ko|jihoon-ko>",
+                "title": "#185 [\uac70\uc758 \uc644\uc131] ResearchLecture\ub97c \uc800\uc7a5\ud558\ub294 script",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/185",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478869689.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] Pull request submitted: '#186 \ub0b4\uac00 \uc4f4 \ud6c4\uae30\ub4e4, \ub85c\uadf8\uc778 \uc5d0\ub7ec \ud398\uc774\uc9c0' https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/186 by kangwon",
+                "text": "\ub0b4\uac00 \uc4f4 \ud6c4\uae30\ub4e4\uc744 \ubcfc \uc218 \uc788\ub3c4\ub85d \ud560 \uc608\uc815\uc785\ub2c8\ub2e4. \uc774\uc5d0 \uc774\uc5b4 issue#81\ub97c \ud574\uacb0\ud574 \uc0ac\uc6a9\uc790\uac00 \ud6c4\uae30\ub97c \uace8\ub77c \ubcfc \uc218 \uc788\ub3c4\ub85d \uc2dc\uc2a4\ud15c\uc744 \uc880 \ub354 \ubcf4\uc644\ud560 \uc608\uc815\uc785\ub2c8\ub2e4.\n\n\ub85c\uadf8\uc778 \uc5d0\ub7ec \ud398\uc774\uc9c0\uac00 \uc800\ubc88 \ucee4\ubc0b \ub54c \ub204\ub77d\ub41c \uac83 \uac19\uc544 \ucd94\uac00\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] Pull request submitted by <https:\/\/github.com\/kangwon|kangwon>",
+                "title": "#186 \ub0b4\uac00 \uc4f4 \ud6c4\uae30\ub4e4, \ub85c\uadf8\uc778 \uc5d0\ub7ec \ud398\uc774\uc9c0",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/186",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478887470.000020"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U04J6LN3W>",
+        "ts": "1472799755.000021"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc557",
+        "ts": "1472802658.000022"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc0c8\ub85c\uc6b4 \ubb38\uc81c\ub2e4",
+        "edited": {
+            "user": "U04J6LN3W",
+            "ts": "1472802673.000000"
+        },
+        "ts": "1472802660.000023",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U024SPDHG",
+                    "U045EMA87"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc778 \uc0c1\ud669\uc785\ub2c8\ub2e4.",
+        "ts": "1472802681.000025"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "....",
+        "ts": "1472803256.000026"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": ";;;;",
+        "ts": "1472803550.000027"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uba54\uc77c\uc774 \uc65c \uc548\ub420\uae4c....? SSH\ub3c4 \uc65c \uc548\ub420\uae4c....?",
+        "ts": "1472803604.000028"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "SSH \ub791 \uba54\uc77c\uc774 \ub458 \ub2e4 \uc548\ub418\ub294\uac74 \ub124\ud2b8\uc6cc\ud06c \ucabd \ubb38\uc81c\uc778\uac00?",
+        "ts": "1472803652.000029"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "reserved port \uc5d0 \ub300\ud574\uc11c \ub9c9\uc544\ub193\uc558\ub098?",
+        "ts": "1472803678.000030"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "ssh \uacf5\uaca9\uc774\ub098 \uc2a4\ud338 \ub54c\ubb38\uc5d0?",
+        "ts": "1472803696.000031"
+    },
+    {
+        "type": "message",
+        "user": "U02PEJCVA",
+        "text": "\uba54\uc77c \uc790\uccb4\ub294 \uc798 \ubc1c\uc1a1\ub429\ub2c8\ub2e4 \/ \uba54\uc77c \uc544\uce74\uc774\ube0c\uac00 \uc548\ub418\ub294 \uc774\uc720\ub294 \uc870\uc0ac\uc911\uc785\ub2c8\ub2e4 \/ ssh \uc811\uc18d \ubb38\uc81c\ub294 \uc5b4\uc81c ldap\uc5d0 \uc791\uc5c5\uc744 \ud558\uba74\uc11c \ubc1c\uc0dd\ud55c \ubb38\uc81c\uc77c \uac00\ub2a5\uc131\uc774 \ub192\uc2b5\ub2c8\ub2e4",
+        "ts": "1472804117.000032"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "\uc74c \uc81c\uac00 \uc2a4\ud30d\uc2a4 \uba54\uc77c\uc744 \uc9c0\uba54\uc77c \ub4f1\uc73c\ub85c \ud3ec\uc6cc\ub529 \uc548 \ud558\uace0 IMAP\uc73c\ub85c \uc77d\ub294 \uc0ac\ub78c\uc778\ub370\uc694.",
+        "ts": "1472804544.000033"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "\uc548 \ub418\ub124\uc694...",
+        "ts": "1472804552.000034"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "\uba54\uc77c \ud655\uc778\ud560 \ub54c SMTP\ub9cc \ud655\uc778\ud558\uc9c0 \ub9c8\uc2dc\uace0 IMAP\ub3c4 \ud655\uc778\ud574 \uc8fc\uc138\uc694.",
+        "ts": "1472804637.000035"
+    },
+    {
+        "type": "message",
+        "user": "U043V6ACW",
+        "text": "\uc774\ubbf8 \ub300\uc751\ud558\ub290\ub77c \uc815\uc2e0\uc774 \uc5c6\uc73c\uc2dc\uaca0\uc9c0\ub9cc...",
+        "ts": "1472804652.000036"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc11c\ubc84\uc2e4\uc5d0 \uc7a0\uc785\ud574 \ub85c\uadf8\uc778\uc744 \uc2dc\ub3c4\ud588\uc73c\ub098 \uc2e4\ud328...",
+        "ts": "1472814932.000037"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uac00\uc744 \ud559\uae30 \ub9ac\ud06c\ub8e8\ud305 \uae30\uac04\uc774\ub77c \uc11c\ubc84 \uc7ac\uc2dc\uc791\uc774 \uc870\uc2ec\uc2a4\ub7fd\ub124\uc694.",
+        "ts": "1472814972.000038"
+    },
+    {
+        "type": "message",
+        "user": "U04J6LN3W",
+        "text": "\uc880 \ub354 \uc900\ube44\ud574\uc11c \uc7a5\uc560 \uacf5\uc9c0 \ub744\uc6b0\uace0 \uc791\uc5c5 \ub4e4\uc5b4\uac00\uc57c \ud560 \uac83 \uac19\uc544\uc694.",
+        "ts": "1472814994.000039"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "ssh\uac00 \uc548\ub418\ub294 \uc774\uc720\ub294 ldap \uc5d0 \uc5f0\uacb0\uc774 \uc548\ub41c\uac70 \uac19\uc740\ub370",
+        "ts": "1472825397.000040"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "logcheck \ubcf4\ub2c8\uae4c \uacc4\uc18d ldap\uc5d0 \uc5f0\uacb0\ud558\ub824\ub2e4\uac00 \uc548\ub418\uc11c",
+        "ts": "1472825430.000041"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\ub09c\ub9ac\uce58\ub294\uac70 \uac19\uc740\ub370;;",
+        "ts": "1472825442.000042"
+    },
+    {
+        "user": "U0VDGPAHW",
+        "text": "<@U0VDGPAHW|null> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472879291.000043"
+    }
+]

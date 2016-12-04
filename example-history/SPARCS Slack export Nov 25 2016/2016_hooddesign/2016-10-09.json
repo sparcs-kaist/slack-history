@@ -1,0 +1,94 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U0V6NC6UV|pudding> uploaded a file: <https:\/\/sparcs.slack.com\/files\/pudding\/F2M4LBCBS\/mens_hoodie_01.jpg|Mens_Hoodie_01.jpg>",
+        "file": {
+            "id": "F2M4LBCBS",
+            "created": 1475996767,
+            "timestamp": 1475996767,
+            "name": "Mens_Hoodie_01.jpg",
+            "title": "Mens_Hoodie_01.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U0V6NC6UV",
+            "editable": false,
+            "size": 1858037,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2M4LBCBS\/mens_hoodie_01.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F2M4LBCBS\/download\/mens_hoodie_01.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_64.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_80.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_360.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_480.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_160.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_720.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_720_w": 720,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_960.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_960_w": 960,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F2M4LBCBS-9ba676a45f\/mens_hoodie_01_1024.jpg?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2100,
+            "original_h": 2100,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/pudding\/F2M4LBCBS\/mens_hoodie_01.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F2M4LBCBS-5e14d82990",
+            "channels": [
+                "C2GS0NT4N"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U0V6NC6UV",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U0V6NC6UV|pudding>",
+        "bot_id": null,
+        "ts": "1475996771.000059"
+    },
+    {
+        "type": "message",
+        "user": "U0V6NC6UV",
+        "text": "\ud638\uc5d0...",
+        "ts": "1475996784.000060"
+    },
+    {
+        "type": "message",
+        "user": "U2D4SMLDA",
+        "text": "\uc800\ub3c4 \uc2ec\ud50c\ud55c\uac8c... :)",
+        "ts": "1476001572.000061"
+    },
+    {
+        "type": "message",
+        "user": "U046N9CV2",
+        "text": "\uc0c9\uc740 \uac80\uc815\uc0c9 \ud53d\uc2a4\uc778\uac00\uc694?",
+        "ts": "1476006040.000062"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uadf8\ub7ec\uac8c\uc5ec \uc9c0\ub09c\ubc88 \ub9e8\ud22c\ub9e8\ucc98\ub7fc \uc218\uc694\ub9cc \ub9ce\uc73c\uba74 \ub450\uac00\uc9c0 \uc0c9\uc73c\ub85c \ud574\ub3c4 \ub420\uac70\uac19\uc740\ub370\u2026!!",
+        "ts": "1476007277.000063"
+    },
+    {
+        "type": "message",
+        "user": "U02F86M4W",
+        "text": "\uac1c\uc778\uc801\uc73c\ub860 \ud68c\uc0c9\uc774 \uac16\uad6c\uc2f6\ub124\uc5ec :jo:",
+        "ts": "1476007292.000064"
+    }
+]

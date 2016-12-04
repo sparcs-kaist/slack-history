@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U04JG832D",
+        "text": "\uc791\ub144 \uc138\ubbf8\ub098 \ucc38\uace0\ud558\uc2dc\ub294 \ubd84\ub4e4...",
+        "ts": "1479552968.000035"
+    },
+    {
+        "type": "message",
+        "user": "U04JG832D",
+        "text": "<http:\/\/stackoverflow.com\/questions\/38744285\/django-urls-error-view-must-be-a-callable-or-a-list-tuple-in-the-case-of-includ>",
+        "attachments": [
+            {
+                "title": "Django URLs error: view must be a callable or a list\/tuple in the case of include()",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/38744285\/django-urls-error-view-must-be-a-callable-or-a-list-tuple-in-the-case-of-includ",
+                "text": "After upgrading to Django 1.10, I get the error:TypeError: view must be a callable or a list\/tuple in the case of include(). My urls.py is as follows:urlpatterns = [ url(r'^$', 'myapp.view...",
+                "fallback": "Django URLs error: view must be a callable or a list\/tuple in the case of include()",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/38744285\/django-urls-error-view-must-be-a-callable-or-a-list-tuple-in-the-case-of-includ",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1479552977.000036"
+    },
+    {
+        "type": "message",
+        "user": "U04JG832D",
+        "text": "url\ub85c \ubb38\uc81c \ub098\uba74 \uc774\uac70 \ubd10\ubcf4\uc138\uc694.",
+        "ts": "1479552986.000038"
+    }
+]

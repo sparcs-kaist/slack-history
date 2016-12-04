@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc9c0\uae08 <@U02PEJCVA> \uac00 \uc791\uc5c5\ud558\uace0\uc788\ub294\uac70 \ub9de\ub098\uc694?",
+        "ts": "1441635912.000002"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "\uc2e0\uc785\ud720\ub4e4 \uc5ec\uae30 \uc5c6\ub124 \ucd08\ub300\uc880...",
+        "ts": "1441635924.000003"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U02PEJCVA>: <@U02L44HTT> <@U02LDHPL1> <@U045EMA87> <@U04JG832D>",
+        "ts": "1441636028.000004"
+    },
+    {
+        "user": "U02PEJCVA",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02PEJCVA|samjo> has joined the channel",
+        "ts": "1441636031.000005"
+    },
+    {
+        "user": "U02LDHPL1",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U02LDHPL1|leejeok> has joined the channel",
+        "ts": "1441636031.000006"
+    },
+    {
+        "user": "U045EMA87",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045EMA87|george> has joined the channel",
+        "ts": "1441636031.000007"
+    },
+    {
+        "user": "U04JG832D",
+        "inviter": "U024U2P7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04JG832D|jara> has joined the channel",
+        "ts": "1441636031.000008"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "<@U04J6LN3W>",
+        "ts": "1441636065.000009"
+    }
+]

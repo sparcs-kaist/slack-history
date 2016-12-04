@@ -1,0 +1,31 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue created: '#130 develop branch css problem' https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/130 by sparcsJara",
+                "text": "\ud574\ucee4\ud1a4 merge \ud6c4\uc5d0 \uc5ec\ub7ec\uac00\uc9c0 css\ubb38\uc81c \ubc1c\uc0dd\n\n\uc138\ubd80\uc0ac\ud56d \n-\uac80\uc0c9\ucc3d \uc704\uce58 \uc774\uc0c1\n-\ub85c\uadf8\uc778\ubc84\ud2bc\uc704\uce58 \uc774\uc0c1",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/sparcsJara|sparcsJara>",
+                "title": "#130 develop branch css problem",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/130",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1464549390.000050"
+    },
+    {
+        "user": "U03H8L275",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U03H8L275|daedoo> has left the channel",
+        "ts": "1464587535.000051"
+    }
+]

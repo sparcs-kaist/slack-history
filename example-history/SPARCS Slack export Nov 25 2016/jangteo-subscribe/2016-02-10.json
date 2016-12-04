@@ -1,0 +1,22 @@
+[
+    {
+        "text": "",
+        "bot_id": "B0KKYC7QD",
+        "attachments": [
+            {
+                "fallback": "[jangteo-api:samjo] <https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/ab3f6f223e8a3ce6ddec106181f2fd49bb321298|1 new commit> by Sam Jo",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/jangteo-api\/commit\/ab3f6f223e8a3ce6ddec106181f2fd49bb321298|ab3f6f2>: add automatic signup - Sam Jo",
+                "pretext": "[jangteo-api:samjo] 1 new commit by Sam Jo:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1455098840.000075"
+    }
+]

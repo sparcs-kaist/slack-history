@@ -1,0 +1,156 @@
+[
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc131\ud6c8\uc774 \ud615\uc774 \ubc1c\ud45c\ub97c \ud55c\ub2e4\uace0?",
+        "ts": "1459858648.001464"
+    },
+    {
+        "type": "message",
+        "user": "U024SNAD0",
+        "text": "\uc548\uac08 \uc218\uac00 \uc5c6\ub294\ub370 \uc774\uac70;;; \uc131\ud6c8\uc774 \ud615 \uc138\uc158\ub9cc\uc774\ub77c\ub3c4 \ub4e4\uc73c\ub7ec \uac00\uc57c;;;",
+        "ts": "1459858668.001465"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\uc131\ud6c8\uc774 \ubc1c\ud45c\uc790 \uc18c\uac1c\ub791 \ubc1c\ud45c\ub0b4\uc6a9 \uc18c\uac1c\ub791 \uc5b4\uc9f8 \uc790\uae30\uac00 \uc9c1\uc811 \uc4f4 \uac74\uac00 \u314b\u314b\u314b",
+        "ts": "1459911592.001466"
+    },
+    {
+        "type": "message",
+        "user": "U024SPDHG",
+        "text": "\ub9c8\uac1c\uc870\ub77c\ub2c8 \u314b\u314b",
+        "ts": "1459911598.001467"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\ubcf4\ud1b5 \uc9c1\uc811 \uc4f8\uac78\uc694",
+        "ts": "1459911627.001468"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc54c\ub9ac\uc5d0\uc11c \uc2f8\uac8c \uc0b0 \ub9e5\ubd81\ud504\ub85c \ucda9\uc804\uae30 \uc88b\ub124\uc694 \u314b\u314b",
+        "ts": "1459918661.001469"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<@U02F4BE42>: \uc5b4\uc6b0 \uadf8\uac70.. \uc704\ud5d8\ud558\uc9c0 \uc54a\ub098\uc694.. \u3137\u3137",
+        "ts": "1459918697.001470"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "<http:\/\/macnews.tistory.com\/3954>",
+        "attachments": [
+            {
+                "service_name": "Back to the Mac",
+                "title": "\u2192 \uc560\ud50c \ub9e5\uc138\uc774\ud504\uc640 \uc9dd\ud241 \ucda9\uc804\uae30 \ube44\uad50 \ubd84\ud574\uae30",
+                "title_link": "http:\/\/macnews.tistory.com\/3954",
+                "text": "\uc704 \uc0ac\uc9c4\uc740 '\ucf04 \uc26c\ub9bd(Ken Shirriff)'\uc774\ub77c\ub294 \uc720\uc800\uac00 \uc790\uc2e0\uc758 \ube14\ub85c\uadf8\uc5d0 \uacf5\uac1c\ud55c \uc815\ud488 \ucda9\uc804\uae30\uc640 \uc9dd\ud241 \ucda9\uc804\uae30\ub97c \ubd84\ud574\ud55c \ubaa8\uc2b5\uc785\ub2c8\ub2e4. \uc67c\ucabd\uc774 \uc560\ud50c\uc774 \uc81c\uc791\ud55c \uc815\ud488 \ucda9\uc804\uae30\uc774\uace0, \uc624\ub978\ucabd\uc774 \uc9dd\ud241 \ucda9\uc804\uae30\ub77c\ub294 \uac74 \uc804\uae30\uc804\uc790 \uacf5\ud559\ub3c4\uac00 \uc544\ub2cc \ubd84\ub4e4\ub3c4 \ud55c\ub208\uc5d0 \uc54c\uc544\ubcf4\uc2dc\uaca0\uc8e0. \uc9dd\ud241 \uc5b4\ub311\ud130\ub294 \uc774\ubca0\uc774\uc5d0\uc11c \uc785\uc218\ud55c \uac83\uc774\ub77c\uace0 \ud558\ub294\ub370, \uac00\uaca9\uc740 \uc815\ud488\uc758 5\ubd84\uc758 1 \uc218\uc900\uc778 20\ub2ec\ub7ec\uc5d0 \ubd88\uacfc\ud558\ub2e4\uace0 \ud569\ub2c8\ub2e4. \uac89\ubaa8\uc2b5\uc740 \uc81c\ubc95 \uadf8\ub7f4\ub4ef\ud558\uac8c \uc815\ud488\uc744 \ud749\ub0b4\ub0c8\uc9c0\ub9cc, \ubd84\ud574\ub3c4 \uc5b4\ub835\uac70..",
+                "fallback": "Back to the Mac: \u2192 \uc560\ud50c \ub9e5\uc138\uc774\ud504\uc640 \uc9dd\ud241 \ucda9\uc804\uae30 \ube44\uad50 \ubd84\ud574\uae30",
+                "image_url": "http:\/\/cfile26.uf.tistory.com\/image\/227CCF44565C41D116AE4B",
+                "ts": 20151130235325,
+                "from_url": "http:\/\/macnews.tistory.com\/3954",
+                "image_width": 625,
+                "image_height": 250,
+                "image_bytes": 79655,
+                "id": 1
+            }
+        ],
+        "ts": "1459918701.001471"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0K6",
+        "text": "\uadf8\uac8c \uc880 \uc704\ud5d8\ud560\uc218\ub3c4 \uc788\uc2b5\ub2c8\ub2e4..",
+        "ts": "1459918708.001473"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<http:\/\/www.righto.com\/2016\/03\/counterfeit-macbook-charger-teardown.html>",
+        "ts": "1459918729.001474"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ub9e5 \uc5bc\ub9c8\ud55c\ub2e4\uace0 \uadf8\ub0e5 \uace0\uc7a5\ub098\uba74 \uc0c8\ub85c \uc0ac\uc838 \uba38",
+        "ts": "1459918739.001475"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\uc557 \ubc88\uc5ed \ud3ec\uc2a4\ud2b8\uae4c\uc9c0 \uc788\uc5c8\uad6c\ub098;; \uac81\ub098 \ube60\ub974\ub124;;",
+        "ts": "1459918743.001476"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\ub77c\ub294 \ub9d0\uc744 \ud560 \uc218 \uc788\uc73c\uba74",
+        "ts": "1459918744.001477"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\uc88b\uaca0\ub2e4\u2026\u2026.",
+        "ts": "1459918746.001478"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc624",
+        "ts": "1459918749.001479"
+    },
+    {
+        "type": "message",
+        "user": "U026JLU7V",
+        "text": "\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1459918756.001480"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc624",
+        "ts": "1459918788.001481"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ub531 \ubd10\ub3c4",
+        "ts": "1459918790.001482"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ubb34\uc12d\uae34 \ud558\ub124",
+        "ts": "1459918791.001483"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uadf8\ub798\uc11c \uc9d1\uc5d0\uc11c\ub294 \uc815\ud488\uc4f0\uace0",
+        "ts": "1459918795.001484"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\uc9ed\uc740 \ub4e4\uace0 \ub2e4\ub2c8\uac8c",
+        "ts": "1459918798.001485"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ubb34\uc12d\uae34 \ud558\ub2e4",
+        "ts": "1459918886.001486"
+    },
+    {
+        "type": "message",
+        "user": "U02F4BE42",
+        "text": "\ub09c \uc774\ubca0\uc774\ubcf4\ub2e4 \uc2f8\uac8c \uc0c0\ub294\ub370",
+        "ts": "1459918892.001487"
+    }
+]

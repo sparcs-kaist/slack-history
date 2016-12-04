@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "\uc0c8\ub85c \uad6c\ud560 ftp \uc11c\ubc84 \uc0ac\uc591\uc880 \uc54c\uc544\ubcf4\uace0 \uc788\ub294\ub370\uc694. \uc5b4\ub5a4 \ub124\ud2b8\uc6cc\ud06c \uce74\ub4dc\ub97c \uace0\ub97c\uc9c0 \uace0\ubbfc\uc911\uc785\ub2c8\ub2e4.",
+        "ts": "1469288693.000052"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U02L44HTT|coearth> uploaded a file: <https:\/\/sparcs.slack.com\/files\/coearth\/F1UFR2ACE\/network.png|network.png>",
+        "file": {
+            "id": "F1UFR2ACE",
+            "created": 1469288742,
+            "timestamp": 1469288742,
+            "name": "network.png",
+            "title": "network.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U02L44HTT",
+            "editable": false,
+            "size": 57062,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1UFR2ACE\/network.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T024SHLFD-F1UFR2ACE\/download\/network.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1UFR2ACE-dd58f1da46\/network_64.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1UFR2ACE-dd58f1da46\/network_80.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1UFR2ACE-dd58f1da46\/network_360.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_360_w": 360,
+            "thumb_360_h": 311,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1UFR2ACE-dd58f1da46\/network_480.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "thumb_480_w": 480,
+            "thumb_480_h": 415,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T024SHLFD-F1UFR2ACE-dd58f1da46\/network_160.png?t=xoxe-2162598523-109853422566-108502472001-018625f664",
+            "image_exif_rotation": 1,
+            "original_w": 641,
+            "original_h": 554,
+            "permalink": "https:\/\/sparcs.slack.com\/files\/coearth\/F1UFR2ACE\/network.png",
+            "permalink_public": "https:\/\/slack-files.com\/T024SHLFD-F1UFR2ACE-07d8c836c4",
+            "channels": [
+                "C02EBG12E"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U02L44HTT",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U02L44HTT|coearth>",
+        "bot_id": null,
+        "ts": "1469288744.000053"
+    },
+    {
+        "type": "message",
+        "user": "U02L44HTT",
+        "text": "intel vs mellanox vs emulex \uc5b4\ub5a4 \uc81c\ud488\uc744 \uc120\ud0dd\ud558\ub294 \uac8c \uc88b\uc744\uae4c\uc694?",
+        "ts": "1469288879.000054"
+    }
+]

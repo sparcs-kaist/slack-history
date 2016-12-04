@@ -1,0 +1,129 @@
+[
+    {
+        "type": "message",
+        "user": "U0690Q7TR",
+        "text": "<https:\/\/storyfunding.daum.net\/episode\/8050>",
+        "attachments": [
+            {
+                "title": "[\uc2a4\ud1a0\ub9ac\ud380\ub529] \uc88b\uc740 \uc77c\uc790\ub9ac \ud504\ub85c\uc81d\ud2b8",
+                "title_link": "https:\/\/storyfunding.daum.net\/episode\/8050",
+                "text": "10\ud654. \uc88b\uc740 \uc9c1\uc7a5\uc758 \ub300\uba85\uc0ac '\uad6c\uae00'\ud55c\uad6d\uc9c0\uc0ac\ub294?",
+                "fallback": "[\uc2a4\ud1a0\ub9ac\ud380\ub529] \uc88b\uc740 \uc77c\uc790\ub9ac \ud504\ub85c\uc81d\ud2b8",
+                "image_url": "https:\/\/t1.daumcdn.net\/thumb\/C480x270\/?fname=http:\/\/u1.daumcdn.net\/news\/201606\/03\/storyfunding\/20160603094337165aryl.jpg",
+                "from_url": "https:\/\/storyfunding.daum.net\/episode\/8050",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 36155,
+                "service_icon": "http:\/\/m1.daumcdn.net\/svc\/image\/U03\/common_icon\/56147B92056AFA0001",
+                "service_name": "storyfunding.daum.net",
+                "id": 1
+            }
+        ],
+        "ts": "1466082887.000249",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U0VND23FW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U024U4U5G",
+        "text": "\u314b\u3151\u3151\u3151\u3151\u3151\u3151\u3151\u3151\u3151\u3151\u3151\u3151\u3151\u3151",
+        "ts": "1466083015.000251"
+    },
+    {
+        "type": "message",
+        "user": "U0FK63YR2",
+        "text": "\uc624\uc624 \uac15\ucca0 \uc704\uc5c4",
+        "ts": "1466083085.000252"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "<http:\/\/boingboing.net\/2016\/06\/15\/intel-x86-processors-ship-with.html>",
+        "attachments": [
+            {
+                "service_name": "Boing Boing",
+                "title": "Intel x86s hide another CPU that can take over your machine (you can't audit it)",
+                "title_link": "http:\/\/boingboing.net\/2016\/06\/15\/intel-x86-processors-ship-with.html",
+                "text": "Recent Intel x86 processors implement a secret, powerful control mechanism that runs on a separate chip that no one is allowed to audit or examine. When these are eventually compromised, they&amp;#8217\u2026",
+                "fallback": "Boing Boing: Intel x86s hide another CPU that can take over your machine (you can't audit it)",
+                "image_url": "http:\/\/i0.wp.com\/media.boingboing.net\/wp-content\/uploads\/2016\/06\/PIC12C508-HD.jpg?fit=1200%2C348",
+                "image_width": 862,
+                "image_height": 250,
+                "ts": 1465994883,
+                "from_url": "http:\/\/boingboing.net\/2016\/06\/15\/intel-x86-processors-ship-with.html",
+                "image_bytes": 145245,
+                "service_icon": "http:\/\/boingboing.net\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1466122050.000253"
+    },
+    {
+        "type": "message",
+        "user": "U024SN0KW",
+        "text": "\uc774\uac70 \uc5bc\ub9c8\ub098 \uc2ec\uac01\ud55c \uc598\uae30\uc77c\uae4c\uc694? ?\u3145?",
+        "ts": "1466122061.000255"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "<https:\/\/it.slashdot.org\/story\/12\/06\/09\/055203\/ipmi-hack-a-server-that-is-turned-off>",
+        "attachments": [
+            {
+                "title": "IPMI: Hack a Server That Is Turned Off - Slashdot",
+                "title_link": "https:\/\/it.slashdot.org\/story\/12\/06\/09\/055203\/ipmi-hack-a-server-that-is-turned-off",
+                "text": "UnderAttack writes \"A common joke in infosec is that you can't hack a server that is turned off. You better make sure that the power cord is unplugged, too. Otherwise, you may be exposed via IPMI, a component present on many servers for remote management that can be used to flash firmware, get a rem...",
+                "fallback": "IPMI: Hack a Server That Is Turned Off - Slashdot",
+                "from_url": "https:\/\/it.slashdot.org\/story\/12\/06\/09\/055203\/ipmi-hack-a-server-that-is-turned-off",
+                "thumb_url": "https:\/\/a.fsdn.com\/sd\/topics\/security_64.png",
+                "thumb_width": 64,
+                "thumb_height": 64,
+                "service_icon": "https:\/\/it.slashdot.org\/favicon.ico",
+                "service_name": "it.slashdot.org",
+                "id": 1
+            }
+        ],
+        "ts": "1466130458.000256"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\ubb50 \uc800 \uae00\uc5d0\ub3c4 IPMI \uc5b8\uae09\uc774 \ub418\uc5b4\uc788\ub294\ub370 \uc624\ub7ab\ub3d9\uc548 \ub17c\ub780\uc774 \ub418\uc5c8\ub358 \ub140\uc11d\uc774\uc9c0 =_=",
+        "edited": {
+            "user": "U02KS7NU5",
+            "ts": "1466130489.000000"
+        },
+        "ts": "1466130479.000258"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "IPMI\ub3c4 \uc5b4\ucc28\ud53c \uc0ac\uc6a9\uc790\uc5d0\uac8c \ud654\uba74 \ubcf4\uc5ec\uc918\uc57c\ud574\uc11c RAM \uc811\uadfc \ub2e4 \uac00\ub2a5\ud558\uace0 \uac70\uc758 \ube44\uc2b7\ud55c \uae30\ub2a5\uc744 \ud558\ub294 \ub140\uc11d\uc778\uac70 \uac19\uc740\ub370",
+        "ts": "1466130511.000260"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc660\uc77c\ub85c \uc2a4\ud30d\uc2a4\uc5d0\uc11c \ub178\ud2f0\uac00 \uc654\ub098 \ubd24\ub354\ub2c8",
+        "ts": "1466130618.000261"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\ub9c1\ud06c\uc5d0 story\uac00 \uc788\ub124\uc694.. \u314b\u314b\u314b",
+        "ts": "1466130622.000262"
+    },
+    {
+        "type": "message",
+        "user": "U02KS7NU5",
+        "text": "\u314b\u314b\u314b\u314b\u314b",
+        "ts": "1466130678.000263"
+    }
+]

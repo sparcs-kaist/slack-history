@@ -1,0 +1,76 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/c3c46c92ee6f...407703c8e70e|457 new commits> by story and 21 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5da815a516b2663b076ecdac0152827259e3d2f9|5da815a>: make models &amp; some steps on view.py,urls.py and templates - story\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/bf3766a94e1e53e6b0c6550364cc93580bb2f0a1|bf3766a>: \uadf8\ub9b4 \ubaa9\ub85d\uc870\ud68c \ubc0f \uc0c8 \uadf8\ub9b4 \uc791\uc131 - story\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2669b8a88b55afff788605f036ebd79063cc98b1|2669b8a>: \ud544\uc694\uc5c6\ub294 \uc8fc\uc11d \uc81c\uac70 - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/32d43c43d4e43657cc6b4394cb74927598543ca4|32d43c4>: display grill's information on each grill's webpage - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b41e7bb5dbe5df66e7535f6c97d6d8341f96b16c|b41e7bb>: recognize tags in each comments with some problems - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c5a945a9383585826a7705bbbc1212f610259375|c5a945a>: change tag recognization - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96638c6b02ed0925fefecd5b64167825211b72b7|96638c6>: PEP coding convention - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8c39c9d6c1bf4076b5ef33b958ccbc205f0747b8|8c39c9d>: add comment with ajax - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/23b6c09999cb81d887dad3be010b6b27e67fc375|23b6c09>: board\/models.py - kyome\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/33a845199b12055dcd214a374eecd4c6043e80f6|33a8451>: Merge branch 'master' into board - kyome\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/438e7905cf6db1a75980aa02d19a1fda87344a95|438e790>: add proper id to comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/266854958e9f58a639b3dc84e6aa8bcf3014bf65|2668549>: \ubcf4\ub4dc models.py \uc791\uc131 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/232f63953071596b662d1521105a9355d0a21cb3|232f639>: delete db - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aaeb9e4cd1d6d3af1a6177044bc604dfe61e586e|aaeb9e4>: Update models.py - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6230da00697768a272f4ef2511f9caaf5d3ad466|6230da0>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6146c8d9ddc65be7713246189ad74d27ba64a74c|6146c8d>: \ubbfc\uc218\ub294 \uc544\ubb34\uac83\ub3c4.. - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d5fc2c020b8f26eb1a79820dfa893d57203f95ba|d5fc2c0>: tab size \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/936d613a2e9c5fbe71e94ff311464354fc5c7a7a|936d613>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/135196b6aeac26a3a944b0e528f168199afe3719|135196b>: implement real time updating - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b48a94ae97e19f9f4c5d0fbcef0b4d39287ac019|b48a94a>: change the max length of comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e6345745ab49462426a3d2fc15f991b396557210|e634574>: apply foreign key on GrillComment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f8e8cfe6d5080f2f566e37bf0e437203dc04c9b6|f8e8cfe>: \uc624\ub958 \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/18ce39d5d43b0fccff7e0f6cc8e7b51ff237f25c|18ce39d>: not null policy \uc218\uc815. column name \ubcc0\uacbd. - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a545352cb029a0d6e12b4e039bb474513a4f5158|a545352>: board post form templates - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dd71ff9dd49ba89d8094791bbe67da8cc92448e5|dd71ff9>: Revert \"board post form templates\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b735ec189cc78f45cfd16c4e69195c74b0e4be12|b735ec1>: Revert \"Revert \"board post form templates\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d19eb8809fd9204de5519d1cdc47be392aee7ec|0d19eb8>: Revert \"Revert \"Revert \"board post form templates\"\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c3211eac7007e965f1ae408708f82fc11caa5dc4|c3211ea>: board post, write template - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/371d995e99cef7fea5cb0674a280ddbab289c6b2|371d995>: post url\ucd94\uac00, read url\ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/42e9f142700054a13ed1afba6dc45129a1929e1c|42e9f14>: board_read, board_write - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9ca596bd6f64e3e47b070e5b33b34a3f29dbd99c|9ca596b>: BoardPost.is_notice Defualt \uac12 \ucd94\uac00, board \ud14c\uc2a4\ud2b8 \uc704\ud574 \uc77c\ubd80 \uc8fc\uc11d\ucc98\ub9ac - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/310b70811fa4ebe62a07cf5b2b4fccb79393b641|310b708>: timer reset when new comment added - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2683ee16b504758da9a2b89d392d92c2463aa29a|2683ee1>: add GrillCommentVote model without userprofile - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b7154020788fcc74290e081e76b8acb8d2b90ef1|b715402>: board read,write - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ea67dff4d67b8ce70feeb2c06cf1e64b14210115|ea67dff>: Merge branch 'master' into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5e448af0092a00ec3624aad9546055ba2aad5ff3|5e448af>: session applied to board branch - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d548bac01dcac826c9a5b5dc5f8d86db495e5ecc|d548bac>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8a172f696e8a5886742aa410073b9a8fb8ffd2ef|8a172f6>: add user referencing - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6be52a2c38e6222e0c05bf117b78a4eb4ced3620|6be52a2>: \uc775\uba85 \uae30\ub2a5 \ucd94\uac00, username \ud45c\uc2dc - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aadfb595798f92888500d879fbc2f19dee0bfca3|aadfb59>: author_id \uac12 \ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b86c23a1e1b47bd8e82194043ae2b8a66b26837|2b86c23>: BoardContent\uc640 Board \ubaa8\ub378\uc744 admin\uc5d0 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e110f19ad0a8b846428c9d0cb2cf7a5fdb40441f|e110f19>: implement vote_up with real time update!!! - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/58c6248c69f0ab34666af6a4611b3a1459669368|58c6248>: Implemented modification - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8f0fb3f7a93eec23610cb610caf570eb87fe9743|8f0fb3f>: Implemented modification of board_post, anonymous \ubcc0\uacbd\ub418\ub294 \uc624\ub958 \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0c4914b913ac625bd831fcdb737f308a8747f3fb|0c4914b>: bug fix: attach event handler to dynamic objects - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b1628258ec902e7d58e59a59fba07c58d7d7fa97|b162825>: display the typeable length - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4b4d93c98b4ff0a64dab20465eabf8d6bb31140d|4b4d93c>: \ub313\uae00 \uc791\uc131 \uad6c\ud604 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/cf3e4487be5bb272eb51fc1f836d02fd4cc22337|cf3e448>: \ub313\uae00 \uc218\uc815 \uae30\ub2a5 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c1de0f49e0ff66787f1670ea7a1f4b6562e94d73|c1de0f4>: \uad8c\ud55c \uc5c6\ub294 \uc0ac\uc6a9\uc790\uac00 \ub313\uae00 \uc218\uc815 \uc2dc\ub3c4 \ud560 \uc2dc\uc5d0 \ub418\ub3cc\ub9ac\ub3c4\ub85d \ud568 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7ecfc4a23b080b6b464ed10f5b970241d28f39d0|7ecfc4a>: Implemented post list page, up\/down button(ajax). - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/4cf127165ed6c644ebf175c4a05a96be16abe1a5|4cf1271>: boardcontent\uc758 *str*funtion \uc5d0\uc11c 3\ubc88 \uc9f8 \ucf58\ud150\uce20\ub97c 2nd\ub85c \ud45c\ud604\ud558\ub358 \ubb38\uc81c \ud574\uacb0 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b3ce5a678eb18d2b660f29c18f8f4233c0fd01d|2b3ce5a>: Merge branch 'template_decorate' into board - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/587af4d6814bb74779f9c92cdd882fb22c049a49|587af4d>: \ub313\uae00\uc758 Down \ubc84\ud2bc\uc758 id\uac00 up\uc73c\ub85c \ub418\uc5b4\uc788\uc5b4 internal error\uac00 \ubc1c\uc0dd\ud558\ub358 \ubb38\uc81c \uc218\uc815 - ktk1012\n <https:\/\/gi\u2026",
+                "pretext": "[araplus:session] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/c3c46c92ee6f...407703c8e70e|457 new commits> by story and 21 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1459172564.000004"
+    },
+    {
+        "type": "message",
+        "user": "U045EMA87",
+        "text": "\uc640\uc640",
+        "ts": "1459173461.000005"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\uc5b4\ud734 \uae5c\uc9dd\uc774\uc57c",
+        "ts": "1459173881.000006"
+    },
+    {
+        "type": "message",
+        "user": "U025XHGF3",
+        "text": "\uc800\uac70 session branch\uac00 \uc9c4\ud589\uc0c1\ud669\uc774 \ub108\ubb34 \ucc28\uc774\ub098\uc11c develop branch\uc5d0\uc11c pull \ub561\uae34\ub2e4\uc74c\uc5d0 push\ud558\ub2e4\ubcf4\ub2c8...",
+        "ts": "1459174186.000007"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\u3147\u314e..",
+        "ts": "1459175299.000008"
+    },
+    {
+        "type": "message",
+        "user": "U02KZSK9L",
+        "text": "\uc624\ub79c\ub9cc\uc5d0 story\uac00..",
+        "ts": "1459211299.000009"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud5c8\ud5c8",
+        "ts": "1459213828.000010"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "story~",
+        "ts": "1459215968.000011"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "story\uc758 \uac1c\ubc1cstory~",
+        "ts": "1459215976.000012"
+    },
+    {
+        "type": "message",
+        "user": "U04HUN944",
+        "text": "\ud06c...",
+        "ts": "1459216252.000013"
+    }
+]

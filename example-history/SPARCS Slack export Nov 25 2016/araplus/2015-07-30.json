@@ -1,0 +1,729 @@
+[
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/53|Issue created> by <https:\/\/github.com\/StoryKim|StoryKim> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "text": "\uc775\uba85 \ub313\uae00\uc744 \ub0a8\uae30\uba74 \ub79c\ub364\ud55c \uc774\ub984\uc774 \ub098\uc624\ub3c4\ub85d \uad6c\ud604\n(ex: \ub108\uad6c\ub9ac, \ub2e4\ub78c\uc950,...)",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/StoryKim|StoryKim> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "title": "#53 \uc775\uba85 \ub313\uae00 \ub79c\ub364 \uad6c\ud604",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/53",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438239920.000184"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38#issuecomment-126206427|#38: \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "text": "Description\n : \uac01 \uac8c\uc2dc\ud310 \ub9c8\ub2e4 \ubca0\uc2a4\ud2b8 \uae00\uc744 \ubcf4\uc5ec\uc90c\n : \uc77c\ubc18 view\ub85c \uae00\uc744 \ubcfc \ub54c, \ubca0\uc2a4\ud2b8 \uae00\uc5d0\ub294 \ud2b9\ubcc4\ud55c \ud45c\uc2dc\uac00 \uc788\uc74c\n : \uae00 \ubaa8\ub378\uc5d0 is_best attribute\ub97c \ucd94\uac00\ud558\uc5ec \uad6c\ud604\ud560 \uacc4\ud68d",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38#issuecomment-126206427|#38: \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "title": "Comment by StoryKim\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438240222.000185"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2deba996b16b8d58aade1e044fe3237b5c74ef0d#commitcomment-12437469|2deba99>",
+                "text": "@rlaalstn5383 \uc774 \ucee4\ubc0b\uc5d0 \ub300\ud574\uc11c \uc5b4\ub5bb\uac8c \uc0dd\uac01\ud558\uc2dc\ub294\uc9c0?? ^^",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2deba996b16b8d58aade1e044fe3237b5c74ef0d#commitcomment-12437469|2deba99>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438240316.000186"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/94e78dcdbc0e20da2ff6f90cd2e2c4d42aebd387|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/94e78dcdbc0e20da2ff6f90cd2e2c4d42aebd387|94e78dc>: \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5 \uad6c\ud604. - rlaalstn5383",
+                "pretext": "[araplus:board] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438242891.000187"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/63d80f898df8...720fb33e7572|9 new commits> by zazang and 2 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ccfff006e483dc01654e1d80a570327a9acb5f12|ccfff00>: Login with SPARCS SSO API - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/274de158e519088d36a0a9497517cfcaf6362fb9|274de15>: minor correction - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/600ba9b918b32e3111327261975eb78fb5a42e1a|600ba9b>: add sparcssso signup - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/40fa3a4915c29202ea7bfd8d0387c2fef801cb71|40fa3a4>: user signup correction - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/82ad7c2755e67179664c6498cbd5a07c02256954|82ad7c2>: solve merge conflicts - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f3459a19d9a8171e31a07d261cc02a32444cb0e9|f3459a1>: remove orig file - Sam Brad Jo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/759a0ea1d25adddf8aa524aad28d7f20b3834193|759a0ea>: Register with SPARCS SSO API - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/df326288604b92cae8dde11e5147bda9502265a5|df32628>: Flake8 fix - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/720fb33e757233fdc001b19f6029330bdff60c3f|720fb33>: Merge branch 'session' into develop - Shavakan",
+                "pretext": "[araplus:develop] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/63d80f898df8...720fb33e7572|9 new commits> by zazang and 2 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438243635.000188"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ad03862f0741fd41bf9e480718532c1bf616322b|1 new commit> by rlaalstn5383",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ad03862f0741fd41bf9e480718532c1bf616322b|ad03862>: \uae00 \ubaa9\ub85d\uc5d0\uc11c \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ubb3c \ud45c\uc2dc. - rlaalstn5383",
+                "pretext": "[araplus:board] 1 new commit by rlaalstn5383:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438244832.000189"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38#issuecomment-126223677|#38: \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "text": "94e78dcdbc0e20da2ff6f90cd2e2c4d42aebd387",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38#issuecomment-126223677|#38: \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "title": "Comment by rlaalstn5383\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438245007.000190"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38|#38 \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/38|#38 \ubca0\uc2a4\ud2b8 \uac8c\uc2dc\ud310 \uae30\ub2a5> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438245007.000191"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/ad03862f0741...7452422a81b8|7 new commits> by zazang",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8c7ef1e60d77c857ab84b59f6aa91acb25516b9a|8c7ef1e>: Temp Commit to pull - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e3b7ffdf93ec779bbd4e569d890259d18700c31e|e3b7ffd>: Merge branch 'board' of <https:\/\/github.com\/sparcs-kaist\/araplus> into board - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dd1761d20462bc2dced6c7ed06797e915732a920|dd1761d>: Temp Commit to pull - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a9265693f049c2e3c892ce07faf05ca7d87f58b9|a926569>: Merge branch 'board' of <https:\/\/github.com\/sparcs-kaist\/araplus> into board - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b1f0b8f4943c419c9e84d5c7732fec2a38276643|b1f0b8f>: Temp Commit to pull - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/82f92278b037a5604fd40d4fd2fc6d7c64df96f0|82f9227>: Added modified log function - zazang\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7452422a81b8fedf91e822852633568f88f631b1|7452422>: Merge branch 'board' of <https:\/\/github.com\/sparcs-kaist\/araplus> into board - zazang",
+                "pretext": "[araplus:board] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/ad03862f0741...7452422a81b8|7 new commits> by zazang:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438246242.000192"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/54|Issue created> by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "text": "~\ubd84 \uc804, ~\uc2dc\uac04 \uc804 \ucc98\ub7fc \uae00\/\ub313\uae00 \uc791\uc131 \uc2dc\uac01\uc744 \ubcf4\uc5ec\uc900\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>",
+                "title": "#54 Implement Timeago Text.",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/54",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438246469.000193"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/54#issuecomment-126231756|#54: Implement Timeago Text.> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "text": "<http:\/\/mattbradley.github.io\/livestampjs\/>",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/54#issuecomment-126231756|#54: Implement Timeago Text.> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "title": "Comment by rlaalstn5383\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438246481.000194"
+    },
+    {
+        "text": "",
+        "bot_id": "B077J4LA2",
+        "attachments": [
+            {
+                "fallback": "[sparcssso:master] <https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8ea4e1c292288f21b8673dec269337ae6e9f541b|1 new commit> by Shavakan",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/sparcssso\/commit\/8ea4e1c292288f21b8673dec269337ae6e9f541b|8ea4e1c>: changed default database to mysql - Shavakan",
+                "pretext": "[sparcssso:master] 1 new commit by Shavakan:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438250135.000195"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:master] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/72a9a3cd4c8b...16945baf9e78|285 new commits> by story and 17 others",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5da815a516b2663b076ecdac0152827259e3d2f9|5da815a>: make models &amp; some steps on view.py,urls.py and templates - story\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/bf3766a94e1e53e6b0c6550364cc93580bb2f0a1|bf3766a>: \uadf8\ub9b4 \ubaa9\ub85d\uc870\ud68c \ubc0f \uc0c8 \uadf8\ub9b4 \uc791\uc131 - story\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2669b8a88b55afff788605f036ebd79063cc98b1|2669b8a>: \ud544\uc694\uc5c6\ub294 \uc8fc\uc11d \uc81c\uac70 - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/32d43c43d4e43657cc6b4394cb74927598543ca4|32d43c4>: display grill's information on each grill's webpage - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b41e7bb5dbe5df66e7535f6c97d6d8341f96b16c|b41e7bb>: recognize tags in each comments with some problems - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c5a945a9383585826a7705bbbc1212f610259375|c5a945a>: change tag recognization - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/96638c6b02ed0925fefecd5b64167825211b72b7|96638c6>: PEP coding convention - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6da39b7db5db87b9246dea58d16cf339b8019554|6da39b7>: created model UserProfile and Message - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8c39c9d6c1bf4076b5ef33b958ccbc205f0747b8|8c39c9d>: add comment with ajax - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/db9429958820a2675a056eb27a25499ee9122017|db94299>: Implemented login and logout function - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dc219068268dd406452d3ad8e901d65aea90ed4e|dc21906>: created model UserProfile and Message - Chang Won Lee\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/16a6e8e862f83218d8003ed6b729126e3bdc4b6a|16a6e8e>: implemented registration with Django default user model - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/eabaef94d6edf6782fcd499caf6221624e747f53|eabaef9>: applied UserProfile model to register - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/23a24ad1a6a019054e8c443dca012797400cda3e|23a24ad>: Merge branch 'apps\/session' of <https:\/\/github.com\/mightydeveloper\/araplus> into apps\/session - Young Seok 'Tony' Kim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/23b6c09999cb81d887dad3be010b6b27e67fc375|23b6c09>: board\/models.py - kyome\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/33a845199b12055dcd214a374eecd4c6043e80f6|33a8451>: Merge branch 'master' into board - kyome\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/836fb47ffa4afc578aa880eee49ee145895a4adc|836fb47>: Merge branch 'master' into apps\/session - Shavakan\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/438e7905cf6db1a75980aa02d19a1fda87344a95|438e790>: add proper id to comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/266854958e9f58a639b3dc84e6aa8bcf3014bf65|2668549>: \ubcf4\ub4dc models.py \uc791\uc131 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/232f63953071596b662d1521105a9355d0a21cb3|232f639>: delete db - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aaeb9e4cd1d6d3af1a6177044bc604dfe61e586e|aaeb9e4>: Update models.py - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6230da00697768a272f4ef2511f9caaf5d3ad466|6230da0>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6146c8d9ddc65be7713246189ad74d27ba64a74c|6146c8d>: \ubbfc\uc218\ub294 \uc544\ubb34\uac83\ub3c4.. - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d5fc2c020b8f26eb1a79820dfa893d57203f95ba|d5fc2c0>: tab size \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/936d613a2e9c5fbe71e94ff311464354fc5c7a7a|936d613>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/135196b6aeac26a3a944b0e528f168199afe3719|135196b>: implement real time updating - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b48a94ae97e19f9f4c5d0fbcef0b4d39287ac019|b48a94a>: change the max length of comment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e6345745ab49462426a3d2fc15f991b396557210|e634574>: apply foreign key on GrillComment - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/f8e8cfe6d5080f2f566e37bf0e437203dc04c9b6|f8e8cfe>: \uc624\ub958 \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/18ce39d5d43b0fccff7e0f6cc8e7b51ff237f25c|18ce39d>: not null policy \uc218\uc815. column name \ubcc0\uacbd. - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/a545352cb029a0d6e12b4e039bb474513a4f5158|a545352>: board post form templates - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/dd71ff9dd49ba89d8094791bbe67da8cc92448e5|dd71ff9>: Revert \"board post form templates\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b735ec189cc78f45cfd16c4e69195c74b0e4be12|b735ec1>: Revert \"Revert \"board post form templates\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0d19eb8809fd9204de5519d1cdc47be392aee7ec|0d19eb8>: Revert \"Revert \"Revert \"board post form templates\"\"\" - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/c3211eac7007e965f1ae408708f82fc11caa5dc4|c3211ea>: board post, write template - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/371d995e99cef7fea5cb0674a280ddbab289c6b2|371d995>: post url\ucd94\uac00, read url\ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/42e9f142700054a13ed1afba6dc45129a1929e1c|42e9f14>: board_read, board_write - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/9ca596bd6f64e3e47b070e5b33b34a3f29dbd99c|9ca596b>: BoardPost.is_notice Defualt \uac12 \ucd94\uac00, board \ud14c\uc2a4\ud2b8 \uc704\ud574 \uc77c\ubd80 \uc8fc\uc11d\ucc98\ub9ac - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/310b70811fa4ebe62a07cf5b2b4fccb79393b641|310b708>: timer reset when new comment added - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2683ee16b504758da9a2b89d392d92c2463aa29a|2683ee1>: add GrillCommentVote model without userprofile - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b7154020788fcc74290e081e76b8acb8d2b90ef1|b715402>: board read,write - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/ea67dff4d67b8ce70feeb2c06cf1e64b14210115|ea67dff>: Merge branch 'master' into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/5e448af0092a00ec3624aad9546055ba2aad5ff3|5e448af>: session applied to board branch - suckzoo\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/d548bac01dcac826c9a5b5dc5f8d86db495e5ecc|d548bac>: Merge branch 'board' of <http:\/\/github.com:sparcs-kaist\/araplus|github.com:sparcs-kaist\/araplus> into board - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8a172f696e8a5886742aa410073b9a8fb8ffd2ef|8a172f6>: add user referencing - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6be52a2c38e6222e0c05bf117b78a4eb4ced3620|6be52a2>: \uc775\uba85 \uae30\ub2a5 \ucd94\uac00, username \ud45c\uc2dc - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/aadfb595798f92888500d879fbc2f19dee0bfca3|aadfb59>: author_id \uac12 \ucd94\uac00 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/2b86c23a1e1b47bd8e82194043ae2b8a66b26837|2b86c23>: BoardContent\uc640 Board \ubaa8\ub378\uc744 admin\uc5d0 \ucd94\uac00 - ktk1012\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/e110f19ad0a8b846428c9d0cb2cf7a5fdb40441f|e110f19>: implement vote_up with real time update!!! - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/58c6248c69f0ab34666af6a4611b3a1459669368|58c6248>: Implemented modification - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/8f0fb3f7a93eec23610cb610caf570eb87fe9743|8f0fb3f>: Implemented modification of board_post, anonymous \ubcc0\uacbd\ub418\ub294 \uc624\ub958 \uc218\uc815 - kanon\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/0c4914b913ac625bd831fcdb737f308a8747f3fb|0c4914b>: bug fix: attach event handler to dynamic objects - storykim\n <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/b1628258ec902e7d58e59a59fba07c58d7d7fa97|b162825>: display the typeable length - storykim\n <https:\/\/github\u2026",
+                "pretext": "[araplus:master] <https:\/\/github.com\/sparcs-kaist\/araplus\/compare\/72a9a3cd4c8b...16945baf9e78|285 new commits> by story and 17 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438250871.000196"
+    },
+    {
+        "type": "message",
+        "user": "U024WGSD3",
+        "text": "300\ucee4\ubc0b \uae30\ub150...",
+        "ts": "1438251126.000197"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:board_form] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7e7864607a49a694c6a2f69cefd412f4307d919c|1 new commit> by ktk1012",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7e7864607a49a694c6a2f69cefd412f4307d919c|7e78646>: Report\ub97c \uc704\ud55c BoardReportForm \uc791\uc131 \ubc0f \ud14c\uc2a4\ud2b8\ub97c \uc704\ud55c report_test.html \uc791\uc131(\uc774\ub97c \ud14c\uc2a4\ud2b8 \ud558\uae30 \uc704\ud574 view\uc758 post_read \ud568\uc218\uc5d0\uc11c report_test.html\uc744 \ub80c\ub354\ub9c1 \ud558\uc5ec \ud14c\uc2a4\ud2b8 \ud574\ubd04, \ud604\uc7ac\ub294 \uc8fc\uc11d \ucc98\ub9ac \ud574\ub193\uc740 \uc0c1\ud0dc) - ktk1012",
+                "pretext": "[araplus:board_form] 1 new commit by ktk1012:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438262875.000198"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7e7864607a49a694c6a2f69cefd412f4307d919c#commitcomment-12443649|7e78646>",
+                "text": "\ud604\uc7ac\ub294 report\ub97c \uc704\ud55c \ud504\ub860\ud2b8\uc5d4\ub4dc \ucf54\ub4dc\ub294 \uc81c\ub300\ub85c \ub3d9\uc791\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uc774 \ubd80\ubd84\uc740 \ucd94\ud6c4\uc5d0 \uc218\uc815\ud558\ub3c4\ub85d \ud560 \uc608\uc815\uc785\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on commit <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/7e7864607a49a694c6a2f69cefd412f4307d919c#commitcomment-12443649|7e78646>",
+                "title": "Comment on line 307 by ktk1012\n",
+                "id": 1,
+                "color": "C6DAED",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438263029.000199"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55|Issue created> by <https:\/\/github.com\/zzongaly|zzongaly>",
+                "image_url": "https:\/\/cloud.githubusercontent.com\/assets\/4512447\/8985088\/7bc09c76-3710-11e5-86f4-18bae7f5409d.png",
+                "image_width": 1167,
+                "image_height": 304,
+                "image_bytes": 24142,
+                "text": "<https:\/\/cloud.githubusercontent.com\/assets\/4512447\/8985088\/7bc09c76-3710-11e5-86f4-18bae7f5409d.png|image>",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/zzongaly|zzongaly>",
+                "title": "#55 Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438265586.000200"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56|Issue created> by <https:\/\/github.com\/zzongaly|zzongaly>",
+                "image_url": "https:\/\/cloud.githubusercontent.com\/assets\/4512447\/8985088\/7bc09c76-3710-11e5-86f4-18bae7f5409d.png",
+                "image_width": 1167,
+                "image_height": 304,
+                "image_bytes": 24142,
+                "text": "<https:\/\/cloud.githubusercontent.com\/assets\/4512447\/8985088\/7bc09c76-3710-11e5-86f4-18bae7f5409d.png|image>",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/zzongaly|zzongaly>",
+                "title": "#56 Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438265700.000201"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55#issuecomment-126344072|#55: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7>",
+                "image_url": "https:\/\/cloud.githubusercontent.com\/assets\/4512447\/8985088\/7bc09c76-3710-11e5-86f4-18bae7f5409d.png",
+                "image_width": 1167,
+                "image_height": 304,
+                "image_bytes": 24142,
+                "text": "\uc5b4\ucc28\ud53c #54\ucc98\ub7fc \ud560\uac70\uae34 \ud574\uc11c \ud06c\uac8c \uc2e0\uacbd \uc548\uc37c\uc744\uac74\ub370...\n\uc77c\ub2e8 #56\uc740 \ub2eb\uc544\uc8fc\uc2dc\uc8e0\n  1.   1.   1. \uc624\ud6c4 11:13\uc5d0 \"zzongaly\" <mailto:notifications@github.com|notifications@github.com>\ub2d8\uc774 \uc791\uc131:\n\n&gt; [image: image]\n&gt; <https:\/\/cloud.githubusercontent.com\/assets\/4512447\/8985088\/7bc09c76-3710-11e5-86f4-18bae7f5409d.png>\n&gt; \n&gt; \u2014\n&gt; Reply to this email directly or view it on GitHub\n&gt; <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55>.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55#issuecomment-126344072|#55: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438265831.000202"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/57|Issue created> by <https:\/\/github.com\/Suckzoo|Suckzoo>",
+                "text": "\uadf8\ub7ec\ud558\ub2e4.\nVote up\/down -&gt; Vote political\/adult\uc2dc up\/down \ubc84\ud2bc\uc758 \uc0c9\ubcc0\ud654\uac00 \uc0ac\ub77c\uc9c0\ub294 \ubc84\uadf8\uac00 \uc788\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/Suckzoo|Suckzoo>",
+                "title": "#57 Vote up\/down -&gt; Vote political\/adult\uc2dc Vote up\/down\uc758 \uc0c9 \ubcc0\ud654\uac00 \uc0ac\ub77c\uc9d0.",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/57",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438266606.000203"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56#issuecomment-126349713|#56: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc791\uc131 \uac00\ub2a5 \uae38\uc774\uac00 0\uc73c\ub85c \ub098\uc634>",
+                "text": "\uc544 \uc774\uac70 \uc6d0\ub798\ub294 (n\/140) \uc73c\ub85c \ubcf4\uc774\ub358\uac78 \uc81c\uac00 n-140 \uc73c\ub85c \ubcf4\uc774\uac8c \uc218\uc815\ud55c \ub2e4\uc74c\uc5d0 \ubc1c\uacac\ud588\ub294\ub370 \ubc14\uafbc\ub300\ub193\uace0 \uae4c\uba39\uc5c8\ub124\uc694",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56#issuecomment-126349713|#56: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc791\uc131 \uac00\ub2a5 \uae38\uc774\uac00 0\uc73c\ub85c \ub098\uc634>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438266888.000204"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55#issuecomment-126351046|#55: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7>",
+                "text": "\uc774 \ubb38\uc81c\ub294 '\uba87\ucd08\uc804' '\uba87\ubd84\uc804'\uc73c\ub85c \ud45c\uc2dc\ud560\uac70\ub77c\uc11c \uc77c\ub2e8 \ub450\uae34\ud588\ub294\ub370,\n\ub9cc\uc57d \ub9c8\uc6b0\uc2a4\ub97c \uc62c\ub838\uc744 \ub54c \uc815\ud655\ud55c \uc2dc\uac04\uc774 \ub728\uac8c \ud558\ub824\uba74 \ud3ec\ub9f7\uc744 \ub9de\ucd94\uae34 \ud574\uc57c\ud560 \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55#issuecomment-126351046|#55: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7>",
+                "title": "Comment by StoryKim\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438267163.000205"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55#issuecomment-126351378|#55: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7>",
+                "text": "\ub139 #56\uc774\ub791 \uac19\uc774 \uc81c\uac00 \uc218\uc815\ud560\uac8c\uc5ec\n\uba54\uc77c\ub85c \ubcf4\ub294 \uc911\uc778\ub370 \uc544\ubb34\ub098 \uc5b4\uc2f8\uc774\ub2c8 \ubc14\uafd4\uc8fc\uc2ec \uac10\uc0ac\n  1.   1.   1. \uc624\ud6c4 11:39\uc5d0 \"Story\" <mailto:notifications@github.com|notifications@github.com>\ub2d8\uc774 \uc791\uc131:\n\n&gt; \uc774 \ubb38\uc81c\ub294 '\uba87\ucd08\uc804' '\uba87\ubd84\uc804'\uc73c\ub85c \ud45c\uc2dc\ud560\uac70\ub77c\uc11c \uc77c\ub2e8 \ub450\uae34\ud588\ub294\ub370,\n&gt; \ub9cc\uc57d \ub9c8\uc6b0\uc2a4\ub97c \uc62c\ub838\uc744 \ub54c \uc815\ud655\ud55c \uc2dc\uac04\uc774 \ub728\uac8c \ud558\ub824\uba74 \ud3ec\ub9f7\uc744 \ub9de\ucd94\uae34 \ud574\uc57c\ud560 \uac83 \uac19\uc2b5\ub2c8\ub2e4.\n&gt; \n&gt; \u2014\n&gt; Reply to this email directly or view it on GitHub\n&gt; <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55#issuecomment-126351046>\n&gt; .",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/55#issuecomment-126351378|#55: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc0c8\ub85c\uace0\uce68 \uc804\uc5d0 \ud45c\uc2dc\ub418\ub294 \uc2dc\uac01 \ud3ec\ub9f7>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438267240.000206"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58|Issue created> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "\uc9c0\uae08\uc740 \uae00\uc790\uc218 \ub118\uc5b4\uac00\uba74 -10 \uc774\ub7f0 \uc2dd\uc73c\ub85c \ub728\uace0 \uc791\uc131\uc774 \ub429\ub2c8\ub2e4\n(\uc2ec\uc9c0\uc5b4 \ub300\ub7b5 500\uae00\uc790\uc815\ub3c4 \uc791\uc131\ud574\ubd24\ub294\ub370 \uc774\uac8c \uc368\uc9c0\ub124\uc694?!)\n\n\uadfc\ub370 \uc800\uac8c -\ub85c \ub118\uc5b4\uac00\uba74 \ubc84\ud2bc \uc790\uccb4\ub97c \ub9c9\uc544\ubc84\ub9ac\ub294\uac8c \uc88b\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "title": "#58 Grill \uae00\uc790\uc218 \uc81c\ud55c \ucd08\uacfc\uc2dc \uc791\uc131\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uae30",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438267305.000207"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58#issuecomment-126352127|#58: Grill \uae00\uc790\uc218 \uc81c\ud55c \ucd08\uacfc\uc2dc \uc791\uc131\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uae30>",
+                "text": "\uc774\uac83\ub3c4 \ud558\ub294\uae40\uc5d0 \uc81c\uac00\ud568\n\uc5b4\uc2f8\uc774\ub2c8 \uc880\n  1.   1.   1. \uc624\ud6c4 11:41\uc5d0 \"Story\" <mailto:notifications@github.com|notifications@github.com>\ub2d8\uc774 \uc791\uc131:\n\n&gt; \uc9c0\uae08\uc740 \uae00\uc790\uc218 \ub118\uc5b4\uac00\uba74 -10 \uc774\ub7f0 \uc2dd\uc73c\ub85c \ub728\uace0 \uc791\uc131\uc774 \ub429\ub2c8\ub2e4\n&gt; (\uc2ec\uc9c0\uc5b4 \ub300\ub7b5 500\uae00\uc790\uc815\ub3c4 \uc791\uc131\ud574\ubd24\ub294\ub370 \uc774\uac8c \uc368\uc9c0\ub124\uc694?!)\n&gt; \n&gt; \uadfc\ub370 \uc800\uac8c -\ub85c \ub118\uc5b4\uac00\uba74 \ubc84\ud2bc \uc790\uccb4\ub97c \ub9c9\uc544\ubc84\ub9ac\ub294\uac8c \uc88b\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4.\n&gt; \n&gt; \u2014\n&gt; Reply to this email directly or view it on GitHub\n&gt; <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58>.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58#issuecomment-126352127|#58: Grill \uae00\uc790\uc218 \uc81c\ud55c \ucd08\uacfc\uc2dc \uc791\uc131\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uae30>",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438267399.000208"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/59|Issue created> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "\ubc84\ud2bc\uc744 \ub2e4\uc2dc \ub20c\ub7ec\ub3c4 \ucd94\ucc9c\uc774 \uc801\uc6a9\ub418\uc9c0\ub294 \uc54a\uc73c\ub098, \ube44\ud65c\uc131\ud654\ub418\uc5b4\uc788\ub294\uac8c \uc0ac\uc6a9\uc790 \uc785\uc7a5\uc5d0\uc11c \ud3b8\ub9ac\ud558\ub2e4\uace0 \ubd04.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "title": "#59 Grill \ucd94\ucc9c \ub204\ub974\uace0 \uc0c8\ub85c\uace0\uce68\ud558\uba74 \ubc84\ud2bc\uc774 \ub2e4\uc2dc \ud65c\uc131\ud654",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/59",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438267916.000209"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/60|Issue created> by <https:\/\/github.com\/StoryKim|StoryKim> (assigned to <https:\/\/github.com\/Shavakan|Shavakan>)",
+                "text": "\ud504\ub860\ud2b8\uc5d4\ub4dc\ub97c \ub2e4\uc2dc \uc791\uc5c5\ud558\ub2e4\uac00 \uaf2c\uc778 \uac83\uc73c\ub85c \ucd94\uc815.\n\uac01 \ucf54\uba58\ud2b8\ub9c8\ub2e4 comment_{comment_order} \ub97c id\ub85c \uac00\uc9c0\uace0 \uc788\uc5c8\ub294\ub370, _\uac00 - \ub85c \ubc14\ub01c\n\ud0dc\uadf8\ub97c \ucd94\uac00\ud558\ub294 \ubd80\ubd84\uc5d0\uc11c _ \ub97c - \ub85c \ubc14\uafb8\uba74 \ud574\uacb0.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/StoryKim|StoryKim> (assigned to <https:\/\/github.com\/Shavakan|Shavakan>)",
+                "title": "#60 Grill \ud0dc\uadf8 \uae30\ub2a5\uc774 \ub3d9\uc791\ud558\uc9c0 \uc54a\uc74c",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/60",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438268487.000210"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/60#issuecomment-126362942|#60: Grill \ud0dc\uadf8 \uae30\ub2a5\uc774 \ub3d9\uc791\ud558\uc9c0 \uc54a\uc74c> (assigned to <https:\/\/github.com\/Shavakan|Shavakan>)",
+                "text": "\uc815\ud654\uce84\n  1.   1.   1. \uc624\uc804 12:01\uc5d0 \"Story\" <mailto:notifications@github.com|notifications@github.com>\ub2d8\uc774 \uc791\uc131:\n\n&gt; \ud504\ub860\ud2b8\uc5d4\ub4dc\ub97c \ub2e4\uc2dc \uc791\uc5c5\ud558\ub2e4\uac00 \uaf2c\uc778 \uac83\uc73c\ub85c \ucd94\uc815.\n&gt; \uac01 \ucf54\uba58\ud2b8\ub9c8\ub2e4 comment_{comment_order} \ub97c id\ub85c \uac00\uc9c0\uace0 \uc788\uc5c8\ub294\ub370, _\uac00 - \ub85c \ubc14\ub01c\n&gt; \ud0dc\uadf8\ub97c \ucd94\uac00\ud558\ub294 \ubd80\ubd84\uc5d0\uc11c _ \ub97c - \ub85c \ubc14\uafb8\uba74 \ud574\uacb0.\n&gt; \n&gt; \u2014\n&gt; Reply to this email directly or view it on GitHub\n&gt; <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/60>.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/60#issuecomment-126362942|#60: Grill \ud0dc\uadf8 \uae30\ub2a5\uc774 \ub3d9\uc791\ud558\uc9c0 \uc54a\uc74c> (assigned to <https:\/\/github.com\/Shavakan|Shavakan>)",
+                "title": "Comment by Shavakan\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438268805.000211"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/54#issuecomment-126573134|#54: Implement Timeago Text.> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "text": "<https:\/\/docs.djangoproject.com\/en\/1.8\/ref\/contrib\/humanize\/> \uc758 naturaltime \ud0dc\uadf8\ub97c \uc774\uc6a9\ud558\uba74 native\ub85c \uc0ac\uc6a9\ud560 \uc218\ub3c4 \uc788\uc5b4\uc694. \ubaa8\uc591\uc774 \uc369 \uc774\uc058\uc9c4 \uc54a\uc9c0\ub9cc....",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/54#issuecomment-126573134|#54: Implement Timeago Text.> (assigned to <https:\/\/github.com\/rlaalstn5383|rlaalstn5383>)",
+                "title": "Comment by hodduc\n",
+                "id": 1,
+                "color": "FAD5A1",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438321597.000212"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/61|Issue created> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "utf8 \uc774\uc288\ub85c \ubcf4\uc785\ub2c8\ub2e4.\n\uc218\uc815\ud574\uc8fc\uc138\uc694.",
+                "pretext": "[sparcs-kaist\/araplus] Issue created by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "title": "#61 admin \ud398\uc774\uc9c0\uc5d0\uc11c \ud55c\uae00 \uc791\uc131\uc2dc \uc624\ub958",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/61",
+                "color": "F29513",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438325393.000213"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[araplus:grill] <https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6889fb259e71b3159d0de3f57ae2a8f16c9a119b|1 new commit> by storykim",
+                "text": "<https:\/\/github.com\/sparcs-kaist\/araplus\/commit\/6889fb259e71b3159d0de3f57ae2a8f16c9a119b|6889fb2>: solved #56, #58 bugs - storykim",
+                "pretext": "[araplus:grill] 1 new commit by storykim:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438325870.000214"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56|#56 Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc791\uc131 \uac00\ub2a5 \uae38\uc774\uac00 0\uc73c\ub85c \ub098\uc634> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56|#56 Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc791\uc131 \uac00\ub2a5 \uae38\uc774\uac00 0\uc73c\ub85c \ub098\uc634> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438325888.000215"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56#issuecomment-126586874|#56: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc791\uc131 \uac00\ub2a5 \uae38\uc774\uac00 0\uc73c\ub85c \ub098\uc634> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "text": "6889fb2",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/56#issuecomment-126586874|#56: Grill \ub313\uae00\uc744 \uc791\uc131 \ud6c4 \uc791\uc131 \uac00\ub2a5 \uae38\uc774\uac00 0\uc73c\ub85c \ub098\uc634> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "title": "Comment by StoryKim\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438325888.000216"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58#issuecomment-126586947|#58: Grill \uae00\uc790\uc218 \uc81c\ud55c \ucd08\uacfc\uc2dc \uc791\uc131\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uae30> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "text": "6889fb2\n\uc785\ub825\uac00\ub2a5 \uae00\uc790\uc218\uac00 - \ub85c \ub118\uc5b4\uac00\uba74 \ubd89\uc740 \uc0c9\uc73c\ub85c \ubc14\ub00c\uace0 \ubc84\ud2bc\uc774 \ube44\ud65c\uc131\ud654\ub429\ub2c8\ub2e4.\n\ube44\ud65c\uc131\ud654\ub97c \uc0ac\uc6a9\uc790\uac00 \ud480\uace0 \ubcf4\ub0b4\ub354\ub77c\ub3c4 \uc11c\ubc84\ucabd\uc5d0\uc11c \uc5d0\ub7ec\ub97c \ub808\uc774\uc988\ud569\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/araplus] New comment on issue <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58#issuecomment-126586947|#58: Grill \uae00\uc790\uc218 \uc81c\ud55c \ucd08\uacfc\uc2dc \uc791\uc131\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uae30> (assigned to <https:\/\/github.com\/StoryKim|StoryKim>)",
+                "title": "Comment by StoryKim\n",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438325935.000217"
+    },
+    {
+        "text": "",
+        "bot_id": "B071DQ08G",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58|#58 Grill \uae00\uc790\uc218 \uc81c\ud55c \ucd08\uacfc\uc2dc \uc791\uc131\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uae30> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "text": "[sparcs-kaist\/araplus] Issue closed: <https:\/\/github.com\/sparcs-kaist\/araplus\/issues\/58|#58 Grill \uae00\uc790\uc218 \uc81c\ud55c \ucd08\uacfc\uc2dc \uc791\uc131\uc774 \uc548\ub418\ub3c4\ub85d \ud558\uae30> by <https:\/\/github.com\/StoryKim|StoryKim>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1438325936.000218"
+    }
+]

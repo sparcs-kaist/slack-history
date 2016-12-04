@@ -1,0 +1,62 @@
+[
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184#issuecomment-260175293|#184: implement timetable clicking>",
+                "text": "\ub124 \ub098\uc911\uc5d0 \ubc14\uafb8\uae30\ub9cc \ud558\uba74 \ubcc4 \ubb38\uc81c\ub294 \uc5c6\uc5b4\ubcf4\uc774\ub124\uc694",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by jihoon-ko on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184#issuecomment-260175293|#184: implement timetable clicking>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1479029255.000025"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/186#issuecomment-260186374|#186: \ub0b4\uac00 \uc4f4 \ud6c4\uae30\ub4e4, \ub85c\uadf8\uc778 \uc5d0\ub7ec \ud398\uc774\uc9c0>",
+                "text": "\ub77c\uc774\ud504 \uc37c\uc5b4\uc11c \ud68c\uc758 \ud6c4 \ucf54\ub4dc\ub9ac\ubdf0\ud558\uace0 \uba38\uc9c0\ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/186#issuecomment-260186374|#186: \ub0b4\uac00 \uc4f4 \ud6c4\uae30\ub4e4, \ub85c\uadf8\uc778 \uc5d0\ub7ec \ud398\uc774\uc9c0>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1479043897.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B1SB0M5BL",
+        "attachments": [
+            {
+                "fallback": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184#issuecomment-260187436|#184: implement timetable clicking>",
+                "text": "\uc791\ub3d9\ubc29\uc2dd\uc744 \uad6c\uccb4\uc801\uc73c\ub85c \uc124\uba85\ud574\uc8fc\uc138\uc694",
+                "pretext": "[sparcs-kaist\/otlplus] New comment by ashe-sparcs on pull request <https:\/\/github.com\/sparcs-kaist\/otlplus\/pull\/184#issuecomment-260187436|#184: implement timetable clicking>",
+                "id": 1,
+                "color": "C4E8B4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1479044993.000027"
+    }
+]

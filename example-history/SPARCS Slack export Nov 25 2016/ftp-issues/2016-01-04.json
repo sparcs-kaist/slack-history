@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "user": "U024SHSMT",
+        "text": "\ud760...",
+        "ts": "1451970927.000117"
+    },
+    {
+        "type": "message",
+        "user": "U02EBH99Q",
+        "text": "\uc624\ub79c\ub9cc\uc785\ub2c8\ub2e4. \uc0c8\ud574 \uccab \uc8fc\ubd80\ud130 \uc218\uace0\uac00 \ub9ce\ub124\uc694 ^^b  ```rsync: failed to connect to <http:\/\/syncproxy.wna2.debian.org|syncproxy.wna2.debian.org>: Network is unreachable (101)\nrsync error: error in socket IO (code 10) at clientserver.c(122) [Receiver=3.0.7]``` \uac11\uc790\uae30 \ub370\ube44\uc548\uc774 \ub9d0\uc37d\uc778\uac00\uc694? \uc774\ub7f0 \uba54\uc77c\uc774 \ubd80\uca4d \ub298\uc5b4\ub098\uc11c ftp\uc5d0\uc11c \ud655\uc778\ud574\ubcf4\uc558\ub294\ub370 ping\/traceroute\ub294 \uc798 \ub418\ub294 \uac70 \uac19\uc544\ubcf4\uc774\ub294\ub370 rsync\uac00 \uc2e4\ud328\ud558\ub098\ubcf4\ub124\uc694.. \uc6d0\uc778\ud30c\uc545\uc774 \uc880 \ub418\uace0 \uc788\ub098\uc694?",
+        "ts": "1451976265.000118"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "1. \ud478\uc2dc\ub294 \uc548\uc654\uc5b4\ub3c4 \uc2f1\ud06c\ub294 \uc798 \ub3cc\uc544\uac14\ub294\ub370 \uc624\ub298 \uc54c\uc2f1\ud06c\uac00 \uc548\uba39\ub124\uc694 \u315c\u315c",
+        "ts": "1451976453.000119"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "2. \uad00\ub828 \uc77c\ucc98\ub9ac\ub97c \uc73c\uc330\uc73c\uc330 \ud558\uace0 \uc788\uc5c8\uc74d\ub2c8\ub2e4",
+        "ts": "1451976462.000120"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "3. \uc54c\uc2f1\ud06c\ub294 \uc544\ub9c8 \uadf8\ucabd \ubb38\uc81c\uac00 \uc544\ub2d0\uae4c \uc2f6\uc5b4\uc694",
+        "ts": "1451976471.000121"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "nc <http:\/\/syncproxy.wna2.debian.org|syncproxy.wna2.debian.org> 873\ud588\uc744 \ub54c \ubc14\ub85c \ub04a\uae30\ub294\uac8c",
+        "ts": "1451976530.000122"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uacc4\uc815\uc774\ub098 \ud328\uc2a4\uc6cc\ub4dc \ubb38\uc81c\ub294 \uc544\ub2cc \uac70 \uac19\uace0",
+        "ts": "1451976543.000123"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "(\uc65c\ub0d0\uba74 \uc608\uc804\uc5d0 \uc218\ub3d9\uc2f1\ud06c\uac00 \ub410\uae30 \ub54c\ubb38\uc774\uc8e0!)",
+        "ts": "1451976554.000124"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "wna2\ucabd\uc758 rsync\uac00 \ubb38\uc81c\uac00 \uc544\ub2d0\uae4c \uc2f6\uc2b5\ub2c8\ub2e4",
+        "ts": "1451976576.000125"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc544",
+        "ts": "1451976577.000126"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "wna-&gt;wna2\ub85c \uc774\uc0ac\ud558\uac8c \ub41c \uacc4\uae30\ub294",
+        "ts": "1451976583.000127"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "traceroute\ub098 ping\uc774 \uc720\ub3c5 ftp.kaist.ac.kr\uc5d0\uc11c\ub9cc \uc548\uac00\uc11c",
+        "ts": "1451976596.000128"
+    },
+    {
+        "type": "message",
+        "user": "U024U2P7Y",
+        "text": "\uc774\uc0ac\ud558\uac8c \ub418\uc5c8\uc2b5\ub2c8\ub2e4",
+        "ts": "1451976601.000129"
+    }
+]
