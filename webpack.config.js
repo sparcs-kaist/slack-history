@@ -47,14 +47,16 @@ const webpackConfig = {
         ],
         exclude: /node_modules/
       },
-      // {
-      //   test: /\.css$/,
-      //   loaders: [
-      //     'style-loader',
-      //     'css-loader?modules',
-      //     'postcss-loader',
-      //   ],
-      // },
+      {
+        test: /\.scss$/,
+        loaders: [
+          'style-loader',
+          'css-loader?modules&sourceMap&camelCase',
+          'sass-loader?sourceMap',
+          // 'postcss-loader',
+        ],
+        exclude: /node_modules/,
+      },
     ],
   },
 
