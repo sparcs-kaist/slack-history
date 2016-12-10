@@ -1,6 +1,8 @@
 import express from 'express';
 import path from 'path';
 import webpack from 'webpack';
+
+import messagesRouter from './routers/messages';
 // import WebpackDevServer from 'webpack-dev-server';
 
 const appConfig = {
@@ -27,7 +29,7 @@ if (process.env.NODE_ENV !== 'production') {
 
 app.use(express.static(path.resolve(__dirname, '../public')));
 app.use(express.static(path.resolve(__dirname, '../../dist')));
-
+app.use('/messages', messagesRouter);
 // app.get('/', (req, res) => {
 //   res.send('<h1>Hi</h1>');
 // })
